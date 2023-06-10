@@ -6,3 +6,5 @@ theme:
 
 nav:
   - index: index.md
+  - TestPage: testpage.md
+  - Loadouts: loadouts.md
