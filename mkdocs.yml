@@ -5,4 +5,4 @@ theme:
   name: "material"
 
 nav:
-  - index.md
+  - index: index.md
