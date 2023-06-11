@@ -5,6 +5,7 @@ theme:
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
+  
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -21,7 +22,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-
+  features:
+    - navigation.tabs
 nav:
   - index: index.md
   - TestPage: testpage.md
