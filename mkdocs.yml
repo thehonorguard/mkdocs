@@ -3,8 +3,7 @@ site_name: TFO Docs
 
 theme:
   name: "material"
-    palette:
-
+  palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -24,4 +23,3 @@ nav:
   - TestPage: testpage.md
   - Loadouts: loadouts.md
   - Loadouts2(HG): loadouts2.md
-  
