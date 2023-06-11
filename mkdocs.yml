@@ -7,7 +7,7 @@ theme:
   favicon: images/favicon.ico
   name: "material"
   palette:
-      primary: custom
+  primary: custom
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
