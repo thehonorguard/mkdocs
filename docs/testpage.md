@@ -1,7 +1,6 @@
 # Welcome to TFO Docs
 
-Scorbou is a bitch
-
+Test comment
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
