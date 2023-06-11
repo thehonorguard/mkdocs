@@ -22,4 +22,9 @@ nav:
   - index: index.md
   - TestPage: testpage.md
   - Loadouts: loadouts.md
-  - Loadouts2(HG): loadouts2.md
+  - Loadouts2(HG): Loadouts2.md
+
+
+markdown_extensions:
+  - toc:
+      permalink: true
