@@ -1,5 +1,5 @@
 Take me to [sql](#sql), [plt](#plt)
-
+# Loadouts
 ## Medic
 >5.56 AR
 >
