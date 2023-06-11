@@ -8,21 +8,18 @@ theme:
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
-
-  # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
+    
+    # Palette toggle for light mode
       scheme: default
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-
 
 nav:
   - index: index.md
@@ -36,4 +33,5 @@ nav:
 markdown_extensions:
   - toc:
       permalink: true
+
 
