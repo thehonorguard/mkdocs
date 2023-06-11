@@ -11,8 +11,11 @@ Potential recruits must be able to operate in accordance with Central Europe Tim
 ### 1.2 Username Structure:
 
 Custom nicknames and callsigns are accepted but must be exactly the same on TeamSpeak, ArmA 3, Discord, and fit in with the following guidelines:
+
 -  No numbers at the end of your name. Example: "JohnDoe012345" or "NewDivide47"
+
 -  No ridiculous combinations of words. Example: "LoneWolfSniper"
+
 -  No self-promotion of services. Example: "LastShotProductionz.TV"
 
 ### 1.3 Activity Upon Enlistment
