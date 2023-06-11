@@ -1,4 +1,4 @@
-**Platoonleader**
+# Platoonleader
 
 In the immersive world of Arma 3 mil-sim units, the platoon leader serves as the commanding officer responsible for leading and coordinating a group of soldiers in intense combat scenarios. With an unwavering commitment to excellence and a strategic mindset, the platoon leader exemplifies the epitome of tactical leadership.
 
@@ -16,7 +16,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 
 *thank you CHATGPT for this lovely placeholder*
 
-***Loadout***
+## Loadout
 
 |Catagory             | Contents             |                     |
 |---------------------|----------------------|---------------------|
@@ -52,7 +52,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | IR strobe            |                     |
 
 
-**Medic**
+# Medic
 
 Within the high-stakes world of Arma 3 mil-sim units, the medic is a crucial and highly respected member of the team. As a skilled healthcare professional, their unwavering commitment to preserving life and providing critical medical aid makes them an invaluable asset on the battlefield.
 
@@ -69,3 +69,43 @@ In addition to their medical expertise, the medic is well-versed in the principl
 In the demanding world of Arma 3 mil-sim units, the medic is an indispensable force on the frontlines. With their unwavering dedication, medical proficiency, and compassionate nature, they embody the principles of selfless service and care. Through their invaluable contributions, they enhance the survivability and operational effectiveness of the entire team, leaving a lasting impact on the success of each mission.
 
 *thank you CHATGPT for this lovely placeholder*
+
+## loadout 
+
+| Catagory              | Contents            |                     |
+| --------------------- | ------------------- | ------------------- |
+| Primary weapon        | 5.56 AR             | x                   |
+| Primary ammo          | 30rnd 5.56 x 6      | x                   |
+| Optic magnification   | 1x-2x               | x                   |
+| Secondary weapon      | /                   | x                   |
+| Secondary ammo        | /                   | x                   |
+| Launcher              |                     | x                   |
+| throwables/explosives | Day only            | Night Only          |
+| x                     | 3x White throwable  | 2-4x Blue Chemlight |
+| x                     | 2x Yellow throwable | Yellow hand flare   |
+| Medical               | 40x Elastic         | x                   |
+| x                     | 15x Packing         | x                   |
+| x                     | 1x Painkillers      | x                   |
+| x                     | 10x Morphine        | x                   |
+| x                     | 5x Epinephrine      | x                   |
+| x                     | 5x TXA              | x                   |
+| x                     | 5x EACA             | x                   |
+| x                     | 6x Tourniquets      | x                   |
+| x                     | 4x Splints          | x                   |
+| x                     | 10x 500ml Plasma    | x                   |
+| x                     | 2x 1000ml Plasma    | x                   |
+| x                     | 10x King LT         | x                   |
+| x                     | 5x 16g IV           | x                   |
+| x                     | 10x Fast IO         | x                   |
+| x                     | AED-X               | x                   |
+| x                     | ACCUVAC             | x                   |
+| x                     | 2x AAT kit          | x                   |
+| x                     | Surgical kit        | x                   |
+| x                     | 3x Chestseal        | x                   |
+| x                     | 2x naloxone         | x                   |
+| x                     | 2x Atropine         | x                   |
+| Radio                 | 2x AN-343           | x                   |
+| x                     | AN-152              | x                   |
+| Misc                  | 2 Cable ties        | x                   |
+| x                     | Earplugs            | x                   |
+| x                     | IR strobe           | x                   |
