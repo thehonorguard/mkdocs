@@ -21,12 +21,13 @@ Custom nicknames and callsigns are accepted but must be exactly the same on Team
 ### 1.3 Activity Upon Enlistment
 
 Upon enlisting in the Task Force Omega, new recruits MUST attend an event (after BCT) within 14 days or submit an LoA (Leave of Absence) explaining their absence. Recruits who fail to attend an event (either an operation or training) within 14 days will be discharged on the basis of inactivity.
+You should join an operation once a month, unless you are unavailable for a long time. ==(Request an LOA!)==
 
 ## II. Unit Regulations
 
 ### 2.1 Names & Callsigns
 
-Beginning with your name, callsigns need to be short and easy to pronounce. No profanity is accepted in names or callsigns to be used on TFO servers. Rank needs to be clearly displayed in front of each member’s name. Rank formatting is simple and requires the rank abbreviation, capitalized, followed by a space, then the member’s name or callsign. No brackets, periods, or special characters of any kind (except on Discord, where ranks and callsigns are assigned by admins). Here is an example of proper name and rank format: "PFC. Divide". The only deviations would be under the event we have two or more members in TFO with the exact same name or callsign. Do not follow the name by any tags or special characters. We do not wear clan tags.
+Beginning with your name, callsigns need to be short and easy to pronounce. No profanity is accepted in names or callsigns to be used on TFO servers. Rank needs to be clearly displayed in front of each member’s name. Rank formatting is simple and requires the rank abbreviation, capitalized, followed by a space, then the member’s name or callsign. No brackets, periods, or special characters of any kind (except on Discord, where ranks and callsigns are assigned by admins). Here is an example of proper name and rank format: *"PFC. Divide"*. The only deviations would be under the event we have two or more members in TFO with the exact same name or callsign. Do not follow the name by any tags or special characters. We do not wear clan tags.
 
 ### 2.2 Addressing Officers
 
@@ -55,6 +56,8 @@ Audio and video recording or streaming is strictly prohibited during all trainin
 
 Our promotion policy is based on individual combat and overall unit performance. Kills will not get you rank. Often times, element leaders will recognize their soldiers for all actions unit related, in or out of game, and recommend them for a promotion or award. Ranks are something to congratulate other members on achieving, not show jealousy and the "it should have been me" mentality. For a full rank list, please check this sheet.
 
+### 2.8 
+
 ## III. Unit Personal Behavior
 
 ### 3.1 Chat Moderation
@@ -77,31 +80,39 @@ Respect other players 100% of the time. Never put another member down based on p
 
 Everyone is assigned a main role in the squad roster. You are only allowed to differentiate from this with permission from an officer. Once the mission has started, stick to your role. Each role is designed for each situation. Disobeying orders (e.g., running off alone with a squad member unannounced) is forbidden. Follow the rules of your squad leader or commander. If you have questions, feel free to ask.
 
-### 3.3 Lock It Up
+
+### 3.4 Lock It Up
 
 Lock it up immediately when ordered to by an officer. We need silence to speak about important information that you would most likely miss if you were talking through it.
+Also, radio comms should be minimal so the channel stays clear for important communication.
 
-### 3.4 TeamSpeak and Discord Poking/PMs
+### 3.5 TeamSpeak and Discord Poking/PMs
 
 Never poke or message command staff at any time during an operation. This distracts from our positions of responsibility and can cause accidents during deployment. Do not poke or message Recruitment Officers (@Drill Sgt.s) about potential recruits waiting in the lobbies. Our Recruitment Officers volunteer their time to help expand the unit; please do not harass them by telling them to do their jobs. More often than not, they are already aware of people waiting in the lobbies.
 
-### 3.5 In-Game Text Chat
+### 3.6 In-Game Text Chat
 
 Please keep the in-game chat clear most of the time. Occasionally, during the briefing, command staff may send messages via the global chat system, but never type during deployment at any time. If you lose your radio and cannot contact anybody, it is on you to find your way back to link up with friendlies. It's a military simulation, not an instant messaging program.
 
-### 3.6 Join In Progress (JIP)
+### 3.7 Join In Progress (JIP)
 
 Never join an operation of any kind more than 30 minutes late without first notifying an admin or the mission maker. No exceptions. You cannot under any circumstances show up two hours late for an operation and expect to just join in progress. This is not join and play.
+If you join an OP and haven't signed up, you'll be automatically assigned as *reserve*. PLT or HQ will then assign you to a role.
 
-### 3.7 Help Out
+#### 3.7.1 Signing up
+
+If you've signed up on the spreadsheet, don't take a role (except for reserve) if you aren't sure if you can join on time.
+Don't sign off last minute (12 hours before operation start) without giving a valid reason. 
+
+### 3.8 Help Out
 
 Make an open effort to help newer players to the game. Experience levels vary across our player base. Some members have had the game for years, some members just downloaded it today. Insulting another player for being "new" does not propose a solution. Don't be that guy. Elitist attitudes are grounds for removal.
 
-### 3.8 Community Representation
+### 3.9 Community Representation
 
 Remember that even when you are not in our servers, you represent the clan. Always uphold a positive standard when in additional private or public servers. Represent our unit well.
 
-## IV. On-Base Rules
+## IV. On-Base and In-game Rules
 
 ### 4.1 Weapon Safety
 
@@ -109,7 +120,8 @@ Always keep your weapon on safety unless on an open firing range. No exceptions.
 
 ### 4.2 Teamkilling
 
-Never teamkill at any time. This is a bannable offense in this unit. If you want to PVP, join an independent server. Keep it out of ours.
+Never teamkill on purpose at any time. This is a bannable offense in this unit. If you want to PVP, join an independent server. Keep it out of ours.
+Don't return fire when being friendly fired upon, this only creates a bigger issue.
 
 ### 4.3 Respect (Continued)
 
@@ -117,8 +129,24 @@ Respect other players on base. They are there to practice. That should speak for
 
 ### 4.4 Keep The Base Clean
 
-Keep the base clean. Put things back where you found them when you are done so that it is ready for the next person to come on and practice. Do not litter nor put items on the ground. You have boxes to empty your inventory.
+==You should keep all important items (ammo, radio, medical, etc.)==
 
-### 4.5 Continue To Obey Regulations
+Keep the base clean. Put things back where you found them when you are done so that it is ready for the next person to come on and practice. Do not litter nor put items on the ground. You have boxes to empty your inventory.
+==Don't pick stuff up that you're not supposed to pick up. Items like chairs, tables and gear aren't meant to be picked up.==
+
+
+### 4.5 AT on non AT people	
+
+If you are not an anti-tank role, you shouldn't pick up an anti-tank launcher unless told otherwise by a leading role.
+
+### 4.6 Taking vehicles without communicating
+
+When you want to take a vehicle, you should communicate this with a leading role.
+
+### 4.7 AFK behavior
+
+When having to go AFK, mention this to your leader and get into a safe area. It is your responsibility to take cover and regroup with your team when you come back.
+
+### 4.x Continue To Obey Regulations
 
 Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.
