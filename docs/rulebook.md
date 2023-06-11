@@ -1,4 +1,4 @@
-# Task Force Omega Rulebook
+# <p style ="color:#991616;">Task Force Omega</p> Rulebook
 
 ## I. Recruit Eligibility & Requirements
 
