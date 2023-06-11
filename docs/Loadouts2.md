@@ -11,7 +11,7 @@
 
 | Day | Night |
 | x | x |
-| - **Throwables/explosives**: | x |
+|**Throwables/explosives**: | x |
 |-------|--------|
 |- 1-2x Frag| Item A   |
 |3 white throwable| Item B   |
@@ -19,7 +19,7 @@
 |1 green throwable|
 | **GL** | x |
 |---|---|
-| red things |
+| red things | x  |
 
 
 **Day only**
