@@ -3,8 +3,8 @@ site_name: TFO Docs
 
 theme:
   palette:
-    primary: teal
-    accent: deep orange
+    #primary: teal
+    #accent: deep orange
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
