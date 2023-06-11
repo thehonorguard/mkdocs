@@ -21,7 +21,7 @@ Custom nicknames and callsigns are accepted but must be exactly the same on Team
 ### 1.3 Activity Upon Enlistment
 
 Upon enlisting in the Task Force Omega, new recruits MUST attend an event (after BCT) within 14 days or submit an LoA (Leave of Absence) explaining their absence. Recruits who fail to attend an event (either an operation or training) within 14 days will be discharged on the basis of inactivity.
-You should join an operation once a month, unless you are unavailable for a long time. ==(Request an LOA!)==
+You should join an operation once a month, unless you are unavailable for a long time. **(Request an LOA!)**
 
 ## II. Unit Regulations
 
@@ -66,7 +66,7 @@ While in TFO server you must always conduct yourself in correlation with our uni
 
 #### 3.1.1 In TeamSpeak/Discord (audio):
 
-Soundboards, text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Everyone is to use push to talk on any of the public channels. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. The private quarters of the CO's are to be treated as private offices. If two or more people are in someone’s Private Quarters, please message them asking for permission and receive permission before entering the room. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
+Soundboards (TeamSpeak only), text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Everyone is to use push to talk on any of the public channels. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. The private quarters of the CO's are to be treated as private offices. If two or more people are in someone’s Private Quarters, please message them asking for permission and receive permission before entering the room. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
 
 #### 3.1.2 In TeamSpeak/Discord (text):
 
@@ -129,10 +129,10 @@ Respect other players on base. They are there to practice. That should speak for
 
 ### 4.4 Keep The Base Clean
 
-==You should keep all important items (ammo, radio, medical, etc.)==
+**You should keep all important items (ammo, radio, medical, etc.)**
 
 Keep the base clean. Put things back where you found them when you are done so that it is ready for the next person to come on and practice. Do not litter nor put items on the ground. You have boxes to empty your inventory.
-==Don't pick stuff up that you're not supposed to pick up. Items like chairs, tables and gear aren't meant to be picked up.==
+**Don't pick stuff up that you're not supposed to pick up. Items like chairs, tables and gear aren't meant to be picked up.**
 
 
 ### 4.5 AT on non AT people	
