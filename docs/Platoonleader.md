@@ -29,3 +29,9 @@
 |                   | Entrenchment tool          |      |
 |                   | Map tools                  |      |
 |                   | IR strobe                  |      |
+
+
+
+<span style="color:red">
+Text content
+</span>
