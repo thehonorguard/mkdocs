@@ -3,7 +3,8 @@ site_name: TFO Docs
 
 theme:
   palette:
-    primary: custom
+    primary: teal
+    accent: deep orange
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
@@ -24,15 +25,15 @@ markdown_extensions:
 
 
     # Palette toggle for light mode
-    #- media: "(prefers-color-scheme: light)"
-    #  scheme: default
-    #  toggle:
-    #    icon: material/toggle-switch
-    #    name: Switch to dark mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
 
     # Palette toggle for dark mode
-    #- media: "(prefers-color-scheme: dark)"
-    #  scheme: slate
-    #  toggle:
-    #    icon: material/toggle-switch-off-outline
-    #    name: Switch to light mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
