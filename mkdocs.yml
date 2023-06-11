@@ -2,6 +2,8 @@
 site_name: TFO Docs
 
 theme:
+  logo: assets/logo.png
+  favicon: images/favicon.ico
   name: "material"
   palette:
     # Palette toggle for light mode
@@ -29,4 +31,3 @@ markdown_extensions:
   - toc:
       permalink: true
 
-      
