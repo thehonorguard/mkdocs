@@ -28,13 +28,10 @@ nav:
   - Full rulebook: rulebook.md
   - Rules: rules.md
 
-
 markdown_extensions:
   - toc:
       permalink: true
   - tables
-  
-    - def_list
+  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  
