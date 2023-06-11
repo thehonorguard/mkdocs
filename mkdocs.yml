@@ -26,11 +26,12 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - toc.follow
+    - header.autohide
 nav:
   - index: index.md
   - TestPage: testpage.md
   - Role guide: RoleGuide.md
-  - Platoon Leader: Platoonleader.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
