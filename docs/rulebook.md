@@ -149,4 +149,4 @@ When having to go AFK, mention this to your leader and get into a safe area. It 
 
 ### 4.x Continue To Obey Regulations
 
-Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.
+<p style="color:red;">Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.</p>
