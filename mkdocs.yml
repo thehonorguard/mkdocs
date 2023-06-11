@@ -23,11 +23,14 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
 nav:
   - index: index.md
   - TestPage: testpage.md
   - Loadouts: loadouts.md
+  - Role guide: RoleGuide.md
   - Platoon Leader: Platoonleader.md
   - Full rulebook: rulebook.md
   - Rules: rules.md

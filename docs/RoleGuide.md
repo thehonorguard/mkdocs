@@ -1,4 +1,6 @@
-# Platoonleader
+# Role Guide
+
+## Platoon Leader
 
 In the immersive world of Arma 3 mil-sim units, the platoon leader serves as the commanding officer responsible for leading and coordinating a group of soldiers in intense combat scenarios. With an unwavering commitment to excellence and a strategic mindset, the platoon leader exemplifies the epitome of tactical leadership.
 
@@ -52,7 +54,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | IR strobe            |                     |
 
 
-# Medic
+## Medic
 
 Within the high-stakes world of Arma 3 mil-sim units, the medic is a crucial and highly respected member of the team. As a skilled healthcare professional, their unwavering commitment to preserving life and providing critical medical aid makes them an invaluable asset on the battlefield.
 
