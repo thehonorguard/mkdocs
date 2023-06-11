@@ -22,10 +22,10 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
+features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
 nav:
   - index: index.md
   - TestPage: testpage.md
