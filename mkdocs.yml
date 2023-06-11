@@ -2,10 +2,13 @@
 site_name: TFO Docs
 
 theme:
+
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
   palette:
+      primary: custom
+
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
