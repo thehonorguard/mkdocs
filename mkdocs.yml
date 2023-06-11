@@ -25,6 +25,7 @@ nav:
   - TestPage: testpage.md
   - Loadouts: loadouts.md
   - Loadouts2(HG): Loadouts2.md
+  - rulebook: rulebook.md
 
 
 markdown_extensions:
