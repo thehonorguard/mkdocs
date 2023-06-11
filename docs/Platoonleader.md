@@ -26,9 +26,9 @@
 |                   | AN-152                     |      |
 | Misc               | 2 Cable ties               |      |
 |                   | Earplugs                   |      |
-|  <span style="color:red">
+|  <p style="color:red">
 Text content
-</span>  | Entrenchment tool          |      |
+</p>  | Entrenchment tool          |      |
 |                   | Map tools                  |      |
 |                   | IR strobe                  |      |
 
