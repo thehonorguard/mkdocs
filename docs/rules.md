@@ -8,7 +8,6 @@
 
 >You should keep all important items (ammo, radio, medical, etc.) and not drop them on the ground.
 
-
 ### Checking your loadout and making sure you have all important items with you
 
 >You should check your loadout at the start of the operation. 
