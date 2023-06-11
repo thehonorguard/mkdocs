@@ -10,8 +10,6 @@
 
 
 | Day | Night |
-| x | x |
-|**Throwables/explosives**: | x |
 |-------|--------|
 |- 1-2x Frag| Item A   |
 |3 white throwable| Item B   |
