@@ -27,6 +27,7 @@ nav:
   - Loadouts2(HG): Loadouts2.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
+  - LoadoutFull: LoadoutFull.md
 
 markdown_extensions:
   - toc:
