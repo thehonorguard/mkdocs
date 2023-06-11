@@ -1,7 +1,7 @@
 **Pltleader**
 
-- **Primary weapon**: 5.56 AR
-- **Primary ammo**: 30rnd 5.56 x 8
+## - **Primary weapon**: 5.56 AR
+## - **Primary ammo**: 30rnd 5.56 x 8
 - **Optic magnification**: 1x-2x
 - **Secondary weapon**: Pistol / GL
 - **Secondary ammo**: Pistol mag x 2

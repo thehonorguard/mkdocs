@@ -1,9 +1,12 @@
-# Medic
-5.56 AR
-30rnd 5.56 x 6
-1x-2x
-/
-/
+Take me to [sql](#sql), [plt](#plt)
+
+## Medic
+>5.56 AR
+>
+>30rnd 5.56 x 6
+>
+>Scope: 1x-2x
+
 
 
 
@@ -49,7 +52,7 @@ Earplugs
 
 
 IR strobe
-# SQL
+## SQL
 5.56 AR
 30rnd 5.56 x 8
 1x-2x
@@ -100,7 +103,7 @@ Earplugs
 Entrenchment tool
 Map tools
 IR strobe
-# PLT
+## PLT
 	Pltleader
 Primary weapon	5.56 AR
 Primary ammo	30rnd 5.56 x 8
