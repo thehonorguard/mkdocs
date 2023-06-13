@@ -16,42 +16,9 @@ Beyond their tactical acumen, the platoon leader also serves as a mentor and rol
 
 In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, leading their soldiers with unwavering dedication, strategic prowess, and exceptional leadership skills. They exemplify the qualities of a true military leader, inspiring their troops to overcome challenges and emerge victorious in the face of adversity.
 
-*thank you CHATGPT for this lovely placeholder*
+**thank you CHATGPT for this lovely placeholder**
 
-## Loadout
-
-|Catagory             | Contents             |                     |
-|---------------------|----------------------|---------------------|
-| Primary weapon      | 5.56 AR              |                     |
-| Primary ammo        | 30rnd 5.56 x 8       |                     |
-| Optic magnification | 1x-2x                |                     |
-| Secondary weapon    | Pistol / GL          |                     |
-| Secondary ammo      | Pistol mag x 2       |                     |
-| Launcher            | Single-use Launcher  |                     |
-|                     |                      |                     |
-|throwables/explosives| **Day only**         | **Night Only**      |
-|                     | 1-2x Frag            | 1-2x Frag           |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
-| GL                  | **Day only**         | **Night Only**      |
-|                     | 2 blue throwable     | 1x Green flare 40mm |
-|                     | 1 green throwable    | 1x Red flare 40mm   |
-|                     | 10x 40mm HE          |                     |
-|                     | 2x red smoke 40mm    |                     | 
-|                     |                      |                     |
-| Medical             | Packing x15          |                     |
-|                     | 4x Tourniquets       |                     |
-|                     | 1x Painkillers       |                     |
-|                     | 2x Splints           |                     |
-|                     | 1x Guedel tube       |                     |
-|                     |                      |                     |
-| Radio               | AN-343               |                     |
-|                     | AN-152               |                     |
-|                     |                      |                     |
-| Misc                | 2 Cable ties         |                     |
-|                     | Earplugs             |                     |
-|                     | Entrenchment tool    |                     |
-|                     | Map tools            |                     |
-|                     | IR strobe            |                     |
+### Loadout
 
 
 ## Medic
@@ -70,9 +37,9 @@ In addition to their medical expertise, the medic is well-versed in the principl
 
 In the demanding world of Arma 3 mil-sim units, the medic is an indispensable force on the frontlines. With their unwavering dedication, medical proficiency, and compassionate nature, they embody the principles of selfless service and care. Through their invaluable contributions, they enhance the survivability and operational effectiveness of the entire team, leaving a lasting impact on the success of each mission.
 
-*thank you CHATGPT for this lovely placeholder*
+**thank you CHATGPT for this lovely placeholder**
 
-## loadout 
+## loadout
 
 | Catagory              | Contents            |                     |
 | --------------------- | ------------------- | ------------------- |
@@ -112,24 +79,26 @@ In the demanding world of Arma 3 mil-sim units, the medic is an indispensable fo
 | x                     | Earplugs            | x                   |
 | x                     | IR strobe           | x                   |
 
-
-
-
-
 # Test 1
 
 fgddsfgsdf
+
 ## Test 2
 
 dsfgdsfg
+
 ### Test 3
 
 dsfgsdfg
+
 #### Test 4
 
 dsfgsdfg
+
 ##### Test 5
+
 dsfgsdfgsdf
+
 ###### Test 6
 
 dsfgsdfgsdfgsdf

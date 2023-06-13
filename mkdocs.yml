@@ -31,6 +31,7 @@ nav:
   - index: index.md
   - TestPage: testpage.md
   - Role guide: RoleGuide.md
+  - Role guide2: RoleGuide2.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
