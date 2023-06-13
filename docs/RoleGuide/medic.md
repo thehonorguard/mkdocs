@@ -133,9 +133,9 @@ High HR: between -15 and -35
 6 injections to overdose
 Lingers 2 minutes
 Don't bother with these. In real life they are used to stabilise a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
-Gear
+## Gear
 
-## Infantry
+### Infantry
 
 For all non-medical personnel we recommended to take the following medical supplies with you:
 7-10 Packing bandages (smallest reopening chance)
@@ -145,7 +145,7 @@ For all non-medical personnel we recommended to take the following medical suppl
 1 splint
 2x 500ml Saline
 
-Medic
+### Medic
 For a medic we recommended to take the following medical supplies with you:
 40 bandages
 15 elastic
@@ -171,31 +171,6 @@ for example: a heart rate is not going to do any good if the patients already bl
 Evaluation of the location, is it safe to treat multiple wounded?
 Stabilize or ask team member to stabilized the most critical cases while treating the minor cases first
 If possible, ask squad members to assign a triage card to the wounded.
-Scenario 1: unconscious soldier with heart rate or buddy nearby.
- In this case your priority should be to check for heart rate first. With a buddy nearby you can ask him to start CPR if the patient doesn't have a heart rate. This will give you the opportunity to treat other wounds. Your buddy should continue doing this until the patient has a stable heart rate or you have stabilised all wounds and can take over CPR. Wound treatments should usually be executed in this order:  head > torso > limbs.
-In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  Although the pressure provided  by a tourniquet is great for stopping blood flowing out of the body,  that same  pressure will also block any saline  from flowing in, therefore an IV should only be placed on a limb without a tourniquet. By now a few minutes should have passed  and you should check for a heart rate again.  make sure that no one is providing CPR while checking for heart rate.
-
-Check for pulse: no heart rate? Ask someone nearby to start with cpr.
-Meanwhile, evaluate wounds. think about what has priority:
-Heavily injured limbs? start applying tourniquets.
-Continue to bandage any bleeding in the torso/head.
-depending on blood loss: start an IV with saline. (keep in mind that an iv doesn't work on a limb with a tourniquet.)
-evaluate: send your buddy to cover you and continue CPR yourself. or let him continue cpr.
-while all of this is going on: periodically check for heart rate. make sure that nobody is performing cpr while checking. CPR will cause the receiver to have a low heart rate. even though the receiver won't have a stable heart rate by him/herself..
-Only after a stable heart rate/blood pressure has been achieved: start with bandaging limbs and remove tourniquets when done.
-
-Scenario 2: unconscious soldier without heart rate - Alone
-Check for pulse: no heart rate?
-Heavily injured limbs? start applying tourniquets. a tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts.
-Continue to bandage any bleeding in the torso/head.
-depending on blood loss: start an IV with saline. (keep in mind that an iv doesn't work on a limb with a tourniquet.)
-Start CPR
-periodically check for heart rate.
-Only after a stable heart rate/blood pressure has been achieved: start with bandaging limbs and remove tourniquets when done.
-
-Scenario 3: wounded patient
-
-Scenario 4: Multiple casualties
 
 ## loadout
 
