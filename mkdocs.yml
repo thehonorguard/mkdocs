@@ -36,6 +36,7 @@ features:
 
 nav:
   - Intro: index.md
+  - Basics: basics.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
