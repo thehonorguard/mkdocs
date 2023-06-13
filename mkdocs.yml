@@ -39,12 +39,11 @@ nav:
   - index: index.md
   - TestPage: testpage.md
   - Role guide: RoleGuide.md
-  - Role guide2: RoleGuide2.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
-  -Role Guide:
-    -medic:medic.md
+  - Role Guide:
+    - medic: medic.md
 markdown_extensions:
   - toc:
       permalink: true
