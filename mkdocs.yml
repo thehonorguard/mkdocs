@@ -43,7 +43,9 @@ nav:
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
   - Role Guide:
+    - PLatoonleader: pltleader.md
     - medic: medic.md
+    
 markdown_extensions:
   - toc:
       permalink: true
