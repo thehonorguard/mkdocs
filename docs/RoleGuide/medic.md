@@ -64,36 +64,17 @@ Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquet
 
 ## Bandages
 
-| WOUNDS & EFFECTS | Details                                                                                                         | Causes                                                                              | Effects                                                                                              |
-| ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain.
-
-\- Extremely slow bleeding.                                                |
-| Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain.
-
-\- Extremely fast bleeding.\*                                               |
-| Contusions       | AKA bruises. Result of trauma that injures an internal structure without breaking the skin.                     | Bullets, backblast, punches, vehicle crashes, falling.                              | \- Light pain.
-
-\- No bleeding.                                                                      |
-| Crush Wounds     | Occur when a heavy object falls onto a person, splitting the skin and shattering/tearing underlying structures. | Falling, vehicle crashes, punches.                                                  | \- Light pain.\*\*
-
-\- Extremely slow bleeding.\*                                                    |
-| Cut Wounds       | Slicing wounds made with a sharp instrument, leaving even edges.                                                | Vehicle crashes, grenades, explosions, artillery shells, backblast, stabs.          | \- Light pain.\*\*
-
-\- Bleeding.\*                                                                   |
-| Lacerations      | Wounds with ragged edges, produced by a large force against the body by an internal or external source.         | Vehicle crashes, punches.                                                           | \- Light pain.\*\*
-
-\- Slow to medium bleeding.\*                                                    |
-| Velocity Wounds  | Caused by an object entering the body at a high speed.                                                          | Bullets, shrapnel, grenades, explosions, artillery shells.                          | \- Extremely high pain.
-
-\- Medium bleeding.\*                                                       |
-| Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.\*\*
-
-\- Slow bleeding.\*                                                              |
-| Fractures        | Fracture of fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \-increased weapon sway (when arms) -inability to jog or run (when legs)
-
-\-might cause more wounds. |
-** Depends on severity
+| WOUNDS & EFFECTS | Details                                                                                                         | Causes                                                                              | Effects                                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain. - Extremely slow bleeding.                                                |
+| Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain. - Extremely fast bleeding.\*                                               |
+| Contusions       | AKA bruises. Result of trauma that injures an internal structure without breaking the skin.                     | Bullets, backblast, punches, vehicle crashes, falling.                              | \- Light pain. - No bleeding.                                                                      |
+| Crush Wounds     | Occur when a heavy object falls onto a person, splitting the skin and shattering/tearing underlying structures. | Falling, vehicle crashes, punches.                                                  | \- Light pain.\*\*<br>\- Extremely slow bleeding.\*                                                |
+| Cut Wounds       | Slicing wounds made with a sharp instrument, leaving even edges.                                                | Vehicle crashes, grenades, explosions, artillery shells, backblast, stabs.          | \- Light pain.\*\*<br>\- Bleeding.\*                                                               |
+| Lacerations      | Wounds with ragged edges, produced by a large force against the body by an internal or external source.         | Vehicle crashes, punches.                                                           | \- Light pain.\*\* - Slow to medium bleeding.\*                                                    |
+| Velocity Wounds  | Caused by an object entering the body at a high speed.                                                          | Bullets, shrapnel, grenades, explosions, artillery shells.                          | \- Extremely high pain.- Medium bleeding.\*                                                        |
+| Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.\*\*- Slow bleeding.\*                                                               |
+| Fractures        | Fracture of fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \-increased weapon sway (when arms) -inability to jog or run (when legs) -might cause more wounds. |
 
 ## Fractures
 
