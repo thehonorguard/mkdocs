@@ -5,7 +5,9 @@ theme:
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
-  
+
+
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -22,10 +24,16 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-  features:
-    - navigation.top
-    - toc.follow
-    - header.autohide
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+features:
+  - navigation.top
+  - toc.follow
+  - header.autohide
+
 nav:
   - intro: intro.md
   - index: index.md
@@ -35,7 +43,8 @@ nav:
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
-
+  -Role Guide:
+    -medic:medic.md
 markdown_extensions:
   - toc:
       permalink: true
