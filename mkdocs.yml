@@ -41,7 +41,7 @@ nav:
   - LoadoutFull: LoadoutFull.md
   - Role Guide:
     - Platoonleader: RoleGuide/pltleader.md
-    - medic: RoleGuide/medic.md
+    - Medic: RoleGuide/medic.md
 
 markdown_extensions:
   - toc:
