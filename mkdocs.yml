@@ -36,16 +36,14 @@ features:
 
 nav:
   - intro: intro.md
-  - index: index.md
   - TestPage: testpage.md
-  - Role guide: RoleGuide.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
   - Role Guide:
     - PLatoonleader: pltleader.md
     - medic: medic.md
-    
+
 markdown_extensions:
   - toc:
       permalink: true

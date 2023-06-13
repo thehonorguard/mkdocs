@@ -16,7 +16,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 
 ***thank you CHATGPT for this lovely placeholder***
 
-### Loadout
+## Loadout
 
 |Catagory             | Contents             |                     |
 |---------------------|----------------------|---------------------|

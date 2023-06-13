@@ -16,7 +16,7 @@ In the demanding world of Arma 3 mil-sim units, the medic is an indispensable fo
 
 **thank you CHATGPT for this lovely placeholder**
 
-### loadout
+## loadout
 
 | Catagory              | Contents            |                     |
 | --------------------- | ------------------- | ------------------- |
