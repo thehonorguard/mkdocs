@@ -35,8 +35,7 @@ features:
   - header.autohide
 
 nav:
-  - intro: intro.md
-  - TestPage: testpage.md
+  - Intro: index.md
   - Full rulebook: rulebook.md
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
