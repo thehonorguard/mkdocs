@@ -1,20 +1,220 @@
 # Medic
 
-Within the high-stakes world of Arma 3 mil-sim units, the medic is a crucial and highly respected member of the team. As a skilled healthcare professional, their unwavering commitment to preserving life and providing critical medical aid makes them an invaluable asset on the battlefield.
+This guide is written primarily for new medics,  but should have enough info for even experienced medics so learn something. I understand  many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
 
-The medic possesses extensive medical knowledge, honed through rigorous training and real-world experience. They are well-versed in combat casualty care, emergency medical procedures, and the efficient management of limited resources in high-pressure situations. With a deep understanding of anatomy, physiology, and trauma medicine, they possess the expertise necessary to stabilize and treat injured soldiers under challenging conditions.
+Before we start talking about the medical information I would like to start covering some basic ground rules.
 
-In the midst of chaotic combat scenarios, the medic's calm and composed demeanor serves as a beacon of hope for the wounded. They are often found at the frontline, fearlessly braving danger to reach injured comrades and administer life-saving interventions. Equipped with essential medical supplies and advanced equipment, they possess the skills to rapidly assess injuries, provide immediate aid, and evacuate casualties to safer locations for further treatment.
+## Safety
 
-The medic's role extends beyond immediate medical care. They play a vital role in maintaining the overall health and well-being of the unit. They conduct regular health assessments, provide preventive care, and offer guidance on maintaining physical fitness and hygiene. By promoting a culture of safety and implementing preventive measures, they contribute to the overall readiness and operational effectiveness of the team.
+Before providing any medical assistance one should always care about the safety for yourself first.
+This is one of the first and most important rule for any first responder in any field.
+You cannot help anyone if you're shot yourself; this means that you might also need to deal with the threat first, and provide medical assistance later.
+Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. if there is no hard cover available  nearby you can also use  currency for smoke grenades & bushes. If all above is not possible, contact your squad leader/ team leader.
+In order to remain in a safe position you are also going to need covering fire.  I've seen countless scenarios where someone is shot and everyone rushes over to become a medic.  your job as a medic is to send them away as fast as possible and let them cover your position.
 
-With their compassionate and empathetic nature, the medic acts as a beacon of comfort and support for their fellow soldiers. They provide reassurance and emotional assistance, both in the field and during the recovery process. Their ability to foster a sense of trust and camaraderie among their peers strengthens the cohesion and morale of the entire unit.
+## Medics within TFO
 
-In addition to their medical expertise, the medic is well-versed in the principles of tactical combat casualty care. They work closely with the platoon leader and other team members to develop medical evacuation plans, establish casualty collection points, and ensure the seamless integration of medical operations into overall mission objectives. Their ability to communicate effectively under pressure ensures the timely relay of critical medical information and enhances the survivability of wounded soldiers.
+As discussed above the role we call medic is a hybrid of a first responder and a paramedic. because of this there isn't a clear defined position within the squad like this within any army.
+Therefore we can have our own interpretation of how this role can be used effectively.
+Casualty collection point
+Normally there would be different classes of medical personnel with different roles.
 
-In the demanding world of Arma 3 mil-sim units, the medic is an indispensable force on the frontlines. With their unwavering dedication, medical proficiency, and compassionate nature, they embody the principles of selfless service and care. Through their invaluable contributions, they enhance the survivability and operational effectiveness of the entire team, leaving a lasting impact on the success of each mission.
+### Combat lifesaver (CLS)
 
-**thank you CHATGPT for this lovely placeholder**
+ This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier.  His job is to  stabilise the soldier as fast as possible,  and  make sure they are either good to go or are stable enough to be medivaced.
+
+### Medic
+
+This officer is part of the command structure and operates behind the Frontline at a casualty collection point.  His primary job will be patching up soldiers  back to full health so they are ready to be redeployed.
+
+Due to the smaller size of Task Force Omega we have chosen to combine these roles,
+but as we are growing this might be coming in to play more.
+
+It's recommended for all squad leaders to set up a casualty collection point before any attack. This would be  a location close to the frontline but away from any immediate danger. If squad size allows it it is recommended to have at least one soldier here to cover the position. Any heavy casualties are to be brought here as fast as possible.
+
+ideally the medic would stick close to the squad leader and would only leave his side when ordered to.
+Evaluation phase
+ Alright, so the first bullets start flying and one of your fellow squad members got shot.
+The first priority should be to call out who got shot and where to your squad leader. Sometimes squad leaders are in a much better position to rescue wounded soldiers than a medic.
+Right after this the evaluation phase starts: is the soldier simply wounded or unconscious as well?
+
+Wounded
+ right after your figured out that the soldier is wounded another evaluation is in order:
+ Is the wounded soldier able to move to a safer spot himself?  This can be obstructed by for example heavy fire or being crippled by the wound.  The answer to this question can easily be discovered by asking the wounded soldier.
+
+unconscious
+ right after your figured out that the soldier is unconscious another evaluation is in order:
+Is the wounded soldier in an unsafe spot? The first order of business is to get them out of there. try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. The process of getting someone on your shoulders takes way too long Under Fire, Carrying can be a good idea when you need to move an unconscious soldier  from a position where you already have cover. A combination of both techniques can be applied as well,  for example: Drag a wounded soldier  from an unsafe position to cover followed up by  picking them up and carrying  them to a medic-post.
+Equipment
+In this chapter we are going to discuss the actual medical process. First we are going to discuss all the equipment you have available and after that we are going to discuss a few  scenarios.
+
+## CPR
+
+Let's start with the Wikipedia description for CPR:
+
+“Cardiopulmonary resuscitation (CPR) is an emergency procedure that combines chest compressions often with artificial ventilation in an effort to manually preserve intact brain function until further measures are taken to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest.”
+
+CPR creates an Artificial circulation in the patient in case there is a cardiac arrest.  So basically CPR is creating blood flow when the Patient's heart is unable to. It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.
+CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilise the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
+If a patient has no heartrate an invisible timer will start running, and you have 5 min to get a heart rate going, or the patient dies.
+Tourniquets
+Wound treatments should usually be executed in this order:  head > torso > limbs.
+In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  Although  the pressure provided  by a tourniquet is great for stopping blood flowing out of the body,  that same  pressure will also block any saline  from flowing in, therefore an IV should only be placed on a limb without a tourniquet. While these magic bloodstoppers are great, they also are considered painful after 2 minutes.
+Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquets or you might find yourself empty handed!
+
+## Bandages
+
+| WOUNDS & EFFECTS | Details                                                                                                         | Causes                                                                              | Effects                                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain.
+
+\- Extremely slow bleeding.                                                |
+| Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain.
+
+\- Extremely fast bleeding.\*                                               |
+| Contusions       | AKA bruises. Result of trauma that injures an internal structure without breaking the skin.                     | Bullets, backblast, punches, vehicle crashes, falling.                              | \- Light pain.
+
+\- No bleeding.                                                                      |
+| Crush Wounds     | Occur when a heavy object falls onto a person, splitting the skin and shattering/tearing underlying structures. | Falling, vehicle crashes, punches.                                                  | \- Light pain.\*\*
+
+\- Extremely slow bleeding.\*                                                    |
+| Cut Wounds       | Slicing wounds made with a sharp instrument, leaving even edges.                                                | Vehicle crashes, grenades, explosions, artillery shells, backblast, stabs.          | \- Light pain.\*\*
+
+\- Bleeding.\*                                                                   |
+| Lacerations      | Wounds with ragged edges, produced by a large force against the body by an internal or external source.         | Vehicle crashes, punches.                                                           | \- Light pain.\*\*
+
+\- Slow to medium bleeding.\*                                                    |
+| Velocity Wounds  | Caused by an object entering the body at a high speed.                                                          | Bullets, shrapnel, grenades, explosions, artillery shells.                          | \- Extremely high pain.
+
+\- Medium bleeding.\*                                                       |
+| Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.\*\*
+
+\- Slow bleeding.\*                                                              |
+| Fractures        | Fracture of fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \-increased weapon sway (when arms) -inability to jog or run (when legs)
+
+\-might cause more wounds. |
+** Depends on severity
+
+## Fractures
+
+Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal. So are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, apply a splint to their fractured limb.
+
+To treat these injuries, you have four types of bandages, tourniquets and a splint at your disposal:
+
+Basic: A medium-effect, medium-sealing bandage with medium delay for your every-day needs. It's the averagest of averages. Use on lower priorities.
+Packing: Identical effect to basics, high chance to reopen, but excellent delay until a wound bothers you again. Basically an in-combat ‘fix now, medic later’ solution. A rifleman's best friend.
+Elastic: Highest effect, worst chance to reopen, lowest delay. These are great to get through an emergency, but otherwise inefficient.
+QuikClot: Lowest effect, lowest chance to reopen, medium delay. Its low effect means it’s great for small wounds, but needs substantial volume for large wounds; then used in calm situations with a large supply
+Splint: An instant fix to fractures.
+Tourniquet: Stops bleeding by cutting off blood flow to the limb. Becomes painful after 2 minutes. Blocks injections and vitals. Not applicable to head or torso.
+
+Below there is a table that combines the previous discussed wounds and bandages. There are many of these tables roaming the internet. And with a lack of official up-to-date documentation on the subject, it's hard to verify these numbers.
+They do however, seem very reasonable and consistent among other tables, and therefore I consider them as true.
++
+Choosing bandages
+In an ideal situation you will apply the type bandages with the highest effectiveness per wound.
+But in a combat situation, time is of the essence, and that might need you to “slap” a bandage on there as fast as you can. Which particular bandage that should be is very debatable. Elastic bandages are quick and very effective, but they tend to reopen fast, this however is no problem for a medic, since you have the option to stitch wounds up before they reopen.
+
+## Auto injectors
+
+### Morphine
+
+time to max effect: 30 seconds
+Drastically lowers pain
+Reduces heart rate
+Low HR: between -10 and -20
+Normal HR: between -10 and -30
+High HR: between -10 and -35
+Dilates blood vessels, which drops blood pressure
+If your patient is critical, do not inject morphine before stabilising them
+4 injections to overdose (but will knock-out any healthy soldier with 3 injections)
+Lingers 30 minutes
+Does not affect the wake-up chance of an unconscious patiënt.
+
+### Epinephrine
+
+time to max effect: 10 seconds
+Increases heart rate
+Low HR: between 10 and 20
+Normal HR: between 10 and 50
+High HR: between 10 and 40
+10 injections to overdose
+Lingers 2 minutes
+Does affect the wake-up chance of an unconscious patiënt.
+
+### Adenosine
+
+time to max effect: 15 seconds
+Decreases heart rate
+Low HR: between -7 and -10
+Normal HR: between -15 and -30
+High HR: between -15 and -35
+6 injections to overdose
+Lingers 2 minutes
+Don't bother with these. In real life they are used to stabilise a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
+Gear
+
+## Infantry
+
+For all non-medical personnel we recommended to take the following medical supplies with you:
+7-10 Packing bandages (smallest reopening chance)
+1 epinephrine auto injector
+1 morphine auto injector
+2 tourniquets
+1 splint
+2x 500ml Saline
+
+Medic
+For a medic we recommended to take the following medical supplies with you:
+40 bandages
+15 elastic
+10 quick cloth
+10 packing
+5 basic
+5 morphine
+5 epinephrine
+5 tourniquets
+4 splints
+5x 250ml blood
+5x 500ml blood
+3x 1L blood
+1 surgical kit
+3 Personal aid kit
+---Everything below this is still very work in progress---
+
+## Triage
+
+In order to be effective as a medic you should start to assess these priorities as good and as fast as you can.
+for example: a heart rate is not going to do any good if the patients already bled out on the floor.  it also matters greatly whenever you are alone or with a buddy.
+
+Evaluation of the location, is it safe to treat multiple wounded?
+Stabilize or ask team member to stabilized the most critical cases while treating the minor cases first
+If possible, ask squad members to assign a triage card to the wounded.
+Scenario 1: unconscious soldier with heart rate or buddy nearby.
+ In this case your priority should be to check for heart rate first. With a buddy nearby you can ask him to start CPR if the patient doesn't have a heart rate. This will give you the opportunity to treat other wounds. Your buddy should continue doing this until the patient has a stable heart rate or you have stabilised all wounds and can take over CPR. Wound treatments should usually be executed in this order:  head > torso > limbs.
+In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  Although the pressure provided  by a tourniquet is great for stopping blood flowing out of the body,  that same  pressure will also block any saline  from flowing in, therefore an IV should only be placed on a limb without a tourniquet. By now a few minutes should have passed  and you should check for a heart rate again.  make sure that no one is providing CPR while checking for heart rate.
+
+Check for pulse: no heart rate? Ask someone nearby to start with cpr.
+Meanwhile, evaluate wounds. think about what has priority:
+Heavily injured limbs? start applying tourniquets.
+Continue to bandage any bleeding in the torso/head.
+depending on blood loss: start an IV with saline. (keep in mind that an iv doesn't work on a limb with a tourniquet.)
+evaluate: send your buddy to cover you and continue CPR yourself. or let him continue cpr.
+while all of this is going on: periodically check for heart rate. make sure that nobody is performing cpr while checking. CPR will cause the receiver to have a low heart rate. even though the receiver won't have a stable heart rate by him/herself..
+Only after a stable heart rate/blood pressure has been achieved: start with bandaging limbs and remove tourniquets when done.
+
+Scenario 2: unconscious soldier without heart rate - Alone
+Check for pulse: no heart rate?
+Heavily injured limbs? start applying tourniquets. a tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts.
+Continue to bandage any bleeding in the torso/head.
+depending on blood loss: start an IV with saline. (keep in mind that an iv doesn't work on a limb with a tourniquet.)
+Start CPR
+periodically check for heart rate.
+Only after a stable heart rate/blood pressure has been achieved: start with bandaging limbs and remove tourniquets when done.
+
+Scenario 3: wounded patient
+
+Scenario 4: Multiple casualties
 
 ## loadout
 
