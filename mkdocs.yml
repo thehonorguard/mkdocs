@@ -27,6 +27,7 @@ theme:
     - toc.follow
     - header.autohide
 nav:
+  - intro: intro.md
   - index: index.md
   - TestPage: testpage.md
   - Role guide: RoleGuide.md
