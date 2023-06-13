@@ -40,8 +40,8 @@ nav:
   - Rules: rules.md
   - LoadoutFull: LoadoutFull.md
   - Role Guide:
-    - Platoonleader: pltleader.md
-    - medic: medic.md
+    - Platoonleader: RoleGuide/pltleader.md
+    - medic: RoleGuide\medic.md
 
 markdown_extensions:
   - toc:
