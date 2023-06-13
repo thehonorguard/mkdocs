@@ -15,3 +15,6 @@ text2
 bla bla bla red blue green
 
 ### Support teams
+
+
+![Platoon structure](pltdiagram.jpg)
