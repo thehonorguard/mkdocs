@@ -176,38 +176,38 @@ If possible, ask squad members to assign a triage card to the wounded.
 
 | Catagory              | Contents            |                     |
 | --------------------- | ------------------- | ------------------- |
-| Primary weapon        | 5.56 AR             | x                   |
-| Primary ammo          | 30rnd 5.56 x 6      | x                   |
-| Optic magnification   | 1x-2x               | x                   |
-| Secondary weapon      | /                   | x                   |
-| Secondary ammo        | /                   | x                   |
-| Launcher              |                     | x                   |
-| throwables/explosives | Day only            | Night Only          |
-| x                     | 3x White throwable  | 2-4x Blue Chemlight |
-| x                     | 2x Yellow throwable | Yellow hand flare   |
-| Medical               | 40x Elastic         | x                   |
-| x                     | 15x Packing         | x                   |
-| x                     | 1x Painkillers      | x                   |
-| x                     | 10x Morphine        | x                   |
-| x                     | 5x Epinephrine      | x                   |
-| x                     | 5x TXA              | x                   |
-| x                     | 5x EACA             | x                   |
-| x                     | 6x Tourniquets      | x                   |
-| x                     | 4x Splints          | x                   |
-| x                     | 10x 500ml Plasma    | x                   |
-| x                     | 2x 1000ml Plasma    | x                   |
-| x                     | 10x King LT         | x                   |
-| x                     | 5x 16g IV           | x                   |
-| x                     | 10x Fast IO         | x                   |
-| x                     | AED-X               | x                   |
-| x                     | ACCUVAC             | x                   |
-| x                     | 2x AAT kit          | x                   |
-| x                     | Surgical kit        | x                   |
-| x                     | 3x Chestseal        | x                   |
-| x                     | 2x naloxone         | x                   |
-| x                     | 2x Atropine         | x                   |
-| Radio                 | 2x AN-343           | x                   |
-| x                     | AN-152              | x                   |
-| Misc                  | 2 Cable ties        | x                   |
-| x                     | Earplugs            | x                   |
-| x                     | IR strobe           | x                   |
+| Primary weapon        | 5.56 AR             |                     |
+| Primary ammo          | 30rnd 5.56 x 6      |                     |
+| Optic magnification   | 1x-2x               |                     |
+| Secondary weapon      | None                |                     |
+| Secondary ammo        |                     |                     |
+| Launcher              |                     |                     |
+| Throwables/explosives | Day only            | Night Only          |
+|                       | 3x White throwable  | 2-4x Blue Chemlight |
+|                       | 2x Yellow throwable | Yellow hand flare   |
+| Medical               | 40x Elastic         |                     |
+|                       | 15x Packing         |                     |
+|                       | 1x Painkillers      |                     |
+|                       | 10x Morphine        |                     |
+|                       | 5x Epinephrine      |                     |
+|                       | 5x TXA              |                     |
+|                       | 5x EACA             |                     |
+|                       | 6x Tourniquets      |                     |
+|                       | 4x Splints          |                     |
+|                       | 10x 500ml Plasma    |                     |
+|                       | 2x 1000ml Plasma    |                     |
+|                       | 10x King LT         |                     |
+|                       | 5x 16g IV           |                     |
+|                       | 10x Fast IO         |                     |
+|                       | AED-X               |                     |
+|                       | ACCUVAC             |                     |
+|                       | 2x AAT kits         |                     |
+|                       | Surgical kit        |                     |
+|                       | 3x Chest seals      |                     |
+|                       | 2x Naloxone         |                     |
+|                       | 2x Atropine         |                     |
+| Radio                 | 2x AN-343           |                     |
+|                       | AN-152              |                     |
+| Misc                  | 2 Cable ties        |                     |
+|                       | Earplugs            |                     |
+|                       |                     | IR strobe           |
