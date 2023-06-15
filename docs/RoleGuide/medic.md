@@ -133,35 +133,6 @@ High HR: between -15 and -35
 6 injections to overdose
 Lingers 2 minutes
 Don't bother with these. In real life they are used to stabilise a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
-## Gear1
-
-### Infantry
-
-For all non-medical personnel we recommended to take the following medical supplies with you:
-7-10 Packing bandages (smallest reopening chance)
-1 epinephrine auto injector
-1 morphine auto injector
-2 tourniquets
-1 splint
-2x 500ml Saline
-
-### Medic
-For a medic we recommended to take the following medical supplies with you:
-40 bandages
-15 elastic
-10 quick cloth
-10 packing
-5 basic
-5 morphine
-5 epinephrine
-5 tourniquets
-4 splints
-5x 250ml blood
-5x 500ml blood
-3x 1L blood
-1 surgical kit
-3 Personal aid kit
----Everything below this is still very work in progress---
 
 ## Triage
 
@@ -180,11 +151,13 @@ If possible, ask squad members to assign a triage card to the wounded.
 
 For all non-medical personnel we recommended to take the following medical supplies with you:
 
+|                |
 | -------------- |
 | 2x Tourniquets |
 | 2x Splints     |
 | 1x Painkillers |
 | 15x Packing    |
+
 
 ### Medic
 
@@ -194,12 +167,11 @@ For all non-medical personnel we recommended to take the following medical suppl
 | Primary weapon        | 5.56 AR             |                     |
 | Primary ammo          | 30rnd 5.56 x 6      |                     |
 | Optic magnification   | 1x-2x               |                     |
-| Secondary weapon      | None                |                     |
-| Secondary ammo        |                     |                     |
-| Launcher              |                     |                     |
-| Throwables/explosives | Day only            | Night Only          |
+|                       |                     |                     |
+| Throwables/explosives | *Day only*          | *Night Only*        |
 |                       | 3x White throwable  | 2-4x Blue Chemlight |
 |                       | 2x Yellow throwable | Yellow hand flare   |
+|                       |                     |                     |
 | Medical               | 40x Elastic         |                     |
 |                       | 15x Packing         |                     |
 |                       | 1x Painkillers      |                     |
@@ -221,8 +193,10 @@ For all non-medical personnel we recommended to take the following medical suppl
 |                       | 3x Chest seals      |                     |
 |                       | 2x Naloxone         |                     |
 |                       | 2x Atropine         |                     |
+|                       |                     |                     |
 | Radio                 | 2x AN-343           |                     |
 |                       | AN-152              |                     |
+|                       |                     |                     |
 | Misc                  | 2 Cable ties        |                     |
 |                       | Earplugs            |                     |
 |                       |                     | IR strobe           |
