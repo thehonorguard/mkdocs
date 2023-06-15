@@ -37,8 +37,7 @@ features:
 nav:
   - Intro: index.md
   - Basics: basics.md
-  - Full rulebook: rulebook.md
-  - Rules: rules.md
+  - TFO's Rulebook: rulebook.md
   - LoadoutFull: LoadoutFull.md
   - Role Guide:
     - Platoonleader: RoleGuide/pltleader.md
