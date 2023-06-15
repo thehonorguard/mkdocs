@@ -100,7 +100,7 @@ But in a combat situation, time is of the essence, and that might need you to �
 
 ### Morphine
 
-time to max effect: 30 seconds
+Time to max effect: 30 seconds
 Drastically lowers pain
 Reduces heart rate
 Low HR: between -10 and -20
@@ -114,7 +114,7 @@ Does not affect the wake-up chance of an unconscious patiënt.
 
 ### Epinephrine
 
-time to max effect: 10 seconds
+Time to max effect: 10 seconds
 Increases heart rate
 Low HR: between 10 and 20
 Normal HR: between 10 and 50
@@ -125,7 +125,7 @@ Does affect the wake-up chance of an unconscious patiënt.
 
 ### Adenosine
 
-time to max effect: 15 seconds
+Time to max effect: 15 seconds
 Decreases heart rate
 Low HR: between -7 and -10
 Normal HR: between -15 and -30
@@ -133,7 +133,7 @@ High HR: between -15 and -35
 6 injections to overdose
 Lingers 2 minutes
 Don't bother with these. In real life they are used to stabilise a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
-## Gear
+## Gear1
 
 ### Infantry
 
@@ -166,15 +166,30 @@ For a medic we recommended to take the following medical supplies with you:
 ## Triage
 
 In order to be effective as a medic you should start to assess these priorities as good and as fast as you can.
-for example: a heart rate is not going to do any good if the patients already bled out on the floor.  it also matters greatly whenever you are alone or with a buddy.
+For example: a heart rate is not going to do any good if the patient has already bled out on the floor. 
+It also matters greatly whenever you are alone or with a buddy.
+
 
 Evaluation of the location, is it safe to treat multiple wounded?
 Stabilize or ask team member to stabilized the most critical cases while treating the minor cases first
 If possible, ask squad members to assign a triage card to the wounded.
 
-## loadout
+## Gear
 
-| Catagory              | Contents            |                     |
+### Infantry
+
+For all non-medical personnel we recommended to take the following medical supplies with you:
+
+| -------------- |
+| 2x Tourniquets |
+| 2x Splints     |
+| 1x Painkillers |
+| 15x Packing    |
+
+### Medic
+
+
+| Category              | Contents            |                     |
 | --------------------- | ------------------- | ------------------- |
 | Primary weapon        | 5.56 AR             |                     |
 | Primary ammo          | 30rnd 5.56 x 6      |                     |
