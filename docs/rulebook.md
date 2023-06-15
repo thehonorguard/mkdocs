@@ -199,6 +199,6 @@ If items are missing, a leading role should be notified.
 
 When respawning or getting resupplied, don't get more items than your original loadout had.
 
-### 4.x Continue To Obey Regulations
+### 4.9 Continue To Obey Regulations
 
-<p style="color:red;">Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.</p>
+Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.
