@@ -34,9 +34,9 @@ You should join an operation once a month, unless you are unavailable for a long
 
 Beginning with your name, callsigns need to be short and easy to pronounce. No profanity is accepted in names or callsigns to be used on TFO servers. Rank needs to be clearly displayed in front of each member’s name. Rank formatting is simple and requires the rank abbreviation, capitalized, followed by a space, then the member’s name or callsign. No brackets, periods, or special characters of any kind (except on Discord, where ranks and callsigns are assigned by admins). Here is an example of proper name and rank format: *"PFC. Divide"*. The only deviations would be under the event we have two or more members in TFO with the exact same name or callsign. Do not follow the name by any tags or special characters. We do not wear clan tags.
 
-### 2.2 Addressing Officers
+### 2.2 Addressing unit members
 
-When addressing members of higher rank, you must address them as either their rank or name. "Dude" will not suffice. You can call officers "Sir" if you want but it is not required. When out of game, this rule is more relaxed, but while on base or during operations, members must be addressed by their proper title or callsign.
+When addressing members of higher rank, you must address them as either their rank or name. Be respectful to other members in this unit. You can call officers "Sir" if you want but it is not required.
 
 ### 2.3 Uniforms
 
@@ -57,7 +57,7 @@ Custom faces and face paints are accepted but must be limited resolution images 
 
 ### 2.5 Cheating & Exploits
 
-We have a zero tolerance for any forms of cheating or use of mods that enhance your combat effectiveness beyond that of other players. Any mod that gives you open access to virtual arsenal systems (VAA), increase movement speed, or mods that enhance your HUD with unrealistic displays are outlawed, and players will be prosecuted.
+We have a zero tolerance for any forms of cheating or use of mods that enhance your combat effectiveness beyond that of other players. Any mod that gives you open access to virtual arsenal systems (VAA), increase movement speed, or mods that enhance your HUD with unrealistic displays are **not** allowed. Arma bugs should never be abused during operations. If you encounter a bug (game breaking, or not), please refer to a leading role.
 
 **Arma bugs should never be abused during operations. (Cheating is also not allowed)**
 
@@ -69,21 +69,16 @@ Audio and video recording or streaming is strictly prohibited during all trainin
 
 Our promotion policy is based on individual combat and overall unit performance. Kills will not get you rank. Often times, element leaders will recognize their soldiers for all actions unit related, in or out of game, and recommend them for a promotion or award. Ranks are something to congratulate other members on achieving, not show jealousy and the "it should have been me" mentality. For a full rank list, please check this sheet.
 
-### 2.8 Abusing bugs
-
-Arma bugs should never be abused during operations. (Cheating is also not allowed)
-If you encounter a bug (game breaking, or not), please refer to a leading role
-
 ## III. Unit Personal Behavior
 
 ### 3.1 Chat Moderation
 
-While in TFO servers, you must always conduct yourself in correlation with our unit standards. No exceptions. Keep the chats completely clear of all religious, ethnic, or political debates and topics. Racism, sexism, or any sort of discrimination is not accepted at any time in any form. 
+While in TFO servers, you must always conduct yourself in correlation with our unit standards. **No exceptions**. Keep the chats completely clear of all religious, ethnic, or political debates and topics. Racism, sexism, or any sort of discrimination is not accepted at any time in any form. 
 Do not make any remarks that could potentially offend another player. Keep in mind that our unit is made up of all kinds of people, from different areas and backgrounds. Do not take a chance by making an inconsiderate comment.
 
-#### 3.1.1 In TeamSpeak/Discord (audio):
+#### 3.1.1 In TeamSpeak/Discord (audio):  NEEDS WORK
 
-Soundboards (TeamSpeak only), text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Everyone is to use push to talk on any of the public channels. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. The private quarters of the CO's are to be treated as private offices. If two or more people are in someone’s Private Quarters, please message them asking for permission and receive permission before entering the room. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
+Soundboards (TeamSpeak only), text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Everyone is to use push to talk on any of the public channels. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
 
 #### 3.1.2 In TeamSpeak/Discord (text):
 
@@ -118,7 +113,7 @@ Never poke or message command staff at any time during an operation. This distra
 
 ### 3.6 In-Game Text Chat
 
-Please keep the in-game chat clear most of the time. Occasionally, during the briefing, command staff may send messages via the global chat system, but never type during deployment at any time. If you lose your radio and cannot contact anybody, it is on you to find your way back to link up with friendlies. It's a military simulation, not an instant messaging program.
+In-Game chat is only allowed for conveying non-mission related information during an operation (with expection for the missionmaker). It is allowed to be used during the briefing to prevent any interruptions. If you lose your radio and are unable to communicate with anyone, it is your responsibility to locate and rejoin friendly forces. Remember, this is a military simulation, not an instant messaging platform.
 
 ### 3.7 Join In Progress (JIP)
 
@@ -129,19 +124,16 @@ If you join an OP and haven't signed up, you'll be automatically assigned as *re
 
 Join operations on time (or early). Except when the missionmakers says otherwise. **(Max allowed: +5 minutes)**
 It ensure a better playing experience for everyone, as we don't need to wait for every one.
+
 #### 3.7.2 Signing up
 
-If you've signed up on the spreadsheet, don't take a role (except for reserve) if you aren't sure if you can join on time.
+If you expect being late or there's a chance you may not be able to attend, sign up as a reserve role (reserving any other role is not allowed).
 Don't sign off last minute (12 hours before operation start) without giving a valid reason. 
 
 #### 3.7.3 Joining without signing up
 
 If you haven't signed up on the spreadsheet, you are automatically a reserve.
 Platoonleader and/or missionmaker can and will assign you to a different role if needed or available.
-
-#### 3.7.4 Signing up on spreadsheet with: "Might (not) join" note
-
-If you've signed up on the spreadsheet, don't take a role (except for reserve) if you aren't sure if you can join on time.
 
 ### 3.8 Help Out
 
