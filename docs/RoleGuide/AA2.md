@@ -1,1 +1,2430 @@
-<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><style type="text/css">@import url(https://themes.googleusercontent.com/fonts/css?kit=gGz9ctkpsoOuhEgfJ6HRGx2K5rgvzs4IlwDzmsZq4MVcvwTdCmvl3GmHvMz-ttZmW1dFrxNXBMgKCKucmGZUnA);ol.lst-kix_ssrqc0anjfm0-4.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-4 0}ol.lst-kix_uaka0i1pldkz-1.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-1 0}ol.lst-kix_vt1tkmytyh3o-1.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-1 0}ol.lst-kix_ssrqc0anjfm0-5{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-6{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-3{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-4{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-1{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-2{list-style-type:none}.lst-kix_vt1tkmytyh3o-0>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-0}ol.lst-kix_ssrqc0anjfm0-0{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-7{list-style-type:none}ol.lst-kix_ssrqc0anjfm0-8{list-style-type:none}.lst-kix_uaka0i1pldkz-4>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-4}ol.lst-kix_uaka0i1pldkz-7.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-7 0}.lst-kix_vt1tkmytyh3o-3>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-3,decimal) ". "}.lst-kix_vt1tkmytyh3o-7>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-7}.lst-kix_vt1tkmytyh3o-2>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-2,lower-roman) ". "}.lst-kix_vt1tkmytyh3o-4>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-4,lower-latin) ". "}ul.lst-kix_jdhkmmkebik8-7{list-style-type:none}ul.lst-kix_jdhkmmkebik8-6{list-style-type:none}ul.lst-kix_jdhkmmkebik8-8{list-style-type:none}.lst-kix_vt1tkmytyh3o-0>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-0,decimal) ". "}.lst-kix_vt1tkmytyh3o-1>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-1,lower-latin) ". "}.lst-kix_ssrqc0anjfm0-8>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-8,lower-roman) ". "}ol.lst-kix_uaka0i1pldkz-6.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-6 0}ol.lst-kix_ssrqc0anjfm0-3.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-3 0}ol.lst-kix_vt1tkmytyh3o-6.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-6 0}.lst-kix_ssrqc0anjfm0-8>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-8}ul.lst-kix_jdhkmmkebik8-3{list-style-type:none}ul.lst-kix_jdhkmmkebik8-2{list-style-type:none}ul.lst-kix_jdhkmmkebik8-5{list-style-type:none}ul.lst-kix_jdhkmmkebik8-4{list-style-type:none}ul.lst-kix_jdhkmmkebik8-1{list-style-type:none}ul.lst-kix_jdhkmmkebik8-0{list-style-type:none}ul.lst-kix_o02ml2i4glts-2{list-style-type:none}ul.lst-kix_o02ml2i4glts-3{list-style-type:none}.lst-kix_uaka0i1pldkz-0>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-0}ul.lst-kix_o02ml2i4glts-0{list-style-type:none}ul.lst-kix_o02ml2i4glts-1{list-style-type:none}ul.lst-kix_o02ml2i4glts-6{list-style-type:none}.lst-kix_uaka0i1pldkz-6>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-6}ul.lst-kix_o02ml2i4glts-7{list-style-type:none}ul.lst-kix_o02ml2i4glts-4{list-style-type:none}ul.lst-kix_o02ml2i4glts-5{list-style-type:none}ul.lst-kix_o02ml2i4glts-8{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-7.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-7 0}li.li-bullet-2:before{margin-left:-14.2pt;white-space:nowrap;display:inline-block;min-width:14.2pt}ol.lst-kix_vt1tkmytyh3o-0.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-0 0}.lst-kix_vt1tkmytyh3o-4>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-4}.lst-kix_7z3rpib4rndm-1>li:before{content:"\0025cb   "}ol.lst-kix_uaka0i1pldkz-5.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-5 0}.lst-kix_7z3rpib4rndm-3>li:before{content:"\0025cf   "}ol.lst-kix_ssrqc0anjfm0-8.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-8 0}.lst-kix_7z3rpib4rndm-5>li:before{content:"\0025a0   "}.lst-kix_vt1tkmytyh3o-3>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-3}.lst-kix_7z3rpib4rndm-7>li:before{content:"\0025cb   "}.lst-kix_o02ml2i4glts-1>li:before{content:"\0025cb   "}.lst-kix_ssrqc0anjfm0-1>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-1,lower-latin) ". "}li.li-bullet-1:before{margin-left:-14.2pt;white-space:nowrap;display:inline-block;min-width:14.2pt}.lst-kix_o02ml2i4glts-5>li:before{content:"\0025a0   "}ol.lst-kix_vt1tkmytyh3o-2.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-2 0}.lst-kix_o02ml2i4glts-3>li:before{content:"\0025cf   "}ol.lst-kix_uaka0i1pldkz-0.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-0 0}.lst-kix_vt1tkmytyh3o-2>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-2}ul.lst-kix_7z3rpib4rndm-2{list-style-type:none}.lst-kix_ssrqc0anjfm0-7>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-7,lower-latin) ". "}ul.lst-kix_7z3rpib4rndm-1{list-style-type:none}ul.lst-kix_7z3rpib4rndm-0{list-style-type:none}ul.lst-kix_7z3rpib4rndm-6{list-style-type:none}.lst-kix_ssrqc0anjfm0-5>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-5,lower-roman) ". "}ul.lst-kix_7z3rpib4rndm-5{list-style-type:none}ul.lst-kix_7z3rpib4rndm-4{list-style-type:none}ul.lst-kix_7z3rpib4rndm-3{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-5.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-5 0}.lst-kix_ssrqc0anjfm0-3>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-3,decimal) ". "}ul.lst-kix_7z3rpib4rndm-8{list-style-type:none}.lst-kix_vt1tkmytyh3o-6>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-6,decimal) ". "}ul.lst-kix_7z3rpib4rndm-7{list-style-type:none}.lst-kix_o02ml2i4glts-7>li:before{content:"\0025cb   "}.lst-kix_ssrqc0anjfm0-6>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-6}.lst-kix_ssrqc0anjfm0-7>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-7}.lst-kix_uaka0i1pldkz-0>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-0,decimal) ". "}ol.lst-kix_uaka0i1pldkz-3.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-3 0}ol.lst-kix_ssrqc0anjfm0-6.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-6 0}.lst-kix_vt1tkmytyh3o-8>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-8,lower-roman) ". "}.lst-kix_uaka0i1pldkz-2>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-2,lower-roman) ". "}.lst-kix_uaka0i1pldkz-4>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-4,lower-latin) ". "}ol.lst-kix_vt1tkmytyh3o-3.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-3 0}.lst-kix_ssrqc0anjfm0-1>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-1}ol.lst-kix_vt1tkmytyh3o-4.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-4 0}ol.lst-kix_ssrqc0anjfm0-5.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-5 0}.lst-kix_uaka0i1pldkz-6>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-6,decimal) ". "}.lst-kix_uaka0i1pldkz-8>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-8,lower-roman) ". "}ol.lst-kix_uaka0i1pldkz-2.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-2 0}ol.lst-kix_ssrqc0anjfm0-1.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-1 0}.lst-kix_uaka0i1pldkz-5>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-5}.lst-kix_bn4s3gddzxxe-6>li:before{content:"\0025cf   "}.lst-kix_ssrqc0anjfm0-0>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-0}ol.lst-kix_uaka0i1pldkz-4.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-4 0}.lst-kix_bn4s3gddzxxe-7>li:before{content:"\0025cb   "}.lst-kix_bn4s3gddzxxe-8>li:before{content:"\0025a0   "}ol.lst-kix_uaka0i1pldkz-8{list-style-type:none}ol.lst-kix_uaka0i1pldkz-6{list-style-type:none}ol.lst-kix_uaka0i1pldkz-7{list-style-type:none}.lst-kix_vt1tkmytyh3o-8>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-8}.lst-kix_uaka0i1pldkz-7>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-7}ol.lst-kix_ssrqc0anjfm0-7.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-7 0}.lst-kix_6sl5r45bff3a-2>li:before{content:"\0025a0   "}.lst-kix_vt1tkmytyh3o-1>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-1}.lst-kix_jdhkmmkebik8-0>li:before{content:"\0025cf   "}.lst-kix_6sl5r45bff3a-1>li:before{content:"\0025cb   "}.lst-kix_6sl5r45bff3a-5>li:before{content:"\0025a0   "}ol.lst-kix_uaka0i1pldkz-0{list-style-type:none}ol.lst-kix_uaka0i1pldkz-1{list-style-type:none}ol.lst-kix_uaka0i1pldkz-4{list-style-type:none}.lst-kix_6sl5r45bff3a-4>li:before{content:"\0025cb   "}ol.lst-kix_uaka0i1pldkz-5{list-style-type:none}ol.lst-kix_uaka0i1pldkz-2{list-style-type:none}.lst-kix_jdhkmmkebik8-5>li:before{content:"\0025a0   "}.lst-kix_6sl5r45bff3a-3>li:before{content:"\0025cf   "}ol.lst-kix_uaka0i1pldkz-3{list-style-type:none}.lst-kix_jdhkmmkebik8-6>li:before{content:"\0025cf   "}.lst-kix_jdhkmmkebik8-8>li:before{content:"\0025a0   "}.lst-kix_jdhkmmkebik8-7>li:before{content:"\0025cb   "}.lst-kix_bn4s3gddzxxe-5>li:before{content:"\0025a0   "}.lst-kix_6sl5r45bff3a-0>li:before{content:"\0025cf   "}.lst-kix_bn4s3gddzxxe-4>li:before{content:"\0025cb   "}.lst-kix_bn4s3gddzxxe-1>li:before{content:"\0025cb   "}.lst-kix_bn4s3gddzxxe-3>li:before{content:"\0025cf   "}.lst-kix_bn4s3gddzxxe-2>li:before{content:"\0025a0   "}.lst-kix_ssrqc0anjfm0-5>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-5}.lst-kix_uaka0i1pldkz-3>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-3}.lst-kix_ssrqc0anjfm0-2>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-2}.lst-kix_bn4s3gddzxxe-0>li:before{content:"\0025cf   "}ol.lst-kix_ssrqc0anjfm0-2.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-2 0}.lst-kix_jdhkmmkebik8-4>li:before{content:"\0025cb   "}.lst-kix_jdhkmmkebik8-3>li:before{content:"\0025cf   "}.lst-kix_6sl5r45bff3a-6>li:before{content:"\0025cf   "}.lst-kix_jdhkmmkebik8-2>li:before{content:"\0025a0   "}.lst-kix_6sl5r45bff3a-8>li:before{content:"\0025a0   "}.lst-kix_jdhkmmkebik8-1>li:before{content:"\0025cb   "}.lst-kix_6sl5r45bff3a-7>li:before{content:"\0025cb   "}.lst-kix_7z3rpib4rndm-0>li:before{content:"\0025cf   "}.lst-kix_ssrqc0anjfm0-4>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-4}ol.lst-kix_uaka0i1pldkz-8.start{counter-reset:lst-ctn-kix_uaka0i1pldkz-8 0}.lst-kix_7z3rpib4rndm-4>li:before{content:"\0025cb   "}ol.lst-kix_vt1tkmytyh3o-8.start{counter-reset:lst-ctn-kix_vt1tkmytyh3o-8 0}.lst-kix_7z3rpib4rndm-2>li:before{content:"\0025a0   "}.lst-kix_7z3rpib4rndm-8>li:before{content:"\0025a0   "}.lst-kix_7z3rpib4rndm-6>li:before{content:"\0025cf   "}.lst-kix_ssrqc0anjfm0-0>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-0,decimal) ". "}ol.lst-kix_ssrqc0anjfm0-0.start{counter-reset:lst-ctn-kix_ssrqc0anjfm0-0 0}.lst-kix_ssrqc0anjfm0-2>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-2,lower-roman) ". "}ul.lst-kix_bn4s3gddzxxe-8{list-style-type:none}.lst-kix_o02ml2i4glts-2>li:before{content:"\0025a0   "}ul.lst-kix_bn4s3gddzxxe-7{list-style-type:none}.lst-kix_o02ml2i4glts-4>li:before{content:"\0025cb   "}.lst-kix_ssrqc0anjfm0-6>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-6,decimal) ". "}.lst-kix_vt1tkmytyh3o-5>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-5}.lst-kix_o02ml2i4glts-6>li:before{content:"\0025cf   "}.lst-kix_ssrqc0anjfm0-3>li{counter-increment:lst-ctn-kix_ssrqc0anjfm0-3}.lst-kix_uaka0i1pldkz-1>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-1}ul.lst-kix_bn4s3gddzxxe-6{list-style-type:none}.lst-kix_ssrqc0anjfm0-4>li:before{content:"" counter(lst-ctn-kix_ssrqc0anjfm0-4,lower-latin) ". "}ul.lst-kix_bn4s3gddzxxe-5{list-style-type:none}ul.lst-kix_bn4s3gddzxxe-4{list-style-type:none}ul.lst-kix_bn4s3gddzxxe-3{list-style-type:none}ul.lst-kix_bn4s3gddzxxe-2{list-style-type:none}.lst-kix_vt1tkmytyh3o-5>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-5,lower-roman) ". "}ul.lst-kix_bn4s3gddzxxe-1{list-style-type:none}ul.lst-kix_bn4s3gddzxxe-0{list-style-type:none}.lst-kix_o02ml2i4glts-8>li:before{content:"\0025a0   "}ul.lst-kix_6sl5r45bff3a-8{list-style-type:none}ul.lst-kix_6sl5r45bff3a-7{list-style-type:none}.lst-kix_uaka0i1pldkz-1>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-1,lower-latin) ". "}ul.lst-kix_6sl5r45bff3a-6{list-style-type:none}ul.lst-kix_6sl5r45bff3a-5{list-style-type:none}.lst-kix_vt1tkmytyh3o-7>li:before{content:"" counter(lst-ctn-kix_vt1tkmytyh3o-7,lower-latin) ". "}ul.lst-kix_6sl5r45bff3a-4{list-style-type:none}ul.lst-kix_6sl5r45bff3a-3{list-style-type:none}ul.lst-kix_6sl5r45bff3a-2{list-style-type:none}ul.lst-kix_6sl5r45bff3a-1{list-style-type:none}ul.lst-kix_6sl5r45bff3a-0{list-style-type:none}.lst-kix_uaka0i1pldkz-3>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-3,decimal) ". "}.lst-kix_uaka0i1pldkz-8>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-8}.lst-kix_uaka0i1pldkz-2>li{counter-increment:lst-ctn-kix_uaka0i1pldkz-2}ol.lst-kix_vt1tkmytyh3o-7{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-6{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-8{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-3{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-2{list-style-type:none}.lst-kix_vt1tkmytyh3o-6>li{counter-increment:lst-ctn-kix_vt1tkmytyh3o-6}ol.lst-kix_vt1tkmytyh3o-5{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-4{list-style-type:none}.lst-kix_o02ml2i4glts-0>li:before{content:"\0025cf   "}ol.lst-kix_vt1tkmytyh3o-1{list-style-type:none}ol.lst-kix_vt1tkmytyh3o-0{list-style-type:none}li.li-bullet-0:before{margin-left:-21.3pt;white-space:nowrap;display:inline-block;min-width:21.3pt}.lst-kix_uaka0i1pldkz-5>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-5,lower-roman) ". "}.lst-kix_uaka0i1pldkz-7>li:before{content:"" counter(lst-ctn-kix_uaka0i1pldkz-7,lower-latin) ". "}ol{margin:0;padding:0}table td,table th{padding:0}.c54{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:35.2pt;border-top-color:#000000;border-bottom-style:solid}.c86{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:99pt;border-top-color:#000000;border-bottom-style:solid}.c49{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:216pt;border-top-color:#000000;border-bottom-style:solid}.c32{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:49.5pt;border-top-color:#000000;border-bottom-style:solid}.c80{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:35.2pt;border-top-color:#000000;border-bottom-style:solid}.c78{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c75{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:99pt;border-top-color:#000000;border-bottom-style:solid}.c37{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:180pt;border-top-color:#000000;border-bottom-style:solid}.c88{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:180pt;border-top-color:#000000;border-bottom-style:solid}.c27{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:81.8pt;border-top-color:#000000;border-bottom-style:solid}.c28{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:50.2pt;border-top-color:#000000;border-bottom-style:solid}.c73{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:99pt;border-top-color:#000000;border-bottom-style:solid}.c63{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:99pt;border-top-color:#000000;border-bottom-style:solid}.c21{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:81.8pt;border-top-color:#000000;border-bottom-style:solid}.c2{background-color:#ffffff;-webkit-text-decoration-skip:none;color:#000000;font-weight:500;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:16pt;font-family:"Roboto";font-style:normal}.c31{background-color:#ffffff;-webkit-text-decoration-skip:none;color:#000000;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:12pt;font-family:"Roboto";font-style:normal}.c16{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Roboto";font-style:normal}.c5{background-color:#ffffff;color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Roboto";font-style:normal}.c34{background-color:#ffffff;color:#000000;font-weight:500;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"Roboto";font-style:normal}.c18{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Roboto";font-style:normal}.c58{background-color:#ffffff;color:#434343;font-weight:300;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:"Roboto";font-style:normal}.c44{margin-left:32.2pt;padding-top:0pt;padding-left:3.3pt;padding-bottom:0pt;line-height:1.25;orphans:2;widows:2;text-align:justify}.c30{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:5pt;font-family:"Roboto";font-style:normal}.c14{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:"Roboto";font-style:normal}.c0{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Roboto";font-style:normal}.c1{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"Roboto";font-style:normal}.c24{background-color:#ffffff;color:#000000;text-decoration:none;vertical-align:baseline;font-size:21pt;font-family:"Roboto";font-style:normal}.c3{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:justify;height:12pt}.c8{padding-top:0pt;padding-bottom:0pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:justify}.c52{background-color:#ffffff;color:#000000;text-decoration:none;vertical-align:baseline;font-size:35pt;font-family:"Roboto";font-style:normal}.c45{background-color:#ffffff;font-weight:500;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"Roboto";font-style:normal}.c61{background-color:#ffffff;color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-family:"Roboto";font-style:normal}.c20{background-color:#ffffff;color:#000000;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:"Roboto";font-style:normal}.c71{background-color:#ffffff;color:#434343;font-weight:300;text-decoration:none;vertical-align:baseline;font-family:"Roboto";font-style:italic}.c4{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:12pt}.c55{background-color:#ffffff;color:#000000;text-decoration:none;vertical-align:baseline;font-size:24pt;font-family:"Roboto";font-style:normal}.c19{padding-top:0pt;padding-bottom:0pt;line-height:1.25;orphans:2;widows:2;text-align:right}.c10{padding-top:0pt;padding-bottom:0pt;line-height:1.25;orphans:2;widows:2;text-align:left}.c7{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c64{padding-top:16pt;padding-bottom:4pt;line-height:1.15;orphans:2;widows:2;text-align:justify}.c53{padding-top:0pt;padding-bottom:0pt;line-height:1.0;orphans:2;widows:2;text-align:justify}.c35{background-color:#ffffff;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-family:"Roboto"}.c38{font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Roboto";font-style:normal}.c85{padding-top:0pt;padding-bottom:0pt;line-height:1.7;orphans:2;widows:2;text-align:justify}.c79{padding-top:0pt;padding-bottom:0pt;line-height:1.5;orphans:2;widows:2;text-align:left}.c9{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:justify}.c33{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}.c70{font-weight:400;text-decoration:none;vertical-align:baseline;font-family:"Roboto";font-style:normal}.c47{border-spacing:0;border-collapse:collapse;margin-right:auto}.c42{-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline;text-decoration-skip-ink:none}.c69{margin-left:-21.8pt;border-spacing:0;border-collapse:collapse;margin-right:auto}.c59{background-color:#ffffff;color:#000000;vertical-align:baseline;font-family:"Roboto"}.c87{text-decoration:none;font-size:22pt;font-style:normal}.c76{background-color:#ffffff;max-width:496.2pt;padding:42.5pt 49.6pt 34.3pt 49.6pt}.c46{font-size:10pt;font-family:"Roboto";font-weight:500}.c51{text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;text-decoration:underline}.c83{text-decoration:none;font-size:17pt;font-style:normal}.c77{font-weight:500;text-decoration:none;font-style:normal}.c17{background-color:#000000;color:#ffffff}.c40{color:inherit;text-decoration:inherit}.c90{font-size:8pt;font-style:normal}.c60{margin-left:32.2pt;padding-left:3.3pt}.c56{margin-left:32.1pt;padding-left:-3.8pt}.c57{font-size:6pt;font-style:normal}.c12{font-size:11pt;font-style:italic}.c89{font-size:7pt;font-style:normal}.c67{background-color:#000000;color:#000000}.c62{font-size:15pt;font-style:normal}.c84{font-size:13pt;font-style:normal}.c36{padding:0;margin:0}.c41{font-size:18pt;font-style:normal}.c72{margin-left:36pt;text-indent:36pt}.c23{page-break-after:avoid}.c6{font-weight:700}.c81{font-style:italic}.c66{height:14pt}.c48{height:425.3pt}.c11{height:16pt}.c29{text-indent:-0.3pt}.c65{font-size:11pt}.c25{height:21.9pt}.c74{font-weight:400}.c82{height:140pt}.c39{height:96pt}.c68{margin-left:14.2pt}.c13{margin-left:7.1pt}.c15{text-indent:14.2pt}.c26{color:#ffffff}.c22{font-size:14pt}.c50{font-size:10pt}.c43{height:12pt}.title{background-color:#ffffff;padding-top:0pt;color:#000000;font-weight:700;font-size:35pt;padding-bottom:0pt;font-family:"Roboto";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:center}.subtitle{padding-top:0pt;color:#434343;font-weight:300;font-size:11pt;padding-bottom:0pt;line-height:1.15;page-break-after:avoid;font-style:italic;background-color:#ffffff;font-family:"Roboto";orphans:2;widows:2;text-align:justify}li{background-color:#ffffff;color:#000000;font-size:12pt;font-family:"Roboto"}p{background-color:#ffffff;margin:0;color:#000000;font-size:12pt;font-family:"Roboto"}h1{background-color:#ffffff;padding-top:0pt;color:#000000;font-weight:700;font-size:24pt;padding-bottom:0pt;font-family:"Roboto";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:0pt;-webkit-text-decoration-skip:none;color:#000000;font-weight:500;text-decoration:underline;font-size:16pt;padding-bottom:0pt;line-height:1.15;page-break-after:avoid;background-color:#ffffff;text-decoration-skip-ink:none;font-family:"Roboto";orphans:2;widows:2;text-align:left}h3{background-color:#ffffff;padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Roboto";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:justify}h4{background-color:#ffffff;padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Roboto";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:justify}h5{background-color:#ffffff;padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Roboto";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:justify}h6{background-color:#ffffff;padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Roboto";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:justify}</style></head><body class="c76 doc-content"><p class="c23 c33 title" id="h.oigkqfwylo9t"><span class="c6 c52">TFO Anti-Air Guide (VAR)</span></p><p class="c33 c43"><span class="c6 c24"></span></p><p class="c33"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 285.61px; height: 285.61px;"><img alt="" src="images/image101.png" style="width: 285.61px; height: 285.61px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c33 c43"><span class="c6 c20"></span></p><p class="c4"><span class="c22 c71"></span></p><h2 class="c8" id="h.efjpsp4jxxlx"><span>Presentation</span><span class="c2">&nbsp;:</span></h2><p class="c3"><span class="c2"></span></p><p class="c9 c15"><span>This guide aims to assist the Anti-Air role in </span><span class="c6">aircraft recognition and identification</span><span>. It provides information on current operational aircraft which may be observed in diverse &nbsp; &nbsp; </span><span class="c6">Arma III missions</span><span class="c0">.</span></p><p class="c3 c15"><span class="c0"></span></p><p class="c9"><span>This guide is based on the following mods : </span><span class="c6">CFP</span><span>, </span><span class="c6">CUP</span><span>, </span><span class="c6">RHS</span><span>, </span><span class="c6">AMF</span><span>, </span><span class="c6">3CB Factions</span><span>, </span><span class="c5">HAFM</span></p><p class="c3"><span class="c16"></span></p><p class="c9"><span>Source : </span><span class="c42"><a class="c40" href="https://www.google.com/url?q=https://irp.fas.org/doddir/army/fm3-01-80.pdf&amp;sa=D&amp;source=editors&amp;ust=1687188373289024&amp;usg=AOvVaw2mF0jt9x1VidE0kSf9rKfx">https://irp.fas.org/doddir/army/fm3-01-80.pdf</a></span></p><p class="c3"><span class="c16"></span></p><p class="c8 subtitle" id="h.m0pezumqo4xf"><span class="c71 c65">This does not replace actual Anti-Air training and doesn&rsquo;t grant the clearance for the role during missions.</span></p><p class="c3"><span class="c58"></span></p><h2 class="c8" id="h.rs7m87n001zq"><span class="c2">Contents :<br></span></h2><ol class="c36 lst-kix_ssrqc0anjfm0-0 start" start="1"><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.tsv4r8ddk0d5">Aircraft confusion</a></span></li><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.ltyusmss9b7g">Camouflages and markings</a></span></li><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.6t9vyz19uj39">MANPADS</a></span></li><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.946p0u9cnevh">Aircraft</a></span></li><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.ycjpuu9h0yev">Helicopter </a></span></li><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.2qo6fgj2o21m">UAV</a></span></li><li class="c44 li-bullet-0"><span class="c42 c22"><a class="c40" href="#h.2x2w1hk3pq0r">Glossary</a></span></li></ol><h1 class="c7 c23" id="h.tsv4r8ddk0d5"><span>&nbsp; 1. </span><span class="c55 c6">Aircraft confusion</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9 c15"><span>Confusing one aircraft with another is a serious problem that must be dealt with </span><span class="c6">Visual Aircraft Recognition</span><span class="c0">&nbsp;training. The following are the four types of confusion that can occur, of which the first two are the most dangerous :</span></p><p class="c3"><span class="c16"></span></p><ol class="c36 lst-kix_uaka0i1pldkz-0 start" start="1"><li class="c9 c60 li-bullet-0"><span>When a </span><span class="c6">friendly</span><span>&nbsp;aircraft is recognized and identified as </span><span class="c6">hostile</span><span>. On a mission, this </span><span class="c6">mistake could cause a </span><span class="c51 c6">friendly fire</span><span class="c0">.</span></li></ol><p class="c3"><span class="c0"></span></p><ol class="c36 lst-kix_uaka0i1pldkz-0" start="2"><li class="c9 c60 li-bullet-0"><span>When a </span><span class="c6">hostile </span><span>aircraft is recognized and identified as </span><span class="c6">friendly</span><span>. During hostilities, this action might </span><span class="c6">allow a hostile aircraft </span><span class="c51 c6">entry into the defended area</span><span class="c0">.</span></li></ol><p class="c3"><span class="c0"></span></p><ol class="c36 lst-kix_uaka0i1pldkz-0" start="3"><li class="c9 c60 li-bullet-0"><span>When a </span><span class="c6">hostile </span><span>aircraft is recognized and identified as another </span><span class="c6">hostile </span><span>aircraft. Actions taken against hostile aircraft in combat are the same, so generally there is no impact. However, this situation could have an impact if </span><span class="c6">friendly factions were flying some aircraft types that are normally considered hostile</span><span class="c0">.</span></li></ol><p class="c3"><span class="c0"></span></p><ol class="c36 lst-kix_uaka0i1pldkz-0" start="4"><li class="c9 c60 li-bullet-0"><span>When a </span><span class="c6">friendly </span><span>aircraft is recognized and identified as another </span><span class="c6">friendly </span><span>aircraft. The actions taken in combat are the same, and there would be an impact only if a </span><span class="c6">hostile faction was using an aircraft type that is normally considered friendly</span><span class="c0">.</span></li></ol><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness&hellip;</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image59.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image84.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c16"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3 c23 subtitle" id="h.j0wr8nalofz6"><span class="c71 c50"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">UH-1Y Venom</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">CH-146 Griffon</span><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image93.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image13.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c30"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">F/A-181 Black Wasp II</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">MiG-29</span></p><h1 class="c7 c23" id="h.ltyusmss9b7g"><span>&nbsp; 2. C</span><span class="c55 c6">amouflages and markings</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.vw9zavi9rwd"><span class="c2">Camouflages :</span></h2><p class="c3"><span class="c0"></span></p><p class="c9 c15"><span>Combat aircraft usually have a </span><span class="c6">camouflage finish</span><span>&nbsp;with the upper and side surfaces painted in a </span><span class="c6">disruptive pattern of two or more shades</span><span>. This breaks up their form when viewed from above, and aids </span><span class="c6">concealment when on the ground or flying low</span><span>. The undersurfaces are </span><span class="c6">painted in a light color to blend with the sky</span><span class="c0">&nbsp;when viewed from below.</span></p><p class="c9"><span>The </span><span class="c6">overall gray color</span><span class="c0">&nbsp;of most fighter-interceptor aircraft is a camouflage scheme. Other aircraft may be painted a two-tone gray. </span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Light aircraft and helicopters will also be camouflage painted</span><span class="c6">&nbsp;in most cases</span><span>, but may be painted an </span><span class="c6">overall drab color</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Camouflage will vary between </span><span class="c6">theaters of operation and</span><span>/</span><span class="c6">or Faction</span><span class="c0">. </span></p><p class="c3 c23 subtitle" id="h.tqgzs1gwmldr"><span class="c71 c65"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image35.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image73.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c18"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">Su-25 - RU</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">Mi-8 - ANA</span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image32.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image117.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c5"></span></p><p class="c3"><span class="c5"></span></p><p class="c3"><span class="c59 c6 c83"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">L-39 - ADA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">NH90 - HAF</span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image94.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image95.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8 c11" id="h.dxszb0n0tsmp"><span class="c2"></span></h2><p class="c9"><span class="c26">&nbsp; </span><span class="c17">JAS 39 - AAF</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">Mi-24 - CDF</span></p><h2 class="c8" id="h.k4ihqama6ibf"><span class="c2">Camouflages hard to distinguish :</span></h2><p class="c3"><span class="c0"></span></p><p class="c9 c15"><span>A </span><span>small number of vehicles</span><span>&nbsp;are used by a lot of </span><span class="c6">different factions</span><span>, especially aircrafts coming </span><span>from </span><span class="c6">USSR</span><span>/</span><span class="c6">Russia</span><span>&nbsp;where the export of those was very important. This will </span><span class="c6">increase the difficulty</span><span>&nbsp;in the identification of the faction when both </span><span class="c6">friendlies</span><span>&nbsp;AND </span><span class="c6">hostiles</span><span>&nbsp;are using the same aircrafts with </span><span class="c6">similar camouflages</span><span class="c0">. </span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Here are a few examples of different</span><span class="c6">&nbsp;factions</span><span>&nbsp;using </span><span class="c6">similar</span><span>, if not,</span><span class="c6">&nbsp;same camo</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c31 c6">Su-25 :</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image15.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image120.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c18"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">RU</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">IA</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 660.66px; height: 186.00px;"><img alt="" src="images/image29.jpg" style="width: 660.66px; height: 372.02px; margin-left: 0.00px; margin-top: -93.01px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c41"></span></p><p class="c9"><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">RU</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">ChDSZ</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">ChDKZ</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">ChDZZ</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image63.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image31.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c14"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">AA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">KDF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image121.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image6.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c30"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">IA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">SuAF</span></p><p class="c9"><span class="c31 c6">Mi-8 :</span></p><p class="c3"><span class="c31 c6"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 660.66px; height: 186.00px;"><img alt="" src="images/image89.jpg" style="width: 660.66px; height: 371.62px; margin-left: 0.00px; margin-top: -92.81px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c59 c51 c6 c90"></span></p><p class="c9"><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">GAF</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">ChDSZ</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">ChDKZ</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">ChDZZ</span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image3.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image25.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c62"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">ACR</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">RU</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 660.66px; height: 186.00px;"><img alt="" src="images/image22.jpg" style="width: 660.66px; height: 371.62px; margin-left: 0.00px; margin-top: -92.81px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c41"></span></p><p class="c9"><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">TNA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">ANA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">NA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">IA</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image23.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image44.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c14"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">ANA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">ADA</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 660.66px; height: 186.00px;"><img alt="" src="images/image24.jpg" style="width: 660.66px; height: 371.62px; margin-left: 0.00px; margin-top: -92.81px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c14"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">USSR</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">KDF</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">SLA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">SAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c31 c6">Mi-24 :</span></p><p class="c3"><span class="c31 c6"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image97.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image98.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c6 c31"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c31 c6"></span></p><p class="c3"><span class="c51 c41 c6 c59"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">CDF</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">ACR</span></p><p class="c3"><span class="c31 c6"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 660.66px; height: 186.00px;"><img alt="" src="images/image26.jpg" style="width: 660.66px; height: 371.62px; margin-left: 0.00px; margin-top: -92.81px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c41"></span></p><p class="c9"><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">TA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">IA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">NA</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">ANA</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image87.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image68.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c20 c74"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">RU</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">GAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 660.66px; height: 186.00px;"><img alt="" src="images/image85.jpg" style="width: 660.66px; height: 371.62px; margin-left: 0.00px; margin-top: -92.81px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c57"></span></p><p class="c9"><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">Wagner</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">RU</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">KDF</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">AA</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image99.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image69.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c35 c41"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">SuAF</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">IA</span></p><h2 class="c8" id="h.uxgqf2srs2mi"><span>M</span><span class="c2">arkings :</span></h2><p class="c3"><span class="c0"></span></p><p class="c9 c15"><span class="c6">Painted markings and annotations</span><span>&nbsp;can also be found on aircraft and helicopters, primarily for identification, making the visual recognition easier. Aircraft markings can includes :</span></p><p class="c3"><span class="c0"></span></p><ul class="c36 lst-kix_o02ml2i4glts-0 start"><li class="c7 c56 li-bullet-1"><span class="c6 c50">Military aircraft insignia</span><span class="c50">, applied to military aircraft to identify the nation or branch of military service.</span></li><li class="c7 c56 li-bullet-1"><span class="c6 c50">Aircraft registration</span><span class="c1">, unique alphanumeric string that identifies every aircraft.</span></li><li class="c7 c56 li-bullet-1"><span class="c6 c50">Logo</span><span class="c1">, emblem used by a company or organization.</span></li><li class="c7 c56 li-bullet-1"><span class="c6 c50">Invasion stripes</span><span class="c50">, alternating black and white bands painted on the fuselages and wings </span><span class="c50 c81">(WWII)</span><span class="c1">.</span></li><li class="c7 c56 li-bullet-2"><span class="c6 c50">Art</span><span class="c1">, decorative painting or design on the fuselage of an aircraft.</span></li><li class="c7 c56 li-bullet-1"><span class="c6 c50">Tail code</span><span class="c1">, help to identify the unit and base assignment.</span></li></ul><p class="c43 c79"><span class="c1"></span></p><p class="c9"><span>This </span><span class="c42 c6"><a class="c40" href="https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_air_forces&amp;sa=D&amp;source=editors&amp;ust=1687188373324042&amp;usg=AOvVaw3s9g2aNUfSw4FursGmXpSi">List of air forces</a></span><span class="c0">&nbsp;provides the markings used by each military organization.</span></p><p class="c3 c23 subtitle" id="h.4ha6jkjv1hgd"><span class="c71 c65"></span></p><p class="c9"><span>When </span><span class="c6">multiple Factions use the same type of aircraft</span><span>&nbsp;</span><span class="c12">(ex. MI-8: Russia, Chernarus, ANA, Takistan&hellip;)</span><span>, the </span><span>markings </span><span class="c12">(if not the camo)</span><span>&nbsp;may be the </span><span class="c6">only way to discern between friendly and enemy</span><span class="c65">&nbsp;</span><span class="c12">(see examples </span><span class="c12 c42"><a class="c40" href="#h.k4ihqama6ibf">here</a></span><span class="c12">)</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image56.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image65.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c89"></span></p><p class="c9"><span class="c26">&nbsp;</span><span class="c26">&nbsp;</span><span class="c17">Livonian roundel</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">F-22 tail code</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image113.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image43.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c35 c41"></span></p><p class="c9"><span class="c26">&nbsp; </span><span class="c17">RAF fuselage art</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17">IDAP logo</span><span>&nbsp; </span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image39.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 331.00px; height: 186.28px;"><img alt="" src="images/image19.jpg" style="width: 331.17px; height: 186.28px; margin-left: -0.08px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c20 c74"></span></p><p class="c9"><span>&nbsp; </span><span class="c17">DC-3 registration</span><span class="c26">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17">Takistan insignia</span></p><p class="c3"><span class="c0"></span></p><h1 class="c7 c23" id="h.6t9vyz19uj39"><span class="c55 c6">&nbsp; 3. MANPADS</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9 c15"><span>As infantry, you will be carrying </span><span class="c6">MANPADS </span><span class="c12">(Man-Portable Air-Defense Systems)</span><span class="c0">&nbsp;on the field.</span></p><p class="c9"><span>Depending on the model, the minimum and maximum </span><span class="c6">engagement range will differ</span><span>&nbsp;</span><span class="c12">(see table below)</span><span>, but the </span><span class="c6">locking system remains the same</span><span>&nbsp;and usually is </span><span class="c6">done automatically</span><span>&nbsp;when </span><span class="c6">aiming at a target</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>It is </span><span class="c6">important to identify your target</span><span>&nbsp;</span><span class="c6">and his specifications before any engagement</span><span>, and to </span><span class="c6 c51">communicate</span><span class="c6">&nbsp;with your squad leader</span><span>, as targets like </span><span class="c51 c6">medevacs</span><span class="c6">&nbsp;are not allowed to be engaged</span><span>&nbsp;for exemple, which could result in a </span><span class="c6">war crime</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>It is </span><span class="c51 c6">your responsibility</span><span>&nbsp;to </span><span class="c6">obtain information from the Zeus</span><span>&nbsp;about </span><span class="c6">what </span><span class="c6">aircraft</span><span class="c6">&nbsp;friendly and hostile forces are using </span><span>in the mission / campaign</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Here a </span><span class="c6">non-exhaustive</span><span class="c0">&nbsp;list of MANPADS available in Arma III : </span></p><p class="c3"><span class="c0"></span></p><h3 class="c23 c64" id="h.2lenotij30kg"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 661.00px; height: 337.03px;"><img alt="" src="images/image17.jpg" style="width: 661.00px; height: 372.02px; margin-left: 0.00px; margin-top: -30.52px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></h3><h3 class="c64 c23 c66" id="h.kes3tufiptu2"><span class="c61 c22"></span></h3><h3 class="c64 c23 c66" id="h.68awdqr0i9c3"><span class="c61 c22"></span></h3><h3 class="c64 c23 c66" id="h.l9oxqhhx7cui"><span class="c22 c61"></span></h3><h3 class="c64 c23 c66" id="h.hzyhkincmwm7"><span class="c61 c22"></span></h3><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c30"></span></p><p class="c85"><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17 c22">&nbsp;1 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17 c22">&nbsp;2 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17 c22">&nbsp;3 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17 c22">&nbsp;4 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17 c22">&nbsp;5 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c17 c22">&nbsp;6 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17 c22">&nbsp;7 </span><span class="c22">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class="c17 c22">&nbsp;8</span><span class="c22 c67">.</span><span class="c17 c22 c70">&nbsp; &nbsp;</span></p><a id="t.f00c35bd62fe98535157bf662667c04221439f12"></a><a id="t.0"></a><table class="c47"><tr class="c25"><td class="c54" colspan="1" rowspan="1"><p class="c13 c53"><span class="c0">N&deg;</span></p></td><td class="c27" colspan="1" rowspan="1"><p class="c53 c68"><span>Mod</span></p></td><td class="c88" colspan="1" rowspan="1"><p class="c53 c68"><span>Weapon</span></p></td><td class="c86" colspan="1" rowspan="1"><p class="c53 c68"><span>Min. range</span></p></td><td class="c75" colspan="1" rowspan="1"><p class="c53 c68"><span>Max. range</span></p></td></tr><tr class="c82"><td class="c80" colspan="1" rowspan="1"><p class="c9 c29 c13"><span class="c0">1</span></p><p class="c9 c29 c13"><span class="c0">2</span></p><p class="c9 c29 c13"><span class="c0">3</span></p><p class="c9 c29 c13"><span class="c0">4</span></p><p class="c9 c29 c13"><span class="c0">5</span></p><p class="c9 c29 c13"><span class="c0">6</span></p><p class="c9 c29 c13"><span class="c0">7</span></p><p class="c9 c29 c13"><span class="c0">8</span></p></td><td class="c21" colspan="1" rowspan="1"><p class="c9 c29 c13"><span class="c0">RHS AFRF</span></p><p class="c9 c29 c13"><span class="c0">RHS USAF</span></p><p class="c9 c29 c13"><span class="c0">RHS USAF</span></p><p class="c9 c29 c13"><span class="c0">CUP</span></p><p class="c9 c13 c29"><span class="c0">CUP</span></p><p class="c9 c29 c13"><span class="c0">CUP</span></p><p class="c9 c29 c13"><span class="c0">CUP</span></p><p class="c9 c29 c13"><span>Vanilla</span></p></td><td class="c37" colspan="1" rowspan="1"><p class="c9 c13"><span class="c0">9K38 Igla</span></p><p class="c9 c13"><span class="c0">FIM-92F</span></p><p class="c9 c13"><span class="c0">FGM-148 Javelin</span></p><p class="c9 c13"><span class="c0">Igla 9K38</span></p><p class="c9 c13"><span class="c0">9K32 Strela-2</span></p><p class="c9 c13"><span>FIM-</span><span>92F</span><span>&nbsp;Stinger &nbsp;</span><span class="c35 c12">(single use)</span></p><p class="c9 c13"><span class="c0">FGM-148 Javelin</span></p><p class="c9 c13"><span>Titan MPRL</span></p></td><td class="c73" colspan="1" rowspan="1"><p class="c9 c13"><span class="c0">300 m</span></p><p class="c9 c13"><span class="c0">300 m</span></p><p class="c9 c13"><span class="c0">100 m</span></p><p class="c9 c13"><span class="c0">100 m</span></p><p class="c9 c13"><span class="c0">250 m</span></p><p class="c9 c13"><span class="c0">100 m</span></p><p class="c9 c13"><span class="c0">100 m</span></p><p class="c9 c13"><span>100 m</span></p></td><td class="c63" colspan="1" rowspan="1"><p class="c9 c13"><span class="c0">4800 m</span></p><p class="c9 c13"><span class="c0">6500 m</span></p><p class="c9 c13"><span class="c0">2500 m</span></p><p class="c9 c13"><span class="c0">5200 m</span></p><p class="c9 c13"><span>3700 m</span></p><p class="c9 c13"><span class="c0">6000 m</span></p><p class="c9 c13"><span class="c0">2400 m</span></p><p class="c9 c13"><span>3500 m</span></p></td></tr></table><p class="c3"><span class="c0"></span></p><h1 class="c7 c23" id="h.946p0u9cnevh"><span class="c55 c6">&nbsp; 4. Aircraft</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>&nbsp; &nbsp; This chapter shows a </span><span class="c6">non-exhaustive</span><span>&nbsp;list of </span><span class="c6">Aircrafts</span><span class="c0">.<br></span></p><p class="c9"><span>Aircrafts will perform a variety of missions: </span><span class="c6">CAS</span><span>, </span><span class="c6">ground attack</span><span>, </span><span class="c6">transport</span><span>,</span><span class="c6">&nbsp;cargo</span><span>,</span><span class="c6">&nbsp;gunship </span><span>and </span><span class="c6">air superiority</span><span class="c0">. </span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">One aircraft was selected from each group to be represented in this manual, as some have different variants available.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">For each, there is a picture, general data, user factions and game information.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Pictures are </span><span class="c6">not to scale</span><span class="c0">.</span></p><h2 class="c8 c11" id="h.ierkrdy13mug"><span class="c2"></span></h2><h2 class="c8 c11" id="h.s7zd1n9yjtpd"><span class="c2"></span></h2><p class="c3"><span class="c0"></span></p><h2 class="c8 c11" id="h.pw72wcxwe4ey"><span class="c2"></span></h2><h2 class="c8 c11" id="h.asw5a2rb0owc"><span class="c2"></span></h2><h2 class="c8 c11" id="h.qslzbqxpzg3j"><span class="c2"></span></h2><h2 class="c8" id="h.ucwtvty7m68s"><span class="c2">A-7H Corsair II</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image107.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;CAS, Ground Attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;HAFM</span></p><p class="c3"><span class="c0"></span></p><h2 class="c8 c11" id="h.qb99byvf66t6"><span class="c2"></span></h2><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.x8lbhtyon836"><span class="c2">A-10 Thunderbolt II / A-164 Wipeout</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image122.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, US Army</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;CAS, Ground Attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Vanilla, CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.vnuma20lkur"><span class="c2">A-29 Super Tucano</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image54.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Brazil</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HIDF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;RHS GREF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.t6yv6ud1r9k5"><span class="c2">A330 Airbus</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image79.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Europe</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Airliner</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.1hj7tvirtxiz"><span class="c2">Aero Commander 500</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image80.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;ION, MDF, HIDF, Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light-transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.22kxvb7648zy"><span class="c2">AN-2 Antonov</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image119.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR, Poland</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7 c72"><span class="c6">Faction :</span><span>&nbsp;FIA, ADA, AA, ChDSZ, TNA, CDF, USSR, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;..</span><span class="c0">&nbsp;Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light-transport, Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Usually none, Bombs, Rockets, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS GREF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.wkib8gcn8cp"><span class="c2">AV-8B Harrier II</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image76.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA, UK</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;USMC, BAF, AAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span>&nbsp;</span><span>VSTOL</span><span class="c0">&nbsp;fighter, CAS</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.ruj2lenuqpsy"><span class="c2">Boeing 737</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image30.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Airliner</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.x81n1fi4gt2i"><span class="c2">C-130J Super Hercules</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image83.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;..</span><span class="c0">&nbsp;BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo, Airdrop</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;AC-130 </span><span class="c35 c12">(gunship)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS USAF, HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.5goghxljuqs9"><span class="c2">Cessna 172 Skyhawk</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image91.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;ION, LFR, UN, Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;T-41 Mescalero </span><span class="c12">(military version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.g3ketuujlf4t"><span class="c2">Cessna 400 / Cessna TTx / Caesar BTT </span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image41.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;...</span><span class="c0">UN, Syndikat, Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;APEX DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.j5hajhepog7y"><span class="c2">CASA CN-235</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image92.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Spain, Indonesia</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;AMF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.d6nqo4m19lrk"><span class="c2">Douglas C-47 Skytrain </span></h2><h2 class="c8" id="h.mpbcahmqx0oo"><span class="c2">&nbsp;</span><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image40.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></h2><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;US Army, KRG, TNA, HIDF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo, Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Usually none, Bombs</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;Douglas DC-3 </span><span class="c12">(civilian version)</span><span>, AC-47 </span><span class="c35 c12">(gunship)</span></p><p class="c7"><span class="c12 c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span><span>Lisunov Li-2 </span><span class="c12">(USSR version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.6ihvjs53id9"><span class="c2">Douglas DC-3</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image104.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;Douglas C-47 </span><span class="c12">(military version)</span><span>, </span><span>AC-47</span><span>&nbsp;</span><span class="c35 c12">(gunship)</span></p><p class="c7"><span class="c12 c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span><span>Lisunov Li-2 </span><span class="c35 c12">(USSR version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.wm90huqhrktn"><span class="c2">F-4 PHANTOM II</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image109.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Fighter-bomber, CAS</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.ssjdrxkfty10"><span class="c2">F-16 FIGHTING FALCON</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image115.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1, &nbsp; F-16D : 2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Multi-role ground-attack/fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;F-16D Block 52+ </span><span class="c12">(two-seater version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.bv0kgon6ss77"><span class="c2">F/A-181 Black Wasp II</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image75.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Stealth, Multi-role/air-superiority fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;Stealth</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Jets DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.g76hzu33k13b"><span class="c2">F-22 Raptor</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image8.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;USAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp; Stealth, Air Superiority Fighter, ground-attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant : </span><span>None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.k8917vhpg8jq"><span class="c2">F-35 Joint Strike Fighter</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image37.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;US Army, USMC, BAF, IDF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;VSTOL Fighter, Strike</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.ha39tu9zvl7o"><span class="c2">JAS-39 Gripen / A-149 Gryphon</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image57.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Sweden</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HIL, AAF, LDF, RACS</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Interceptor, Ground attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.mxoy40pn5vsi"><span class="c2">L-39 Albatros / L-159 ALCA / A-143 Buzzard</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image10.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Czechoslovakia</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">TA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1, &nbsp; L-39ZA : 2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Bombs, Missiles, Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;L-39ZA </span><span class="c35 c12">(two-seater version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS GREF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.fd5qh7iilswh"><span class="c2">MD-454 Myst&egrave;re</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image42.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;MDF, HIDF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Fighter-bomber</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.2a2nqh2ybskw"><span class="c2">MiG-21 FISHBED</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image52.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;GAF, KDF, LDF, TNA, USSR, CDF, AA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Ground-attack, Interceptor</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.yklmgs3kibvg"><span class="c2">MiG-29 Fulcrum</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image48.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">RU, SAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Ground attack, Counter air fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;L-18 </span><span class="c12">(Serbian version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;RHS AFRF, RHS SAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.crvfpzmqlk29"><span class="c2">Mirage 2000</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image105.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA, HAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Fighter-bomber, Interceptor</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;Mirage 2000EG </span><span class="c35 c12">(Greek export version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;AMF, HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.a54fxcjbdbtt"><span class="c2">MV-22 Osprey</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image45.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;USMC</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 3 with ramp gun</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span>&nbsp;</span><span>VSTOL</span><span class="c0">&nbsp;transport, Cargo</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Ramp gun</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.az6urhdibpwe"><span class="c2">Rafale C</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image64.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1, &nbsp; Rafale B : 2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Multi-role fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;M </span><span class="c12">(carrier version)</span><span>, B </span><span class="c12">(two-seater version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;AMF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.on986wohh7m1"><span class="c2">Su-25 Frogfoot</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image16.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;ADA, AA, </span><span>ChDSZ</span><span>, GAF, KDF, LDF, TNA, CDF, CAF, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span>CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">SAA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;CAS, ground-attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS AFRF, RHS GREF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.2qbiq5jn6iuw"><span class="c2">Su-34 Fullback</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image78.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CDF, CSAT, RU, SLA, AAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Multi-role/air-superiority fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.7svu64jlr7rw"><span class="c2">T-41 Mescalero</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image66.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">LDF, RACS</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light transport, Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Bombs, Rockets, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;Cessna 172 Skyhawk </span><span class="c35 c12">(civilian/transport version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.m0mnw9rdf43o"><span class="c2">T-50 (Su-57) Felon</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image118.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Russia</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;RU</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Stealth, Multi-role fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;RHS AFRF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.ghf3t2x2ijw0"><span class="c2">To-201 Shikra</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image20.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Russia, CSAT</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CSAT</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Stealth, Multi-role/air-superiority fighter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;Stealth</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Jets DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.1kbjvnam06mq"><span class="c2">Tu&ndash;95 BEAR</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image4.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;RU, USSR</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;7</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Strategic bomber</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;RHS AFRF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.y4dfem8wab4t"><span class="c2">V-44X Blackfish</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image100.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;VSTOL transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;Vehicle transport, Gunship</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Apex DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.899k7p82ypd"><span class="c2">Y-32 Wi&rsquo;an</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image88.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>CSAT</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CSAT</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;VSTOL transport, Gunship</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;Vehicle transport</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Apex DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.qoffccce51bg"><span class="c2">Yak-130 / To-199 Neophron</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image36.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>CSAT</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CSAT, SAA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;CAS, Ground-attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h1 class="c7 c23" id="h.ycjpuu9h0yev"><span class="c6 c55">&nbsp; 5. Helicopter</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>&nbsp; &nbsp; This chapter shows a </span><span class="c6">non-exhaustive</span><span>&nbsp;list of </span><span class="c6">Helicopters</span><span class="c0">.<br></span></p><p class="c9"><span>Aircrafts will perform a variety of missions: </span><span class="c6">transport</span><span>, </span><span class="c6">cargo</span><span>, </span><span class="c6">attack</span><span>,</span><span class="c6">&nbsp;medevac</span><span>,</span><span class="c6">&nbsp;rescue </span><span>and </span><span class="c6">utility</span><span class="c0">. </span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">One helicopter was selected from each group to be represented in this manual, as some have different variants available.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">For each, there is a picture, general data, user factions and game information.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Pictures are </span><span class="c6">not to scale</span><span class="c0">.</span></p><h2 class="c8 c11" id="h.vz98khmdr5dp"><span class="c2"></span></h2><h2 class="c8 c11" id="h.3ggh4b62b2we"><span class="c2"></span></h2><h2 class="c8 c11" id="h.5frgmlb9kjx"><span class="c2"></span></h2><p class="c3"><span class="c0"></span></p><h2 class="c8 c11" id="h.m2uvarfbtzfc"><span class="c2"></span></h2><h2 class="c8 c11" id="h.sb92vd2ky05s"><span class="c2"></span></h2><h2 class="c8 c11" id="h.xqgu6x7h8h7w"><span class="c2"></span></h2><h2 class="c8" id="h.q1ot55p1tkna"><span class="c2">AH-1Z Viper</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image28.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;USMC, AAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><h2 class="c8 c11" id="h.hjddadov25qf"><span class="c2"></span></h2><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.lkiag8qrv4y"><span class="c2">AH-6M Little Bird / AH-9 Pawnee</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image14.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, US Army, KeDF, ION, IDF, RACS, Syndikat</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Missiles, Rockets, Gun pods, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;MH-6M / MH-9 </span><span class="c35 c12">(transport version)</span></p><p class="c7"><span class="c12 c26">&hellip;&hellip;&hellip;&hellip;&hellip;.&hellip;.</span><span>MD 500 / M-900 </span><span class="c12">(vanilla version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Vanilla, CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.p74pscvcqo7w"><span class="c2">AH-64 / AH1 Apache</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image49.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;US Army, BAF, IDF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS USAF, HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.tngsc6s3lc77"><span class="c2">AS532 Cougar</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image58.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;AMF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.aisao4gnd98"><span class="c2">AS565 Panther</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image27.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;AMF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.qxykjivc7ujq"><span class="c2">AW159 Wildcat / WY-55 Hellcat</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image12.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">Brazil</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;BAF, HIL, AAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Light attack, Light transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span>&nbsp;None, Missiles, Rockets, Gun pods, Machine </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Vanilla, CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.tjhvv57nar1k"><span class="c2">Bell 412</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image70.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;APD, ION, LFR, Civilian, IDAP</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; &nbsp;3 with commander</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Medevac, Rescue, VIP</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;CH-146 Griffon </span><span class="c35 c12">(military version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.18c2xyknt1s"><span class="c2">CH-47 / HC-4 Chinook</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image86.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, US Army, BAF, HAF, HIL, RACS</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;4</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS USAF, HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.gl71x6ttognt"><span class="c2">CH-47I Chinook / CH-67 Huron</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image102.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 4 with gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Helicopters DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.wu9cfeu2cqqy"><span class="c2">CH-53E Super Stallion</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image18.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;US Army, GER, IDF, USMC</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; GAU-21 : 3</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Ramp gun</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.pr84ft80v223"><span class="c2">CH-146 Griffon</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image71.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USA, Canada</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">FIA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; &nbsp;3 with commander, &nbsp; &nbsp;5 with gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Light attack, Transport, Medevac</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Missiles, Rockets, Gun pods, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;Bell 412 </span><span class="c35 c12">(utility version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.3ryp7kxvbmv9"><span class="c2">EC665 Tiger</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image51.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France, Germany</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;AMF, R3F</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.6su8fe635x1k"><span class="c2">H225M Caracal</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image61.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;4</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;AMF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.wu5q4gwyjmw0"><span class="c2">Ka-50 Black Shark</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image47.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;RU, SLA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;1</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.1d3izdxx7jd2"><span class="c2">Ka-52 Alligator</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image53.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Russia</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;RU</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS AFRF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.hhlzzrx9mw53"><span class="c2">Ka-60 Kasatka</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image55.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Russia</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CSAT, RU, AAF, ION, KeDF </span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 3 with gunner</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span>&nbsp;None, Missiles, Rockets, Gun pods, Machine </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;Harbin ZB9 </span><span class="c35 c12">(Chinese version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Vanilla, CUP, RHS AFRF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.gcbl2owxgii5"><span class="c2">Merlin HC3 / EH101 / &nbsp;CH-49 Mohawk</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image106.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">Italy</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;BAF, ION, AAF, Civilian, IDAP</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 3 with ramp gun, &nbsp; 4 with rescue crew</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Medevac, VIP, Rescue</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Ramp gun</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Vanilla, CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.404e192wub3r"><span class="c2">MH-47E / HC-6 Chinook</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image110.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;US Army, BAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;4</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.spykvnapic94"><span class="c2">Mi-6A Hook</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image96.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CDF, CSAT, CMRS, RU, SLA, TA, UN, Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;5</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod : </span><span class="c0">CUP</span></p><p class="c4"><span class="c5"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.zelxdcym8za7"><span class="c2">Mi-8 Hip</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image77.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USSR</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;..&hellip;</span><span>UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;..&hellip;</span><span>CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span>SuAF</span><span class="c0">, ChDZZ, UPDF, Civilian</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 4 with Gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Cargo, Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Rockets, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;HT-40 / HT48 </span><span class="c35 c12">(Serbian version)</span></p><p class="c7"><span class="c12 c26">&hellip;&hellip;&hellip;&hellip;..&hellip;&hellip;</span><span>Mi-17 </span><span class="c35 c12">(export version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS AFRF, RHS GRF</span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.959e0c1wm4zc"><span class="c2">Mi-24 / Mi-35 Hind</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image50.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USSR, South Africa </span><span class="c12">(Mi-24G)</span><span>&nbsp;</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c65">CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA,</span><span>&nbsp;</span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light transport, Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;P </span><span class="c12">(fix 20mm </span><span class="c12">cannon</span><span class="c12">), </span><span>D / V </span><span class="c35 c12">(12.7mm turret), </span></p><p class="c7"><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span>G / Mk.III / Mk.IV</span><span>&nbsp;</span><span class="c35 c12">(20mm turret),</span></p><p class="c7"><span class="c12 c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;. </span><span>Mi-35 </span><span class="c12">(export version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS AFRF, RHS GREF</span></p><h2 class="c8" id="h.ilbiv2ote08a"><span class="c2">Mi-28N Havok</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image34.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Russia</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;RU</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;RHS AFRF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.w01x51jk2kd6"><span class="c2">Mi-48 Kajman</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image81.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Russia, CSAT</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CSAT</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Light transport, Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Bombs, Missiles, Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.9xtxi1gxzbo5"><span class="c2">Mi-290 Taru</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image90.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : &nbsp;</span><span>CSAT</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;CSAT</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Cargo, Medevac, Utility</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Helicopters DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.7ynebpkqsu0c"><span class="c2">NH90 Ca&iuml;man</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image38.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA, HAF, FIN</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 4 with gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Cargo</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;AMF, HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.q2015veji5ua"><span class="c2">OH-58D Kiowa</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image108.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.rswglowwz3fa"><span class="c2">RAH-66 Comanche / AH-99 Blackfoot</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image9.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : &nbsp;</span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Attack helicopter</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Cannon, Missiles, Rockets</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.4m9sda396ov"><span class="c2">SA-330 Puma</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image46.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>France, UK</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;BAF, KeDF, MGF, RACS</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.p18sj8xttpqr"><span class="c2">A-29 - Super Tucano</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image116.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin :</span><span class="c0">&nbsp;France, UK</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Light attack</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Rockets, Gun pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;AMF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.11dgvy15ts10"><span class="c2">UH-1H Huey</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image67.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span>&nbsp;FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span>TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, </span><span class="c26">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span><span class="c0">IDAP</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 4 with door gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Light attack, Medevac</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Rockets, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;Unarmed, Door gunners, Rocket pods</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS GREF, 3CB Factions</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.ywwxha9884za"><span class="c2">UH-1Y Venom</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image82.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;USMC</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 4 with door gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Transport, Light attack, Medevac</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Rockets, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.ixvcn96h5ooi"><span class="c2">UH-60 Black Hawk</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image103.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;AAF, ANA, US Army, AfghA, IDF, RACS</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;2, &nbsp; 4 with gunners</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Transport, Medevac</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None, Rockets, Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;MH-60 </span><span class="c35 c12">(navy version)</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;CUP, RHS USAF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.bp5m1qo3utgx"><span class="c2">UH-80 Ghost Hawk</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image33.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : &nbsp;</span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, CTRG</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;4</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Stealth, Transport</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Machine guns</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h1 class="c7 c23" id="h.2qo6fgj2o21m"><span class="c55 c6">&nbsp; &nbsp;6. UAV</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>&nbsp; &nbsp; This chapter shows a </span><span class="c6">non-exhaustive</span><span>&nbsp;list of </span><span class="c6">U</span><span>nmanned </span><span class="c6">A</span><span>erial </span><span class="c6">V</span><span class="c0">ehicles.<br></span></p><p class="c9"><span>UAVs will perform a variety of missions: </span><span class="c6">reconnaissance</span><span>, </span><span class="c6">surveillance</span><span>, </span><span class="c6">intelligence</span><span>, </span><span class="c6">targeting</span><span>, and </span><span class="c6">acquisition</span><span class="c0">. </span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">One UAV was selected from each group to be represented in this manual.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">For each, there is a picture, general data, user factions and game information.</span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span>Pictures are </span><span class="c6">not to scale</span><span class="c0">.</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c0">&nbsp;</span></p><h2 class="c8 c11" id="h.pegmobtgy32p"><span class="c2"></span></h2><h2 class="c8" id="h.ggas46r6xucu"><span>AR-2 Darter / </span><span>Tayran</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image21.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Unknown</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, CSAT, AAF, LDF, IDAP</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Reconnaissance, Surveillance, Laser targeting</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Laser Designator</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><h2 class="c8 c11" id="h.bybazhwteehf"><span class="c2"></span></h2><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.i9ipvj6rr5ai"><span>AL-6 </span><span>Pelican</span><span>&nbsp;/ </span><span>Jinaah</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image72.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Unknown</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, CSAT, AAF, LDF, Civilian, IDAP</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span class="c0">&nbsp;Supply transport</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span>&nbsp;</span><span>Medical</span><span class="c0">, Demining</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Laws of War DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.leyzfudcjy9u"><span class="c2">KH-3A Fenghuang</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image11.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>China</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CSAT</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span>&nbsp;Observation, Laser targeting, Air-to-ground fire </span><span class="c26">&hellip;&hellip;&hellip;&hellip;</span><span class="c0">support</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament : </span><span>Missiles</span><span class="c0">, Laser Designator</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;Apex DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.1w3rslwvj0am"><span>MQ</span><span>-</span><span>4A</span><span class="c2">&nbsp;Greyhawk</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image111.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO, CSAT, AAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span>&nbsp;Observation, Laser targeting, Air-to-ground fire </span><span class="c26">&hellip;..&hellip;&hellip;.</span><span class="c0">support</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Bombs, Missiles, Laser Designator</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Vanilla</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.rqjmcl4edibo"><span class="c2">MQ-9 Reaper</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image62.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;US Army, IDF, FRA</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span>&nbsp;Observation, Laser targeting, Air-to-ground fire </span><span class="c26">..&hellip;&hellip;.&hellip;</span><span class="c0">support</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament : </span><span>Bombs, </span><span class="c0">Missiles, Laser Designator</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, AMF, 3CB BAF, USAF Mod</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.yiz049jqw26w"><span class="c2">MQ-12 Falcon</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image112.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span>&nbsp;Observation, Laser targeting, Air-to-ground fire &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="c26">&hellip;&hellip;&hellip;&hellip;</span><span class="c0">support</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Armament :</span><span>&nbsp;</span><span class="c0">Missiles, Rockets, Laser Designator</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Apex DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.cig7aney7glr"><span>Pchela-1T / </span><span>SHMEL</span><span class="c2">-1 / YAK-061</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image114.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>CIS</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;CDF, Russia, Wagner</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Remote terrain observation</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament : </span><span class="c0">None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;CUP, RHS AFRF</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.7x31i3xtmwjw"><span class="c2">Pegasus II</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image74.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span>Greece</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;HAF</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role :</span><span class="c0">&nbsp;Reconnaissance, Surveillance</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Armament : </span><span class="c0">None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span class="c0">&nbsp;HAFM</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.kcv7efpje01g"><span class="c2">UCAV Sentinel</span></h2><p class="c9"><span style="overflow: hidden; display: inline-block; margin: 94.53px -94.53px; border: 0.00px solid #000000; transform: rotate(1.57rad) translateZ(0px); -webkit-transform: rotate(1.57rad) translateZ(0px); width: 429.97px; height: 240.91px;"><img alt="" src="images/image60.jpg" style="width: 429.97px; height: 241.86px; margin-left: 0.00px; margin-top: -0.48px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c9"><span class="c6">Country of origin : </span><span class="c0">USA</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image5.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image2.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image1.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 54.00px; height: 54.00px;"><img alt="" src="images/image7.png" style="width: 54.00px; height: 54.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p><p class="c3"><span class="c0"></span></p><p class="c7"><span class="c6">Side :</span><span class="c0">&nbsp;</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Faction :</span><span class="c0">&nbsp;NATO</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Crew :</span><span class="c0">&nbsp;0</span></p><p class="c4"><span class="c5"></span></p><p class="c7"><span class="c6">Role</span><span class="c6">&nbsp;:</span><span>&nbsp;Observation, Laser targeting, Close air support, </span><span class="c26">&hellip; &hellip;</span><span class="c26 c50">&hellip;</span><span class="c26">.&hellip;&hellip;</span><span class="c0">SEAD</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Armament :</span><span class="c0">&nbsp;Bombs, Missiles, Laser Designator</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">Variant :</span><span class="c0">&nbsp;None</span></p><p class="c4"><span class="c0"></span></p><p class="c7"><span class="c6">DLC/mod :</span><span>&nbsp;Jets DLC</span></p><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h1 class="c7 c23" id="h.2x2w1hk3pq0r"><span class="c55 c6">&nbsp; 7. Glossary</span></h1><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.stqzf9eu1px7"><span class="c2">Factions :</span></h2><p class="c3"><span class="c0"></span></p><a id="t.754148372eb9dd6f96677c0dc2419d6841120c41"></a><a id="t.1"></a><table class="c69"><tr class="c48"><td class="c32" colspan="1" rowspan="1"><p class="c19"><span class="c34">AA</span></p><p class="c19"><span class="c34">AAF</span></p><p class="c19"><span class="c34">ACR</span></p><p class="c19"><span class="c34">ADA</span></p><p class="c19"><span class="c34">AfghA</span></p><p class="c19"><span class="c34">ANA</span></p><p class="c19"><span class="c34">APD</span></p><p class="c19"><span class="c34">BAF</span></p><p class="c19"><span class="c34">CAF</span></p><p class="c19"><span class="c34">CDF</span></p><p class="c19"><span class="c34">ChDKZ</span></p><p class="c19"><span class="c46">ChDSZ</span></p><p class="c19"><span class="c34">ChDZZ</span></p><p class="c19"><span class="c34">CIA</span></p><p class="c19"><span class="c34">CIS</span></p><p class="c19"><span class="c34">CMRS</span></p><p class="c19"><span class="c34">CPD</span></p><p class="c19"><span class="c34">CSAT</span></p><p class="c19"><span class="c34">CTRG</span></p><p class="c19"><span class="c34">FIA</span></p><p class="c19"><span class="c34">FIN</span></p><p class="c19"><span class="c34">FRA</span></p><p class="c19"><span class="c34">GAF</span></p><p class="c19"><span class="c34">GER</span></p><p class="c19"><span class="c34">HAF</span></p><p class="c19"><span class="c34">HIDF</span></p><p class="c19"><span class="c46">HIL</span></p><p class="c19"><span class="c34">IA</span></p><p class="c19"><span class="c34">IDAP</span></p></td><td class="c78" colspan="1" rowspan="1"><p class="c10"><span class="c1">Ardistan Army</span></p><p class="c10"><span class="c1">Altis Armed Forces</span></p><p class="c10"><span class="c1">Army of the Czech Rep.</span></p><p class="c10"><span class="c1">African Desert Army</span></p><p class="c10"><span class="c1">Afghanistan Army</span></p><p class="c10"><span class="c1">Afghanistan National Army</span></p><p class="c10"><span class="c1">Altis Police Department</span></p><p class="c10"><span class="c1">British Armed Forces</span></p><p class="c10"><span class="c1">Chadian Armed Forces</span></p><p class="c10"><span class="c1">Chernarus Defence Forces</span></p><p class="c10"><span class="c1">Chernarussian Movement of the Red Star</span></p><p class="c10"><span class="c1">Chernarussian Movement of the Blue Star</span></p><p class="c10"><span class="c1">Chernarussian Movement of the Green Star</span></p><p class="c10"><span class="c1">Central Intelligence Agency</span></p><p class="c10"><span class="c1">Commonwealth of Independent States</span></p><p class="c10"><span class="c1">Chernarussian Movement of the Red Star</span></p><p class="c10"><span class="c1">Chernarus Police Department</span></p><p class="c10"><span class="c1">Canton Protocol Strategic Alliance Treaty</span></p><p class="c10"><span class="c1">Combat Technology Research Group</span></p><p class="c10"><span class="c1">Freedom and Independence Army</span></p><p class="c10"><span class="c1">Finland Army</span></p><p class="c10"><span class="c1">French Army</span></p><p class="c10"><span class="c1">Grozovia Armed Forces</span></p><p class="c10"><span class="c1">German Army</span></p><p class="c10"><span class="c1">Hellenic Armed Forces</span></p><p class="c10"><span class="c1">Horizon Islands Defence Forces</span></p><p class="c10"><span class="c1">Horizon Islands Legion</span></p><p class="c10"><span class="c1">Iraqi Army (Hussein Regime)</span></p><p class="c10"><span class="c1">International Development &amp; Aid Project</span></p></td><td class="c28" colspan="1" rowspan="1"><p class="c19"><span class="c34">IDF</span></p><p class="c19"><span class="c34">ION</span></p><p class="c19"><span class="c34">IRIA</span></p><p class="c19"><span class="c34">KDF</span></p><p class="c19"><span class="c34">KeDF</span></p><p class="c19"><span class="c46">KPA</span></p><p class="c19"><span class="c34">KRG</span></p><p class="c19"><span class="c34">LDF</span></p><p class="c19"><span class="c34">LFR</span></p><p class="c19"><span class="c34">MDF</span></p><p class="c19"><span class="c34">MGF</span></p><p class="c19"><span class="c34">NA</span></p><p class="c19"><span class="c34">NAPA</span></p><p class="c19"><span class="c34">NATO</span></p><p class="c19"><span class="c34">RACS</span></p><p class="c19"><span class="c34">RU</span></p><p class="c19"><span class="c34">SAA</span></p><p class="c19"><span class="c34">SAF</span></p><p class="c19"><span class="c46">SuAF</span></p><p class="c19"><span class="c34">SLA</span></p><p class="c19"><span class="c46">SSPDF</span></p><p class="c19"><span class="c34">TA</span></p><p class="c19"><span class="c34">TNA</span></p><p class="c19"><span class="c46">UN</span></p><p class="c19"><span class="c34">UPDF</span></p><p class="c19"><span class="c34">USAF</span></p><p class="c19"><span class="c34">US Army</span></p><p class="c19"><span class="c34">USMC</span></p><p class="c19"><span class="c46">USSR</span></p></td><td class="c49" colspan="1" rowspan="1"><p class="c10"><span class="c1">Israeli Defence Forces</span></p><p class="c10"><span class="c1">ION Services</span></p><p class="c10"><span class="c1">Islamic Republic of Iran Army</span></p><p class="c10"><span class="c1">Kolgujev Defence Forces</span></p><p class="c10"><span class="c1">Kenyan Defense Forces</span></p><p class="c10"><span class="c1">Korean People&rsquo;s Army</span></p><p class="c10"><span class="c1">Karzeghistan Royal Guard</span></p><p class="c10"><span class="c1">Livonian Defence Forces</span></p><p class="c10"><span class="c1">Livonian Forest Rangers</span></p><p class="c10"><span class="c1">Malden Defence Forces</span></p><p class="c10"><span class="c1">Malian Government Forces</span></p><p class="c10"><span class="c1">Nigerian Army</span></p><p class="c10"><span class="c1">National Party</span></p><p class="c10"><span class="c1">North Atlantic Treaty Organization</span></p><p class="c10"><span class="c1">Royal Army Corps of Sahrani</span></p><p class="c10"><span class="c1">Russian Army</span></p><p class="c10"><span class="c1">Syrian Arab Army</span></p><p class="c10"><span class="c1">Serbian Armed Forces</span></p><p class="c10"><span class="c1">Sudanese Armed Forces</span></p><p class="c10"><span class="c1">Sahrani Liberation Army</span></p><p class="c10"><span class="c1">South Sudan People&rsquo;s Defence Forces</span></p><p class="c10"><span class="c1">Takistan Army</span></p><p class="c10"><span class="c1">Takistan National Army</span></p><p class="c10"><span class="c1">United Nations</span></p><p class="c10"><span class="c1">Uganda People&rsquo;s Defence Force</span></p><p class="c10"><span class="c1">United States Air Force</span></p><p class="c10"><span class="c1">United States Army</span></p><p class="c10"><span class="c1">United States Marine Corps</span></p><p class="c10"><span class="c1">Union of Soviet Socialist Republics</span></p></td></tr></table><p class="c3"><span class="c0"></span></p><p class="c3"><span class="c0"></span></p><h2 class="c8" id="h.tgclpu218a69"><span class="c2">Mods:</span></h2><p class="c3"><span class="c0"></span></p><a id="t.0126404f0634ec4b2aab387540fb0ba5eba0f8f2"></a><a id="t.2"></a><table class="c69"><tr class="c39"><td class="c32" colspan="1" rowspan="1"><p class="c19"><span class="c34">3CB</span></p><p class="c19"><span class="c34">AFRF</span></p><p class="c19"><span class="c34">AMF</span></p><p class="c19"><span class="c34">BAF</span></p><p class="c19"><span class="c34">CFP</span></p><p class="c19"><span class="c34">CUP</span></p></td><td class="c78" colspan="1" rowspan="1"><p class="c10"><span class="c1">3 Commando Brigade</span></p><p class="c10"><span class="c1">(RHS) Armed Forces of the Russian Federation</span></p><p class="c10"><span class="c1">Arma Mod France</span></p><p class="c10"><span class="c1">(3CB) British Armed Forces </span></p><p class="c10"><span class="c1">Community Faction Project</span></p><p class="c10"><span class="c1">Community Upgrade Project</span></p></td><td class="c28" colspan="1" rowspan="1"><p class="c19"><span class="c34">GREF</span></p><p class="c19"><span class="c34">HAFM</span></p><p class="c19"><span class="c34">RHS</span></p><p class="c19"><span class="c34">SAF</span></p><p class="c19"><span class="c34">USAF</span></p><p class="c19 c43"><span class="c34"></span></p><p class="c19 c43"><span class="c34"></span></p></td><td class="c49" colspan="1" rowspan="1"><p class="c10"><span class="c1">(RHS) Green Forces</span></p><p class="c10"><span class="c1">Hellenic Armed Forces Mod</span></p><p class="c10"><span class="c1">Red Hammer Studio</span></p><p class="c10"><span class="c1">(RHS) Serbian Armed Forces</span></p><p class="c10"><span class="c1">(RHS) United States Armed Forces</span></p></td></tr></table><p class="c3"><span class="c0"></span></p></body></html>
+<!-- Copy and paste the converted output. -->
+
+<!-----
+
+You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
+* ERRORs: 8
+* WARNINGs: 0
+* ALERTS: 9
+
+Conversion time: 6.006 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Mon Jun 19 2023 07:39:11 GMT-0700 (PDT)
+* Source doc: Kopie van TFO Anti-Air Guide
+
+ERROR:
+undefined internal link to this URL: "#heading=h.tsv4r8ddk0d5".link text: Aircraft confusion
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.ltyusmss9b7g".link text: Camouflages and markings
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.6t9vyz19uj39".link text: MANPADS
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.946p0u9cnevh".link text: Aircraft
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.ycjpuu9h0yev".link text: Helicopter 
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.2qo6fgj2o21m".link text: UAV
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.2x2w1hk3pq0r".link text: Glossary
+?Did you generate a TOC with blue links?
+
+
+ERROR:
+undefined internal link to this URL: "#heading=h.k4ihqama6ibf".link text: here
+?Did you generate a TOC with blue links?
+
+* Tables are currently converted to HTML tables.
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 8; WARNINGs: 0; ALERTS: 9.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+<a href="#gdcalert7">alert7</a>
+<a href="#gdcalert8">alert8</a>
+<a href="#gdcalert9">alert9</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
+## TFO Anti-Air Guide (VAR)
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+
+### Presentation :
+
+This guide aims to assist the Anti-Air role in **aircraft recognition and identification**. It provides information on current operational aircraft which may be observed in diverse     **Arma III missions**.
+
+This guide is based on the following mods : **CFP**, **CUP**, **RHS**, **AMF**, **3CB Factions**, **HAFM**
+
+Source : [https://irp.fas.org/doddir/army/fm3-01-80.pdf](https://irp.fas.org/doddir/army/fm3-01-80.pdf)
+
+
+### This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.
+
+
+### Contents : \
+
+
+
+
+1. 
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Aircraft confusion"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Aircraft confusion](#heading=h.tsv4r8ddk0d5)
+2. 
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Camouflages and markings"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Camouflages and markings](#heading=h.ltyusmss9b7g)
+3. 
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "MANPADS"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[MANPADS](#heading=h.6t9vyz19uj39)
+4. 
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Aircraft"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Aircraft](#heading=h.946p0u9cnevh)
+5. 
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Helicopter "). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Helicopter ](#heading=h.ycjpuu9h0yev)
+6. 
+
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "UAV"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[UAV](#heading=h.2qo6fgj2o21m)
+7. 
+
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Glossary"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Glossary](#heading=h.2x2w1hk3pq0r)
+
+
+##   1. Aircraft confusion
+
+Confusing one aircraft with another is a serious problem that must be dealt with **Visual Aircraft Recognition** training. The following are the four types of confusion that can occur, of which the first two are the most dangerous :
+
+
+
+1. When a **friendly** aircraft is recognized and identified as **hostile**. On a mission, this **mistake could cause a <span style="text-decoration:underline;">friendly fire</span>**.
+2. When a **hostile **aircraft is recognized and identified as **friendly**. During hostilities, this action might **allow a hostile aircraft <span style="text-decoration:underline;">entry into the defended area</span>**.
+3. When a **hostile **aircraft is recognized and identified as another **hostile **aircraft. Actions taken against hostile aircraft in combat are the same, so generally there is no impact. However, this situation could have an impact if **friendly factions were flying some aircraft types that are normally considered hostile**.
+4. When a **friendly **aircraft is recognized and identified as another **friendly **aircraft. The actions taken in combat are the same, and there would be an impact only if a **hostile faction was using an aircraft type that is normally considered friendly**.
+
+The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
+
+
+
+  UH-1Y Venom                                                           CH-146 Griffon              
+
+
+
+  F/A-181 Black Wasp II                                            MiG-29
+
+
+##   2. Camouflages and markings
+
+
+### Camouflages :
+
+Combat aircraft usually have a **camouflage finish** with the upper and side surfaces painted in a **disruptive pattern of two or more shades**. This breaks up their form when viewed from above, and aids **concealment when on the ground or flying low**. The undersurfaces are **painted in a light color to blend with the sky** when viewed from below.
+
+The **overall gray color** of most fighter-interceptor aircraft is a camouflage scheme. Other aircraft may be painted a two-tone gray. 
+
+Light aircraft and helicopters will also be camouflage painted** in most cases**, but may be painted an **overall drab color**.
+
+Camouflage will vary between **theaters of operation and**/**or Faction**. 
+
+
+
+  Su-25 - RU                                                                 Mi-8 - ANA
+
+
+
+  L-39 - ADA                                                                 NH90 - HAF
+
+
+
+  JAS 39 - AAF                                                            Mi-24 - CDF
+
+
+### Camouflages hard to distinguish :
+
+A small number of vehicles are used by a lot of **different factions**, especially aircrafts coming from **USSR**/**Russia** where the export of those was very important. This will **increase the difficulty** in the identification of the faction when both **friendlies** AND **hostiles** are using the same aircrafts with **similar camouflages**. 
+
+Here are a few examples of different** factions** using **similar**, if not,** same camo**.
+
+**<span style="text-decoration:underline;">Su-25 :</span>**
+
+
+
+  RU                                                                              IA
+
+
+
+                    RU                                 ChDSZ                           ChDKZ                           ChDZZ
+
+
+
+  AA                                                                              KDF
+
+
+
+  IA                                                                                SuAF
+
+**<span style="text-decoration:underline;">Mi-8 :</span>**
+
+
+
+              GAF                               ChDSZ                              ChDKZ                            ChDZZ
+
+
+
+  ACR                                                                               RU
+
+
+
+            TNA                                  ANA                                   NA                                    IA
+
+
+
+  ANA                                                                            ADA
+
+
+
+              USSR                                KDF                                 SLA                                  SAF
+
+**<span style="text-decoration:underline;">Mi-24 :</span>**
+
+
+
+  CDF                                                                            ACR
+
+
+
+                  TA                                     IA                                  NA                                  ANA
+
+
+
+  RU                                                                              GAF
+
+
+
+              Wagner                              RU                                KDF                                  AA
+
+
+
+  SuAF                                                                          IA
+
+
+### Markings :
+
+**Painted markings and annotations** can also be found on aircraft and helicopters, primarily for identification, making the visual recognition easier. Aircraft markings can includes :
+
+
+
+* **Military aircraft insignia**, applied to military aircraft to identify the nation or branch of military service.
+* **Aircraft registration**, unique alphanumeric string that identifies every aircraft.
+* **Logo**, emblem used by a company or organization.
+* **Invasion stripes**, alternating black and white bands painted on the fuselages and wings _(WWII)_.
+* **Art**, decorative painting or design on the fuselage of an aircraft.
+* **Tail code**, help to identify the unit and base assignment.
+
+This **[List of air forces](https://en.wikipedia.org/wiki/List_of_air_forces)** provides the markings used by each military organization.
+
+When **multiple Factions use the same type of aircraft** _(ex. MI-8: Russia, Chernarus, ANA, Takistan…)_, the markings _(if not the camo)_ may be the **only way to discern between friendly and enemy** _(see examples 
+
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "here"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[here](#heading=h.k4ihqama6ibf))_.
+
+  Livonian roundel                                                      F-22 tail code
+
+  RAF fuselage art                                                      IDAP logo  
+
+  DC-3 registration                                                     Takistan insignia
+
+
+##   3. MANPADS
+
+As infantry, you will be carrying **MANPADS _(Man-Portable Air-Defense Systems)_** on the field.
+
+Depending on the model, the minimum and maximum **engagement range will differ** _(see table below)_, but the **locking system remains the same** and usually is **done automatically** when **aiming at a target**.
+
+It is **important to identify your target** **and his specifications before any engagement**, and to **<span style="text-decoration:underline;">communicate</span> with your squad leader**, as targets like **<span style="text-decoration:underline;">medevacs</span> are not allowed to be engaged** for exemple, which could result in a **war crime**.
+
+It is **<span style="text-decoration:underline;">your responsibility</span>** to **obtain information from the Zeus** about **what aircraft friendly and hostile forces are using **in the mission / campaign.
+
+Here a **non-exhaustive** list of MANPADS available in Arma III : 
+
+         1              2                3               4              5              6               7               8.   
+
+
+<table>
+  <tr>
+   <td>
+    N°
+   </td>
+   <td>
+    Mod
+   </td>
+   <td>
+    Weapon
+   </td>
+   <td>
+    Min. range
+   </td>
+   <td>
+    Max. range
+   </td>
+  </tr>
+  <tr>
+   <td>
+    1
+<p>
+
+    2
+<p>
+
+    3
+<p>
+
+    4
+<p>
+
+    5
+<p>
+
+    6
+<p>
+
+    7
+<p>
+
+    8
+   </td>
+   <td>
+    RHS AFRF
+<p>
+
+    RHS USAF
+<p>
+
+    RHS USAF
+<p>
+
+    CUP
+<p>
+
+    CUP
+<p>
+
+    CUP
+<p>
+
+    CUP
+<p>
+
+    Vanilla
+   </td>
+   <td>
+    9K38 Igla
+<p>
+
+    FIM-92F
+<p>
+
+    FGM-148 Javelin
+<p>
+
+    Igla 9K38
+<p>
+
+    9K32 Strela-2
+<p>
+
+    FIM-92F Stinger  <em>(single use)</em>
+<p>
+
+    FGM-148 Javelin
+<p>
+
+    Titan MPRL
+   </td>
+   <td>
+    300 m
+<p>
+
+    300 m
+<p>
+
+    100 m
+<p>
+
+    100 m
+<p>
+
+    250 m
+<p>
+
+    100 m
+<p>
+
+    100 m
+<p>
+
+    100 m
+   </td>
+   <td>
+    4800 m
+<p>
+
+    6500 m
+<p>
+
+    2500 m
+<p>
+
+    5200 m
+<p>
+
+    3700 m
+<p>
+
+    6000 m
+<p>
+
+    2400 m
+<p>
+
+    3500 m
+   </td>
+  </tr>
+</table>
+
+
+
+##   4. Aircraft
+
+    This chapter shows a **non-exhaustive** list of **Aircrafts**. \
+
+
+Aircrafts will perform a variety of missions: **CAS**, **ground attack**, **transport**,** cargo**,** gunship **and **air superiority**. 
+
+One aircraft was selected from each group to be represented in this manual, as some have different variants available.
+
+For each, there is a picture, general data, user factions and game information.
+
+Pictures are **not to scale**.
+
+
+### A-7H Corsair II
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** HAF
+
+**Crew :** 1
+
+**Role :** CAS, Ground Attack
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** HAFM
+
+
+### A-10 Thunderbolt II / A-164 Wipeout
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO, US Army
+
+**Crew :** 1
+
+**Role :** CAS, Ground Attack
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** Vanilla, CUP, RHS USAF
+
+
+### A-29 Super Tucano
+
+**Country of origin : **Brazil
+
+**Side :** 
+
+**Faction :** HIDF
+
+**Crew :** 2
+
+**Role :** Light attack
+
+**Armament :** Cannon, Bombs, Rockets
+
+**Variant :** None
+
+**DLC/mod :** RHS GREF
+
+
+### A330 Airbus
+
+**Country of origin : **Europe
+
+**Side :** 
+
+**Faction :** Civilian
+
+**Crew :** 2
+
+**Role :** Airliner
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### Aero Commander 500
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** ION, MDF, HIDF, Civilian
+
+**Crew :** 2
+
+**Role :** Light-transport
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** 3CB Factions
+
+
+### AN-2 Antonov
+
+**Country of origin : **USSR, Poland
+
+**Side :** 
+
+
+    **Faction :** FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                                 …………….. Civilian
+
+**Crew :** 2
+
+**Role :** Light-transport, Light attack
+
+**Armament :** Usually none, Bombs, Rockets, Machine guns
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS GREF
+
+
+### AV-8B Harrier II
+
+**Country of origin : **USA, UK
+
+**Side :** 
+
+**Faction :** USMC, BAF, AAF
+
+**Crew :** 1
+
+**Role :** VSTOL fighter, CAS
+
+**Armament :** Cannon, Bombs, Missiles, Rockets, Gun pods
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### Boeing 737
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** Civilian
+
+**Crew :** 2
+
+**Role :** Airliner
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### C-130J Super Hercules
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, …………….. BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS
+
+**Crew :** 2
+
+**Role :** Transport, Cargo, Airdrop
+
+**Armament :** None
+
+**Variant :** AC-130 _(gunship)_
+
+**DLC/mod :** CUP, RHS USAF, HAFM
+
+
+### Cessna 172 Skyhawk
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** ION, LFR, UN, Civilian
+
+**Crew :** 2
+
+**Role :** Light transport
+
+**Armament :** None
+
+**Variant :** T-41 Mescalero _(military version)_
+
+**DLC/mod :** CUP, 3CB Factions
+
+
+### Cessna 400 / Cessna TTx / Caesar BTT 
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, ……………...UN, Syndikat, Civilian
+
+**Crew :** 2
+
+**Role :** Light transport
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** APEX DLC
+
+
+### CASA CN-235
+
+**Country of origin : **Spain, Indonesia
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 2
+
+**Role :** Transport
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** AMF
+
+
+### Douglas C-47 Skytrain 
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** US Army, KRG, TNA, HIDF
+
+**Crew :** 2
+
+**Role :** Transport, Cargo, Light attack
+
+**Armament :** Usually none, Bombs
+
+**Variant :** Douglas DC-3 _(civilian version)_, AC-47 _(gunship)_
+
+_……………….._Lisunov Li-2 _(USSR version)_
+
+**DLC/mod :** CUP, 3CB Factions
+
+
+### Douglas DC-3
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** Civilian
+
+**Crew :** 2
+
+**Role :** Transport, Cargo
+
+**Armament :** None
+
+**Variant :** Douglas C-47 _(military version)_, AC-47 _(gunship)_
+
+_……………….._Lisunov Li-2 _(USSR version)_
+
+**DLC/mod :** CUP, 3CB Factions
+
+
+### F-4 PHANTOM II
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** HAF
+
+**Crew :** 2
+
+**Role :** Fighter-bomber, CAS
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** HAFM
+
+
+### F-16 FIGHTING FALCON
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** HAF
+
+**Crew :** 1,   F-16D : 2
+
+**Role :** Multi-role ground-attack/fighter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** F-16D Block 52+ _(two-seater version)_
+
+**DLC/mod :** HAFM
+
+
+### F/A-181 Black Wasp II
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO
+
+**Crew :** 1
+
+**Role :** Stealth, Multi-role/air-superiority fighter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** Stealth
+
+**DLC/mod :** Jets DLC
+
+
+### F-22 Raptor
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** USAF
+
+**Crew :** 1
+
+**Role :**  Stealth, Air Superiority Fighter, ground-attack
+
+**Armament :** Cannon, Missiles
+
+**Variant : **None
+
+**DLC/mod :** RHS USAF
+
+
+### F-35 Joint Strike Fighter
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** US Army, USMC, BAF, IDF
+
+**Crew :** 1
+
+**Role :** VSTOL Fighter, Strike
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### JAS-39 Gripen / A-149 Gryphon
+
+**Country of origin : **Sweden
+
+**Side :** 
+
+**Faction :** HIL, AAF, LDF, RACS
+
+**Crew :** 1
+
+**Role :** Interceptor, Ground attack
+
+**Armament :** Cannon, Bombs, Missiles
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+### L-39 Albatros / L-159 ALCA / A-143 Buzzard
+
+**Country of origin : **Czechoslovakia
+
+**Side :** 
+
+**Faction :** AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, ………………TA
+
+**Crew :** 1,   L-39ZA : 2
+
+**Role :** Light attack
+
+**Armament :** Bombs, Missiles, Rockets, Gun pods
+
+**Variant :** L-39ZA _(two-seater version)_
+
+**DLC/mod :** CUP, RHS GREF
+
+
+### MD-454 Mystère
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** MDF, HIDF
+
+**Crew :** 1
+
+**Role :** Fighter-bomber
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** 3CB Factions
+
+
+### MiG-21 FISHBED
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** GAF, KDF, LDF, TNA, USSR, CDF, AA
+
+**Crew :** 1
+
+**Role :** Ground-attack, Interceptor
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** 3CB Factions
+
+
+### MiG-29 Fulcrum
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, ………………RU, SAF
+
+**Crew :** 1
+
+**Role :** Ground attack, Counter air fighter
+
+**Armament :** Cannon, Missiles, Rockets
+
+**Variant :** L-18 _(Serbian version)_
+
+**DLC/mod :** RHS AFRF, RHS SAF
+
+
+### Mirage 2000
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** FRA, HAF
+
+**Crew :** 1
+
+**Role :** Fighter-bomber, Interceptor
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** Mirage 2000EG _(Greek export version)_
+
+**DLC/mod :** AMF, HAFM
+
+
+### MV-22 Osprey
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** USMC
+
+**Crew :** 2,   3 with ramp gun
+
+**Role :** VSTOL transport, Cargo
+
+**Armament :** None, Ramp gun
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### Rafale C
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 1,   Rafale B : 2
+
+**Role :** Multi-role fighter
+
+**Armament :** Cannon, Bombs, Missiles
+
+**Variant :** M _(carrier version)_, B _(two-seater version)_
+
+**DLC/mod :** AMF
+
+
+### Su-25 Frogfoot
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** ADA, AA, ChDSZ, GAF, KDF, LDF, TNA, CDF, CAF, ………………CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, ………………SAA
+
+**Crew :** 1
+
+**Role :** CAS, ground-attack
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS AFRF, RHS GREF
+
+
+### Su-34 Fullback
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** CDF, CSAT, RU, SLA, AAF
+
+**Crew :** 2
+
+**Role :** Multi-role/air-superiority fighter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### T-41 Mescalero
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, ………………LDF, RACS
+
+**Crew :** 2
+
+**Role :** Light transport, Light attack
+
+**Armament :** Bombs, Rockets, Machine guns
+
+**Variant :** Cessna 172 Skyhawk _(civilian/transport version)_
+
+**DLC/mod :** CUP, 3CB Factions
+
+
+### T-50 (Su-57) Felon
+
+**Country of origin : **Russia
+
+**Side :** 
+
+**Faction :** RU
+
+**Crew :** 1
+
+**Role :** Stealth, Multi-role fighter
+
+**Armament :** Cannon, Missiles
+
+**Variant :** None
+
+**DLC/mod :** RHS AFRF
+
+
+### To-201 Shikra
+
+**Country of origin : **Russia, CSAT
+
+**Side :** 
+
+**Faction :** CSAT
+
+**Crew :** 1
+
+**Role :** Stealth, Multi-role/air-superiority fighter
+
+**Armament :** Cannon, Bombs, Missiles
+
+**Variant :** Stealth
+
+**DLC/mod :** Jets DLC
+
+
+### Tu–95 BEAR
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** RU, USSR
+
+**Crew :** 7
+
+**Role :** Strategic bomber
+
+**Armament :** Cannon, Bombs, Missiles
+
+**Variant :** None
+
+**DLC/mod :** RHS AFRF
+
+
+### V-44X Blackfish
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO
+
+**Crew :** 1
+
+**Role :** VSTOL transport
+
+**Armament :** None
+
+**Variant :** Vehicle transport, Gunship
+
+**DLC/mod :** Apex DLC
+
+
+### Y-32 Wi’an
+
+**Country of origin : **CSAT
+
+**Side :** 
+
+**Faction :** CSAT
+
+**Crew :** 2
+
+**Role :** VSTOL transport, Gunship
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** Vehicle transport
+
+**DLC/mod :** Apex DLC
+
+
+### Yak-130 / To-199 Neophron
+
+**Country of origin : **CSAT
+
+**Side :** 
+
+**Faction :** CSAT, SAA
+
+**Crew :** 1
+
+**Role :** CAS, Ground-attack
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+##   5. Helicopter
+
+    This chapter shows a **non-exhaustive** list of **Helicopters**. \
+
+
+Aircrafts will perform a variety of missions: **transport**, **cargo**, **attack**,** medevac**,** rescue **and **utility**. 
+
+One helicopter was selected from each group to be represented in this manual, as some have different variants available.
+
+For each, there is a picture, general data, user factions and game information.
+
+Pictures are **not to scale**.
+
+
+### AH-1Z Viper
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** USMC, AAF
+
+**Crew :** 2
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS USAF
+
+
+### AH-6M Little Bird / AH-9 Pawnee
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO, US Army, KeDF, ION, IDF, RACS, Syndikat
+
+**Crew :** 2
+
+**Role :** Light attack
+
+**Armament :** Missiles, Rockets, Gun pods, Machine guns
+
+**Variant :** MH-6M / MH-9 _(transport version)_
+
+_…………….…._MD 500 / M-900 _(vanilla version)_
+
+**DLC/mod :** Vanilla, CUP, RHS USAF
+
+
+### AH-64 / AH1 Apache
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** US Army, BAF, IDF
+
+**Crew :** 2
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS USAF, HAFM
+
+
+### AS532 Cougar
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 2
+
+**Role :** Transport
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** AMF
+
+
+### AS565 Panther
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 2
+
+**Role :** Light transport
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** AMF
+
+
+### AW159 Wildcat / WY-55 Hellcat
+
+**Country of origin : **Brazil
+
+**Side :** 
+
+**Faction :** BAF, HIL, AAF
+
+**Crew :** 2
+
+**Role :** Light attack, Light transport
+
+**Armament :** None, Missiles, Rockets, Gun pods, Machine ……………………guns
+
+**Variant :** None
+
+**DLC/mod :** Vanilla, CUP
+
+
+### Bell 412
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** APD, ION, LFR, Civilian, IDAP
+
+**Crew :** 2,    3 with commander
+
+**Role :** Transport, Medevac, Rescue, VIP
+
+**Armament :** None
+
+**Variant :** CH-146 Griffon _(military version)_
+
+**DLC/mod :** CUP, 3CB Factions
+
+
+### CH-47 / HC-4 Chinook
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO, US Army, BAF, HAF, HIL, RACS
+
+**Crew :** 4
+
+**Role :** Transport, Cargo
+
+**Armament :** Machine guns
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS USAF, HAFM
+
+
+### CH-47I Chinook / CH-67 Huron
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO
+
+**Crew :** 2,   4 with gunners
+
+**Role :** Transport, Cargo
+
+**Armament :** None, Machine guns
+
+**Variant :** None
+
+**DLC/mod :** Helicopters DLC
+
+
+### CH-53E Super Stallion
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** US Army, GER, IDF, USMC
+
+**Crew :** 2,   GAU-21 : 3
+
+**Role :** Transport, Cargo
+
+**Armament :** None, Ramp gun
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS USAF
+
+
+### CH-146 Griffon
+
+**Country of origin : **USA, Canada
+
+**Side :** 
+
+**Faction :** AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, ………………FIA
+
+**Crew :** 2,    3 with commander,    5 with gunners
+
+**Role :** Light attack, Transport, Medevac
+
+**Armament :** Missiles, Rockets, Gun pods, Machine guns
+
+**Variant :** Bell 412 _(utility version)_
+
+**DLC/mod :** CUP, 3CB Factions
+
+
+### EC665 Tiger
+
+**Country of origin : **France, Germany
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 2
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** AMF, R3F
+
+
+### H225M Caracal
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 4
+
+**Role :** Transport, Cargo
+
+**Armament :** Machine guns
+
+**Variant :** None
+
+**DLC/mod :** AMF
+
+
+### Ka-50 Black Shark
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** RU, SLA
+
+**Crew :** 1
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets, Gun pods
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### Ka-52 Alligator
+
+**Country of origin : **Russia
+
+**Side :** 
+
+**Faction :** RU
+
+**Crew :** 2
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets, Gun pods
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS AFRF
+
+
+### Ka-60 Kasatka
+
+**Country of origin : **Russia
+
+**Side :** 
+
+**Faction :** CSAT, RU, AAF, ION, KeDF 
+
+**Crew :** 2,   3 with gunner
+
+**Role :** Transport, Light attack
+
+**Armament :** None, Missiles, Rockets, Gun pods, Machine ……………………guns
+
+**Variant :** Harbin ZB9 _(Chinese version)_
+
+**DLC/mod :** Vanilla, CUP, RHS AFRF
+
+
+### Merlin HC3 / EH101 /  CH-49 Mohawk
+
+**Country of origin : **Italy
+
+**Side :** 
+
+**Faction :** BAF, ION, AAF, Civilian, IDAP
+
+**Crew :** 2,   3 with ramp gun,   4 with rescue crew
+
+**Role :** Transport, Medevac, VIP, Rescue
+
+**Armament :** None, Ramp gun
+
+**Variant :** None
+
+**DLC/mod :** Vanilla, CUP, RHS USAF
+
+
+### MH-47E / HC-6 Chinook
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** US Army, BAF
+
+**Crew :** 4
+
+**Role :** Transport, Cargo
+
+**Armament :** Machine guns
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### Mi-6A Hook
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** CDF, CSAT, CMRS, RU, SLA, TA, UN, Civilian
+
+**Crew :** 5
+
+**Role :** Transport, Cargo
+
+**Armament :** Cannon, Bombs, Rockets
+
+**Variant :** None
+
+**DLC/mod : **CUP
+
+
+### Mi-8 Hip
+
+**Country of origin : **USSR
+
+**Side :** 
+
+**Faction :** ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, …………..…UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, …………..…CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, ………………SuAF, ChDZZ, UPDF, Civilian
+
+**Crew :** 2,   4 with Gunners
+
+**Role :** Transport, Cargo, Light attack
+
+**Armament :** None, Rockets, Machine guns
+
+**Variant :** HT-40 / HT48 _(Serbian version)_
+
+_…………..……_Mi-17 _(export version)_
+
+**DLC/mod :** CUP, RHS AFRF, RHS GRF
+
+
+### Mi-24 / Mi-35 Hind
+
+**Country of origin : **USSR, South Africa _(Mi-24G)_ 
+
+**Side :** 
+
+**Faction :** ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, ………………CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, ………………Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
+
+**Crew :** 2
+
+**Role :** Light transport, Attack helicopter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets
+
+**Variant :** P _(fix 20mm cannon), _D / V _(12.7mm turret), _
+
+………………G / Mk.III / Mk.IV _(20mm turret),_
+
+_………………. _Mi-35 _(export version)_
+
+**DLC/mod :** CUP, RHS AFRF, RHS GREF
+
+
+### Mi-28N Havok
+
+**Country of origin : **Russia
+
+**Side :** 
+
+**Faction :** RU
+
+**Crew :** 2
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets, Gun pods
+
+**Variant :** None
+
+**DLC/mod :** RHS AFRF
+
+
+### Mi-48 Kajman
+
+**Country of origin : **Russia, CSAT
+
+**Side :** 
+
+**Faction :** CSAT
+
+**Crew :** 2
+
+**Role :** Light transport, Attack helicopter
+
+**Armament :** Cannon, Bombs, Missiles, Rockets, Gun pods
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+### Mi-290 Taru
+
+**Country of origin :  **CSAT
+
+**Side :** 
+
+**Faction :** CSAT
+
+**Crew :** 2
+
+**Role :** Transport, Cargo, Medevac, Utility
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** Helicopters DLC
+
+
+### NH90 Caïman
+
+**Country of origin : **France
+
+**Side :** 
+
+**Faction :** FRA, HAF, FIN
+
+**Crew :** 2,   4 with gunners
+
+**Role :** Transport, Cargo
+
+**Armament :** None, Machine guns
+
+**Variant :** None
+
+**DLC/mod :** AMF, HAFM
+
+
+### OH-58D Kiowa
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** HAF
+
+**Crew :** 2
+
+**Role :** Light attack
+
+**Armament :** Cannon, Rockets
+
+**Variant :** None
+
+**DLC/mod :** HAFM
+
+
+### RAH-66 Comanche / AH-99 Blackfoot
+
+**Country of origin :  **USA
+
+**Side :** 
+
+**Faction :** NATO
+
+**Crew :** 2
+
+**Role :** Attack helicopter
+
+**Armament :** Cannon, Missiles, Rockets
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+### SA-330 Puma
+
+**Country of origin : **France, UK
+
+**Side :** 
+
+**Faction :** BAF, KeDF, MGF, RACS
+
+**Crew :** 2
+
+**Role :** Transport
+
+**Armament :** None
+
+**Variant :** None
+
+**DLC/mod :** CUP
+
+
+### A-29 - Super Tucano
+
+**Country of origin :** France, UK
+
+**Side :** 
+
+**Faction :** FRA
+
+**Crew :** 2
+
+**Role :** Light attack
+
+**Armament :** Rockets, Gun pods
+
+**Variant :** None
+
+**DLC/mod :** AMF
+
+
+### UH-1H Huey
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, ………………TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, ………………IDAP
+
+**Crew :** 2,   4 with door gunners
+
+**Role :** Transport, Light attack, Medevac
+
+**Armament :** None, Rockets, Machine guns
+
+**Variant :** Unarmed, Door gunners, Rocket pods
+
+**DLC/mod :** CUP, RHS GREF, 3CB Factions
+
+
+### UH-1Y Venom
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** USMC
+
+**Crew :** 2,   4 with door gunners
+
+**Role :** Transport, Light attack, Medevac
+
+**Armament :** None, Rockets, Machine guns
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS USAF
+
+
+### UH-60 Black Hawk
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** AAF, ANA, US Army, AfghA, IDF, RACS
+
+**Crew :** 2,   4 with gunners
+
+**Role :** Transport, Medevac
+
+**Armament :** None, Rockets, Machine guns
+
+**Variant :** MH-60 _(navy version)_
+
+**DLC/mod :** CUP, RHS USAF
+
+
+### UH-80 Ghost Hawk
+
+**Country of origin :  **USA
+
+**Side :** 
+
+**Faction :** NATO, CTRG
+
+**Crew :** 4
+
+**Role :** Stealth, Transport
+
+**Armament :** Machine guns
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+##    6. UAV
+
+    This chapter shows a **non-exhaustive** list of **U**nmanned **A**erial **V**ehicles. \
+
+
+UAVs will perform a variety of missions: **reconnaissance**, **surveillance**, **intelligence**, **targeting**, and **acquisition**. 
+
+One UAV was selected from each group to be represented in this manual.
+
+For each, there is a picture, general data, user factions and game information.
+
+Pictures are **not to scale**.
+
+ 
+
+
+### AR-2 Darter / Tayran
+
+**Country of origin : **Unknown
+
+**Side :** 
+
+**Faction :** NATO, CSAT, AAF, LDF, IDAP
+
+**Crew :** 0
+
+**Role :** Reconnaissance, Surveillance, Laser targeting
+
+**Armament :** Laser Designator
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+### AL-6 Pelican / Jinaah
+
+**Country of origin : **Unknown
+
+**Side :** 
+
+**Faction :** NATO, CSAT, AAF, LDF, Civilian, IDAP
+
+**Crew :** 0
+
+**Role :** Supply transport
+
+**Armament :** None
+
+**Variant :** Medical, Demining
+
+**DLC/mod :** Laws of War DLC
+
+
+### KH-3A Fenghuang
+
+**Country of origin : **China
+
+**Side :** 
+
+**Faction :** CSAT
+
+**Crew :** 0
+
+**Role :** Observation, Laser targeting, Air-to-ground fire …………support
+
+**Armament : **Missiles, Laser Designator
+
+**Variant :** None
+
+**DLC/mod :** Apex DLC
+
+
+### MQ-4A Greyhawk
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO, CSAT, AAF
+
+**Crew :** 0
+
+**Role :** Observation, Laser targeting, Air-to-ground fire …..…….support
+
+**Armament :** Bombs, Missiles, Laser Designator
+
+**Variant :** None
+
+**DLC/mod :** Vanilla
+
+
+### MQ-9 Reaper
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** US Army, IDF, FRA
+
+**Crew :** 0
+
+**Role :** Observation, Laser targeting, Air-to-ground fire ..…….…support
+
+**Armament : **Bombs, Missiles, Laser Designator
+
+**Variant :** None
+
+**DLC/mod :** CUP, AMF, 3CB BAF, USAF Mod
+
+
+### MQ-12 Falcon
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO
+
+**Crew :** 0
+
+**Role :** Observation, Laser targeting, Air-to-ground fire           …………support
+
+**Armament :** Missiles, Rockets, Laser Designator
+
+**Variant :** None
+
+**DLC/mod :** Apex DLC
+
+
+### Pchela-1T / SHMEL-1 / YAK-061
+
+**Country of origin : **CIS
+
+**Side :** 
+
+**Faction :** CDF, Russia, Wagner
+
+**Crew :** 0
+
+**Role :** Remote terrain observation
+
+**Armament : **None
+
+**Variant :** None
+
+**DLC/mod :** CUP, RHS AFRF
+
+
+### Pegasus II
+
+**Country of origin : **Greece
+
+**Side :** 
+
+**Faction :** HAF
+
+**Crew :** 0
+
+**Role :** Reconnaissance, Surveillance
+
+**Armament : **None
+
+**Variant :** None
+
+**DLC/mod :** HAFM
+
+
+### UCAV Sentinel
+
+**Country of origin : **USA
+
+**Side :** 
+
+**Faction :** NATO
+
+**Crew :** 0
+
+**Role :** Observation, Laser targeting, Close air support, … …….……SEAD
+
+**Armament :** Bombs, Missiles, Laser Designator
+
+**Variant :** None
+
+**DLC/mod :** Jets DLC
+
+
+##   7. Glossary
+
+
+### Factions :
+
+
+<table>
+  <tr>
+   <td><p style="text-align: right">
+AA</p>
+
+<p>
+<p style="text-align: right">
+AAF</p>
+
+<p>
+<p style="text-align: right">
+ACR</p>
+
+<p>
+<p style="text-align: right">
+ADA</p>
+
+<p>
+<p style="text-align: right">
+AfghA</p>
+
+<p>
+<p style="text-align: right">
+ANA</p>
+
+<p>
+<p style="text-align: right">
+APD</p>
+
+<p>
+<p style="text-align: right">
+BAF</p>
+
+<p>
+<p style="text-align: right">
+CAF</p>
+
+<p>
+<p style="text-align: right">
+CDF</p>
+
+<p>
+<p style="text-align: right">
+ChDKZ</p>
+
+<p>
+<p style="text-align: right">
+ChDSZ</p>
+
+<p>
+<p style="text-align: right">
+ChDZZ</p>
+
+<p>
+<p style="text-align: right">
+CIA</p>
+
+<p>
+<p style="text-align: right">
+CIS</p>
+
+<p>
+<p style="text-align: right">
+CMRS</p>
+
+<p>
+<p style="text-align: right">
+CPD</p>
+
+<p>
+<p style="text-align: right">
+CSAT</p>
+
+<p>
+<p style="text-align: right">
+CTRG</p>
+
+<p>
+<p style="text-align: right">
+FIA</p>
+
+<p>
+<p style="text-align: right">
+FIN</p>
+
+<p>
+<p style="text-align: right">
+FRA</p>
+
+<p>
+<p style="text-align: right">
+GAF</p>
+
+<p>
+<p style="text-align: right">
+GER</p>
+
+<p>
+<p style="text-align: right">
+HAF</p>
+
+<p>
+<p style="text-align: right">
+HIDF</p>
+
+<p>
+<p style="text-align: right">
+HIL</p>
+
+<p>
+<p style="text-align: right">
+IA</p>
+
+<p>
+<p style="text-align: right">
+IDAP</p>
+
+   </td>
+   <td>Ardistan Army
+<p>
+Altis Armed Forces
+<p>
+Army of the Czech Rep.
+<p>
+African Desert Army
+<p>
+Afghanistan Army
+<p>
+Afghanistan National Army
+<p>
+Altis Police Department
+<p>
+British Armed Forces
+<p>
+Chadian Armed Forces
+<p>
+Chernarus Defence Forces
+<p>
+Chernarussian Movement of the Red Star
+<p>
+Chernarussian Movement of the Blue Star
+<p>
+Chernarussian Movement of the Green Star
+<p>
+Central Intelligence Agency
+<p>
+Commonwealth of Independent States
+<p>
+Chernarussian Movement of the Red Star
+<p>
+Chernarus Police Department
+<p>
+Canton Protocol Strategic Alliance Treaty
+<p>
+Combat Technology Research Group
+<p>
+Freedom and Independence Army
+<p>
+Finland Army
+<p>
+French Army
+<p>
+Grozovia Armed Forces
+<p>
+German Army
+<p>
+Hellenic Armed Forces
+<p>
+Horizon Islands Defence Forces
+<p>
+Horizon Islands Legion
+<p>
+Iraqi Army (Hussein Regime)
+<p>
+International Development & Aid Project
+   </td>
+   <td><p style="text-align: right">
+IDF</p>
+
+<p>
+<p style="text-align: right">
+ION</p>
+
+<p>
+<p style="text-align: right">
+IRIA</p>
+
+<p>
+<p style="text-align: right">
+KDF</p>
+
+<p>
+<p style="text-align: right">
+KeDF</p>
+
+<p>
+<p style="text-align: right">
+KPA</p>
+
+<p>
+<p style="text-align: right">
+KRG</p>
+
+<p>
+<p style="text-align: right">
+LDF</p>
+
+<p>
+<p style="text-align: right">
+LFR</p>
+
+<p>
+<p style="text-align: right">
+MDF</p>
+
+<p>
+<p style="text-align: right">
+MGF</p>
+
+<p>
+<p style="text-align: right">
+NA</p>
+
+<p>
+<p style="text-align: right">
+NAPA</p>
+
+<p>
+<p style="text-align: right">
+NATO</p>
+
+<p>
+<p style="text-align: right">
+RACS</p>
+
+<p>
+<p style="text-align: right">
+RU</p>
+
+<p>
+<p style="text-align: right">
+SAA</p>
+
+<p>
+<p style="text-align: right">
+SAF</p>
+
+<p>
+<p style="text-align: right">
+SuAF</p>
+
+<p>
+<p style="text-align: right">
+SLA</p>
+
+<p>
+<p style="text-align: right">
+SSPDF</p>
+
+<p>
+<p style="text-align: right">
+TA</p>
+
+<p>
+<p style="text-align: right">
+TNA</p>
+
+<p>
+<p style="text-align: right">
+UN</p>
+
+<p>
+<p style="text-align: right">
+UPDF</p>
+
+<p>
+<p style="text-align: right">
+USAF</p>
+
+<p>
+<p style="text-align: right">
+US Army</p>
+
+<p>
+<p style="text-align: right">
+USMC</p>
+
+<p>
+<p style="text-align: right">
+USSR</p>
+
+   </td>
+   <td>Israeli Defence Forces
+<p>
+ION Services
+<p>
+Islamic Republic of Iran Army
+<p>
+Kolgujev Defence Forces
+<p>
+Kenyan Defense Forces
+<p>
+Korean People’s Army
+<p>
+Karzeghistan Royal Guard
+<p>
+Livonian Defence Forces
+<p>
+Livonian Forest Rangers
+<p>
+Malden Defence Forces
+<p>
+Malian Government Forces
+<p>
+Nigerian Army
+<p>
+National Party
+<p>
+North Atlantic Treaty Organization
+<p>
+Royal Army Corps of Sahrani
+<p>
+Russian Army
+<p>
+Syrian Arab Army
+<p>
+Serbian Armed Forces
+<p>
+Sudanese Armed Forces
+<p>
+Sahrani Liberation Army
+<p>
+South Sudan People’s Defence Forces
+<p>
+Takistan Army
+<p>
+Takistan National Army
+<p>
+United Nations
+<p>
+Uganda People’s Defence Force
+<p>
+United States Air Force
+<p>
+United States Army
+<p>
+United States Marine Corps
+<p>
+Union of Soviet Socialist Republics
+   </td>
+  </tr>
+</table>
+
+
+
+### Mods:
+
+
+<table>
+  <tr>
+   <td><p style="text-align: right">
+3CB</p>
+
+<p>
+<p style="text-align: right">
+AFRF</p>
+
+<p>
+<p style="text-align: right">
+AMF</p>
+
+<p>
+<p style="text-align: right">
+BAF</p>
+
+<p>
+<p style="text-align: right">
+CFP</p>
+
+<p>
+<p style="text-align: right">
+CUP</p>
+
+   </td>
+   <td>3 Commando Brigade
+<p>
+(RHS) Armed Forces of the Russian Federation
+<p>
+Arma Mod France
+<p>
+(3CB) British Armed Forces 
+<p>
+Community Faction Project
+<p>
+Community Upgrade Project
+   </td>
+   <td><p style="text-align: right">
+GREF</p>
+
+<p>
+<p style="text-align: right">
+HAFM</p>
+
+<p>
+<p style="text-align: right">
+RHS</p>
+
+<p>
+<p style="text-align: right">
+SAF</p>
+
+<p>
+<p style="text-align: right">
+USAF</p>
+
+   </td>
+   <td>(RHS) Green Forces
+<p>
+Hellenic Armed Forces Mod
+<p>
+Red Hammer Studio
+<p>
+(RHS) Serbian Armed Forces
+<p>
+(RHS) United States Armed Forces
+   </td>
+  </tr>
+</table>
+
