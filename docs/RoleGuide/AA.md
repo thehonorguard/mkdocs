@@ -1,24 +1,18 @@
 # My Two-Column Page
 
+this bit can be done in **markdown**. 
+
+
+
 <div class="md-html">
   <div class="column-left">
     <h2>Left Column</h2>
-    <p>This is the content for the left column.</p>
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
+    <p>While this is done in HTML</p>
   </div>
   
   <div class="column-right">
     <h2>Right Column</h2>
     <p>This is the content for the right column.</p>
-    <ol>
-      <li>Step 1</li>
-      <li>Step 2</li>
-      <li>Step 3</li>
-    </ol>
   </div>
 </div>
 
@@ -43,3 +37,5 @@
   clear: both;
 }
 </style>
+
+and this bit is in **markdown** again. ":-)"
