@@ -50,3 +50,15 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | Entrenchment tool    |                     |
 |                     | Map tools            |                     |
 |                     | IR strobe            |                     |
+
+
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
