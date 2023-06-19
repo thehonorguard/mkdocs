@@ -38,4 +38,4 @@ this bit can be done in **markdown**.
 }
 </style>
 
-and this bit is in **markdown** again. ":-)"
+and this bit is in **markdown** again. :-)
