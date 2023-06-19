@@ -306,151 +306,79 @@ It is **important to identify your target** **and his specifications before any 
 It is **<span style="text-decoration:underline;">your responsibility</span>** to **obtain information from the Zeus** about **what aircraft friendly and hostile forces are using **in the mission / campaign.
 
 Here a **non-exhaustive** list of MANPADS available in Arma III : 
+| N°                     | Mod                                                       | Weapon                                                                                                                    | Min. range                                             | Max. range                                                     |
+| ---------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| 1
 
-         1              2                3               4              5              6               7               8.   
+2
 
+3
 
-<table>
-  <tr>
-   <td>
-    N°
-   </td>
-   <td>
-    Mod
-   </td>
-   <td>
-    Weapon
-   </td>
-   <td>
-    Min. range
-   </td>
-   <td>
-    Max. range
-   </td>
-  </tr>
-  <tr>
-   <td>
-    1
-<p>
+4
 
-    2
-<p>
+5
 
-    3
-<p>
+6
 
-    4
-<p>
+7
 
-    5
-<p>
+8 | RHS AFRF
 
-    6
-<p>
+RHS USAF
 
-    7
-<p>
+RHS USAF
 
-    8
-   </td>
-   <td>
-    RHS AFRF
-<p>
+CUP
 
-    RHS USAF
-<p>
+CUP
 
-    RHS USAF
-<p>
+CUP
 
-    CUP
-<p>
+CUP
 
-    CUP
-<p>
+Vanilla | 9K38 Igla
 
-    CUP
-<p>
+FIM-92F
 
-    CUP
-<p>
+FGM-148 Javelin
 
-    Vanilla
-   </td>
-   <td>
-    9K38 Igla
-<p>
+Igla 9K38
 
-    FIM-92F
-<p>
+9K32 Strela-2
 
-    FGM-148 Javelin
-<p>
+FIM-92F Stinger  (single use)
 
-    Igla 9K38
-<p>
+FGM-148 Javelin
 
-    9K32 Strela-2
-<p>
+Titan MPRL | 300 m
 
-    FIM-92F Stinger  <em>(single use)</em>
-<p>
+300 m
 
-    FGM-148 Javelin
-<p>
+100 m
 
-    Titan MPRL
-   </td>
-   <td>
-    300 m
-<p>
+100 m
 
-    300 m
-<p>
+250 m
 
-    100 m
-<p>
+100 m
 
-    100 m
-<p>
+100 m
 
-    250 m
-<p>
+100 m | 4800 m
 
-    100 m
-<p>
+6500 m
 
-    100 m
-<p>
+2500 m
 
-    100 m
-   </td>
-   <td>
-    4800 m
-<p>
+5200 m
 
-    6500 m
-<p>
+3700 m
 
-    2500 m
-<p>
+6000 m
 
-    5200 m
-<p>
+2400 m
 
-    3700 m
-<p>
-
-    6000 m
-<p>
-
-    2400 m
-<p>
-
-    3500 m
-   </td>
-  </tr>
-</table>
+3500 m |
 
 
 

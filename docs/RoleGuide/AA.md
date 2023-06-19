@@ -1,7 +1,6 @@
 # My Two-Column Page
 
-this bit can be done in **markdown**. 
-
+Lets first start with that Scorboutiko is a lazy fuck. 
 
 
 <div class="md-html">
