@@ -42,6 +42,7 @@ nav:
   - Role Guide:
     - Platoonleader: RoleGuide/pltleader.md
     - Medic: RoleGuide/medic.md
+    - AA: RoleGuide/AA.md
 
 markdown_extensions:
   - toc:
