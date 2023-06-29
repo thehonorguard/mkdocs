@@ -76,9 +76,13 @@ Our promotion policy is based on individual combat and overall unit performance.
 While in TFO servers, you must always conduct yourself in correlation with our unit standards. **No exceptions**. Keep the chats completely clear of all religious, ethnic, or political debates and topics. Racism, sexism, or any sort of discrimination is not accepted at any time in any form. 
 Do not make any remarks that could potentially offend another player. Keep in mind that our unit is made up of all kinds of people, from different areas and backgrounds. Do not take a chance by making an inconsiderate comment.
 
-#### 3.1.1 In TeamSpeak/Discord (audio):  NEEDS WORK
+#### 3.1.1-a In TeamSpeak (audio):  
 
-Soundboards (TeamSpeak only), text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Everyone is to use push to talk on any of the public channels. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
+Soundboards, text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Push-to-talk is enabled by default and will not be deactivated for anyone, even per request. Playing music is not allowed on Teamspeak. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
+
+#### 3.1.1-b In Discord (audio): 
+
+Text to speech, bots (at the exception of the music bot), and or any sort of audio abuse are not allowed in our Discord. Please consider other players in the voice channel you are in. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. 
 
 #### 3.1.2 In TeamSpeak/Discord (text):
 
