@@ -23,7 +23,7 @@ You can use this feature for any topic related to TFO, such as a problem with an
 
 ## I. Recruit Eligibility & Requirements
 
-Welcome to Task Force Omega. Before proceeding to the regular chats and getting your role assigned, please make sure to follow the following rules. The rules will be split into 'Discord Rules' and 'in-game [Arma] Rules,' which must be followed. 
+Welcome to Task Force Omega. Before proceeding to the regular chats and getting your role assigned, please make sure to follow the following rules. The rules will be split into 'Discord/TeamSpeak Rules' and 'in-game [Arma] Rules,' which must be followed. 
 </br>**Please keep in mind our unit is 16+.**
 
 ### 1.1 Location & Time zone:
