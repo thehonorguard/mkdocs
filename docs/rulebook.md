@@ -1,15 +1,14 @@
 # Task Force Omega Rulebook
 
-<!-- no toc -->
-> #### ***IN-GAME RULES ARE IN PLACE FROM JOINING OPERATION UNTIL OFFICIAL ENDING OF THE OPERATION (according to the mission maker).***
-> </br>
-> 
-<!-- no toc -->
-> #### ***We require that EVERY member of TFO to abide by the rules, even outside of TFO's own servers, as you carry the image and reputation of the unit with you.***
+> #### ***IN-GAME RULES ARE IN PLACE FROM JOINING OPERATION UNTIL OFFICIAL ENDING OF THE OPERATION (according to the mission maker).***{.unlisted .unnumbered}
+ </br>
+
+
+> #### ***We require that EVERY member of TFO to abide by the rules, even outside of TFO's own servers, as you carry the image and reputation of the unit with you.***{.unlisted .unnumbered}
 </br>
 
-<!-- no toc -->
-> #### **Failure to abide by these rules can lead to disciplinary actions, including (but not limited to): *simple written warnings, server mute, time-outs, strikes, demotions, or even a temporary (or even definitive) removal of your role and permissions from the servers.***
+
+> #### **Failure to abide by these rules can lead to disciplinary actions, including (but not limited to): *simple written warnings, server mute, time-outs, strikes, demotions, or even a temporary (or even definitive) removal of your role and permissions from the servers.*** {.unlisted .unnumbered}
 
 </br>
 
