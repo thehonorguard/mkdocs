@@ -1,8 +1,28 @@
 # Task Force Omega Rulebook
 
+> ### ***IN-GAME RULES ARE IN PLACE FROM JOINING OPERATION UNTIL OFFICIAL ENDING OF THE OPERATION (according to the mission maker).***
+> </br>
+> 
+> ***We require that EVERY member of TFO to abide by the rules, even outside of TFO's own servers, as you carry the image and reputation of the unit with you.***
+</br>
+
+> ### **Failure to abide by these rules can lead to disciplinary actions, including (but not limited to): *simple written warnings, server mute, time-outs, strikes, demotions, or even a temporary (or even definitive) removal of your role and permissions from the servers.***
+
+</br>
+
+## Tickets, or how to contact moderation
+
+On Discord, there is a channel named "#support-tickets" available for you. 
+To create a ticket, simply click on the "Create ticket" button and compose your message. This ticket is accessible to all admins and moderators. 
+
+We strongly suggest that you utilize this feature instead of sending a direct message to a single admin, as it enables a quick resolution of any issues and ensures that all messages are logged for future reference.
+
+You can use this feature for any topic related to TFO, such as a problem with another member, a report request, or even ideas to improve the team !
+
 ## I. Recruit Eligibility & Requirements
 
-Welcome to Task Force Omega. Before proceeding to the regular chats and getting your role assigned, please make sure to follow the following rules. The rules will be split into 'Discord Rules' and 'in-game [Arma] Rules,' which must be followed.
+Welcome to Task Force Omega. Before proceeding to the regular chats and getting your role assigned, please make sure to follow the following rules. The rules will be split into 'Discord Rules' and 'in-game [Arma] Rules,' which must be followed. 
+### **Please keep in mind our unit is 16+.**
 
 ### 1.1 Location & Time zone:
 
@@ -83,6 +103,7 @@ Soundboards, text to speech, bots, and or any sort of audio abuse are not allowe
 #### 3.1.1-b In Discord (audio): 
 
 Text to speech, bots (at the exception of the music bot), and or any sort of audio abuse are not allowed in our Discord. Please consider other players in the voice channel you are in. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. 
+Moderating a voice channel is not easy. If anything happens and an admin is not in the VC, please contact administration and moderation via a support ticket.
 
 #### 3.1.2 In TeamSpeak/Discord (text):
 
@@ -148,6 +169,8 @@ Make an open effort to help newer players to the game. Experience levels vary ac
 Remember that even when you are not in our servers, you represent the clan. Always uphold a positive standard when in additional private or public servers. Represent our unit well.
 
 ## IV. On-Base and In-game Rules
+
+> #### ***REMINDER: IN-GAME RULES ARE IN PLACE FROM JOINING OPERATION UNTIL OFFICIAL ENDING OF THE OPERATION (according to the mission maker).***
 
 ### 4.1 Weapon Safety
 
