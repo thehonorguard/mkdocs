@@ -5,7 +5,7 @@
 | Primary weapon      | 7.62 DMR             |                     |
 | Primary ammo        | 7.62 20Rnd x 10      |                     |
 | Optic magnification | 4x-6x                |                     |
-| Secondary weapon    | Pistol / GL          |                     |
+| Secondary weapon    | Pistol               |                     |
 | Secondary ammo      | Pistol mag x 2       |                     |
 |                     |                      |                     |
 |Throwables/explosives| **Day only**         | **Night Only**      |
