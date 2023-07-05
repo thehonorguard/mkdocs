@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Task Force Omega current Chain Of Command and roster enrollment
 
 ## COC - Chain of Command

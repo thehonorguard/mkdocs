@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 | Ranks                   | Short | Emblem | Specialised roles | Description                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------- | ----- | :-: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Recruit                 | RCT.  |        | 0                 | Fresh recruit of the unit, has not completed basic combat training.<br>Is expected to schedule one as soon as possible.<br>Can be kicked without warning if inactive for 1 month.<br><br>available roles: rifleman                                                                                                                                                                                                             |
