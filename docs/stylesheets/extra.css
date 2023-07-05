@@ -4,16 +4,23 @@
     border-bottom: none;
     border-left: none;
     border-top: none;
+    vertical-align: middle;
 }
 
 .md-typeset__table {
     line-height: 1;
+    vertical-align: middle;
 }
 
 .md-typeset__table table:not([class]) {
     font-size: .74rem;
     border-right: none;
+    vertical-align: middle;
 }
+
+.mkdocs-table td {
+    vertical-align: middle;
+  }
 
 .md-typeset__table table:not([class]) td,
 .md-typeset__table table:not([class]) th {
@@ -32,6 +39,3 @@
 /*previously 25,25,1 */   
 }
 
-.mkdocs-table td {
-    vertical-align: middle;
-  }
