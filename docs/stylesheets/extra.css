@@ -4,36 +4,30 @@
     border-bottom: none;
     border-left: none;
     border-top: none;
-    vertical-align: center;
 }
 
 .md-typeset__table {
     line-height: 1;
-    vertical-align: center;
 }
 
 .md-typeset__table table:not([class]) {
     font-size: .74rem;
     border-right: none;
-    vertical-align: center;
 }
 
 .md-typeset__table table:not([class]) td,
 .md-typeset__table table:not([class]) th {
     padding: 6px;
-    vertical-align: center;
 /*previously 9px */   
 }
 
 /* light mode alternating table bg colors */
 .md-typeset__table tr:nth-child(2n) {
     background-color: #f8f8f8;
-    vertical-align: center;
 }
 
 /* dark mode alternating table bg colors */
 [data-md-color-scheme="slate"] .md-typeset__table tr:nth-child(2n) {
     background-color: hsla(var(--md-hue),10%,25%,1);
-    vertical-align: center;
 /*previously 25,25,1 */   
 }
