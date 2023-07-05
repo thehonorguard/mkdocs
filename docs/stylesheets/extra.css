@@ -4,15 +4,18 @@
     border-bottom: none;
     border-left: none;
     border-top: none;
+    vertical-align: center;
 }
 
 .md-typeset__table {
     line-height: 1;
+    vertical-align: center;
 }
 
 .md-typeset__table table:not([class]) {
     font-size: .74rem;
     border-right: none;
+    vertical-align: center;
 }
 
 .md-typeset__table table:not([class]) td,
