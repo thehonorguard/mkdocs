@@ -6,6 +6,10 @@
 
 ![PDF](/mkdocs/docs/assets/tfo-aa-guide.pdf "PDF")
 
+![PDF](/docs/tfo-aa-guide.pdf "PDF")
+
+![PDF](/tfo-aa-guide.pdf "PDF")
+
 <object data="/docs/assets/tfo-aa-guide.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="/docs/assets/tfo-aa-guide.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/assets/tfo-aa-guide.pdf">Download PDF</a>.</p>
@@ -32,7 +36,21 @@
     </embed>
 </object>
 
+<object data="/docs/tfo-aa-guide.pdf" type="application/pdf" width="1000px" height="700px">
+    <embed src="/docs/tfo-aa-guide.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/tfo-aa-guide.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<object data="/tfo-aa-guide.pdf" type="application/pdf" width="1000px" height="700px">
+    <embed src="/tfo-aa-guide.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/tfo-aa-guide.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 1st: /docs/assets/tfo-aa-guide.pdf<br>
 2nd: /docs/RoleGuide/assets/tfo-aa-guide.pdf<br>
 3rd: mkdocs/docs/assets/tfo-aa-guide.pdf<br>
-4th: /mkdocs/docs/assets/tfo-aa-guide.pdf
+4th: /mkdocs/docs/assets/tfo-aa-guide.pdf<br>
+5th: /docs/tfo-aa-guide.pdf<br>
+6th: /tfo-aa-guide.pdf
