@@ -23,8 +23,8 @@
 
 ## Enrolled infantry
 
-| Player             | | Rank      |                                              | Status   |
-| -                  |-|:-:        | :-:                                          | -:       |
+| Player             | | Rank      |                                              | 
+| -                  |-|:-:        | :-:                                          | 
 | Ember         | | SPC2 | ![](assets/images/Ranks/small/SPC2Black.png) | Active   |
 | Polka         | | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Arkin         | | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
