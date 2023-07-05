@@ -21,12 +21,12 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 
 ## Loadout
 
-|Catagory             | Contents             |                     |
+|Category             | Contents             |                     |
 |---------------------|----------------------|---------------------|
-| Primary weapon      | 5.56 AR              |                     |
+| Primary weapon      | 5.56 AR w/ GL        |                     |
 | Primary ammo        | 30rnd 5.56 x 8       |                     |
 | Optic magnification | 1x-2x                |                     |
-| Secondary weapon    | Pistol / GL          |                     |
+| Secondary weapon    | Pistol               |                     |
 | Secondary ammo      | Pistol mag x 2       |                     |
 | Launcher            | Single-use Launcher  |                     |
 |                     |                      |                     |
