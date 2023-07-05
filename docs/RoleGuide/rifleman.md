@@ -1,4 +1,4 @@
-# Rifleman
+## Rifleman
 
 As a rifleman, your job is to take orders and execute them as effectively as possible. 
 
@@ -15,15 +15,14 @@ Always be alert, always be scanning, and provide security when halted.
 - **Maintain appropriate positioning.**</br> 
   The rifleman should generally be within shouting distance of their assigned buddy teammates, and oftentimes much closer.
 
-# LAT 
-Another variant of the riflman, is the LAT (Light Anti tank).
+## LAT 
+Another variant of the rifleman, is the LAT (Light Anti tank).
 
 There's no big difference, except the LAT carries a AT4 single-use launcher, in case of enemy vehicle presence.
 LAT aren't allowed to shoot unless told otherwise by COC.
 
 
-
-## Loadout
+# Common loadout
 
 |Category             | Contents             |                     |
 |---------------------|----------------------|---------------------|
@@ -32,7 +31,7 @@ LAT aren't allowed to shoot unless told otherwise by COC.
 | Optic magnification | 1x-2x                |                     |
 | Secondary weapon    | Pistol               |                     |
 | Secondary ammo      | Pistol mag x 2       |                     |
-| Launcher (LAT only) | Single-use Launcher  |                     |
+| Launcher *(LAT only)*| Single-use Launcher  |                     |
 |                     |                      |                     |
 |Throwables/explosives| ***Day only***       | ***Night Only***    |
 |                     | 2x Frag              | 2x Frag             |
