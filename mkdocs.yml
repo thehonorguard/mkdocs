@@ -44,8 +44,14 @@ nav:
     - Squad leader: RoleGuide/sql.md
     - Medic: RoleGuide/medic.md
     - CLS: RoleGuide/cls.md
+    - Rifleman + LAT: RoleGuide/rifleman.md
     - AA: RoleGuide/AA.md
     - AA2: RoleGuide/AA2.md
+    - Auto Rifleman: RoleGuide/AR.md
+    - Anti Tank: RoleGuide/AT.md
+    - Marksmen: RoleGuide/marksmen.md
+    - Engineer: RoleGuide/eod.md
+    - Grenadier: RoleGuide/grenadier.md
     
 
 markdown_extensions:
