@@ -31,3 +31,7 @@
     background-color: hsla(var(--md-hue),10%,25%,1);
 /*previously 25,25,1 */   
 }
+
+.mkdocs-table td {
+    vertical-align: middle;
+  }
