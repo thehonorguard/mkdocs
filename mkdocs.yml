@@ -6,7 +6,10 @@ theme:
   favicon: images/favicon.ico
   name: "material"
 
+copyright: Copyright &copy; 2016 - 2023 Task Force Omega
 
+extra:
+  generator: false
 
   palette:
     # Palette toggle for light mode
@@ -33,6 +36,8 @@ features:
   - navigation.top
   - toc.follow
   - header.autohide
+  - navigation.footer
+
 
 nav:
   - Intro: index.md
