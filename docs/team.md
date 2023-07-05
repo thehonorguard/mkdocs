@@ -2,7 +2,7 @@
 
 ## COC - Chain of Command
  
-| Player           | |Rank       |                                        |
+| Player           | |Rank       |                                        | 
 | -                |-|:-:        | :-:                                    |
 | </br>Gibbs, H    | | </br>MAJ  | ![](assets/images/Ranks/small/MAJ.png) | Active   |
 | </br>Animate     | | </br>CPT  | ![](assets/images/Ranks/small/CPT.png) | Active   |
@@ -23,7 +23,7 @@
 
 ## Enrolled infantry
 
-| Player             | | Rank      |                                              |          |
+| Player             | | Rank      |                                              | Status   |
 | -                  |-|:-:        | :-:                                          | -:       |
 | </br>Ember         | | </br>SPC2 | ![](assets/images/Ranks/small/SPC2Black.png) | Active   |
 | </br>Polka         | | </br>SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |

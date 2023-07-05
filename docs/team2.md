@@ -2,20 +2,20 @@
 
 ## COC - Chain of Command
  
-| Player           | |Rank       |                                        |          | 
+| Player           | |Rank       |                                        | Status   | 
 | -                |-|:-:        | :-:                                    | -:       |
-| </br>Gibbs, H    | | </br>MAJ  | ![](assets/images/Ranks/small/MAJ.png) | Active   |
-| </br>Animate     | | </br>CPT  | ![](assets/images/Ranks/small/CPT.png) | Active   |
-| </br>Scorboutiko | | </br>CPT  | ![](assets/images/Ranks/small/CPT.png) | Active   |
-| </br>Dacie       | | </br>1LT  | ![](assets/images/Ranks/small/1LT.png) | Active   |
-| </br>Scorpion    | | </br>2LT  | ![](assets/images/Ranks/small/2LT.png) | Active   |
-| </br>Mikael      | | </br>SSG  | ![](assets/images/Ranks/small/SSGBlack.png) | Active   |
-| </br>Nzero       | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | Active   |
-| </br>Tex         | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | Active   |
-| </br>Bones       | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | Active   |
-| </br>Pankie      | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | LOA |
-| </br>Rakija      | | </br>CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
-| </br>Chayros     | | </br>CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
+| </br>Gibbs, H    | | </br>MAJ  | ![](assets/images/Ranks/small/MAJ.png) | </br>Active   |
+| </br>Animate     | | </br>CPT  | ![](assets/images/Ranks/small/CPT.png) | </br>Active   |
+| </br>Scorboutiko | | </br>CPT  | ![](assets/images/Ranks/small/CPT.png) | </br>Active   |
+| </br>Dacie       | | </br>1LT  | ![](assets/images/Ranks/small/1LT.png) | </br>Active   |
+| </br>Scorpion    | | </br>2LT  | ![](assets/images/Ranks/small/2LT.png) | </br>Active   |
+| </br>Mikael      | | </br>SSG  | ![](assets/images/Ranks/small/SSGBlack.png) | </br>Active   |
+| </br>Nzero       | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>Active   |
+| </br>Tex         | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>Active   |
+| </br>Bones       | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>Active   |
+| </br>Pankie      | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>LOA |
+| </br>Rakija      | | </br>CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | </br>Active   |
+| </br>Chayros     | | </br>CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | </br>Active   |
 
 
 </br>
@@ -23,7 +23,7 @@
 
 ## Enrolled infantry
 
-| Player             | | Rank      |                                              |          |
+| Player             | | Rank      |                                              | Status   |
 | -                  |-|:-:        | :-:                                          | -:       |
 | </br>Ember         | | </br>SPC2 | ![](assets/images/Ranks/small/SPC2Black.png) | Active   |
 | </br>Polka         | | </br>SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
