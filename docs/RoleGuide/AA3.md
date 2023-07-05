@@ -1,5 +1,5 @@
-# Guide iframe from GDoc 100vw*100vh
-<iframe width=100vw height=100vh src="https://docs.google.com/document/d/e/2PACX-1vTbllRni_dey3vMfO2d0ZpTnrJMKnRGMJDdNXaJIkRSHYidJedXB0Vu2iS1WtpcQwIOV3v3dIU59505/pub?embedded=true"></iframe>
+# Guide iframe from GDoc 100%*500px
+<iframe width=100% height=500px src="https://docs.google.com/document/d/e/2PACX-1vTbllRni_dey3vMfO2d0ZpTnrJMKnRGMJDdNXaJIkRSHYidJedXB0Vu2iS1WtpcQwIOV3v3dIU59505/pub?embedded=true"></iframe>
 <br>
 <br>
 
