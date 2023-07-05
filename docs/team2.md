@@ -13,7 +13,7 @@
 | </br>Nzero       | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>Active   |
 | </br>Tex         | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>Active   |
 | </br>Bones       | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>Active   |
-| </br>Pankie      | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>LOA |
+| </br>Pankie      | | </br>SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | </br>*LOA* |
 | </br>Rakija      | | </br>CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | </br>Active   |
 | </br>Chayros     | | </br>CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | </br>Active   |
 
