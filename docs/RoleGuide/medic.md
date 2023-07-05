@@ -1,4 +1,3 @@
-For CLS, see <a href="/mkdocs/RoleGuide/cls/">here</a>
 # Medic
 
 This guide is written primarily for new medics,  but should have enough info for even experienced medics so learn something. I understand  many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
@@ -22,7 +21,7 @@ Normally there would be different classes of medical personnel with different ro
 
 ### Combat lifesaver (CLS)
 
- This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier.  His job is to  stabilise the soldier as fast as possible,  and  make sure they are either good to go or are stable enough to be medivaced.
+ This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier.  His job is to stabilise the soldier as fast as possible,  and  make sure they are either good to go or are stable enough to be medivaced.<br>
  Full role presentation and loadout is available <a href="/mkdocs/RoleGuide/cls/">here</a>.
 
 ### Medic

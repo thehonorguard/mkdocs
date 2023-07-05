@@ -1,7 +1,6 @@
-For Squad Leader, see <a href="/mkdocs/RoleGuide/sql/">here</a>
-
-
 # Platoon Leader
+
+For Squad Leader, see <a href="/mkdocs/RoleGuide/sql/">here</a>
 
 In the immersive world of Arma 3 mil-sim units, the platoon leader serves as the commanding officer responsible for leading and coordinating a group of soldiers in intense combat scenarios. With an unwavering commitment to excellence and a strategic mindset, the platoon leader exemplifies the epitome of tactical leadership.
 

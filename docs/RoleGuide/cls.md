@@ -1,7 +1,7 @@
 For Medic, see <a href="/mkdocs/RoleGuide/medic/">here</a>
 
 # CLS , or Combat Light Saver
-A CLS is primarily a rifleman, but with more advanced medical training than everyone else. Meaning, he can be a firsts reponsder on the battlefield, to try to save and stabilize colleagues, until the medic is on scene
+A CLS is primarily a rifleman, but with more advanced medical training than everyone else. Meaning, he can be a first responder on the battlefield, to try to save and stabilize colleagues, until the medic arrives on scene.
 
 | Category              | Contents            |                     |
 | --------------------- | ------------------- | ------------------- |
