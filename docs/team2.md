@@ -1,6 +1,6 @@
-Task Force Omega current Chain Of Command and roster enrollment
+# Task Force Omega current Chain Of Command and roster enrollment
 
- # COC
+## COC - Chain of Command
  
 |Player||Rank|| 
 | ----------- |-|:----:| :-: |
@@ -18,7 +18,7 @@ Task Force Omega current Chain Of Command and roster enrollment
 </br>
 </br>
 
- # Enrolled infantry
+## Enrolled infantry
 
  
 | Player        || Rank | |          |
