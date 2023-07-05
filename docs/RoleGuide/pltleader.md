@@ -1,4 +1,4 @@
-For Squad Leader, see <a href="mkdocs/RoleGuide/sql/">here</a>
+For Squad Leader, see <a href="/mkdocs/RoleGuide/sql/">here</a>
 
 
 # Platoon Leader

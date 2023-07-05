@@ -1,8 +1,5 @@
 For Platoon Leader, see <a href="/mkdocs/RoleGuide/pltleader/">here</a>
 
-For Platoon Leader, see <a href="/docs/RoleGuide/pltleader.md">here</a>
-
-
 ## Loadout
 
 |Catagory             | Contents             |                     |

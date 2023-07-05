@@ -1,4 +1,4 @@
-For CLS, see <a href="mkdocs/RoleGuide/cls/">here</a>
+For CLS, see <a href="/mkdocs/RoleGuide/cls/">here</a>
 # Medic
 
 This guide is written primarily for new medics,  but should have enough info for even experienced medics so learn something. I understand  many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
