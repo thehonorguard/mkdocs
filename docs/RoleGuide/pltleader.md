@@ -1,3 +1,6 @@
+For Squad Leader, see <a href="mkdocs/RoleGuide/sql/">here</a>
+
+
 # Platoon Leader
 
 In the immersive world of Arma 3 mil-sim units, the platoon leader serves as the commanding officer responsible for leading and coordinating a group of soldiers in intense combat scenarios. With an unwavering commitment to excellence and a strategic mindset, the platoon leader exemplifies the epitome of tactical leadership.
@@ -36,7 +39,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | 10x 40mm HE          |                     |
 |                     | 2x red smoke 40mm    |                     |
 |                     |                      |                     |
-| Medical             | Packing x15          |                     |
+| Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
 |                     | 1x Painkillers       |                     |
 |                     | 2x Splints           |                     |
@@ -49,8 +52,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | Earplugs             |                     |
 |                     | Entrenchment tool    |                     |
 |                     | Map tools            |                     |
-|                     | IR strobe            |                     |
-
+|                     |                      | IR strobe           |
 
 
 <table>
