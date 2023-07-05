@@ -2,6 +2,9 @@
 
 ![PDF](/docs/RoleGuide/assets/tfo-aa-guide.pdf "PDF")
 
+![PDF](mkdocs/docs/assets/tfo-aa-guide.pdf "PDF")
+
+![PDF](/mkdocs/docs/assets/tfo-aa-guide.pdf "PDF")
 
 <object data="/docs/assets/tfo-aa-guide.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="/docs/assets/tfo-aa-guide.pdf">
@@ -31,5 +34,5 @@
 
 1st: /docs/assets/tfo-aa-guide.pdf<br>
 2nd: /docs/RoleGuide/assets/tfo-aa-guide.pdf<br>
-3rd: mkdocs/docs/assets/tfo-aa-guide.pdf
+3rd: mkdocs/docs/assets/tfo-aa-guide.pdf<br>
 4th: /mkdocs/docs/assets/tfo-aa-guide.pdf
