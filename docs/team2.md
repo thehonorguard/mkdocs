@@ -50,3 +50,10 @@
 | </br>Banana        | | </br>PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | </br>Aryctix       | | </br>PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | </br>Danny         | | </br>PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+
+## Retired soldiers
+
+| Player             | | Rank      |                                              | Status   |
+| -                  |-|:-:        | :-:                                          | -:       |
+| </br>BlueDevil     | | </br>1LT  | ![](assets/images/Ranks/small/1LT.png)       | *Retired*|
+
