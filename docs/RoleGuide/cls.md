@@ -29,6 +29,5 @@ A CLS is primarily a rifleman, but with more advanced medical training than ever
 |                       |                     |                     |
 | Radio                 | 2x AN-343           |                     |
 |                       |                     |                     |
-| Misc                  | 2 Cable ties        |                     |
+| Misc                  | 2 Cable ties        | IR strobe           |
 |                       | Earplugs            |                     |
-|                       |                     | IR strobe           |

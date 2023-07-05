@@ -48,11 +48,10 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 | Radio               | AN-343               |                     |
 |                     | AN-152               |                     |
 |                     |                      |                     |
-| Misc                | 2 Cable ties         |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
 |                     | Entrenchment tool    |                     |
 |                     | Map tools            |                     |
-|                     |                      | IR strobe           |
 
 
 <table>

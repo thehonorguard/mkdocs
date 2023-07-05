@@ -21,11 +21,10 @@
 |                     |                      |                     |
 | Radio               | AN-343               |                     |
 |                     |                      |                     |
-| Misc                | 2 Cable ties         |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
 |                     | Toolkit              |                     |
 |                     | Mine detector        |                     |
 |                     | Wire cutters         |                     |
 |                     | Defusal kit          |                     |
 |                     | Firing device        |                     |
-|                     |                      | IR strobe           |

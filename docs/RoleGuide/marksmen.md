@@ -20,6 +20,5 @@
 |                     |                      |                     |
 | Radio               | AN-343               |                     |
 |                     |                      |                     |
-| Misc                | 2 Cable ties         |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
-|                     |                      | IR strobe           |

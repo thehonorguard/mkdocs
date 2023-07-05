@@ -29,8 +29,7 @@ For Platoon Leader, see <a href="/mkdocs/RoleGuide/pltleader/">here</a>
 | Radio               | AN-343               |                     |
 |                     | AN-152               |                     |
 |                     |                      |                     |
-| Misc                | 2 Cable ties         |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
 |                     | Entrenchment tool    |                     |
 |                     | Map tools            |                     |
-|                     |                      | IR strobe           |
