@@ -1,7 +1,7 @@
-![PDF](\assets\tfo-aa-guide.pdf "PDF")
+![PDF](\docs\RoleGuide\assets\tfo-aa-guide.pdf "PDF")
 
-<object data="\assets\tfo-aa-guide.pdf" type="application/pdf" width="1000px" height="700px">
-    <embed src="\assets\tfo-aa-guide.pdf">
+<object data="docs\RoleGuide\assets\tfo-aa-guide.pdf" type="application/pdf" width="1000px" height="700px">
+    <embed src="docs\RoleGuide\assets\tfo-aa-guide.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="\assets\tfo-aa-guide.pdf">Download PDF</a>.</p>
     </embed>
 </object>
