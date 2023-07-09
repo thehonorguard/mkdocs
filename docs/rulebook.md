@@ -89,7 +89,7 @@ Audio and video recording or streaming is strictly prohibited during all trainin
 
 ### 2.7 Promotion Policy
 
-Our promotion policy is based on individual combat and overall unit performance. Kills will not get you rank. Often times, element leaders will recognize their soldiers for all actions unit related, in or out of game, and recommend them for a promotion or award. Ranks are something to congratulate other members on achieving, not show jealousy and the "it should have been me" mentality. For a full rank list, please check this sheet.
+Our promotion policy is based on individual combat and overall unit performance. Kills will not get you rank. Often times, element leaders will recognize their soldiers for all actions unit related, in or out of game, and recommend them for a promotion or award. Ranks are something to congratulate other members on achieving, not show jealousy and the "it should have been me" mentality. For a full rank list, please check <a href="/mkdocs/ranks/">here</a>.
 
 ## III. Unit Personal Behavior
 
