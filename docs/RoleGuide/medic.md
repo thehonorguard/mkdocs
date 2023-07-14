@@ -112,7 +112,7 @@ For two of them, an IV of Lorazepam (if the patient is concious), and then Etomi
 - Comminuted  fracture:
 - Inspect fracture
 - Incision (uses 1 scalpel)
-- Expose (uses the retractor)
+- Expose (with the retractor)
 - Clamp (with the clamp)
 - Open reduction (uses 1 bone plate)
 
@@ -224,10 +224,10 @@ For all non-medical personnel we recommended to take the following medical suppl
 |                       | 3x Chest seals      |                     |
 |                       | 2x Naloxone         |                     |
 |                       | 5x Atropine         |                     |
-|                       | 5x Bone plate       |                     |
+|                       | 5x Bone plates      |                     |
 |                       | 1x Clamp            |                     |
 |                       | 1x Retractor        |                     |
-|                       | 5x Scalpel          |                     |
+|                       | 5x Scalpels         |                     |
 |                       | 10x Etomidate       |                     |
 |                       | 5x Lorazepam        |                     |
 |                       | 5x 250ml Saline     |                     |
