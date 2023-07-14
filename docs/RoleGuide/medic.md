@@ -77,9 +77,6 @@ Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquet
 | Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.\*\*- Slow bleeding.\*                                                               |
 | Fractures        | Fracture of fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \-increased weapon sway (when arms) -inability to jog or run (when legs) -might cause more wounds. |
 
-## Fractures
-
-Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal. So are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, apply a splint to their fractured limb.
 
 To treat these injuries, you have four types of bandages, tourniquets and a splint at your disposal:
 
@@ -87,15 +84,49 @@ Basic: A medium-effect, medium-sealing bandage with medium delay for your every-
 Packing: Identical effect to basics, high chance to reopen, but excellent delay until a wound bothers you again. Basically an in-combat ‘fix now, medic later’ solution. A rifleman's best friend.
 Elastic: Highest effect, worst chance to reopen, lowest delay. These are great to get through an emergency, but otherwise inefficient.
 QuikClot: Lowest effect, lowest chance to reopen, medium delay. Its low effect means it’s great for small wounds, but needs substantial volume for large wounds; then used in calm situations with a large supply
-Splint: An instant fix to fractures.
 Tourniquet: Stops bleeding by cutting off blood flow to the limb. Becomes painful after 2 minutes. Blocks injections and vitals. Not applicable to head or torso.
 
-Below there is a table that combines the previous discussed wounds and bandages. There are many of these tables roaming the internet. And with a lack of official up-to-date documentation on the subject, it's hard to verify these numbers.
-They do however, seem very reasonable and consistent among other tables, and therefore I consider them as true.
-+
+
 Choosing bandages
 In an ideal situation you will apply the type bandages with the highest effectiveness per wound.
 But in a combat situation, time is of the essence, and that might need you to “slap” a bandage on there as fast as you can. Which particular bandage that should be is very debatable. Elastic bandages are quick and very effective, but they tend to reopen fast, this however is no problem for a medic, since you have the option to stitch wounds up before they reopen.
+
+
+## Fractures
+
+Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal. So are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, apply a splint to their fractured limb.
+
+Advanced fractures makes it a bit harder for medics and CLS to treat on the field.
+
+There is now 3 types of fractures, depicted below: 
+For two of them, an IV of Lorazepam (if the patient is concious), and then Etomidate (reapply every 90 seconds) is necessary to relieve the pain caused by the treatment of the fracture. (The simple fracture just need a dose of morphine)
+
+- Compound fracture:
+
+- Inspect fracture
+- Incision (uses 1 scalpel)
+- Expose (with the retractor)
+- Irrigate wound (uses 1 250ml Saline)
+- Open reduction (uses 1 bone plate)
+
+- Comminuted  fracture:
+- Inspect fracture
+- Incision (uses 1 scalpel)
+- Expose (uses the retractor)
+- Clamp (with the clamp)
+- Open reduction (uses 1 bone plate)
+
+- Simple fracture:
+-- Inspect fracture
+-- Push Morphine
+-- Perform closed reduction
+
+When treatment is finished, a Flumazenil IV is required to remove the sedation. (Except for the simple fracture)
+You can then reorient the patient to wake him up.
+
+
+Splints: An instant fix to fractures. (Used in case of emergency by the SQL. Not recommended, unless there is no medic on the team)
+
 
 ## Auto injectors
 
@@ -193,14 +224,15 @@ For all non-medical personnel we recommended to take the following medical suppl
 |                       | 3x Chest seals      |                     |
 |                       | 2x Naloxone         |                     |
 |                       | 5x Atropine         |                     |
-|                       | 5x Bone plate   |   |
-|                       | 1x Clamp        |   |
-|   | 1x Retractor    |   |
-|   | 5x Scalpel      |   |
-|   | 10x Etomidate   |   |
-|   | 5x Lorazepam    |   |
-|   | 5x 250ml Saline |   |
-|   | 5x Flumazenil   |
+|                       | 5x Bone plate       |                     |
+|                       | 1x Clamp            |                     |
+|                       | 1x Retractor        |                     |
+|                       | 5x Scalpel          |                     |
+|                       | 10x Etomidate       |                     |
+|                       | 5x Lorazepam        |                     |
+|                       | 5x 250ml Saline     |                     |
+|                       | 5x Flumazenil       |                     |
+|                       |                     |                     |
 | Radio                 | 2x AN-343           |                     |
 |                       | AN-152              |                     |
 |                       |                     |                     |
