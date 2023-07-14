@@ -25,7 +25,6 @@ One of the roles of the CLS, is to support the medic is asked to, and return to 
 |                       | 1x Painkiller box   |                     |
 |                       | 8x Morphine         |                     |
 |                       | 4x Epinephrine      |                     |
-|                       | 4x Splints          |                     |
 |                       | 5x 500ml saline     |                     |
 |                       | 2x 1000ml saline    |                     |
 |                       | 8x 16g IV           |                     |

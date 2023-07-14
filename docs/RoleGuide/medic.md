@@ -154,8 +154,7 @@ For all non-medical personnel we recommended to take the following medical suppl
 
 |                |
 | -------------- |
-| 2x Tourniquets |
-| 2x Splints     |
+| 4x Tourniquets |
 | 1x Painkillers |
 | 15x Packing    |
 
@@ -193,8 +192,15 @@ For all non-medical personnel we recommended to take the following medical suppl
 |                       | Surgical kit        |                     |
 |                       | 3x Chest seals      |                     |
 |                       | 2x Naloxone         |                     |
-|                       | 2x Atropine         |                     |
-|                       |                     |                     |
+|                       | 5x Atropine         |                     |
+|                       | 5x Bone plate   |   |
+|                       | 1x Clamp        |   |
+|   | 1x Retractor    |   |
+|   | 5x Scalpel      |   |
+|   | 10x Etomidate   |   |
+|   | 5x Lorazepam    |   |
+|   | 5x 250ml Saline |   |
+|   | 5x Flumazenil   |
 | Radio                 | 2x AN-343           |                     |
 |                       | AN-152              |                     |
 |                       |                     |                     |

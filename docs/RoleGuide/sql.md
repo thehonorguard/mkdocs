@@ -23,7 +23,7 @@ For Platoon Leader, see <a href="/mkdocs/RoleGuide/pltleader/">here</a>
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
 |                     | 1x Painkillers       |                     |
-|                     | 2x Splints           |                     |
+|                     | 10x Splints          |                     |
 |                     | 1x Guedel tube       |                     |
 |                     |                      |                     |
 | Radio               | AN-343               |                     |

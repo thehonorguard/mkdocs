@@ -16,7 +16,6 @@
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
 |                     | 1x Painkillers       |                     |
-|                     | 2x Splints           |                     |
 |                     | 1x Guedel tube       |                     |
 |                     |                      |                     |
 | Radio               | AN-343               |                     |
