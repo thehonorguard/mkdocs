@@ -109,16 +109,16 @@ For two of them, an IV of Lorazepam (if the patient is concious), and then Etomi
   - Open reduction (uses 1 bone plate)
 
 - Comminuted  fracture:
-  - Inspect fracture
-  - Incision (uses 1 scalpel)
-  - Expose (with the retractor)
-  - Clamp (with the clamp)
-  - Open reduction (uses 1 bone plate)
+   - Inspect fracture
+   - Incision (uses 1 scalpel)
+   - Expose (with the retractor)
+   - Clamp (with the clamp)
+   - Open reduction (uses 1 bone plate)
 
 - Simple fracture:
-  - Inspect fracture
-  - Push Morphine
-  - Perform closed reduction
+    - Inspect fracture
+    - Push Morphine
+    - Perform closed reduction
 
 When treatment is finished, a Flumazenil IV is required to remove the sedation. (Except for the simple fracture)
 You can then reorient the patient to wake him up.
