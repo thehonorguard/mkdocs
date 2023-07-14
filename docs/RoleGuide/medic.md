@@ -102,18 +102,20 @@ There is now 3 types of fractures, depicted below:
 For two of them, an IV of Lorazepam (if the patient is concious), and then Etomidate (reapply every 90 seconds) is necessary to relieve the pain caused by the treatment of the fracture. (The simple fracture just need a dose of morphine)
 
 - Compound fracture:
-  - Inspect fracture
-  - Incision (uses 1 scalpel)
-  - Expose (with the retractor)
-  - Irrigate wound (uses 1 250ml Saline)
-  - Open reduction (uses 1 bone plate)
+    - Inspect fracture
+    - Incision (uses 1 scalpel)
+    - Expose (with the retractor)
+    - Irrigate wound (uses 1 250ml Saline)
+    - Open reduction (uses 1 bone plate)
+
 
 - Comminuted  fracture:
-   - Inspect fracture
-   - Incision (uses 1 scalpel)
-   - Expose (with the retractor)
-   - Clamp (with the clamp)
-   - Open reduction (uses 1 bone plate)
+    - Inspect fracture
+    - Incision (uses 1 scalpel)
+    - Expose (with the retractor)
+    - Clamp (with the clamp)
+    - Open reduction (uses 1 bone plate)
+
 
 - Simple fracture:
     - Inspect fracture
