@@ -1,8 +1,30 @@
 # Task Force Omega Rulebook
 
+> ***IN-GAME RULES ARE IN PLACE FROM JOINING OPERATION UNTIL OFFICIAL ENDING OF THE OPERATION (according to the mission maker).***
+ </br>
+
+
+> ***We require that EVERY member of TFO to abide by the rules, even outside of TFO's own servers, as you carry the image and reputation of the unit with you.***
+</br>
+
+
+> **Failure to abide by these rules can lead to disciplinary actions, including (but not limited to): *simple written warnings, server mute, time-outs, strikes, demotions, or even a temporary (or even definitive) removal of your role and permissions from the servers.***
+
+</br>
+
+## Tickets, or how to contact moderation
+
+On Discord, there is a channel named "#support-tickets" available for you. 
+To create a ticket, simply click on the "Create ticket" button and compose your message. This ticket is accessible to all admins and moderators. 
+
+We strongly suggest that you utilize this feature instead of sending a direct message to a single admin, as it enables a quick resolution of any issues and ensures that all messages are logged for future reference.
+
+You can use this feature for any topic related to TFO, such as a problem with another member, a report request, or even ideas to improve the team !
+
 ## I. Recruit Eligibility & Requirements
 
-Welcome to Task Force Omega. Before proceeding to the regular chats and getting your role assigned, please make sure to follow the following rules. The rules will be split into 'Discord Rules' and 'in-game [Arma] Rules,' which must be followed.
+Welcome to Task Force Omega. Before proceeding to the regular chats and getting your role assigned, please make sure to follow the following rules. The rules will be split into 'Discord/TeamSpeak Rules' and 'in-game [Arma] Rules,' which must be followed. 
+</br>**Please keep in mind our unit is 16+.**
 
 ### 1.1 Location & Time zone:
 
@@ -18,6 +40,11 @@ Custom nicknames and callsigns are accepted but must be exactly the same on Team
 
 -  No self-promotion of services. Example: "LastShotProductionz.TV"
 
+#### 1.2.1 In-game name/callsign
+
+Keep your rank in game up to date and according to our standards.
+Please follow the username structure as given in the rulebook.
+
 ### 1.3 Activity Upon Enlistment
 
 Upon enlisting in the Task Force Omega, new recruits MUST attend an event (after BCT) within 14 days or submit an LoA (Leave of Absence) explaining their absence. Recruits who fail to attend an event (either an operation or training) within 14 days will be discharged on the basis of inactivity.
@@ -29,13 +56,19 @@ You should join an operation once a month, unless you are unavailable for a long
 
 Beginning with your name, callsigns need to be short and easy to pronounce. No profanity is accepted in names or callsigns to be used on TFO servers. Rank needs to be clearly displayed in front of each member’s name. Rank formatting is simple and requires the rank abbreviation, capitalized, followed by a space, then the member’s name or callsign. No brackets, periods, or special characters of any kind (except on Discord, where ranks and callsigns are assigned by admins). Here is an example of proper name and rank format: *"PFC. Divide"*. The only deviations would be under the event we have two or more members in TFO with the exact same name or callsign. Do not follow the name by any tags or special characters. We do not wear clan tags.
 
-### 2.2 Addressing Officers
+### 2.2 Addressing unit members
 
-When addressing members of higher rank, you must address them as either their rank or name. "Dude" will not suffice. You can call officers "Sir" if you want but it is not required. When out of game, this rule is more relaxed, but while on base or during operations, members must be addressed by their proper title or callsign.
+When addressing members of higher rank, you must address them as either their rank or name. Be respectful to other members in this unit. You can call officers "Sir" if you want but it is not required.
 
 ### 2.3 Uniforms
 
-Each Unit and Role is assigned with pre-equipped uniforms, weapons, and attachments. You may not stylize your loadout however you would like. If you’d like to adjust or add something, ask for permission at either staff or HQ. This includes custom texture modification, modification to nametapes, or XMLs. All TFO members must look uniform in order to prevent misidentifications and friendly fire in combat. In reference to camo types, these will also be designated by command staff prior to deployment depending on the terrain in the area.
+Each Unit and Role is assigned with pre-equipped uniforms, weapons, and attachments. You may not stylize your loadout however you would like. If you’d like to adjust or add something, ask for permission at either staff or HQ. This includes custom texture modification, modification to nametapes, or XMLs. 
+All TFO members must look uniform in order to prevent misidentifications and friendly fire in combat. In reference to camo types, these will also be designated by command staff prior to deployment depending on the terrain in the area.
+
+#### 2.3.1 Unit patch
+
+Don't use patches from other units. Also, don't use offensive patches.
+It is also required to join our Arma unit.
 
 ### 2.4 Custom Faces
 
@@ -46,7 +79,9 @@ Custom faces and face paints are accepted but must be limited resolution images 
 
 ### 2.5 Cheating & Exploits
 
-We have a zero tolerance for any forms of cheating or use of mods that enhance your combat effectiveness beyond that of other players. Any mod that gives you open access to virtual arsenal systems (VAA), increase movement speed, or mods that enhance your HUD with unrealistic displays are outlawed, and players will be prosecuted.
+We have a zero tolerance for any forms of cheating or use of mods that enhance your combat effectiveness beyond that of other players. Any mod that gives you open access to virtual arsenal systems (VAA), increase movement speed, or mods that enhance your HUD with unrealistic displays are **not** allowed. Arma bugs should never be abused during operations. If you encounter a bug (game breaking, or not), please refer to a leading role.
+
+**Arma bugs should never be abused during operations. (Cheating is also not allowed)**
 
 ### 2.6 Recording/Streaming Training Sessions
 
@@ -54,19 +89,23 @@ Audio and video recording or streaming is strictly prohibited during all trainin
 
 ### 2.7 Promotion Policy
 
-Our promotion policy is based on individual combat and overall unit performance. Kills will not get you rank. Often times, element leaders will recognize their soldiers for all actions unit related, in or out of game, and recommend them for a promotion or award. Ranks are something to congratulate other members on achieving, not show jealousy and the "it should have been me" mentality. For a full rank list, please check this sheet.
-
-### 2.8 
+Our promotion policy is based on individual combat and overall unit performance. Kills will not get you rank. Often times, element leaders will recognize their soldiers for all actions unit related, in or out of game, and recommend them for a promotion or award. Ranks are something to congratulate other members on achieving, not show jealousy and the "it should have been me" mentality. For a full rank list, please check <a href="/mkdocs/ranks/">here</a>.
 
 ## III. Unit Personal Behavior
 
 ### 3.1 Chat Moderation
 
-While in TFO server you must always conduct yourself in correlation with our unit standards. No exceptions. Keep the chats completely clear of all religious, ethnic, or political debates and topics. Racism, sexism, or any sort of discrimination is not accepted at any time in any form. Do not make any remarks that could potentially offend another player. Keep in mind that our unit is made up of all kinds of people, from different areas and backgrounds. Do not take a chance by making an inconsiderate comment.
+While in TFO servers, you must always conduct yourself in correlation with our unit standards. **No exceptions**. Keep the chats completely clear of all religious, ethnic, or political debates and topics. Racism, sexism, or any sort of discrimination is not accepted at any time in any form. 
+Do not make any remarks that could potentially offend another player. Keep in mind that our unit is made up of all kinds of people, from different areas and backgrounds. Do not take a chance by making an inconsiderate comment.
 
-#### 3.1.1 In TeamSpeak/Discord (audio):
+#### 3.1.1-a In TeamSpeak (audio):  
 
-Soundboards (TeamSpeak only), text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Everyone is to use push to talk on any of the public channels. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. The private quarters of the CO's are to be treated as private offices. If two or more people are in someone’s Private Quarters, please message them asking for permission and receive permission before entering the room. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
+Soundboards, text to speech, bots, and or any sort of audio abuse are not allowed in our TeamSpeak. Push-to-talk is enabled by default and will not be deactivated for anyone, even per request. Playing music is not allowed on Teamspeak. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. Keep the chatter on the radio minimal. There's no need for overly long messages or topics, keep the channels clear. If you must talk with someone while walking, driving, or getting transported or in any other ways, keep it proximity. Radio is only for tactical purposes.
+
+#### 3.1.1-b In Discord (audio): 
+
+Text to speech, bots (at the exception of the music bot), and or any sort of audio abuse are not allowed in our Discord. Please consider other players in the voice channel you are in. Playing music is allowed, so long as it does not annoy other members within a channel. If asked to stop, you need to stop. Do not move people out of the channels without prior consent. 
+Moderating a voice channel is not easy. If anything happens and an admin is not in the VC, please contact administration and moderation via a support ticket.
 
 #### 3.1.2 In TeamSpeak/Discord (text):
 
@@ -80,6 +119,15 @@ Respect other players 100% of the time. Never put another member down based on p
 
 Everyone is assigned a main role in the squad roster. You are only allowed to differentiate from this with permission from an officer. Once the mission has started, stick to your role. Each role is designed for each situation. Disobeying orders (e.g., running off alone with a squad member unannounced) is forbidden. Follow the rules of your squad leader or commander. If you have questions, feel free to ask.
 
+#### 3.3.1 Unallowed roles
+
+Only pick the role you chose on the spreadsheet. Don't take a role you aren't allowed to take.
+
+Reserve = rifleman if PL or Zeus hasn't said otherwise 
+If you've signed up as reserve, you are a rifleman.
+
+Missionmaker or platoonlead can assign you to a different role.
+
 
 ### 3.4 Lock It Up
 
@@ -92,17 +140,27 @@ Never poke or message command staff at any time during an operation. This distra
 
 ### 3.6 In-Game Text Chat
 
-Please keep the in-game chat clear most of the time. Occasionally, during the briefing, command staff may send messages via the global chat system, but never type during deployment at any time. If you lose your radio and cannot contact anybody, it is on you to find your way back to link up with friendlies. It's a military simulation, not an instant messaging program.
+In-Game chat is only allowed for conveying non-mission related information during an operation (with expection for the missionmaker). It is allowed to be used during the briefing to prevent any interruptions. If you lose your radio and are unable to communicate with anyone, it is your responsibility to locate and rejoin friendly forces. Remember, this is a military simulation, not an instant messaging platform.
 
 ### 3.7 Join In Progress (JIP)
 
 Never join an operation of any kind more than 30 minutes late without first notifying an admin or the mission maker. No exceptions. You cannot under any circumstances show up two hours late for an operation and expect to just join in progress. This is not join and play.
 If you join an OP and haven't signed up, you'll be automatically assigned as *reserve*. PLT or HQ will then assign you to a role.
 
-#### 3.7.1 Signing up
+#### 3.7.1 Joining the mission on time
 
-If you've signed up on the spreadsheet, don't take a role (except for reserve) if you aren't sure if you can join on time.
+Join operations on time (or early). Except when the missionmakers says otherwise. **(Max allowed: +5 minutes)**
+It ensure a better playing experience for everyone, as we don't need to wait for every one.
+
+#### 3.7.2 Signing up
+
+If you expect being late or there's a chance you may not be able to attend, sign up as a reserve role (reserving any other role is not allowed).
 Don't sign off last minute (12 hours before operation start) without giving a valid reason. 
+
+#### 3.7.3 Joining without signing up
+
+If you haven't signed up on the spreadsheet, you are automatically a reserve.
+Platoonleader and/or missionmaker can and will assign you to a different role if needed or available.
 
 ### 3.8 Help Out
 
@@ -113,6 +171,8 @@ Make an open effort to help newer players to the game. Experience levels vary ac
 Remember that even when you are not in our servers, you represent the clan. Always uphold a positive standard when in additional private or public servers. Represent our unit well.
 
 ## IV. On-Base and In-game Rules
+
+> #### ***REMINDER: IN-GAME RULES ARE IN PLACE FROM JOINING OPERATION UNTIL OFFICIAL ENDING OF THE OPERATION (according to the mission maker).***
 
 ### 4.1 Weapon Safety
 
@@ -126,6 +186,7 @@ Don't return fire when being friendly fired upon, this only creates a bigger iss
 ### 4.3 Respect (Continued)
 
 Respect other players on base. They are there to practice. That should speak for itself. Give respect, and you shall receive it.
+Don't bully others. (Take arguments out of game, or call an admin to settle).
 
 ### 4.4 Keep The Base Clean
 
@@ -139,6 +200,10 @@ Keep the base clean. Put things back where you found them when you are done so t
 
 If you are not an anti-tank role, you shouldn't pick up an anti-tank launcher unless told otherwise by a leading role.
 
+#### 4.5.1 Using AT launchers on infantry
+
+Light anti-tank launchers should be used on enemy vehicles unless told otherwise by a leading role.
+
 ### 4.6 Taking vehicles without communicating
 
 When you want to take a vehicle, you should communicate this with a leading role.
@@ -147,6 +212,14 @@ When you want to take a vehicle, you should communicate this with a leading role
 
 When having to go AFK, mention this to your leader and get into a safe area. It is your responsibility to take cover and regroup with your team when you come back.
 
-### 4.x Continue To Obey Regulations
 
-<p style="color:red;">Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.</p>
+### 4.8 Loadouts 
+
+You should check your loadout at the start of the operation.
+If items are missing, a leading role should be notified.
+
+When respawning or getting resupplied, don't get more items than your original loadout had.
+
+### 4.9 Continue To Obey Regulations
+
+Obey the community standards that are clearly outlined in our Unit Regulations. These regulations do not "go away" simply because an admin is not watching you.

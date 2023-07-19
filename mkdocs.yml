@@ -5,7 +5,8 @@ theme:
   logo: assets/logo.png
   favicon: images/favicon.ico
   name: "material"
-  
+
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -22,18 +23,41 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+features:
+  - navigation.top
+  - toc.follow
+  - header.autohide
+  - navigation.footer
+
+
 nav:
-  - index: index.md
-  - TestPage: testpage.md
-  - Loadouts: loadouts.md
-  - Platoon Leader: Platoonleader.md
-  - Full rulebook: rulebook.md
-  - Rules: rules.md
+  - Intro: index.md
+  - Basics: basics.md
+  - TFO's Rulebook: rulebook.md
   - LoadoutFull: LoadoutFull.md
+  - Our team: team.md
+  - Ranks: ranks.md
+  - Role Guide:
+    - Platoon leader: RoleGuide/pltleader.md
+    - Squad leader: RoleGuide/sql.md
+    - Medic: RoleGuide/medic.md
+    - CLS: RoleGuide/cls.md
+    - Rifleman + LAT: RoleGuide/rifleman.md
+    - AA: RoleGuide/AA.md
+    - AA2: RoleGuide/AA2.md
+    - AA3: RoleGuide/AA3.md
+    - AA4: RoleGuide/AA4.md
+    - Auto Rifleman: RoleGuide/AR.md
+    - Anti Tank: RoleGuide/AT.md
+    - Marksmen: RoleGuide/marksmen.md
+    - Engineer: RoleGuide/eod.md
+    - Grenadier: RoleGuide/grenadier.md
+    
 
 markdown_extensions:
   - toc:
@@ -45,3 +69,6 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+
+copyright: Copyright &copy; 2016 - 2023 Task Force Omega
