@@ -43,11 +43,14 @@ Wounded
  right after your figured out that the soldier is wounded another evaluation is in order:
  Is the wounded soldier able to move to a safer spot himself?  This can be obstructed by for example heavy fire or being crippled by the wound.  The answer to this question can easily be discovered by asking the wounded soldier.
 
-unconscious
- right after your figured out that the soldier is unconscious another evaluation is in order:
-Is the wounded soldier in an unsafe spot? The first order of business is to get them out of there. try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. The process of getting someone on your shoulders takes way too long Under Fire, Carrying can be a good idea when you need to move an unconscious soldier  from a position where you already have cover. A combination of both techniques can be applied as well,  for example: Drag a wounded soldier  from an unsafe position to cover followed up by  picking them up and carrying  them to a medic-post.
-Equipment
-In this chapter we are going to discuss the actual medical process. First we are going to discuss all the equipment you have available and after that we are going to discuss a few  scenarios.
+Unconscious
+ Right after your figured out that the soldier is unconscious, another evaluation is in order:
+Is the wounded soldier in an unsafe spot? 
+The first order of business is to get them out of there. Try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. The process of getting someone on your shoulders takes way too long Under Fire, Carrying can be a good idea when you need to move an unconscious soldier from a position where you already have cover. A combination of both techniques can be applied as well, for example: Drag a wounded soldier from an unsafe position to cover followed up by picking them up and carrying them to a medic-post.
+
+
+Equipment:
+In this chapter we are going to discuss the actual medical process. First we are going to discuss all the equipment you have available and after that we are going to discuss a few scenarios.
 
 ## CPR
 
@@ -56,11 +59,16 @@ Let's start with the Wikipedia description for CPR:
 “Cardiopulmonary resuscitation (CPR) is an emergency procedure that combines chest compressions often with artificial ventilation in an effort to manually preserve intact brain function until further measures are taken to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest.”
 
 CPR creates an Artificial circulation in the patient in case there is a cardiac arrest.  So basically CPR is creating blood flow when the Patient's heart is unable to. It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.
+
 CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilise the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
-If a patient has no heartrate an invisible timer will start running, and you have 5 min to get a heart rate going, or the patient dies.
-Tourniquets
+If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
+
+### Tourniquets:
 Wound treatments should usually be executed in this order:  head > torso > limbs.
-In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  Although  the pressure provided  by a tourniquet is great for stopping blood flowing out of the body,  that same  pressure will also block any saline  from flowing in, therefore an IV should only be placed on a limb without a tourniquet. While these magic bloodstoppers are great, they also are considered painful after 2 minutes.
+In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. 
+A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  
+Although the pressure provided  by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any saline from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. While these magic bloodstoppers are great, they also are considered painful after 2 minutes.
+
 Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquets or you might find yourself empty handed!
 
 ## Bandages
@@ -125,6 +133,7 @@ For two of them, an IV of Lorazepam (if the patient is concious), and then Etomi
 When treatment is finished, a Flumazenil IV is required to remove the sedation. (Except for the simple fracture)
 You can then reorient the patient to wake him up.
 
+Keep in mind that compound and comminuted fractures are treatable by the medic only, as it require advanced field surgery
 
 Splints: An instant fix to fractures. (Used in case of emergency by the SQL. Not recommended, unless there is no medic on the team)
 
@@ -143,7 +152,7 @@ Dilates blood vessels, which drops blood pressure
 If your patient is critical, do not inject morphine before stabilising them
 4 injections to overdose (but will knock-out any healthy soldier with 3 injections)
 Lingers 30 minutes
-Does not affect the wake-up chance of an unconscious patiënt.
+Does not affect the wake-up chance of an unconscious patient.
 
 ### Epinephrine
 
