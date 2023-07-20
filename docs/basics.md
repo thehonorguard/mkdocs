@@ -36,11 +36,14 @@ The Platoon medic (or medic for short) is the highest ranking medical personel i
 With it's position in the platoon element, it can directly coordinate with the platoon leader. 
 
 ## Infantry Squad
-A squad is the primary asset of a platoonleader. a full team consists of 6 players, all with their own role.
-Not all squads are setup with the same roles and can also be changed depending on attendence and mission requirements. 
+A squad is the primary asset of a platoonleader. These teams are capable of effectively deal with objectives on their own. A full team consists of 6 soldiers, all with their own role.
+Not all squads are setup with the same roles and can also be changed depending on attendence and mission requirements. all teams are made up from at least: 1 squadleader, 1 combat lifesaver (CLS) and one rifleman varient.
+the rest of the team is filled up with specialized roles like Heavy Anti-tank or automatic rifleman. 
 
 ## buddy system
-at the lowest level of the Chain, we have 
+To organize a squad, we utilize a system called "the Buddy System". This systems divides the squad up in 3 teams of 2 soldiers. these teams/buddies look out for eachother during combat and keep eachother alive.
+// If you buddy would go down, You should be the first to realize this, and call it out immediately to the CLS of your team. //
 
 
 ## Support teams
+
