@@ -12,12 +12,12 @@ Since we don't have a static unit roster, it's very much possible that someone w
 
 ## Missionmaker 
 
-This is usually one or two persons who prepared and created the mission, and are ultimate responsibles for a good experience/performance of the mission. 
+This is usually one or two persons who prepared and created the mission, and are ultimate responsible for a good experience/performance of the mission. 
 
 ### Briefing 
 
 All missions start with a briefing done by the missionmaker for either the Platoon and/or Squadleaders or for everyone.
-During such briefings, the missionmaker is expected to give informations about the objective(s), assign assets, and give other mission critical informations. (insert hyperlink to briefing information). After the briefing, platoon and squadleader have an opertunity to ask any questions (unless stated otherwise).
+During such briefings, the missionmaker is expected to give information about the objective(s), assign assets, and give other mission critical information. (insert hyperlink to briefing information). After the briefing, platoon and squadleader have an opertunity to ask any questions (unless stated otherwise).
 
 ## HQ
 
@@ -26,28 +26,28 @@ HQ assigns objectives, provides (non human) support elements, handles all techni
 
 ## Platoon element
 
-The platoon element consists of the platoon leader (PLT), the platoon medic and optional an Joint terminal attack controller (JTAC) when the mission requires it. Although this element is present on the field, it does not see much combat. It's main purpose is to coordinate all Squads under it's command. With the platoon medic present in this element, it usually moves behind the battlefield to treat woundeds. Usually there is only 1 platoon element, but as the unit grows, it is expected to have more than one. 
+The platoon element consists of the platoon leader (PLT), the platoon medic and optional an Joint terminal attack controller (JTAC) when the mission requires it. Although this element is present on the field, it does not see much combat. It's main purpose is to coordinate all Squads under it's command. With the platoon medic present in this element, it usually moves behind the battlefield to treat wounded. Usually there is only 1 platoon element, but as the unit grows, it is expected to have more than one. 
 
 ### PLatoon leader
 The platoonleader answers directly to HQ, and acts as the highest ranking officer on the field. He coordinates squads and is responsible of forming a battleplan or adapt it during the mission.
 
 ### Platoon Medic
-The Platoon medic (or just "medic" for short) is the highest ranking medical personel in the operation. He is more educated and capable and effective medically than it's combat saver (CLS) counterpart and coordinates treatment of causulties with them.
+The Platoon medic (or just "medic" for short) is the highest ranking medical personnel in the operation. He is more educated and capable and effective medically than it's combat saver (CLS) counterpart and coordinates treatment of casualties with them.
 With it's position in the platoon element, it can directly coordinate with the platoon leader. 
 
 ### JTAC
- To prevent any high explosive ordinance from landing in the wrong place, all air or fire support teams require a JTAC. The JTAC is responsible for relaying and converting platoonleader's orders like "blow up that house" to something precise and effective to the support team. Often the JTAC is allowed to suggest targets or call in ordinance at their own discresion, as long as the PLT is timely noted.
+ To prevent any high explosive ordinance from landing in the wrong place, all air or fire support teams require a JTAC. The JTAC is responsible for relaying and converting platoonleader's orders like "blow up that house" to something precise and effective to the support team. Often the JTAC is allowed to suggest targets or call in ordinance at their own discretion, as long as the PLT is timely noted.
 
 ## Infantry Squad
 A squad is the primary asset of a platoonleader. These teams are capable of effectively deal with objectives on their own. A full team consists of 6 soldiers, all with their own role.
-Not all squads are setup with the same roles and can also be changed depending on attendence and mission requirements. all teams are made up from at least: 1 squadleader, 1 combat lifesaver (CLS) and one rifleman varient.
+Not all squads are setup with the same roles and can also be changed depending on attendance and mission requirements. all teams are made up from at least: 1 squadleader, 1 combat lifesaver (CLS) and one rifleman varient.
 the rest of the team is filled up with specialized roles like Heavy Anti-tank or automatic rifleman. 
 
 ## buddy system
-To organize a squad, we utilize a system called "the Buddy System". This systems divides the squad up in 3 teams of 2 soldiers. these teams/buddies look out for eachother during combat and keep eachother alive.
+To organize a squad, we utilize a system called "the Buddy System". This systems divides the squad up in 3 teams of 2 soldiers. these teams/buddies look out for each other during combat and keep each other alive.
 // If you buddy would go down, You should be the first to realize this, and call it out immediately to the CLS of your team. //
 
 
 ## Support teams
 
-ALl available support teams ultimately fall under a platoonleader's command, however support teams are allowed to make decisions at their own descretion like relocating or engaging high priority targets. It is also possible for HQ to call the support team away for different tasking. 
+All available support teams ultimately fall under a platoonleader's command, however support teams are allowed to make decisions at their own discretion like relocating or engaging high priority targets. It is also possible for HQ to call the support team away for different tasking. 
