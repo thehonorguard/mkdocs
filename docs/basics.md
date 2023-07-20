@@ -27,7 +27,7 @@ HQ assigns objectives, provides (non human) support elements, handles all techni
 
 ## Platoon element
 
-The platoon element consists of the platoon-leader (PLT), the platoon-medic and optional an Joint terminal attack controller (JTAC) when the mission requires it. Although this element is present on the field, it does not see much combat. It's main purpose is to coordinate all Squads under it's command. With the platoon medic present in this element, it usually moves behind the battlefield to treat wounded. Usually there is only 1 platoon element, but as the unit grows, it is expected to have more than one. 
+The platoon element consists of the platoon-leader (PLT), the platoon-medic and optional an Joint terminal attack controller (JTAC) or Forward Observer (FO) when the mission requires it. Although this element is present on the field, it does not see much combat. It's main purpose is to coordinate all Squads under it's command. With the platoon medic present in this element, it usually moves behind the battlefield to treat wounded. Usually there is only 1 platoon element, but as the unit grows, it is expected to have more than one. 
 
 ### Platoon-leader
 The platoon-leader answers directly to HQ, and acts as the highest ranking officer on the field. He coordinates squads and is responsible of forming a battleplan or adapt it during the mission.
@@ -36,8 +36,8 @@ The platoon-leader answers directly to HQ, and acts as the highest ranking offic
 The Platoon-medic (or just "medic" for short) is the highest ranking medical personnel in the operation. He is more educated and capable and effective medically than it's combat life saver (CLS) counterpart and coordinates treatment of casualties with them.
 With it's position in the platoon element, it can directly coordinate with the platoon-leader. 
 
-### JTAC
- To prevent any high explosive ordinance from landing in the wrong place, all air or fire support teams require a JTAC. The JTAC is responsible for relaying and converting platoon leader's orders like "blow up that house" to something precise and effective to the support team. Often the JTAC is allowed to suggest targets or call in ordinance at their own discretion, as long as the PLT is timely noted.
+### JTAC/FO
+ To prevent any high explosive ordinance from landing in the wrong place, all air or fire support teams require a JTAC/FO. The JTAC/FO is responsible for relaying and converting platoon leader's orders like "blow up that house" to something precise and effective to the support team. Often the JTAC/FO is allowed to suggest targets or call in ordinance at their own discretion, as long as the PLT is timely noted.
 
 ## Infantry Squad
 A squad is the primary asset of a platoon-leader. These teams are capable of effectively deal with objectives on their own. A full team consists of 6 soldiers, all with their own role.
