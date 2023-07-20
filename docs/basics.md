@@ -3,7 +3,6 @@
 In order to understand how TFO functions during missions, one must understand it's command structure.
 We are going to start from the top and work our way down.
 
-![Platoon structure](pltdiagram.jpg)
 
 ### Ranks
 TFO members all have military ranks, based on the U.S. Army. These ranks serve only as designations for the combat skills, and a little bit of commitment and attendance. 
@@ -18,6 +17,8 @@ This is usually one or two persons who prepared and created the mission, and are
 
 All missions start with a briefing done by the missionmaker for either the Platoon and/or Squadleaders or for everyone.
 During such briefings, the missionmaker is expected to give information about the objective(s), assign assets, and give other mission critical information. (insert hyperlink to briefing information). After the briefing, platoon and squadleader have an opertunity to ask any questions (unless stated otherwise).
+
+![Platoon structure](pltdiagram.jpg)
 
 ## HQ
 
