@@ -45,7 +45,7 @@ Not all squads are setup with the same roles and can also be changed depending o
 the rest of the team is filled up with specialized roles like Heavy Anti-tank or automatic rifleman. 
 
 ## buddy system
-To organize a squad, we utilize a system called "the Buddy System". This systems divides the squad up in 3 teams of 2 soldiers. these teams/buddies look out for each other during combat and keep each other alive.
+To organize a squad, we utilize a system called the "Buddy System". This systems divides the squad up in 3 teams of 2 soldiers. these teams/buddies look out for each other during combat and keep each other alive.
 // If you buddy would go down, You should be the first to realize this, and call it out immediately to the CLS of your team. //
 
 ## Support teams
