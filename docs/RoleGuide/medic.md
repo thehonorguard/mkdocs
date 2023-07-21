@@ -21,7 +21,7 @@ Normally there would be different classes of medical personnel with different ro
 
 ### Combat lifesaver (CLS)
 
- This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier.  His job is to stabilise the soldier as fast as possible,  and  make sure they are either good to go or are stable enough to be medivaced.<br>
+ This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier.  His job is to stabilize the soldier as fast as possible,  and  make sure they are either good to go or are stable enough to be medevac'd.<br>
  Full role presentation and loadout is available <a href="/mkdocs/RoleGuide/cls/">here</a>.
 
 ### Medic
@@ -60,14 +60,14 @@ Let's start with the Wikipedia description for CPR:
 
 CPR creates an Artificial circulation in the patient in case there is a cardiac arrest.  So basically CPR is creating blood flow when the Patient's heart is unable to. It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.
 
-CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilise the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
+CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
 
 ### Tourniquets:
 Wound treatments should usually be executed in this order:  head > torso > limbs.
 In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. 
 A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  
-Although the pressure provided  by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any saline from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. While these magic bloodstoppers are great, they also are considered painful after 2 minutes.
+Although the pressure provided  by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any saline from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. While these magic blood-stoppers are great, they also are considered painful after 2 minutes.
 
 Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquets or you might find yourself empty handed!
 
@@ -107,7 +107,7 @@ Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occu
 Advanced fractures makes it a bit harder for medics and CLS to treat on the field.
 
 There is now 3 types of fractures, depicted below: 
-For two of them, an IV of Lorazepam (if the patient is concious), and then Etomidate (reapply every 90 seconds) is necessary to relieve the pain caused by the treatment of the fracture. (The simple fracture just need a dose of morphine)
+For two of them, an IV of Lorazepam (if the patient is conscious), and then Etomidate (reapply every 90 seconds) is necessary to relieve the pain caused by the treatment of the fracture. (The simple fracture just need a dose of morphine)
 
 - Compound fracture:
     - Inspect fracture
@@ -149,7 +149,7 @@ Low HR: between -10 and -20
 Normal HR: between -10 and -30
 High HR: between -10 and -35
 Dilates blood vessels, which drops blood pressure
-If your patient is critical, do not inject morphine before stabilising them
+If your patient is critical, do not inject morphine before stabilizing them
 4 injections to overdose (but will knock-out any healthy soldier with 3 injections)
 Lingers 30 minutes
 Does not affect the wake-up chance of an unconscious patient.
@@ -163,7 +163,7 @@ Normal HR: between 10 and 50
 High HR: between 10 and 40
 10 injections to overdose
 Lingers 2 minutes
-Does affect the wake-up chance of an unconscious patiënt.
+Does affect the wake-up chance of an unconscious patient.
 
 ### Adenosine
 
@@ -174,7 +174,7 @@ Normal HR: between -15 and -30
 High HR: between -15 and -35
 6 injections to overdose
 Lingers 2 minutes
-Don't bother with these. In real life they are used to stabilise a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
+Don't bother with these. In real life they are used to stabilize a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
 
 ## Triage
 
