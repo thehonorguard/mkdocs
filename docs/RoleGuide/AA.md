@@ -67,8 +67,8 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   </div>
   <div style="width: 45%; float: left; text-align: center;">
     <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-    <p>CH-146 Griffon</p>
-  </div><br>
+    <p>CH-146 Griffon</p><br>
+  </div>
 </p>
 
 ## test 5 
@@ -83,7 +83,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   .image-caption {
     position: absolute;
     bottom: 5px;
-    left: 50%;
+    left: 5px;
     transform: translateX(-50%);
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
@@ -99,9 +99,18 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-  <p class="image-caption">CH-146 Griffon</p>
+  <p class="image-caption">CH-146 Griffon</p> <br>
 </div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
+  <p class="image-caption">F/A-181 Black Wasp II</p>
+</div>
+
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
+  <p class="image-caption">MiG-29</p> <br>
+</div>
 
 ##  2. Camouflages and markings
 
