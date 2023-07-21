@@ -3,7 +3,7 @@
 TFO Anti-Air Guide (VAR)
 
 
-![Platoon structure](pltdiagram.jpg)
+
 
 ## Presentation :
 
@@ -107,6 +107,12 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 Su-25 :
 
+![Platoon structure](/assets/images/su-25-IA-2.jpg)
+![Platoon structure](pltdiagram.jpg)
+![Platoon structure](pltdiagram.jpg)
+![Platoon structure](pltdiagram.jpg)
+![Platoon structure](pltdiagram.jpg)
+![Platoon structure](pltdiagram.jpg)
 
 
 
@@ -114,33 +120,6 @@ Su-25 :
 
 
 
-
-  RU                                                                              IA
-
-
-
-
-
-
-
-                    RU                                 ChDSZ                           ChDKZ                           ChDZZ
-
-
-
-
-
-
-
-  AA                                                                              KDF
-
-
-
-
-
-
-
-
-  IA                                                                                SuAF
 Mi-8 :
 
 
