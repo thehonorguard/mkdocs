@@ -115,7 +115,7 @@ Su-25 :
 
 
 <p float="left">
-  <img src="\docs\assets\images\AA\su-25-IA-2.jpg" width="100" />
+  <img src="/docs/assets/images/AA/su-25-IA-2.jpg" width="100" />
   <img src="/assets/images/su-25-IA-2.jpg" width="100" /> 
   <img src="/assets/images/su-25-IA-2.jpg" width="100" />
 </p>
