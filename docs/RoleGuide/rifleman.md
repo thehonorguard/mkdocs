@@ -1,4 +1,4 @@
-## Rifleman
+# Rifleman
 
 As a rifleman, your job is to take orders and execute them as effectively as possible. 
 
@@ -26,11 +26,12 @@ The rifleman should generally be within shouting distance of their assigned budd
 - **Maintain Rules of Engagement (ROE) and fire discipline.**</br>
 Rules of Engagement dictate when you are allowed to engage a target, which is usually is discussed during briefing. If at any moment it is unclear to you what the ROE are, ask your squadleader, or assume it's return fire only. it's also highly advice to keep your weapon on safe-mode until you are about to engage.
 
-## LAT 
-Another variant of the rifleman, is the LAT (Light Anti tank).
+## Light Anti-Tank
+A variant of the rifleman is the Light Anti tank (LAT). this is a basic rifleman, except the LAT carries a AT4 single-use launcher(or a similar single-use launcher), to engage light enemy vehicle presence.
+LAT aren't allowed to shoot unless told otherwise by the squadleader.
 
-There's no big difference, except the LAT carries a AT4 single-use launcher, in case of enemy vehicle presence.
-LAT aren't allowed to shoot unless told otherwise by COC.
+## CLS
+Another Varient of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. although still a rifleman at it's core, it does have it's own section here (link to CLS)
 
 
 # Common loadout
