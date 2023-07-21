@@ -8,20 +8,20 @@ Every member of the platoon is a rifleman first and foremost. In a squad, the ri
 
 ## Priorities
 
-- **Listen carefully to you Squadleader.**</br>
-To be an effective team, everyone in that team must listen to the directive of the squadleader. Be alert when they talk as they might have orders relevant to you. This also means that constantly talking will not be appreciated by other members, as it will interfere with their ability to hear the squadleaders directive.
+- **Listen carefully to your Squadleader.**</br>
+To be an effective team, everyone in that team must listen to the directives of the squadleader. Be alert when they talk as they might have orders relevant to you. This also means that constantly talking will not be appreciated by other members, as it will interfere with their ability to hear the squadleaders directives.
 
 - **ALWAYS indentify your targets.**</br>
-In the heat of battle it's easy to engage everything that moves. Sadly, not everything that moves is hostile to you so make sure that whoever you are enganging is not a friendly or a civilian. if you are unsure, hold fire, and ask someone else to help you indentify the target.
+In the heat of battle, it's easy to engage everything that moves. Sadly, not everything that moves is hostile to you so make sure that whoever you are enganging is not a friendly or a civilian. If you are unsure, hold fire, and ask someone else to help you identify the target.
 
 - **Stick with your buddy teammate(s).**</br>
-This fundamental low-level teamwork is an essential part of the squad, and by association, the squad's effectiveness. more information about the buddy system is covered in the basics (link to basics).
+This fundamental low-level teamwork is an essential part of the squad, and by association, the squad's effectiveness. More information about the buddy system is covered in the basics <a href="/mkdocs/basics/">here</a>.
  
 - **Scan for, spot, and call out targets.**</br>
 Always be alert, always be scanning, and provide security when halted. 
  
 - **Maintain appropriate positioning.**</br> 
-The rifleman should generally be within shouting distance of their assigned buddy teammate, and oftentimes much closer. Do keep in mind that bunching up will be a great target for a grenade or rocket. stay close, but not too close.
+The rifleman should generally be within shouting distance of their assigned buddy teammate, and oftentimes much closer. Do keep in mind that bunching up will be a great target for a grenade or rocket. Stay close, but not too close.
 
 - **Maintain Rules of Engagement (ROE) and fire discipline.**</br>
 Rules of Engagement dictate when you are allowed to engage a target, which is usually is discussed during briefing. If at any moment it is unclear to you what the ROE are, ask your squadleader, or assume it's return fire only. it's also highly advice to keep your weapon on safe-mode until you are about to engage.
