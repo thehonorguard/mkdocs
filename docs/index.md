@@ -1,5 +1,8 @@
 # Intro 
 
 Welcome to the official TFO documentation page.
-The goal of this page is to have all information & documentation in one central place, which is easy to navigate.
+The goal of this guide is to have all information & documentation in one central and easy to navigate place.
+At this moment this website is still a WIP.
+
+
 
