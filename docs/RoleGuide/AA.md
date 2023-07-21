@@ -36,27 +36,10 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 
 
-|![2](../assets/images/AA/su-25-IA-2.jpg)             | ![2](../assets/images/AA/su-25-IA-2.jpg)             |
+|![UH-1Y Venom](../assets/images/AA/UH-1Y-Venom.jpg)| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)|
 |---------------------|----------------------|
-| Primary weapon      | 5.56 AR              |
-| Primary ammo        | 30rnd 5.56 x 8       |
+|![2F/A-181 Black Wasp II](../assets/images/AA/FA-181-Black-Wasp-II.jpg)| ![2MiG-29](../assets/images/AA/MiG-29.jpg)              |
 
-
-
-
-
-
-
-  UH-1Y Venom                                                           CH-146 Griffon              
-
-
-
-
-
-
-
-
-  F/A-181 Black Wasp II                                            MiG-29
 ##  2. Camouflages and markings
 
 
