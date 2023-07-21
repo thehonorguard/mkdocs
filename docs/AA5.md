@@ -6,34 +6,12 @@
 
 
 ## test 1
-![](/assets/images/AA/su-25-IA.jpg) /assets
-
-![](/docs/RoleGuide/assets/Images/AA/su-25-IA.jpg) /Docs/RG 
-
-![](/RoleGuide/assets/Images/AA/su-25-IA.jpg) /RG
-
-![](\assets/Images/AA/su-25-IA.jpg) \assets
-
-![](assets/images/AA/su-25-IA.jpg)  assets/images/AA/su-25-IA.jpg
-
-![Alt text](docs\assets\images\AA\su-25-IA.jpg) docs\assets\images\AA\su-25-IA.jpg
-![Alt text](\docs\assets\images\AA\su-25-IA.jpg) \docs\assets\images\AA\su-25-IA.jpg
-![Alt text](/docs\assets\images\AA\su-25-IA.jpg) /docs\assets\images\AA\su-25-IA.jpg
-![Alt text](/docs/assets/images/AA/su-25-IA.jpg) /docs/assets/images/AA/su-25-IA.jpg
-
-
+![assets/images/AA/su-25-IA.jpg](assets/images/AA/su-25-IA.jpg)  
 
 ## test 2
 
 <p float="left">
-  <img src="/assets/images/AA/su-25-IA.jpg" width="100" /> /assets
-  <img src="\assets/images/AA/su-25-IA.jpg" width="100" /> \assets
-  <img src="assets/images/AA/su-25-IA.jpg" width="100" /> assets/images/AA/su-25-IA.jpg
-  <img src="/docs/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /Docs/RG/assets
-  <img src="/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /RG/assets
-  <img src="\assets\images\AA\su-25-IA.jpg"> \assets\images\AA\su-25-IA.jpg
-  <img src="/mkdocs\assets\images\AA\su-25-IA.jpg" width="100px"> /mkdocs\assets\images\AA\su-25-IA.jpg width=100px
-  <img src="\mkdocs\assets\images\AA\su-25-IA.jpg" width="100"> \mkdocs\assets\images\AA\su-25-IA.jpg width=100
-  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="10%"> /mkdocs/assets/images/AA/su-25-IA.jpg width=10%
-
+  <img src="/mkdocs\assets\images\AA\su-25-IA.jpg" width="100px"> /mkdocs\assets\images\AA\su-25-IA.jpg width=100px <br>
+  <img src="\mkdocs\assets\images\AA\su-25-IA.jpg" width="100"> \mkdocs\assets\images\AA\su-25-IA.jpg width=100<br>
+  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="10%"> /mkdocs/assets/images/AA/su-25-IA.jpg width=10%<br>
 </p
