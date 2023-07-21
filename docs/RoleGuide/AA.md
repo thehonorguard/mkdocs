@@ -96,10 +96,9 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 Su-25 :
 
-## test 1
-![mkdocs/assets/images/AA/su-25-IA.jpg](mkdocs/assets/images/AA/su-25-IA.jpg)  
+ 
 
-## test 2
+## test 3
 
 <p float="left">
   <img src="/mkdocs\assets\images\AA\su-25-IA.jpg" width="100px"> /mkdocs\assets\images\AA\su-25-IA.jpg width=100px <br>
