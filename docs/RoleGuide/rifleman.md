@@ -11,8 +11,8 @@ Every member of the platoon is a rifleman first and foremost. In a squad, the ri
 - **Listen carefully to your Squadleader.**</br>
 To be an effective team, everyone in that team must listen to the directives of the squadleader. Be alert when they talk as they might have orders relevant to you. This also means that constantly talking will not be appreciated by other members, as it will interfere with their ability to hear the squadleaders directives.
 
-- **ALWAYS indentify your targets.**</br>
-In the heat of battle, it's easy to engage everything that moves. Sadly, not everything that moves is hostile to you so make sure that whoever you are enganging is not a friendly or a civilian. If you are unsure, hold fire, and ask someone else to help you identify the target.
+- **ALWAYS identify your targets.**</br>
+In the heat of battle, it's easy to engage everything that moves. Sadly, not everything that moves is hostile to you so make sure that whoever you are engaging is not a friendly or a civilian. If you are unsure, hold fire, and ask someone else to help you identify the target.
 
 - **Stick with your buddy teammate(s).**</br>
 This fundamental low-level teamwork is an essential part of the squad, and by association, the squad's effectiveness. More information about the buddy system is covered in the basics <a href="/mkdocs/basics/">here</a>.
@@ -27,8 +27,9 @@ The rifleman should generally be within shouting distance of their assigned budd
 Rules of Engagement dictate when you are allowed to engage a target, which is usually is discussed during briefing. If at any moment it is unclear to you what the ROE are, ask your squadleader, or assume it's return fire only. it's also highly advice to keep your weapon on safe-mode until you are about to engage.
 
 ## Light Anti-Tank
-A variant of the rifleman is the Light Anti tank (LAT). this is a basic rifleman, except the LAT carries a AT4 single-use launcher(or a similar single-use launcher), to engage light enemy vehicle presence.
-LAT aren't allowed to shoot unless told otherwise by the squadleader.
+A variant of the rifleman is the Light Anti Tank (LAT). This is a basic rifleman, except the LAT carries a AT4 single-use launcher (or a similar single-use launcher), to engage light enemy vehicle presence.
+LAT aren't allowed to shoot unless told otherwise by the squadleader, at the exception of immediate and ID'd threat.
+Since this type of infantry have only single-use launchers, resupplying (ie. looting from enemies) is subject to SQL appreciation.
 
 ## CLS
 Another variant of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. Although still a rifleman at it's core, it does have it's own section <a href="/mkdocs/RoleGuide/cls/">here</a>.
