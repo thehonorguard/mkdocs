@@ -34,16 +34,9 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 ## Loadout
 
 
-![1](docs/assets/images/AA/su-25-IA-2.jpg)  
-
-![2](../assets/images/AA/su-25-IA-2.jpg)  
-
-![3](./assets/images/AA/su-25-IA-2.jpg) 
-
-![4](su-25-IA-2.jpg) 
 
 
-|![mkdocs/assets/images/AA/su-25-IA.jpg](/docs/assets/images/AA/su-25-IA-2.jpg)             | Contents             |
+|![2](../assets/images/AA/su-25-IA-2.jpg)             | ![2](../assets/images/AA/su-25-IA-2.jpg)             |
 |---------------------|----------------------|
 | Primary weapon      | 5.56 AR              |
 | Primary ammo        | 30rnd 5.56 x 8       |
