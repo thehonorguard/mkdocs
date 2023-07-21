@@ -32,16 +32,18 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
 
-## Loadout
+## Test 1
 
 
 
 
-|![UH-1Y Venom](../assets/images/AA/UH-1Y-Venom.jpg)UH-1Y Venom| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)CH-146 Griffon|
+|![UH-1Y Venom](../assets/images/AA/uh-1y-venom.jpg)UH-1Y Venom| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)CH-146 Griffon|
 |---------------------|----------------------|
 |![F/A-181 Black Wasp II](../assets/images/AA/FA-181-Black-Wasp-II.jpg)2F/A-181 Black Wasp II| ![MiG-29](../assets/images/AA/MiG-29.jpg)MiG-29|
 
-|![UH-1Y Venom](../assets/images/AA/UH-1Y-Venom.jpg)| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)|
+
+## test 2
+|![UH-1Y Venom](../assets/images/AA/uh-1y-venom.jpg)| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)|
 |---------------------|----------------------|
 |UH-1Y Venom|CH-146 Griffon|
 |![F/A-181 Black Wasp II](../assets/images/AA/FA-181-Black-Wasp-II.jpg)| ![MiG-29](../assets/images/AA/MiG-29.jpg)              |
