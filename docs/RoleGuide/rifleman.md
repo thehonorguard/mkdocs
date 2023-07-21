@@ -31,7 +31,7 @@ A variant of the rifleman is the Light Anti tank (LAT). this is a basic rifleman
 LAT aren't allowed to shoot unless told otherwise by the squadleader.
 
 ## CLS
-Another Varient of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. although still a rifleman at it's core, it does have it's own section here (link to CLS)
+Another variant of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. Although still a rifleman at it's core, it does have it's own section <a href="/mkdocs/RoleGuide/cls/">here</a>.
 
 
 # Common loadout
