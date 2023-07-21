@@ -3,3 +3,23 @@
 <embed src="docs/tfo-aa-guide.pdf" type="application/pdf">
 
 <embed src="/docs/tfo-aa-guide.pdf" type="application/pdf">
+
+
+## test 1
+![](/assets/images/AA/su-25-IA.jpg) /assets
+
+![](/docs/RoleGuide/assets/Images/AA/su-25-IA.jpg) /Docs/RG 
+
+![](/RoleGuide/assets/Images/AA/su-25-IA.jpg) /RG
+
+![](\assets/Images/AA/su-25-IA.jpg) \assets
+
+
+## test 2
+
+<p float="left">
+  <img src="/assets/images/AA/su-25-IA.jpg" width="100" /> /assets
+  <img src="/docs/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /Docs/RG/assets
+  <img src="/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /RG/assets
+
+</p>
