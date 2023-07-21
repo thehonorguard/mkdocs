@@ -117,8 +117,9 @@ Su-25 :
   <img src="\mkdocs\assets\images\AA\su-25-IA.jpg" width="100"> \mkdocs\assets\images\AA\su-25-IA.jpg width=100<br>
   <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="10%"> /mkdocs/assets/images/AA/su-25-IA.jpg width=10%<br>
 
-  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="40%" />
-  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="40%" /> 
+  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="10%" />
+  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="10%" />
+
 </p>  
 
 
