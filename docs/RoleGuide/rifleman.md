@@ -9,7 +9,7 @@ Every member of the platoon is a rifleman first and foremost. In a squad, the ri
 ## Priorities
 
 - **Listen carefully to you Squadleader.**</br>
-To be an effective team, everyone in that team must listen to the directive of the squadleader. Be alert when they talk as they might have orders relevant to you. This also means that constantly talking will not be appreciated by other members, as it will interfere with their ability to hear the squadleaders directive.
+To be an effective team, everyone in that team must listen to the directive of the squadleader. Be alert when they talk as they might have orders relevant to you. This also means that constantly talking (locally or by radio) will not be appreciated by other members, as it will interfere with their ability to hear the squadleaders directive.
 
 - **ALWAYS indentify your targets.**</br>
 In the heat of battle it's easy to engage everything that moves. Sadly, not everything that moves is hostile to you so make sure that whoever you are enganging is not a friendly or a civilian. if you are unsure, hold fire, and ask someone else to help you indentify the target.
@@ -25,6 +25,9 @@ The rifleman should generally be within shouting distance of their assigned budd
 
 - **Maintain Rules of Engagement (ROE) and fire discipline.**</br>
 Rules of Engagement dictate when you are allowed to engage a target, which is usually is discussed during briefing. If at any moment it is unclear to you what the ROE are, ask your squadleader, or assume it's return fire only. it's also highly advice to keep your weapon on safe-mode until you are about to engage.
+
+- **Avoid crossing line of fire.**</br>
+When moving under fire, make sure to move behind your teammates, and not in front. you don't want to get hit by a friendly for moving in front their line of fire. Before moving to a different location, think about what path you are going to take. If there is not other option than crossing their line of fire, make sure to verbally announce that you are about to cross their lines.
 
 ## Light Anti-Tank
 A variant of the rifleman is the Light Anti tank (LAT). this is a basic rifleman, except the LAT carries a AT4 single-use launcher(or a similar single-use launcher), to engage light enemy vehicle presence.
