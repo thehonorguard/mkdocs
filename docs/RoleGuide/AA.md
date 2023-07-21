@@ -50,6 +50,29 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 |2F/A-181 Black Wasp II|MiG-29|
 
 
+## test 3
+<p float="left">
+  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="45%" />
+  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="45%" /> <br>
+  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="45%" />
+  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="45%" /> <br>
+</p>
+
+## test 4
+
+<p float="left">
+  <div style="width: 45%; float: left; text-align: center;">
+    <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
+    <p>UH-1Y Venom</p>
+  </div>
+  <div style="width: 45%; float: left; text-align: center;">
+    <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
+    <p>CH-146 Griffon</p>
+  </div>
+</p>
+
+
+
 ##  2. Camouflages and markings
 
 
@@ -98,7 +121,7 @@ Su-25 :
 
  
 
-## test 3
+## test 4
 
 <p float="left">
   <img src="/mkdocs\assets\images\AA\su-25-IA.jpg" width="100px"> /mkdocs\assets\images\AA\su-25-IA.jpg width=100px <br>
