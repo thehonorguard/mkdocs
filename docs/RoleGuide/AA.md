@@ -107,14 +107,18 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 Su-25 :
 
-![Platoon structure](/assets/images/su-25-IA-2.jpg)
-![Platoon structure](pltdiagram.jpg)
-![Platoon structure](pltdiagram.jpg)
+![Platoon structure](/assets/images/su-25-IA-2.jpg)![Platoon structure](pltdiagram.jpg)![Platoon structure](pltdiagram.jpg)
 ![Platoon structure](pltdiagram.jpg)
 ![Platoon structure](pltdiagram.jpg)
 ![Platoon structure](pltdiagram.jpg)
 
 
+
+<p float="left">
+  <img src="/assets/images/su-25-IA-2.jpg" width="100" />
+  <img src="/assets/images/su-25-IA-2.jpg" width="100" /> 
+  <img src="/assets/images/su-25-IA-2.jpg" width="100" />
+</p>
 
 
 
