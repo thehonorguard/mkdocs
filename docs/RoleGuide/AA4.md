@@ -14,11 +14,15 @@
 
 ![](\assets/Images/AA/su-25-IA.jpg) \assets
 
+![](assets/images/AA/su-25-IA.jpg)  assets/images/AA/su-25-IA.jpg
+
 
 ## test 2
 
 <p float="left">
   <img src="/assets/images/AA/su-25-IA.jpg" width="100" /> /assets
+  <img src="\assets/images/AA/su-25-IA.jpg" width="100" /> \assets
+  <img src="assets/images/AA/su-25-IA.jpg" width="100" /> assets/images/AA/su-25-IA.jpg
   <img src="/docs/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /Docs/RG/assets
   <img src="/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /RG/assets
 
