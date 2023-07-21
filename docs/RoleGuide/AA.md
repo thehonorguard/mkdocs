@@ -5,7 +5,7 @@ TFO Anti-Air Guide (VAR)
 
 
 
-## Presentation :
+## Foreword :
 
 This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse     Arma III missions.
 
@@ -14,18 +14,6 @@ This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, 
 Source : https://irp.fas.org/doddir/army/fm3-01-80.pdf
 
 This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.
-
-## Contents (we have TOC on page, do we need this?):
-
-
-Aircraft confusion
-Camouflages and markings
-MANPADS
-Aircraft
-Helicopter 
-UAV
-Glossary
-
 
 ## 1. Aircraft confusion
 
@@ -46,6 +34,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 ## Loadout
 
 
+![x](docs/assets/images/AA/su-25-IA-2.jpg)  
 ![x](/assets/images/AA/su-25-IA-2.jpg)  
 ![x](assets/images/AA/su-25-IA-2.jpg) 
 ![x](su-25-IA-2.jpg) 
