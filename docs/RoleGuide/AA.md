@@ -46,8 +46,8 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 ## Loadout
 
 
-![x](/docs/assets/images/AA/su-25-IA-2.jpg)  
-![x](./docs/assets/images/AA/su-25-IA-2.jpg) 
+![x](/assets/images/AA/su-25-IA-2.jpg)  
+![x](assets/images/AA/su-25-IA-2.jpg) 
 ![x](su-25-IA-2.jpg) 
 
 
