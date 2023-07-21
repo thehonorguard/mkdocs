@@ -83,7 +83,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   .image-caption {
     position: absolute;
     bottom: 5px;
-    left: 5px;
+    left: 50%;
     transform: translateX(-50%);
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
