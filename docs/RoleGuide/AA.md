@@ -68,7 +68,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   <div style="width: 45%; float: left; text-align: center;">
     <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
     <p>CH-146 Griffon</p>
-  </div>
+  </div><br>
 </p>
 
 
