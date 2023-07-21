@@ -32,8 +32,8 @@
   <img src="/docs/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /Docs/RG/assets
   <img src="/RoleGuide/assets/Images/AA/su-25-IA.jpg" width="100" />  /RG/assets
   <img src="\assets\images\AA\su-25-IA.jpg"> \assets\images\AA\su-25-IA.jpg
-  <img src="/docs\assets\images\AA\su-25-IA.jpg"> /docs\assets\images\AA\su-25-IA.jpg
-  <img src="\docs\assets\images\AA\su-25-IA.jpg"> \docs\assets\images\AA\su-25-IA.jpg
-  <img src="/docs/assets/images/AA/su-25-IA.jpg"> /docs/assets/images/AA/su-25-IA.jpg
+  <img src="/mkdocs\assets\images\AA\su-25-IA.jpg"> /mkdocs\assets\images\AA\su-25-IA.jpg
+  <img src="\mkdocs\assets\images\AA\su-25-IA.jpg"> \mkdocs\assets\images\AA\su-25-IA.jpg
+  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg"> /mkdocs/assets/images/AA/su-25-IA.jpg
 
 </p>
