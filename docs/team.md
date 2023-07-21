@@ -52,5 +52,7 @@ hide:
 | Stue          | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | LoA      |
 | Kevvin        | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Banana        | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| Aryctix       | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Danny         | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Hemuli        | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Pancor        | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| VectorTX      | | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
