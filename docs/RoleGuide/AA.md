@@ -84,32 +84,36 @@ Light aircraft and helicopters will also be camouflage painted in **most cases**
 
 Camouflage will vary between **theaters of operation and/or Faction.**
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
+  <p class="image-caption">Su-25 - RU</p> <br>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/mi-8-ana.jpg" width="100%" />
+  <p class="image-caption">Mi-8 - ANA</p> <br>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
+  <p class="image-caption">L-39 - ADA</p> <br>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/nh90-haf.jpg" width="100%" />
+  <p class="image-caption">NH90 - HAF</p> <br>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
+  <p class="image-caption">JAS 39 - AAF</p> <br>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg" width="100%" />
+  <p class="image-caption">Mi-24 - CDF</p> <br>
+</div>
 
-
-
-
-  Su-25 - RU                                                                 Mi-8 - ANA
-
-
-
-
-
-
-
-  L-39 - ADA                                                                 NH90 - HAF
-
-
-
-
-
-
-
-  JAS 39 - AAF                                                            Mi-24 - CDF
 ## Camouflages hard to distinguish :
 
 A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
