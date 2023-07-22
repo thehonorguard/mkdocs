@@ -12,6 +12,8 @@ You cannot help anyone if you're shot yourself; this means that you might also n
 Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. if there is no hard cover available  nearby you can also use  currency for smoke grenades & bushes. If all above is not possible, contact your squad leader/ team leader.
 In order to remain in a safe position you are also going to need covering fire.  I've seen countless scenarios where someone is shot and everyone rushes over to become a medic.  your job as a medic is to send them away as fast as possible and let them cover your position.
 
+![](/docs/assets/images/2_1.png)
+
 ## Medics within TFO
 
 As discussed above the role we call medic is a hybrid of a first responder and a paramedic. because of this there isn't a clear defined position within the squad like this within any army.
@@ -62,6 +64,8 @@ CPR creates an Artificial circulation in the patient in case there is a cardiac 
 
 CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
+
+![](/docs/assets/images/1_1.png)
 
 ### Tourniquets:
 Wound treatments should usually be executed in this order:  head > torso > limbs.
