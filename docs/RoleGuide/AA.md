@@ -134,12 +134,28 @@ Su-25 :
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
-  <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p> <br>
+  <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ </p> <br>
 </div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-aa.jpg" width="100%" />
+  <p class="image-caption">AA</p>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-kdf.jpg" width="100%" />
+  <p class="image-caption">KDF</p> <br>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-ia.jpg" width="100%" />
+  <p class="image-caption">IA</p>
+</div>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-suAF.jpg" width="100%" />
+  <p class="image-caption">SuAF</p><br>
+</div>
 
 Mi-8 :
 
