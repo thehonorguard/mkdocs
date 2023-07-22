@@ -9,8 +9,8 @@ Before we start talking about the medical information I would like to start cove
 Before providing any medical assistance one should always care about the safety for yourself first.
 This is one of the first and most important rule for any first responder in any field.
 You cannot help anyone if you're shot yourself; this means that you might also need to deal with the threat first, and provide medical assistance later.
-Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. if there is no hard cover available  nearby you can also use  currency for smoke grenades & bushes. If all above is not possible, contact your squad leader/ team leader.
-In order to remain in a safe position you are also going to need covering fire.  I've seen countless scenarios where someone is shot and everyone rushes over to become a medic.  your job as a medic is to send them away as fast as possible and let them cover your position.
+Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. if there is no hard cover available  nearby you can also use  currency for smoke grenades & bushes. If all above is not possible, contact your squad leader/team leader.
+In order to remain in a safe position you are also going to need covering fire.  I've seen countless scenarios where someone is shot and everyone rushes over to become a medic. Your job as a medic is to send them away as fast as possible and let them cover your position.
 
 ![](../assets/images/2_1.png)
 
@@ -28,10 +28,10 @@ Normally there would be different classes of medical personnel with different ro
 
 ### Medic
 
-This officer is part of the command structure and operates behind the Frontline at a casualty collection point.  His primary job will be patching up soldiers  back to full health so they are ready to be redeployed.
+This officer is part of the command structure and operates behind the Frontline at a casualty collection point. His primary job will be patching up soldiers  back to full health so they are ready to be redeployed.
 
-Due to the smaller size of Task Force Omega we have chosen to combine these roles,
-but as we are growing this might be coming in to play more.
+Due to the smaller size of Task Force Omega, we have chosen to let he medic be a part of the battle instead of having him behind the combat lines with a casualties collection point.
+But as we are growing this might be coming in to play more.
 
 It's recommended for all squad leaders to set up a casualty collection point before any attack. This would be  a location close to the frontline but away from any immediate danger. If squad size allows it it is recommended to have at least one soldier here to cover the position. Any heavy casualties are to be brought here as fast as possible.
 
