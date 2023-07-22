@@ -86,7 +86,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
-  <p class="image-caption">Su-25 - RU</p> <br>
+  <p class="image-caption">Su-25 - RU</p>
 </div>
 
 <div class="image-container">
@@ -96,7 +96,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
-  <p class="image-caption">L-39 - ADA</p> <br>
+  <p class="image-caption">L-39 - ADA</p>
 </div>
 
 <div class="image-container">
@@ -106,7 +106,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
-  <p class="image-caption">JAS 39 - AAF</p> <br>
+  <p class="image-caption">JAS 39 - AAF</p>
 </div>
 
 <div class="image-container">
@@ -122,20 +122,20 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 Su-25 :
 
- 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
+  <p class="image-caption">RU</p> <br>
+</div>
 
-## test 4
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-ia.jpg" width="100%" />
+  <p class="image-caption">IA</p> <br>
+</div>
 
-<p float="left">
-  <img src="/mkdocs\assets\images\AA\su-25-IA.jpg" width="100px"> /mkdocs\assets\images\AA\su-25-IA.jpg width=100px <br>
-  <img src="\mkdocs\assets\images\AA\su-25-IA.jpg" width="100"> \mkdocs\assets\images\AA\su-25-IA.jpg width=100<br>
-  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="10%"> /mkdocs/assets/images/AA/su-25-IA.jpg width=10%<br>
-
-  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="45%" />
-  <img src="/mkdocs/assets/images/AA/su-25-IA.jpg" width="45%" />
-
-</p>  
-
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
+  <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p> <br>
+</div>
 
 
 
