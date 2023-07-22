@@ -1,8 +1,27 @@
+<style>
+  .image-container {
+    position: relative;
+    width: 45%;
+    float: left;
+  }
+
+  .image-caption {
+    position: absolute;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+</style>
+
 
 
 TFO Anti-Air Guide (VAR)
 
-![logo](../assets/images/AA/logo.jpg)
+![logo](../assets/images/AA/logo.png)
 
 
 
@@ -32,65 +51,6 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
 
-## Test 1
-
-
-
-
-|![UH-1Y Venom](../assets/images/AA/uh-1y-venom.jpg)UH-1Y Venom| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)CH-146 Griffon|
-|---------------------|----------------------|
-|![F/A-181 Black Wasp II](../assets/images/AA/FA-181-Black-Wasp-II.jpg)2F/A-181 Black Wasp II| ![MiG-29](../assets/images/AA/MiG-29.jpg)MiG-29|
-
-
-## test 2
-|![UH-1Y Venom](../assets/images/AA/uh-1y-venom.jpg)| ![CH-146 Griffon](../assets/images/AA/ch-146-griffon.jpg)|
-|---------------------|----------------------|
-|UH-1Y Venom|CH-146 Griffon|
-|![F/A-181 Black Wasp II](../assets/images/AA/FA-181-Black-Wasp-II.jpg)| ![MiG-29](../assets/images/AA/MiG-29.jpg)              |
-|2F/A-181 Black Wasp II|MiG-29|
-
-
-## test 3
-<p float="left">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="45%" />
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="45%" /> <br>
-  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="45%" />
-  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="45%" /> <br>
-</p>
-
-## test 4
-
-<p float="left">
-  <div style="width: 45%; float: left; text-align: center;">
-    <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
-    <p>UH-1Y Venom</p>
-  </div>
-  <div style="width: 45%; float: left; text-align: center;">
-    <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-    <p>CH-146 Griffon</p><br>
-  </div>
-</p>
-
-## test 5 
-
-<style>
-  .image-container {
-    position: relative;
-    width: 45%;
-    float: left;
-  }
-
-  .image-caption {
-    position: absolute;
-    bottom: 5px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(0, 0, 0, 0.7);
-    color: #fff;
-    padding: 5px 10px;
-    font-size: 12px;
-  }
-</style>
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
