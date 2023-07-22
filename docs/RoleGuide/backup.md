@@ -1,6 +1,5 @@
 # My Two-Column Page
 
-Lets first start with that Scorboutiko is a lazy fuck. 
 
 
 <div class="md-html">
