@@ -6,9 +6,9 @@
   }  
 
   .center img {        
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   } 
 
   .image-caption {
@@ -365,7 +365,6 @@ Pictures are **not to scale**.
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
 <br>
-<br>
 
 ### A-29 Super Tucano
 
@@ -388,7 +387,6 @@ Pictures are **not to scale**.
 **Variant** : None
 
 **DLC/mod** : RHS GREF
-<br>
 <br>
 
 ### A330 Airbus
@@ -413,7 +411,6 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 <br>
-<br>
 
 ### Aero Commander 500
 
@@ -437,7 +434,6 @@ Pictures are **not to scale**.
 
 **DLC/mod** : 3CB **Faction**s
 
-<br>
 <br>
 
 ### AN-2 Antonov
