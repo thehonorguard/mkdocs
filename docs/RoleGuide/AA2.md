@@ -205,7 +205,7 @@ When multiple Factions use the same type of aircraft (ex. MI-8: Russia, Chernaru
 |:-:|:-:|
 |<img src="/mkdocs/assets/images/AA/Livonianroundel.jpg"> <br>Livonian roundel|<img src="/mkdocs/assets/images/AA/f-22-tail-code.jpg"> <br>F-22 tail code|
 |<img src="/mkdocs/assets/images/AA/raf-fuselage-art.jpg"> <br>RAF fuselage art|<img src="/mkdocs/assets/images/AA/idap-logo.jpg"> <br>IDAP logo|
-|<img src="/mkdocs/assets/images/AA/dc3-reg.jpg"> <br>DC-3 registration|<img src="/mkdocs/assets/images/AA/takistan-insignia.jpg"> <br>Takistan insignia|
+|<img src="/mkdocs/assets/images/AA/dc-3reg.jpg"> <br>DC-3 registration|<img src="/mkdocs/assets/images/AA/takistan-insignia.jpg"> <br>Takistan insignia|
 
 ##  3. MANPADS
 
@@ -220,10 +220,10 @@ It is your responsibility to obtain information from the Zeus about what aircraf
 
 Here a non-exhaustive list of MANPADS available in Arma III : 
 
-![manpad](../assets/images/AA/manpads.jpg)
+<img src="/mkdocs/assets/images/AA/manpads.jpg" width="650px">
 
 | N° | Mod      | Weapon                        | Min. range | Max. range |
-| -- | -------- | ----------------------------- | ---------- | ---------- |
+| :-:| -------- | ----------------------------- | ---------- | ---------- |
 | 1  | RHS AFRF | 9K38 Igla                     | 300 m      | 4800 m     |
 | 2  | RHS USAF | FIM-92F                       | 300 m      | 6500 m     |
 | 3  | RHS USAF | FGM-148 Javelin               | 100 m      | 2500 m     |
@@ -247,9 +247,6 @@ One aircraft was selected from each group to be represented in this manual, as s
 For each, there is a picture, general data, user factions and game information.
 
 Pictures are **not to scale**.
-
-
-
 
 
 
