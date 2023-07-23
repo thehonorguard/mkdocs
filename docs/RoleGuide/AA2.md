@@ -2,7 +2,7 @@
   .image-container {
     position: relative;
     float: left;
-    margin: 5px;
+    margin-right: 11px;
   }  
 /*  
 .image-container1 {
@@ -326,7 +326,7 @@ Pictures are **not to scale**.
 ### A-7H Corsair II
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="250px" />
+  <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="225px" />
 </div>
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
@@ -350,6 +350,9 @@ Pictures are **not to scale**.
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/a-10-thunderbolt.jpg" width="225px" />
+</div>
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
@@ -367,12 +370,13 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
-
-
-
+<br>
 
 ### A-29 Super Tucano
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/a-29-super-tucano-2.jpg" width="225px" />
+</div>
 
 **Country of origin** : ![](../assets/images/flags/br.png) Brazil
 
@@ -390,11 +394,11 @@ Pictures are **not to scale**.
 
 **DLC/mod** : RHS GREF
 
-
-
-
 ### A330 Airbus
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/a330-airbus.jpg" width="225px" />
+</div>
 
 **Country of origin** : ![](../assets/images/flags/eu.png) Europe
 
@@ -418,6 +422,9 @@ Pictures are **not to scale**.
 
 ### Aero Commander 500
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/aero-commander-500.jpg" width="225px" />
+</div>
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
