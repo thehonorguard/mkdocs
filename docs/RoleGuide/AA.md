@@ -115,7 +115,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 </div>
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg" width="100%" />
+  <img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg" width="100%" />
   <p class="image-caption">Mi-24 - CDF</p> 
 </div>
 
