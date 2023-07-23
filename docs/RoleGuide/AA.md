@@ -46,7 +46,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
     left: 5px;
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
-    padding: 5px 10px;
+    padding: 3px 5px;
     font-size: 11px;
   }
 
@@ -93,36 +93,46 @@ Light aircraft and helicopters will also be camouflage painted in **most cases**
 
 Camouflage will vary between **theaters of operation and/or Faction.**
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
-  <p class="image-caption">Su-25 - RU</p>
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
+    <p class="image-caption">Su-25 - RU</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-8-ana.jpg" width="100%" />
+    <p class="image-caption">Mi-8 - ANA</p>
+  </div>
 </div>
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/mi-8-ana.jpg" width="100%" />
-  <p class="image-caption">Mi-8 - ANA</p> 
-</div>
-<br>
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
-  <p class="image-caption">L-39 - ADA</p>
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
+    <p class="image-caption">L-39 - ADA</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/nh90-haf.jpg" width="100%" />
+    <p class="image-caption">NH90 - HAF</p>
+  </div>
 </div>
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/nh90-haf.jpg" width="100%" />
-  <p class="image-caption">NH90 - HAF</p> 
-</div>
-<br>
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
-  <p class="image-caption">JAS 39 - AAF</p>
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
+    <p class="image-caption">JAS 39 - AAF</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg" width="100%" />
+    <p class="image-caption">Mi-24 - CDF</p>
+  </div>
 </div>
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg" width="100%" />
-  <p class="image-caption">Mi-24 - CDF</p> 
-</div>
-<br>
+With this updated code, the images and captions will be displayed correctly with each pair in its own <div class="image-container"> container, and each row of image-caption pairs enclosed within a <div class="image-row"> container. The clear: both property in the .ima
+
+ge-row::after class ensures that each row starts on a new line.
+
 
 ## Camouflages hard to distinguish :
 
