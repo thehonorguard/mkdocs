@@ -2,6 +2,7 @@
   .image-container {
     position: relative;
     float: left;
+    margin: 5px;
   }  
 /*  
 .image-container1 {
@@ -344,7 +345,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : HAFM
 
-
+<br>
+<br>
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
