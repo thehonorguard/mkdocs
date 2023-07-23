@@ -40,24 +40,24 @@ TFO Anti-Air Guide (VAR)
 
 This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse Arma III missions.
 
-This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, HAFM**
+This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, HAFM** 
 
 Source : https://irp.fas.org/doddir/army/fm3-01-80.pdf
 
-This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.
-
+*This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.*
+ 
 ## 1. Aircraft confusion
 
 
 Confusing one aircraft with another is a serious problem that must be dealt with **Visual Aircraft Recognition** training. The following are the four types of confusion that can occur, of which the first two are the most dangerous :
 
-When a **friendly** aircraft is recognized and identified as **hostile**. On a mission, this mistake could cause a friendly fire.
+- When a **friendly** aircraft is recognized and identified as **hostile**. On a mission, this mistake could cause a friendly fire.
 
-When a **hostile** aircraft is recognized and identified as **friendly**. During hostilities, this action might **allow a hostile aircraft entry into the defended area.**
+- When a **hostile** aircraft is recognized and identified as **friendly**. During hostilities, this action might **allow a hostile aircraft entry into the defended area.**
 
-When a **hostile** aircraft is recognized and identified as another hostile aircraft. Actions taken against hostile aircraft in combat are the same, so generally there is no impact. However, this situation could have an impact if **friendly factions were flying some aircraft types that are normally considered hostile.**
+- When a **hostile** aircraft is recognized and identified as another hostile aircraft. Actions taken against hostile aircraft in combat are the same, so generally there is no impact. However, this situation could have an impact if **friendly factions were flying some aircraft types that are normally considered hostile.**
 
-When a **friendly** aircraft is recognized and identified as another **friendly** aircraft. The actions taken in combat are the same, and there would be an impact only if a **hostile faction was using an aircraft type that is normally considered friendly.**
+- When a **friendly** aircraft is recognized and identified as another **friendly** aircraft. The actions taken in combat are the same, and there would be an impact only if a **hostile faction was using an aircraft type that is normally considered friendly.**
 
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
@@ -78,7 +78,7 @@ The **overall gray color** of most fighter-interceptor aircraft is a camouflage 
 
 Light aircraft and helicopters will also be camouflage painted in **most cases**, but may be painted an **overall drab color**.
 
-Camouflage will vary between **theaters of operation and/or Faction.**
+Camouflage will vary between **theaters of operation and/or factions.**
 
 
 ||||
@@ -87,7 +87,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 |<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"> <br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg"> <br>Mi-24 - CDF|
 
 
-## Camouflages hard to distinguish :
+### Camouflages hard to distinguish :
 
 A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
 
@@ -203,7 +203,7 @@ Tail code, help to identify the unit and base assignment.
 
 This List of air forces provides the markings used by each military organization.
 
-When multiple Factions use the same type of aircraft (ex. MI-8: Russia, Chernarus, ANA, Takistan…), the markings (if not the camo) may be the only way to discern between friendly and enemy (see examples here).
+When multiple **Faction**s use the same type of aircraft (ex. MI-8: Russia, Chernarus, ANA, Takistan…), the markings (if not the camo) may be the only way to discern between friendly and enemy (see examples here).
 
 
 
@@ -315,7 +315,7 @@ One aircraft was selected from each group to be represented in this manual, as s
 
 For each, there is a picture, general data, user factions and game information.
 
-Pictures are not to scale.
+Pictures are **not to scale**.
 
 
 
@@ -328,42 +328,42 @@ Pictures are not to scale.
   <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="150px" />
 </div>
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : HAF
+**Faction** : HAF
 
-Crew : 1
+**Crew** : 1
 
-Role : CAS, Ground Attack
+**Role** : CAS, Ground Attack
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : HAFM
+**DLC/mod** : HAFM
 
 
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUFOR
 
-Faction : NATO, US Army
+**Faction** : NATO, US Army
 
-Crew : 1
+**Crew** : 1
 
-Role : CAS, Ground Attack
+**Role** : CAS, Ground Attack
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla, CUP, RHS USAF
+**DLC/mod** : Vanilla, CUP, RHS USAF
 
 
 
@@ -372,21 +372,21 @@ DLC/mod : Vanilla, CUP, RHS USAF
 ### A-29 Super Tucano
 
 
-Country of origin : ![](../assets/images/flags/br.png) Brazil
+**Country of origin** : ![](../assets/images/flags/br.png) Brazil
 
-Side : ![](../assets/images/AA/nato.png) BLUFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUFOR
 
-Faction : HIDF
+**Faction** : HIDF
 
-Crew : 2
+**Crew** : 2
 
-Role : Light attack
+**Role** : Light attack
 
-Armament : Cannon, Bombs, Rockets
+**Armament** : Cannon, Bombs, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : RHS GREF
+**DLC/mod** : RHS GREF
 
 
 
@@ -394,21 +394,21 @@ DLC/mod : RHS GREF
 ### A330 Airbus
 
 
-Country of origin : ![](../assets/images/flags/eu.png) Europe
+**Country of origin** : ![](../assets/images/flags/eu.png) Europe
 
-Side : ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/civ.png) CIV
 
-Faction : Civilian
+**Faction** : Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Airliner
+**Role** : Airliner
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -417,21 +417,21 @@ DLC/mod : CUP
 ### Aero Commander 500
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
-Faction : ION, MDF, HIDF, Civilian
+**Faction** : ION, MDF, HIDF, Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Light-transport
+**Role** : Light-transport
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : 3CB Factions
+**DLC/mod** : 3CB **Faction**s
 
 
 
@@ -439,21 +439,21 @@ DLC/mod : 3CB Factions
 ### AN-2 Antonov
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/pl.png) Poland
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/pl.png) Poland
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
-Faction : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                               Civilian
+**Faction** : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                               Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Light-transport, Light attack
+**Role** : Light-transport, Light attack
 
-Armament : Usually none, Bombs, Rockets, Machine guns
+**Armament** : Usually none, Bombs, Rockets, Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS GREF
+**DLC/mod** : CUP, RHS GREF
 
 
 
@@ -461,21 +461,21 @@ DLC/mod : CUP, RHS GREF
 ### AV-8B Harrier II
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/gb.png) UK
+**Country of origin** : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/gb.png) UK
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : USMC, BAF, AAF
+**Faction** : USMC, BAF, AAF
 
-Crew : 1
+**Crew** : 1
 
-Role : VSTOL fighter, CAS
+**Role** : VSTOL fighter, CAS
 
-Armament : Cannon, Bombs, Missiles, Rockets, Gun pods
+**Armament** : Cannon, Bombs, Missiles, Rockets, Gun pods
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -483,21 +483,21 @@ DLC/mod : CUP
 ### Boeing 737
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/civ.png) CIV
 
-Faction : Civilian
+**Faction** : Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Airliner
+**Role** : Airliner
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -506,41 +506,41 @@ DLC/mod : CUP
 ### C-130J Super Hercules
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS
+**Faction** : AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport, Cargo, Airdrop
+**Role** : Transport, Cargo, Airdrop
 
-Armament : None
+**Armament** : None
 
-Variant : AC-130 (gunship)
+**Variant** : AC-130 (gunship)
 
-DLC/mod : CUP, RHS USAF, HAFM
+**DLC/mod** : CUP, RHS USAF, HAFM
 
 
 ### Cessna 172 Skyhawk
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
-Faction : ION, LFR, UN, Civilian
+**Faction** : ION, LFR, UN, Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Light transport
+**Role** : Light transport
 
-Armament : None
+**Armament** : None
 
-Variant : T-41 Mescalero (military version)
+**Variant** : T-41 Mescalero (military version)
 
-DLC/mod : CUP, 3CB Factions
+**DLC/mod** : CUP, 3CB **Faction**s
 
 
 
@@ -549,42 +549,42 @@ DLC/mod : CUP, 3CB Factions
 ### Cessna 400 / Cessna TTx / Caesar BTT 
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
-Faction : AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, UN, Syndikat, Civilian
+**Faction** : AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, UN, Syndikat, Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Light transport
+**Role** : Light transport
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : APEX DLC
+**DLC/mod** : APEX DLC
 
 
 
 ### CASA CN-235
 
 
-Country of origin : ![](../assets/images/flags/es.png) Spain, ![](../assets/images/flags/in.png) Indonesia
+**Country of origin** : ![](../assets/images/flags/es.png) Spain, ![](../assets/images/flags/in.png) Indonesia
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport
+**Role** : Transport
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF
+**DLC/mod** : AMF
 
 
 
@@ -593,47 +593,47 @@ DLC/mod : AMF
 ### Douglas C-47 Skytrain 
  
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
-Faction : US Army, KRG, TNA, HIDF
+**Faction** : US Army, KRG, TNA, HIDF
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport, Cargo, Light attack
+**Role** : Transport, Cargo, Light attack
 
-Armament : Usually none, Bombs
+**Armament** : Usually none, Bombs
 
-Variant : 
+**Variant** : 
 - Douglas DC-3 (civilian version), 
 - AC-47 (gunship)
 - Lisunov Li-2 (USSR version)
 
-DLC/mod : CUP, 3CB Factions
+**DLC/mod** : CUP, 3CB **Faction**s
 
 
 
 ### Douglas DC-3
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/civ.png) CIV
+**Side** : ![](../assets/images/AA/civ.png) CIV
 
-Faction : Civilian
+**Faction** : Civilian
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : None
+**Armament** : None
 
-Variant : 
+**Variant** : 
 - Douglas C-47 (military version), AC-47 (gunship)
 - Lisunov Li-2 (USSR version)
 
-DLC/mod : CUP, 3CB Factions
+**DLC/mod** : CUP, 3CB **Faction**s
 
 
 
@@ -641,42 +641,42 @@ DLC/mod : CUP, 3CB Factions
 ### F-4 PHANTOM II
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : HAF
+**Faction** : HAF
 
-Crew : 2
+**Crew** : 2
 
-Role : Fighter-bomber, CAS
+**Role** : Fighter-bomber, CAS
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : HAFM
+**DLC/mod** : HAFM
 
 
 
 ### F-16 FIGHTING FALCON
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : HAF
+**Faction** : HAF
 
-Crew : 1,   F-16D : 2
+**Crew** : 1,   F-16D : 2
 
-Role : Multi-role ground-attack/fighter
+**Role** : Multi-role ground-attack/fighter
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : F-16D Block 52+ (two-seater version)
+**Variant** : F-16D Block 52+ (two-seater version)
 
-DLC/mod : HAFM
+**DLC/mod** : HAFM
 
 
 
@@ -685,21 +685,21 @@ DLC/mod : HAFM
 ### F/A-181 Black Wasp II
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
-Faction : NATO
+**Faction** : NATO
 
-Crew : 1
+**Crew** : 1
 
-Role : Stealth, Multi-role/air-superiority fighter
+**Role** : Stealth, Multi-role/air-superiority fighter
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : Stealth
+**Variant** : Stealth
 
-DLC/mod : Jets DLC
+**DLC/mod** : Jets DLC
 
 
 
@@ -707,21 +707,21 @@ DLC/mod : Jets DLC
 ### F-22 Raptor
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : USAF
+**Faction** : USAF
 
-Crew : 1
+**Crew** : 1
 
-Role :  Stealth, Air Superiority Fighter, ground-attack
+**Role** :  Stealth, Air Superiority Fighter, ground-attack
 
-Armament : Cannon, Missiles
+**Armament** : Cannon, Missiles
 
-Variant : None
+**Variant** : None
 
-DLC/mod : RHS USAF
+**DLC/mod** : RHS USAF
 
 
 
@@ -730,21 +730,21 @@ DLC/mod : RHS USAF
 ### F-35 Joint Strike Fighter
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : US Army, USMC, BAF, IDF
+**Faction** : US Army, USMC, BAF, IDF
 
-Crew : 1
+**Crew** : 1
 
-Role : VSTOL Fighter, Strike
+**Role** : VSTOL Fighter, Strike
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -752,21 +752,21 @@ DLC/mod : CUP
 ### JAS-39 Gripen / A-149 Gryphon
 
 
-Country of origin : ![](../assets/images/flags/se.png) Sweden
+**Country of origin** : ![](../assets/images/flags/se.png) Sweden
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : HIL, AAF, LDF, RACS
+**Faction** : HIL, AAF, LDF, RACS
 
-Crew : 1
+**Crew** : 1
 
-Role : Interceptor, Ground attack
+**Role** : Interceptor, Ground attack
 
-Armament : Cannon, Bombs, Missiles
+**Armament** : Cannon, Bombs, Missiles
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 
@@ -775,42 +775,42 @@ DLC/mod : Vanilla
 ### L-39 Albatros / L-159 ALCA / A-143 Buzzard
 
 
-Country of origin : ![](../assets/images/flags/cz.png) Czechoslovakia
+**Country of origin** : ![](../assets/images/flags/cz.png) Czechoslovakia
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, TA
+**Faction** : AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, TA
 
-Crew : 1,   L-39ZA : 2
+**Crew** : 1,   L-39ZA : 2
 
-Role : Light attack
+**Role** : Light attack
 
-Armament : Bombs, Missiles, Rockets, Gun pods
+**Armament** : Bombs, Missiles, Rockets, Gun pods
 
-Variant : L-39ZA (two-seater version)
+**Variant** : L-39ZA (two-seater version)
 
-DLC/mod : CUP, RHS GREF
+**DLC/mod** : CUP, RHS GREF
 
 
 
 ### MD-454 Mystère
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : MDF, HIDF
+**Faction** : MDF, HIDF
 
-Crew : 1
+**Crew** : 1
 
-Role : Fighter-bomber
+**Role** : Fighter-bomber
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : 3CB Factions
+**DLC/mod** : 3CB **Faction**s
 
 
 
@@ -819,42 +819,42 @@ DLC/mod : 3CB Factions
 ### MiG-21 FISHBED
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : GAF, KDF, LDF, TNA, USSR, CDF, AA
+**Faction** : GAF, KDF, LDF, TNA, USSR, CDF, AA
 
-Crew : 1
+**Crew** : 1
 
-Role : Ground-attack, Interceptor
+**Role** : Ground-attack, Interceptor
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : 3CB Factions
+**DLC/mod** : 3CB **Faction**s
 
 
 
 ### MiG-29 Fulcrum
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, RU, SAF
+**Faction** : ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, RU, SAF
 
-Crew : 1
+**Crew** : 1
 
-Role : Ground attack, Counter air fighter
+**Role** : Ground attack, Counter air fighter
 
-Armament : Cannon, Missiles, Rockets
+**Armament** : Cannon, Missiles, Rockets
 
-Variant : L-18 (Serbian version)
+**Variant** : L-18 (Serbian version)
 
-DLC/mod : RHS AFRF, RHS SAF
+**DLC/mod** : RHS AFRF, RHS SAF
 
 
 
@@ -862,21 +862,21 @@ DLC/mod : RHS AFRF, RHS SAF
 ### Mirage 2000
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : FRA, HAF
+**Faction** : FRA, HAF
 
-Crew : 1
+**Crew** : 1
 
-Role : Fighter-bomber, Interceptor
+**Role** : Fighter-bomber, Interceptor
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : Mirage 2000EG (Greek export version)
+**Variant** : Mirage 2000EG (Greek export version)
 
-DLC/mod : AMF, HAFM
+**DLC/mod** : AMF, HAFM
 
 
 
@@ -884,21 +884,21 @@ DLC/mod : AMF, HAFM
 ### MV-22 Osprey
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
-Faction : USMC
+**Faction** : USMC
 
-Crew : 2,   3 with ramp gun
+**Crew** : 2,   3 with ramp gun
 
-Role : VSTOL transport, Cargo
+**Role** : VSTOL transport, Cargo
 
-Armament : None, Ramp gun
+**Armament** : None, Ramp gun
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -907,21 +907,21 @@ DLC/mod : CUP
 ### Rafale C
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 1,   Rafale B : 2
+**Crew** : 1,   Rafale B : 2
 
-Role : Multi-role fighter
+**Role** : Multi-role fighter
 
-Armament : Cannon, Bombs, Missiles
+**Armament** : Cannon, Bombs, Missiles
 
-Variant : M (carrier version), B (two-seater version)
+**Variant** : M (carrier version), B (two-seater version)
 
-DLC/mod : AMF
+**DLC/mod** : AMF
 
 
 
@@ -929,42 +929,42 @@ DLC/mod : AMF
 ### Su-25 Frogfoot
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : ADA, AA, ChDSZ, GAF, KDF, LDF, TNA, CDF, CAF, CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, SAA
+**Faction** : ADA, AA, ChDSZ, GAF, KDF, LDF, TNA, CDF, CAF, CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, SAA
 
-Crew : 1
+**Crew** : 1
 
-Role : CAS, ground-attack
+**Role** : CAS, ground-attack
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS AFRF, RHS GREF
+**DLC/mod** : CUP, RHS AFRF, RHS GREF
 
 
 
 ### Su-34 Fullback
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : CDF, CSAT, RU, SLA, AAF
+**Faction** : CDF, CSAT, RU, SLA, AAF
 
-Crew : 2
+**Crew** : 2
 
-Role : Multi-role/air-superiority fighter
+**Role** : Multi-role/air-superiority fighter
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -972,21 +972,21 @@ DLC/mod : CUP
 ### T-41 Mescalero
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
-Faction : AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, LDF, RACS
+**Faction** : AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, LDF, RACS
 
-Crew : 2
+**Crew** : 2
 
-Role : Light transport, Light attack
+**Role** : Light transport, Light attack
 
-Armament : Bombs, Rockets, Machine guns
+**Armament** : Bombs, Rockets, Machine guns
 
-Variant : Cessna 172 Skyhawk (civilian/transport version)
+**Variant** : Cessna 172 Skyhawk (civilian/transport version)
 
-DLC/mod : CUP, 3CB Factions
+**DLC/mod** : CUP, 3CB **Faction**s
 
 
 
@@ -994,21 +994,21 @@ DLC/mod : CUP, 3CB Factions
 ### T-50 (Su-57) Felon
 
 
-Country of origin : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : ![](../assets/images/flags/ru.png) Russia
 
-Side : ![](../assets/images/AA/opfor.png) OPFOR
+**Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
-Faction : RU
+**Faction** : RU
 
-Crew : 1
+**Crew** : 1
 
-Role : Stealth, Multi-role fighter
+**Role** : Stealth, Multi-role fighter
 
-Armament : Cannon, Missiles
+**Armament** : Cannon, Missiles
 
-Variant : None
+**Variant** : None
 
-DLC/mod : RHS AFRF
+**DLC/mod** : RHS AFRF
 
 
 
@@ -1016,21 +1016,21 @@ DLC/mod : RHS AFRF
 ### To-201 Shikra
 
 
-Country of origin : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
 
-Side : ![](../assets/images/AA/opfor.png) OPFOR
+**Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
-Faction : CSAT
+**Faction** : CSAT
 
-Crew : 1
+**Crew** : 1
 
-Role : Stealth, Multi-role/air-superiority fighter
+**Role** : Stealth, Multi-role/air-superiority fighter
 
-Armament : Cannon, Bombs, Missiles
+**Armament** : Cannon, Bombs, Missiles
 
-Variant : Stealth
+**Variant** : Stealth
 
-DLC/mod : Jets DLC
+**DLC/mod** : Jets DLC
 
 
 
@@ -1039,21 +1039,21 @@ DLC/mod : Jets DLC
 ### Tu–95 BEAR
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : ![](../assets/images/AA/opfor.png) OPFOR
+**Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
-Faction : RU, USSR
+**Faction** : RU, USSR
 
-Crew : 7
+**Crew** : 7
 
-Role : Strategic bomber
+**Role** : Strategic bomber
 
-Armament : Cannon, Bombs, Missiles
+**Armament** : Cannon, Bombs, Missiles
 
-Variant : None
+**Variant** : None
 
-DLC/mod : RHS AFRF
+**DLC/mod** : RHS AFRF
 
 
 
@@ -1061,21 +1061,21 @@ DLC/mod : RHS AFRF
 ### V-44X Blackfish
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : ![](../assets/images/AA/nato.png) BLUEFOR
+**Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
-Faction : NATO
+**Faction** : NATO
 
-Crew : 1
+**Crew** : 1
 
-Role : VSTOL transport
+**Role** : VSTOL transport
 
-Armament : None
+**Armament** : None
 
-Variant : Vehicle transport, Gunship
+**Variant** : Vehicle transport, Gunship
 
-DLC/mod : Apex DLC
+**DLC/mod** : Apex DLC
 
 
 
@@ -1084,21 +1084,21 @@ DLC/mod : Apex DLC
 ### Y-32 Wi’an
 
 
-Country of origin : ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : ![](../assets/images/flags/csat.png) CSAT
 
-Side : ![](../assets/images/AA/opfor.png) OPFOR
+**Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
-Faction : CSAT
+**Faction** : CSAT
 
-Crew : 2
+**Crew** : 2
 
-Role : VSTOL transport, Gunship
+**Role** : VSTOL transport, Gunship
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : Vehicle transport
+**Variant** : Vehicle transport
 
-DLC/mod : Apex DLC
+**DLC/mod** : Apex DLC
 
 
 
@@ -1106,21 +1106,21 @@ DLC/mod : Apex DLC
 ### Yak-130 / To-199 Neophron
 
 
-Country of origin : ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : ![](../assets/images/flags/csat.png) CSAT
 
-Side : ![](../assets/images/AA/opfor.png) OPFOR
+**Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
-Faction : CSAT, SAA
+**Faction** : CSAT, SAA
 
-Crew : 1
+**Crew** : 1
 
-Role : CAS, Ground-attack
+**Role** : CAS, Ground-attack
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 ##  5. Helicopters
@@ -1135,7 +1135,7 @@ One helicopter was selected from each group to be represented in this manual, as
 
 For each, there is a picture, general data, user factions and game information.
 
-Pictures are not to scale.
+Pictures are **not to scale**.
 
 
 
@@ -1146,44 +1146,44 @@ Pictures are not to scale.
 ### AH-1Z Viper
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : USMC, AAF
+**Faction** : USMC, AAF
 
-Crew : 2
+**Crew** : 2
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Missiles, Rockets
+**Armament** : Cannon, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS USAF
+**DLC/mod** : CUP, RHS USAF
 
 
 
 ### AH-6M Little Bird / AH-9 Pawnee
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO, US Army, KeDF, ION, IDF, RACS, Syndikat
+**Faction** : NATO, US Army, KeDF, ION, IDF, RACS, Syndikat
 
-Crew : 2
+**Crew** : 2
 
-Role : Light attack
+**Role** : Light attack
 
-Armament : Missiles, Rockets, Gun pods, Machine guns
+**Armament** : Missiles, Rockets, Gun pods, Machine guns
 
-Variant : 
+**Variant** : 
 - MH-6M / MH-9 (transport version)
 - MD 500 / M-900 (vanilla version)
 
-DLC/mod : Vanilla, CUP, RHS USAF
+**DLC/mod** : Vanilla, CUP, RHS USAF
 
 
 
@@ -1192,42 +1192,42 @@ DLC/mod : Vanilla, CUP, RHS USAF
 ### AH-64 / AH1 Apache
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : US Army, BAF, IDF
+**Faction** : US Army, BAF, IDF
 
-Crew : 2
+**Crew** : 2
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Missiles, Rockets
+**Armament** : Cannon, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS USAF, HAFM
+**DLC/mod** : CUP, RHS USAF, HAFM
 
 
 
 ### AS532 Cougar
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : 
+**Side** : 
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport
+**Role** : Transport
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF
+**DLC/mod** : AMF
 
 
 
@@ -1236,42 +1236,42 @@ DLC/mod : AMF
 ### AS565 Panther
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : 
+**Side** : 
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 2
+**Crew** : 2
 
-Role : Light transport
+**Role** : Light transport
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF
+**DLC/mod** : AMF
 
 
 
 ### AW159 Wildcat / WY-55 Hellcat
 
 
-Country of origin : ![](../assets/images/flags/br.png) Brazil
+**Country of origin** : ![](../assets/images/flags/br.png) Brazil
 
-Side : 
+**Side** : 
 
-Faction : BAF, HIL, AAF
+**Faction** : BAF, HIL, AAF
 
-Crew : 2
+**Crew** : 2
 
-Role : Light attack, Light transport
+**Role** : Light attack, Light transport
 
-Armament : None, Missiles, Rockets, Gun pods, Machine guns
+**Armament** : None, Missiles, Rockets, Gun pods, Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla, CUP
+**DLC/mod** : Vanilla, CUP
 
 
 
@@ -1279,42 +1279,42 @@ DLC/mod : Vanilla, CUP
 ### Bell 412
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : APD, ION, LFR, Civilian, IDAP
+**Faction** : APD, ION, LFR, Civilian, IDAP
 
-Crew : 2,    3 with commander
+**Crew** : 2,    3 with commander
 
-Role : Transport, Medevac, Rescue, VIP
+**Role** : Transport, Medevac, Rescue, VIP
 
-Armament : None
+**Armament** : None
 
-Variant : CH-146 Griffon (military version)
+**Variant** : CH-146 Griffon (military version)
 
-DLC/mod : CUP, 3CB Factions
+**DLC/mod** : CUP, 3CB **Faction**s
 
 
 
 ### CH-47 / HC-4 Chinook
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO, US Army, BAF, HAF, HIL, RACS
+**Faction** : NATO, US Army, BAF, HAF, HIL, RACS
 
-Crew : 4
+**Crew** : 4
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : Machine guns
+**Armament** : Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS USAF, HAFM
+**DLC/mod** : CUP, RHS USAF, HAFM
 
 
 
@@ -1323,21 +1323,21 @@ DLC/mod : CUP, RHS USAF, HAFM
 ### CH-47I Chinook / CH-67 Huron
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO
+**Faction** : NATO
 
-Crew : 2,   4 with gunners
+**Crew** : 2,   4 with gunners
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : None, Machine guns
+**Armament** : None, Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Helicopters DLC
+**DLC/mod** : Helicopters DLC
 
 
 
@@ -1345,21 +1345,21 @@ DLC/mod : Helicopters DLC
 ### CH-53E Super Stallion
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : US Army, GER, IDF, USMC
+**Faction** : US Army, GER, IDF, USMC
 
-Crew : 2,   GAU-21 : 3
+**Crew** : 2,   GAU-21 : 3
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : None, Ramp gun
+**Armament** : None, Ramp gun
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS USAF
+**DLC/mod** : CUP, RHS USAF
 
 
 
@@ -1368,41 +1368,41 @@ DLC/mod : CUP, RHS USAF
 ### CH-146 Griffon
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/ca.png) Canada
+**Country of origin** : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/ca.png) Canada
 
-Side : 
+**Side** : 
 
-Faction : AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, FIA
+**Faction** : AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, FIA
 
-Crew : 2,    3 with commander,    5 with gunners
+**Crew** : 2,    3 with commander,    5 with gunners
 
-Role : Light attack, Transport, Medevac
+**Role** : Light attack, Transport, Medevac
 
-Armament : Missiles, Rockets, Gun pods, Machine guns
+**Armament** : Missiles, Rockets, Gun pods, Machine guns
 
-Variant : Bell 412 (utility version)
+**Variant** : Bell 412 (utility version)
 
-DLC/mod : CUP, 3CB Factions
+**DLC/mod** : CUP, 3CB **Faction**s
 
 
 ### EC665 Tiger
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/de.png) Germany
+**Country of origin** : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/de.png) Germany
 
-Side : 
+**Side** : 
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 2
+**Crew** : 2
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Missiles, Rockets
+**Armament** : Cannon, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF, R3F
+**DLC/mod** : AMF, R3F
 
 
 
@@ -1411,42 +1411,42 @@ DLC/mod : AMF, R3F
 ### H225M Caracal
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : 
+**Side** : 
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 4
+**Crew** : 4
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : Machine guns
+**Armament** : Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF
+**DLC/mod** : AMF
 
 
 
 ### Ka-50 Black Shark
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+**Side** : 
 
-Faction : RU, SLA
+**Faction** : RU, SLA
 
-Crew : 1
+**Crew** : 1
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Bombs, Missiles, Rockets, Gun pods
+**Armament** : Cannon, Bombs, Missiles, Rockets, Gun pods
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -1455,21 +1455,21 @@ DLC/mod : CUP
 ### Ka-52 Alligator
 
 
-Country of origin : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : ![](../assets/images/flags/ru.png) Russia
 
-Side : 
+**Side** : 
 
-Faction : RU
+**Faction** : RU
 
-Crew : 2
+**Crew** : 2
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Bombs, Missiles, Rockets, Gun pods
+**Armament** : Cannon, Bombs, Missiles, Rockets, Gun pods
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS AFRF
+**DLC/mod** : CUP, RHS AFRF
 
 
 
@@ -1477,21 +1477,21 @@ DLC/mod : CUP, RHS AFRF
 ### Ka-60 Kasatka
 
 
-Country of origin : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : ![](../assets/images/flags/ru.png) Russia
 
-Side : 
+**Side** : 
 
-Faction : CSAT, RU, AAF, ION, KeDF 
+**Faction** : CSAT, RU, AAF, ION, KeDF 
 
-Crew : 2,   3 with gunner
+**Crew** : 2,   3 with gunner
 
-Role : Transport, Light attack
+**Role** : Transport, Light attack
 
-Armament : None, Missiles, Rockets, Gun pods, Machine guns
+**Armament** : None, Missiles, Rockets, Gun pods, Machine guns
 
-Variant : Harbin ZB9 (Chinese version)
+**Variant** : Harbin ZB9 (Chinese version)
 
-DLC/mod : Vanilla, CUP, RHS AFRF
+**DLC/mod** : Vanilla, CUP, RHS AFRF
 
 
 
@@ -1499,21 +1499,21 @@ DLC/mod : Vanilla, CUP, RHS AFRF
 ### Merlin HC3 / EH101 /  CH-49 Mohawk
 
 
-Country of origin : ![](../assets/images/flags/it.png) Italy
+**Country of origin** : ![](../assets/images/flags/it.png) Italy
 
-Side : 
+**Side** : 
 
-Faction : BAF, ION, AAF, Civilian, IDAP
+**Faction** : BAF, ION, AAF, Civilian, IDAP
 
-Crew : 2,   3 with ramp gun,   4 with rescue crew
+**Crew** : 2,   3 with ramp gun,   4 with rescue crew
 
-Role : Transport, Medevac, VIP, Rescue
+**Role** : Transport, Medevac, VIP, Rescue
 
-Armament : None, Ramp gun
+**Armament** : None, Ramp gun
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla, CUP, RHS USAF
+**DLC/mod** : Vanilla, CUP, RHS USAF
 
 
 
@@ -1521,21 +1521,21 @@ DLC/mod : Vanilla, CUP, RHS USAF
 ### MH-47E / HC-6 Chinook
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : US Army, BAF
+**Faction** : US Army, BAF
 
-Crew : 4
+**Crew** : 4
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : Machine guns
+**Armament** : Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -1544,85 +1544,85 @@ DLC/mod : CUP
 ### Mi-6A Hook
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+**Side** : 
 
-Faction : CDF, CSAT, CMRS, RU, SLA, TA, UN, Civilian
+**Faction** : CDF, CSAT, CMRS, RU, SLA, TA, UN, Civilian
 
-Crew : 5
+**Crew** : 5
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : Cannon, Bombs, Rockets
+**Armament** : Cannon, Bombs, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
 ### Mi-8 Hip
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+**Side** : 
 
-Faction : ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, SuAF, ChDZZ, UPDF, Civilian
+**Faction** : ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, SuAF, ChDZZ, UPDF, Civilian
 
-Crew : 2,   4 with Gunners
+**Crew** : 2,   4 with Gunners
 
-Role : Transport, Cargo, Light attack
+**Role** : Transport, Cargo, Light attack
 
-Armament : None, Rockets, Machine guns
+**Armament** : None, Rockets, Machine guns
 
-Variant : 
+**Variant** : 
 - HT-40 / HT48 (Serbian version)
 - Mi-17 (export version)
 
-DLC/mod : CUP, RHS AFRF, RHS GRF
+**DLC/mod** : CUP, RHS AFRF, RHS GRF
 
 ### Mi-24 / Mi-35 Hind
 
 
-Country of origin : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/za.png) South Africa (Mi-24G) 
+**Country of origin** : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/za.png) South Africa (Mi-24G) 
 
-Side : 
+**Side** : 
 
-Faction : ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
+**Faction** : ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
 
-Crew : 2
+**Crew** : 2
 
-Role : Light transport, Attack helicopter
+**Role** : Light transport, Attack helicopter
 
-Armament : Cannon, Bombs, Missiles, Rockets
+**Armament** : Cannon, Bombs, Missiles, Rockets
 
-Variant : 
+**Variant** : 
 - P (fix 20mm cannon), 
 - D / V (12.7mm turret), 
 - G / Mk.III / Mk.IV (20mm turret),
 - Mi-35 (export version)
 
-DLC/mod : CUP, RHS AFRF, RHS GREF
+**DLC/mod** : CUP, RHS AFRF, RHS GREF
 ### Mi-28N Havok
 
 
-Country of origin : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : ![](../assets/images/flags/ru.png) Russia
 
-Side : 
+**Side** : 
 
-Faction : RU
+**Faction** : RU
 
-Crew : 2
+**Crew** : 2
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Bombs, Missiles, Rockets, Gun pods
+**Armament** : Cannon, Bombs, Missiles, Rockets, Gun pods
 
-Variant : None
+**Variant** : None
 
-DLC/mod : RHS AFRF
+**DLC/mod** : RHS AFRF
 
 
 
@@ -1631,21 +1631,21 @@ DLC/mod : RHS AFRF
 ### Mi-48 Kajman
 
 
-Country of origin : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
 
-Side : 
+**Side** : 
 
-Faction : CSAT
+**Faction** : CSAT
 
-Crew : 2
+**Crew** : 2
 
-Role : Light transport, Attack helicopter
+**Role** : Light transport, Attack helicopter
 
-Armament : Cannon, Bombs, Missiles, Rockets, Gun pods
+**Armament** : Cannon, Bombs, Missiles, Rockets, Gun pods
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 
@@ -1653,21 +1653,21 @@ DLC/mod : Vanilla
 ### Mi-290 Taru
 
 
-Country of origin : ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : ![](../assets/images/flags/csat.png) CSAT
 
-Side : 
+**Side** : 
 
-Faction : CSAT
+**Faction** : CSAT
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport, Cargo, Medevac, Utility
+**Role** : Transport, Cargo, Medevac, Utility
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Helicopters DLC
+**DLC/mod** : Helicopters DLC
 
 
 
@@ -1676,21 +1676,21 @@ DLC/mod : Helicopters DLC
 ### NH90 Caïman
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France
+**Country of origin** : ![](../assets/images/flags/fr.png) France
 
-Side : 
+**Side** : 
 
-Faction : FRA, HAF, FIN
+**Faction** : FRA, HAF, FIN
 
-Crew : 2,   4 with gunners
+**Crew** : 2,   4 with gunners
 
-Role : Transport, Cargo
+**Role** : Transport, Cargo
 
-Armament : None, Machine guns
+**Armament** : None, Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF, HAFM
+**DLC/mod** : AMF, HAFM
 
 
 
@@ -1698,21 +1698,21 @@ DLC/mod : AMF, HAFM
 ### OH-58D Kiowa
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : HAF
+**Faction** : HAF
 
-Crew : 2
+**Crew** : 2
 
-Role : Light attack
+**Role** : Light attack
 
-Armament : Cannon, Rockets
+**Armament** : Cannon, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : HAFM
+**DLC/mod** : HAFM
 
 
 
@@ -1721,42 +1721,42 @@ DLC/mod : HAFM
 ### RAH-66 Comanche / AH-99 Blackfoot
 
 
-Country of origin :  ![](../assets/images/flags/us.png) USA
+**Country of origin** :  ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO
+**Faction** : NATO
 
-Crew : 2
+**Crew** : 2
 
-Role : Attack helicopter
+**Role** : Attack helicopter
 
-Armament : Cannon, Missiles, Rockets
+**Armament** : Cannon, Missiles, Rockets
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 
 ### SA-330 Puma
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
+**Country of origin** : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
 
-Side : 
+**Side** : 
 
-Faction : BAF, KeDF, MGF, RACS
+**Faction** : BAF, KeDF, MGF, RACS
 
-Crew : 2
+**Crew** : 2
 
-Role : Transport
+**Role** : Transport
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP
+**DLC/mod** : CUP
 
 
 
@@ -1765,84 +1765,84 @@ DLC/mod : CUP
 ### A-29 - Super Tucano
 
 
-Country of origin : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
+**Country of origin** : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
 
-Side : 
+**Side** : 
 
-Faction : FRA
+**Faction** : FRA
 
-Crew : 2
+**Crew** : 2
 
-Role : Light attack
+**Role** : Light attack
 
-Armament : Rockets, Gun pods
+**Armament** : Rockets, Gun pods
 
-Variant : None
+**Variant** : None
 
-DLC/mod : AMF
+**DLC/mod** : AMF
 
 
 
 ### UH-1H Huey
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, IDAP
+**Faction** : FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, IDAP
 
-Crew : 2,   4 with door gunners
+**Crew** : 2,   4 with door gunners
 
-Role : Transport, Light attack, Medevac
+**Role** : Transport, Light attack, Medevac
 
-Armament : None, Rockets, Machine guns
+**Armament** : None, Rockets, Machine guns
 
-Variant : Unarmed, Door gunners, Rocket pods
+**Variant** : Unarmed, Door gunners, Rocket pods
 
-DLC/mod : CUP, RHS GREF, 3CB Factions
+**DLC/mod** : CUP, RHS GREF, 3CB **Faction**s
 
 
 
 ### UH-1Y Venom
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : USMC
+**Faction** : USMC
 
-Crew : 2,   4 with door gunners
+**Crew** : 2,   4 with door gunners
 
-Role : Transport, Light attack, Medevac
+**Role** : Transport, Light attack, Medevac
 
-Armament : None, Rockets, Machine guns
+**Armament** : None, Rockets, Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS USAF
+**DLC/mod** : CUP, RHS USAF
 
 
 
 ### UH-60 Black Hawk
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : AAF, ANA, US Army, AfghA, IDF, RACS
+**Faction** : AAF, ANA, US Army, AfghA, IDF, RACS
 
-Crew : 2,   4 with gunners
+**Crew** : 2,   4 with gunners
 
-Role : Transport, Medevac
+**Role** : Transport, Medevac
 
-Armament : None, Rockets, Machine guns
+**Armament** : None, Rockets, Machine guns
 
-Variant : MH-60 (navy version)
+**Variant** : MH-60 (navy version)
 
-DLC/mod : CUP, RHS USAF
+**DLC/mod** : CUP, RHS USAF
 
 
 
@@ -1851,21 +1851,21 @@ DLC/mod : CUP, RHS USAF
 ### UH-80 Ghost Hawk
 
 
-Country of origin :  ![](../assets/images/flags/us.png) USA
+**Country of origin** :  ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO, CTRG
+**Faction** : NATO, CTRG
 
-Crew : 4
+**Crew** : 4
 
-Role : Stealth, Transport
+**Role** : Stealth, Transport
 
-Armament : Machine guns
+**Armament** : Machine guns
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 ## 6. UAV
@@ -1880,7 +1880,7 @@ One UAV was selected from each group to be represented in this manual.
 
 For each, there is a picture, general data, user factions and game information.
 
-Pictures are not to scale.
+Pictures are **not to scale**.
 
 
 
@@ -1893,21 +1893,21 @@ Pictures are not to scale.
 ### AR-2 Darter / Tayran
 
 
-Country of origin : ![](../assets/images/flags/unk.png) Unknown
+**Country of origin** : ![](../assets/images/flags/unk.png) Unknown
 
-Side : 
+**Side** : 
 
-Faction : NATO, CSAT, AAF, LDF, IDAP
+**Faction** : NATO, CSAT, AAF, LDF, IDAP
 
-Crew : 0
+**Crew** : 0
 
-Role : Reconnaissance, Surveillance, Laser targeting
+**Role** : Reconnaissance, Surveillance, Laser targeting
 
-Armament : Laser Designator
+**Armament** : Laser Designator
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 
@@ -1915,21 +1915,21 @@ DLC/mod : Vanilla
 ### AL-6 Pelican / Jinaah
 
 
-Country of origin : ![](../assets/images/flags/unk.png) Unknown
+**Country of origin** : ![](../assets/images/flags/unk.png) Unknown
 
-Side : 
+**Side** : 
 
-Faction : NATO, CSAT, AAF, LDF, Civilian, IDAP
+**Faction** : NATO, CSAT, AAF, LDF, Civilian, IDAP
 
-Crew : 0
+**Crew** : 0
 
-Role : Supply transport
+**Role** : Supply transport
 
-Armament : None
+**Armament** : None
 
-Variant : Medical, Demining
+**Variant** : Medical, Demining
 
-DLC/mod : Laws of War DLC
+**DLC/mod** : Laws of War DLC
 
 
 
@@ -1938,42 +1938,42 @@ DLC/mod : Laws of War DLC
 ### KH-3A Fenghuang
 
 
-Country of origin : ![](../assets/images/flags/cn.png) China
+**Country of origin** : ![](../assets/images/flags/cn.png) China
 
-Side : 
+**Side** : 
 
-Faction : CSAT
+**Faction** : CSAT
 
-Crew : 0
+**Crew** : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire support
+**Role** : Observation, Laser targeting, Air-to-ground fire support
 
-Armament : Missiles, Laser Designator
+**Armament** : Missiles, Laser Designator
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Apex DLC
+**DLC/mod** : Apex DLC
 
 
 
 ### MQ-4A Greyhawk
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO, CSAT, AAF
+**Faction** : NATO, CSAT, AAF
 
-Crew : 0
+**Crew** : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire support
+**Role** : Observation, Laser targeting, Air-to-ground fire support
 
-Armament : Bombs, Missiles, Laser Designator
+**Armament** : Bombs, Missiles, Laser Designator
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Vanilla
+**DLC/mod** : Vanilla
 
 
 
@@ -1981,42 +1981,42 @@ DLC/mod : Vanilla
 ### MQ-9 Reaper
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : US Army, IDF, FRA
+**Faction** : US Army, IDF, FRA
 
-Crew : 0
+**Crew** : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire support
+**Role** : Observation, Laser targeting, Air-to-ground fire support
 
-Armament : Bombs, Missiles, Laser Designator
+**Armament** : Bombs, Missiles, Laser Designator
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, AMF, 3CB BAF, USAF Mod
+**DLC/mod** : CUP, AMF, 3CB BAF, USAF Mod
 
 
 
 ### MQ-12 Falcon
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO
+**Faction** : NATO
 
-Crew : 0
+**Crew** : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire support
+**Role** : Observation, Laser targeting, Air-to-ground fire support
 
-Armament : Missiles, Rockets, Laser Designator
+**Armament** : Missiles, Rockets, Laser Designator
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Apex DLC
+**DLC/mod** : Apex DLC
 
 
 
@@ -2024,21 +2024,21 @@ DLC/mod : Apex DLC
 ### Pchela-1T / SHMEL-1 / YAK-061
 
 
-Country of origin : ![](../assets/images/flags/cis.png) CIS
+**Country of origin** : ![](../assets/images/flags/cis.png) CIS
 
-Side : 
+**Side** : 
 
-Faction : CDF, Russia, Wagner
+**Faction** : CDF, Russia, Wagner
 
-Crew : 0
+**Crew** : 0
 
-Role : Remote terrain observation
+**Role** : Remote terrain observation
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : CUP, RHS AFRF
+**DLC/mod** : CUP, RHS AFRF
 
 
 
@@ -2046,21 +2046,21 @@ DLC/mod : CUP, RHS AFRF
 ### Pegasus II
 
 
-Country of origin : Greece
+**Country of origin** : Greece
 
-Side : 
+**Side** : 
 
-Faction : HAF
+**Faction** : HAF
 
-Crew : 0
+**Crew** : 0
 
-Role : Reconnaissance, Surveillance
+**Role** : Reconnaissance, Surveillance
 
-Armament : None
+**Armament** : None
 
-Variant : None
+**Variant** : None
 
-DLC/mod : HAFM
+**DLC/mod** : HAFM
 
 
 
@@ -2069,28 +2069,28 @@ DLC/mod : HAFM
 ### UCAV Sentinel
 
 
-Country of origin : ![](../assets/images/flags/us.png) USA
+**Country of origin** : ![](../assets/images/flags/us.png) USA
 
-Side : 
+**Side** : 
 
-Faction : NATO
+**Faction** : NATO
 
-Crew : 0
+**Crew** : 0
 
-Role : Observation, Laser targeting, Close air support, SEAD
+**Role** : Observation, Laser targeting, Close air support, SEAD
 
-Armament : Bombs, Missiles, Laser Designator
+**Armament** : Bombs, Missiles, Laser Designator
 
-Variant : None
+**Variant** : None
 
-DLC/mod : Jets DLC
+**DLC/mod** : Jets DLC
 
 
 
 ## 7. Glossary
 
 
-| Factions : |                                           |
+| **Faction**s : |                                           |
 | ---------- | ----------------------------------------- |
 | AA         | Ardistan Army                             |
 | AAF        | Altis Armed Forces                        |
@@ -2159,7 +2159,7 @@ DLC/mod : Jets DLC
 | AFRF  | (RHS) Armed Forces of the Russian Federation |
 | AMF   | Arma Mod France                              |
 | BAF   | (3CB) British Armed Forces                   |
-| CFP   | Community Faction Project                    |
+| CFP   | Community **Faction** Project                    |
 | CUP   | Community Upgrade Project                    |
 | GREF  | (RHS) Green Forces                           |
 | HAFM  | Hellenic Armed Forces Mod                    |
