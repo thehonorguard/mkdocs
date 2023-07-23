@@ -4,18 +4,12 @@
     float: left;
     margin-right: 11px;
   }  
-/*  
-.image-container1 {
-    position: relative;
-    width: 40%;
-    float: left;
-  }
-    .image-container2 {
-    position: relative;
-    width: 40%;
-    float: center;
+
+  .center img {        
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
   } 
-*/
 
   .image-caption {
     position: absolute;
@@ -331,7 +325,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
-**Side** : ![](../assets/images/AA/nato.png) BLUFOR, ![](../assets/images/AA/indep.png) INDEP
+**Side** : <img src="/mkdocs/assets/images/AA/nato.png" class="center"/> BLUFOR, <img src="/mkdocs/assets/images/AA/indep.png" class="center"/> INDEP
 
 **Faction** : HAF
 
@@ -356,7 +350,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
-**Side** : <img src="/mkdocs/assets/images/AA/nato.png"/> BLUFOR
+**Side** : <img src="/mkdocs/assets/images/AA/nato.png" class="center"/> BLUFOR
 
 **Faction** : NATO, US Army
 
