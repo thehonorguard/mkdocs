@@ -81,44 +81,12 @@ Light aircraft and helicopters will also be camouflage painted in **most cases**
 
 Camouflage will vary between **theaters of operation and/or Faction.**
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
-  <p class="image-caption">Su-25 - RU</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/mi-8-ana.jpg" width="100%" />
-  <p class="image-caption">Mi-8 - ANA</p> <br>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
-  <p class="image-caption">L-39 - ADA</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/nh90-haf.jpg" width="100%" />
-  <p class="image-caption">NH90 - HAF</p> <br>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
-  <p class="image-caption">JAS 39 - AAF</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg" width="100%" />
-  <p class="image-caption">Mi-24 - CDF</p> 
-</div>
-
-<br>
 
 ||||
 |:-:|:-:|:-:|
-|<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>Su-25 - RU|<img src="//mkdocs/assets/images/AA/mi-8-ana.jpg"><br>Mi-8 - ANA|<img src="/mkdocs/assets/images/AA/l-39-ada.jpg"> <br>L-39 - ADA|
-|<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"><br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg"> <br>Mi-24 - CDF|
+|<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>Su-25 - RU|<img src="/mkdocs/assets/images/AA/mi-8-ana.jpg"> <br>Mi-8 - ANA|<img src="/mkdocs/assets/images/AA/l-39-ada.jpg"> <br>L-39 - ADA|
+|<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"> <br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg"> <br>Mi-24 - CDF|
 
-<br>
 
 ## Camouflages hard to distinguish :
 
