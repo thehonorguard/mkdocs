@@ -31,13 +31,13 @@ TFO Anti-Air Guide (VAR)
 
 
 
-## Foreword :
+## Introduction
 
 This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse Arma III missions.
 
 This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, HAFM** 
 
-Source : https://irp.fas.org/doddir/army/fm3-01-80.pdf
+Source : <a href="https://irp.fas.org/doddir/army/fm3-01-80.pdf">IRP FAS DODDIR</a>
 
 *This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.*
  
@@ -66,7 +66,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 ##  2. Camouflages and markings
 
 
-### Camouflages :
+### Camouflages
 
 Combat aircraft usually have a **camouflage finish** with the upper and side surfaces painted in a **disruptive pattern of two or more shades.** This breaks up their form when viewed from above, and aids **concealment when on the ground or flying low.** The undersurfaces are **painted in a light color to blend with the sky** when viewed from below.
 The **overall gray color** of most fighter-interceptor aircraft is a camouflage scheme. Other aircraft may be painted a two-tone gray. 
@@ -82,7 +82,7 @@ Camouflage will vary between **theaters of operation and/or factions.**
 |<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"> <br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg"> <br>Mi-24 - CDF|
 
 
-### Camouflages hard to distinguish :
+### Camouflages hard to distinguish
 
 A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
 
@@ -185,7 +185,7 @@ Mi-24 :
 
 
   SuAF                                                                          IA
-### Markings :
+### Markings
 
 Painted markings and annotations can also be found on aircraft and helicopters, primarily for identification, making the visual recognition easier. Aircraft markings can includes :
 
@@ -198,35 +198,14 @@ Tail code, help to identify the unit and base assignment.
 
 This List of air forces provides the markings used by each military organization.
 
-When multiple **Faction**s use the same type of aircraft (ex. MI-8: Russia, Chernarus, ANA, Takistan…), the markings (if not the camo) may be the only way to discern between friendly and enemy (see examples here).
+When multiple Factions use the same type of aircraft (ex. MI-8: Russia, Chernarus, ANA, Takistan…), the markings (if not the camo) may be the only way to discern between friendly and enemy (see examples here).
 
 
-
-
-
-
-
-
-
-
-
-  Livonian roundel                                                      F-22 tail code
-
-
-
-
-
-
-
-  RAF fuselage art                                                      IDAP logo  
-
-
-
-
-
-
-
-  DC-3 registration                                                     Takistan insignia
+|||
+|:-:|:-:|
+|<img src="/mkdocs/assets/images/AA/Livonianroundel.jpg"> <br>Livonian roundel|<img src="/mkdocs/assets/images/AA/f-22-tail-code.jpg"> <br>F-22 tail code|
+|<img src="/mkdocs/assets/images/AA/raf-fuselage-art.jpg"> <br>RAF fuselage art|<img src="/mkdocs/assets/images/AA/idap-logo.jpg"> <br>IDAP logo|
+|<img src="/mkdocs/assets/images/AA/dc3-reg.jpg"> <br>DC-3 registration|<img src="/mkdocs/assets/images/AA/takistan-insignia.jpg"> <br>Takistan insignia|
 
 ##  3. MANPADS
 
@@ -234,68 +213,25 @@ When multiple **Faction**s use the same type of aircraft (ex. MI-8: Russia, Cher
 As infantry, you will be carrying MANPADS (Man-Portable Air-Defense Systems) on the field.
 Depending on the model, the minimum and maximum engagement range will differ (see table below), but the locking system remains the same and usually is done automatically when aiming at a target.
 
-It is important to identify your target and his specifications before any engagement, and to communicate with your squad leader, as targets like medevacs are not allowed to be engaged for exemple, which could result in a war crime.
+It is important to identify your target and his specifications before any engagement, and to communicate with your squad leader, as targets like medevacs are not allowed to be engaged for example, which could result in a war crime.
 
 It is your responsibility to obtain information from the Zeus about what aircraft friendly and hostile forces are using in the mission / campaign.
 
 
 Here a non-exhaustive list of MANPADS available in Arma III : 
 
+![manpad](../assets/images/AA/manpads.jpg)
 
-
-
-
-
-
-
-
-
-         1              2                3               4              5              6               7               8.   
-N°
-Mod
-Weapon
-Min. range
-Max. range
-1
-2
-3
-4
-5
-6
-7
-8
-RHS AFRF
-RHS USAF
-RHS USAF
-CUP
-CUP
-CUP
-CUP
-Vanilla
-9K38 Igla
-FIM-92F
-FGM-148 Javelin
-Igla 9K38
-9K32 Strela-2
-FIM-92F Stinger  (single use)
-FGM-148 Javelin
-Titan MPRL
-300 m
-300 m
-100 m
-100 m
-250 m
-100 m
-100 m
-100 m
-4800 m
-6500 m
-2500 m
-5200 m
-3700 m
-6000 m
-2400 m
-3500 m
+| N° | Mod      | Weapon                        | Min. range | Max. range |
+| -- | -------- | ----------------------------- | ---------- | ---------- |
+| 1  | RHS AFRF | 9K38 Igla                     | 300 m      | 4800 m     |
+| 2  | RHS USAF | FIM-92F                       | 300 m      | 6500 m     |
+| 3  | RHS USAF | FGM-148 Javelin               | 100 m      | 2500 m     |
+| 4  | CUP      | Igla 9K38                     | 100 m      | 5200 m     |
+| 5  | CUP      | 9K32 Strela-2                 | 250 m      | 3700 m     |
+| 6  | CUP      | FIM-92F Stinger  (single use) | 100 m      | 6000 m     |
+| 7  | CUP      | FGM-148 Javelin               | 100 m      | 2400 m     |
+| 8  | Vanilla  | Titan MPRL                    | 100 m      | 3500 m     |
 
 
 ##  4. Aircrafts
@@ -351,6 +287,7 @@ Pictures are **not to scale**.
 **Country of origin** : USA
 
 **Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
+
 **Faction** : NATO, US Army
 
 **Crew** : 1
@@ -400,7 +337,6 @@ Pictures are **not to scale**.
 **Place of origin** : Europe
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
-
 
 **Faction** : Civilian
 
@@ -515,7 +451,7 @@ Pictures are **not to scale**.
 ### C-130J Super Hercules
 
 
-**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
+**Country of origin** : USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -1772,7 +1708,7 @@ Pictures are **not to scale**.
 
 
 
-### A-29 - Super Tucano
+### SA-340 Gazelle
 
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
