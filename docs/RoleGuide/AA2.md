@@ -348,7 +348,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a-10-thunderbolt.jpg" width="225px" />
 </div>
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR
 
@@ -365,6 +365,7 @@ Pictures are **not to scale**.
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
 <br>
+<br>
 
 ### A-29 Super Tucano
 
@@ -372,9 +373,9 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a-29-super-tucano-2.jpg" width="225px" />
 </div>
 
-**Country of origin** : ![](../assets/images/flags/br.png) Brazil
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/br.png"> Brazil
 
-**Side** : ![](../assets/images/AA/nato.png) BLUFOR
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR
 
 **Faction** : HIDF
 
@@ -388,6 +389,7 @@ Pictures are **not to scale**.
 
 **DLC/mod** : RHS GREF
 <br>
+<br>
 
 ### A330 Airbus
 
@@ -395,9 +397,9 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a330-airbus.jpg" width="225px" />
 </div>
 
-**Country of origin** : ![](../assets/images/flags/eu.png) Europe
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/eu.png"> Europe
 
-**Side** : ![](../assets/images/AA/civ.png) CIV
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/civ.png"> CIV
 
 **Faction** : Civilian
 
@@ -411,6 +413,7 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 <br>
+<br>
 
 ### Aero Commander 500
 
@@ -418,9 +421,9 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/aero-commander-500.jpg" width="225px" />
 </div>
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
-**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/opfor.png"> OPFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> INDEP, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/civ.png"> CIV
 
 **Faction** : ION, MDF, HIDF, Civilian
 
@@ -432,18 +435,22 @@ Pictures are **not to scale**.
 
 **Variant** : None
 
-**DLC/mod** : 3CB **Faction**s
+**DLC/mod** : 3CB Factions
 
+<br>
 <br>
 
 ### AN-2 Antonov
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/an-2-antonov.jpg" width="225px" />
+</div>
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/pl.png) Poland
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/pl.png"> Poland
 
-**Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/opfor.png"> OPFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> INDEP, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/civ.png"> CIV
 
-**Faction** : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                               Civilian
+**Faction** : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR, Civilian
 
 **Crew** : 2
 
@@ -455,8 +462,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS GREF
 
-
-
+<br>
+<br>
 
 ### AV-8B Harrier II
 
@@ -477,8 +484,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
-
-
+<br>
+<br>
 
 ### Boeing 737
 
@@ -499,8 +506,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
-
-
+<br>
+<br>
 
 
 ### C-130J Super Hercules
@@ -521,7 +528,8 @@ Pictures are **not to scale**.
 **Variant** : AC-130 (gunship)
 
 **DLC/mod** : CUP, RHS USAF, HAFM
-
+<br>
+<br>
 
 ### Cessna 172 Skyhawk
 
@@ -540,11 +548,11 @@ Pictures are **not to scale**.
 
 **Variant** : T-41 Mescalero (military version)
 
-**DLC/mod** : CUP, 3CB **Faction**s
+**DLC/mod** : CUP, 3CB Factions
 
 
-
-
+<br>
+<br>
 
 ### Cessna 400 / Cessna TTx / Caesar BTT 
 
@@ -565,7 +573,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : APEX DLC
 
-
+<br>
+<br>
 
 ### CASA CN-235
 
@@ -610,7 +619,7 @@ Pictures are **not to scale**.
 - AC-47 (gunship)
 - Lisunov Li-2 (USSR version)
 
-**DLC/mod** : CUP, 3CB **Faction**s
+**DLC/mod** : CUP, 3CB Factions
 
 
 
@@ -633,7 +642,7 @@ Pictures are **not to scale**.
 - Douglas C-47 (military version), AC-47 (gunship)
 - Lisunov Li-2 (USSR version)
 
-**DLC/mod** : CUP, 3CB **Faction**s
+**DLC/mod** : CUP, 3CB Factions
 
 
 
@@ -810,7 +819,7 @@ Pictures are **not to scale**.
 
 **Variant** : None
 
-**DLC/mod** : 3CB **Faction**s
+**DLC/mod** : 3CB Factions
 
 
 
@@ -833,7 +842,7 @@ Pictures are **not to scale**.
 
 **Variant** : None
 
-**DLC/mod** : 3CB **Faction**s
+**DLC/mod** : 3CB Factions
 
 
 
@@ -986,7 +995,7 @@ Pictures are **not to scale**.
 
 **Variant** : Cessna 172 Skyhawk (civilian/transport version)
 
-**DLC/mod** : CUP, 3CB **Faction**s
+**DLC/mod** : CUP, 3CB Factions
 
 
 
@@ -1293,7 +1302,7 @@ Pictures are **not to scale**.
 
 **Variant** : CH-146 Griffon (military version)
 
-**DLC/mod** : CUP, 3CB **Faction**s
+**DLC/mod** : CUP, 3CB Factions
 
 
 
@@ -1382,7 +1391,7 @@ Pictures are **not to scale**.
 
 **Variant** : Bell 412 (utility version)
 
-**DLC/mod** : CUP, 3CB **Faction**s
+**DLC/mod** : CUP, 3CB Factions
 
 
 ### EC665 Tiger
@@ -1800,7 +1809,7 @@ Pictures are **not to scale**.
 
 **Variant** : Unarmed, Door gunners, Rocket pods
 
-**DLC/mod** : CUP, RHS GREF, 3CB **Faction**s
+**DLC/mod** : CUP, RHS GREF, 3CB Factions
 
 
 
@@ -2159,7 +2168,7 @@ Pictures are **not to scale**.
 | AFRF  | (RHS) Armed Forces of the Russian Federation |
 | AMF   | Arma Mod France                              |
 | BAF   | (3CB) British Armed Forces                   |
-| CFP   | Community **Faction** Project                    |
+| CFP   | Community Faction Project                    |
 | CUP   | Community Upgrade Project                    |
 | GREF  | (RHS) Green Forces                           |
 | HAFM  | Hellenic Armed Forces Mod                    |
