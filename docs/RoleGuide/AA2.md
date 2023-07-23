@@ -468,7 +468,7 @@ Pictures are **not to scale**.
 ### AV-8B Harrier II
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/gb.png) UK
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -490,7 +490,7 @@ Pictures are **not to scale**.
 ### Boeing 737
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/civ.png) CIV
 
@@ -513,7 +513,7 @@ Pictures are **not to scale**.
 ### C-130J Super Hercules
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -534,7 +534,7 @@ Pictures are **not to scale**.
 ### Cessna 172 Skyhawk
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
@@ -557,7 +557,7 @@ Pictures are **not to scale**.
 ### Cessna 400 / Cessna TTx / Caesar BTT 
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
@@ -579,7 +579,7 @@ Pictures are **not to scale**.
 ### CASA CN-235
 
 
-**Country of origin** : ![](../assets/images/flags/es.png) Spain, ![](../assets/images/flags/in.png) Indonesia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/es.png"> Spain, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/in.png"> Indonesia
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
@@ -602,7 +602,7 @@ Pictures are **not to scale**.
 ### Douglas C-47 Skytrain 
  
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP, ![](../assets/images/AA/civ.png) CIV
 
@@ -626,7 +626,7 @@ Pictures are **not to scale**.
 ### Douglas DC-3
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/civ.png) CIV
 
@@ -650,7 +650,7 @@ Pictures are **not to scale**.
 ### F-4 PHANTOM II
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -671,7 +671,7 @@ Pictures are **not to scale**.
 ### F-16 FIGHTING FALCON
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -694,7 +694,7 @@ Pictures are **not to scale**.
 ### F/A-181 Black Wasp II
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
@@ -716,7 +716,7 @@ Pictures are **not to scale**.
 ### F-22 Raptor
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -739,7 +739,7 @@ Pictures are **not to scale**.
 ### F-35 Joint Strike Fighter
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -761,7 +761,7 @@ Pictures are **not to scale**.
 ### JAS-39 Gripen / A-149 Gryphon
 
 
-**Country of origin** : ![](../assets/images/flags/se.png) Sweden
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/se.png"> Sweden
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -784,7 +784,7 @@ Pictures are **not to scale**.
 ### L-39 Albatros / L-159 ALCA / A-143 Buzzard
 
 
-**Country of origin** : ![](../assets/images/flags/cz.png) Czechoslovakia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cz.png"> Czechoslovakia
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -805,7 +805,7 @@ Pictures are **not to scale**.
 ### MD-454 Mystère
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -828,7 +828,7 @@ Pictures are **not to scale**.
 ### MiG-21 FISHBED
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -849,7 +849,7 @@ Pictures are **not to scale**.
 ### MiG-29 Fulcrum
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -871,7 +871,7 @@ Pictures are **not to scale**.
 ### Mirage 2000
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -893,7 +893,7 @@ Pictures are **not to scale**.
 ### MV-22 Osprey
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
@@ -916,7 +916,7 @@ Pictures are **not to scale**.
 ### Rafale C
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
@@ -938,7 +938,7 @@ Pictures are **not to scale**.
 ### Su-25 Frogfoot
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -959,7 +959,7 @@ Pictures are **not to scale**.
 ### Su-34 Fullback
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -981,7 +981,7 @@ Pictures are **not to scale**.
 ### T-41 Mescalero
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR, ![](../assets/images/AA/opfor.png) OPFOR, ![](../assets/images/AA/indep.png) INDEP
 
@@ -1003,7 +1003,7 @@ Pictures are **not to scale**.
 ### T-50 (Su-57) Felon
 
 
-**Country of origin** : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
 **Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
@@ -1025,7 +1025,7 @@ Pictures are **not to scale**.
 ### To-201 Shikra
 
 
-**Country of origin** : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
@@ -1048,7 +1048,7 @@ Pictures are **not to scale**.
 ### Tu–95 BEAR
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
@@ -1070,7 +1070,7 @@ Pictures are **not to scale**.
 ### V-44X Blackfish
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : ![](../assets/images/AA/nato.png) BLUEFOR
 
@@ -1093,7 +1093,7 @@ Pictures are **not to scale**.
 ### Y-32 Wi’an
 
 
-**Country of origin** : ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
@@ -1115,7 +1115,7 @@ Pictures are **not to scale**.
 ### Yak-130 / To-199 Neophron
 
 
-**Country of origin** : ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : ![](../assets/images/AA/opfor.png) OPFOR
 
@@ -1155,7 +1155,7 @@ Pictures are **not to scale**.
 ### AH-1Z Viper
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1176,7 +1176,7 @@ Pictures are **not to scale**.
 ### AH-6M Little Bird / AH-9 Pawnee
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1201,7 +1201,7 @@ Pictures are **not to scale**.
 ### AH-64 / AH1 Apache
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1222,7 +1222,7 @@ Pictures are **not to scale**.
 ### AS532 Cougar
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : 
 
@@ -1245,7 +1245,7 @@ Pictures are **not to scale**.
 ### AS565 Panther
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : 
 
@@ -1266,7 +1266,7 @@ Pictures are **not to scale**.
 ### AW159 Wildcat / WY-55 Hellcat
 
 
-**Country of origin** : ![](../assets/images/flags/br.png) Brazil
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/br.png"> Brazil
 
 **Side** : 
 
@@ -1288,7 +1288,7 @@ Pictures are **not to scale**.
 ### Bell 412
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1309,7 +1309,7 @@ Pictures are **not to scale**.
 ### CH-47 / HC-4 Chinook
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1332,7 +1332,7 @@ Pictures are **not to scale**.
 ### CH-47I Chinook / CH-67 Huron
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1354,7 +1354,7 @@ Pictures are **not to scale**.
 ### CH-53E Super Stallion
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1377,7 +1377,7 @@ Pictures are **not to scale**.
 ### CH-146 Griffon
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/ca.png) Canada
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ca.png"> Canada
 
 **Side** : 
 
@@ -1397,7 +1397,7 @@ Pictures are **not to scale**.
 ### EC665 Tiger
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/de.png) Germany
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/de.png"> Germany
 
 **Side** : 
 
@@ -1420,7 +1420,7 @@ Pictures are **not to scale**.
 ### H225M Caracal
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : 
 
@@ -1441,7 +1441,7 @@ Pictures are **not to scale**.
 ### Ka-50 Black Shark
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : 
 
@@ -1464,7 +1464,7 @@ Pictures are **not to scale**.
 ### Ka-52 Alligator
 
 
-**Country of origin** : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
 **Side** : 
 
@@ -1486,7 +1486,7 @@ Pictures are **not to scale**.
 ### Ka-60 Kasatka
 
 
-**Country of origin** : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
 **Side** : 
 
@@ -1508,7 +1508,7 @@ Pictures are **not to scale**.
 ### Merlin HC3 / EH101 /  CH-49 Mohawk
 
 
-**Country of origin** : ![](../assets/images/flags/it.png) Italy
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/it.png"> Italy
 
 **Side** : 
 
@@ -1530,7 +1530,7 @@ Pictures are **not to scale**.
 ### MH-47E / HC-6 Chinook
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1553,7 +1553,7 @@ Pictures are **not to scale**.
 ### Mi-6A Hook
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : 
 
@@ -1574,7 +1574,7 @@ Pictures are **not to scale**.
 ### Mi-8 Hip
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : 
 
@@ -1595,7 +1595,7 @@ Pictures are **not to scale**.
 ### Mi-24 / Mi-35 Hind
 
 
-**Country of origin** : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/za.png) South Africa (Mi-24G) 
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/za.png"> South Africa (Mi-24G) 
 
 **Side** : 
 
@@ -1617,7 +1617,7 @@ Pictures are **not to scale**.
 ### Mi-28N Havok
 
 
-**Country of origin** : ![](../assets/images/flags/ru.png) Russia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
 **Side** : 
 
@@ -1640,7 +1640,7 @@ Pictures are **not to scale**.
 ### Mi-48 Kajman
 
 
-**Country of origin** : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : 
 
@@ -1662,7 +1662,7 @@ Pictures are **not to scale**.
 ### Mi-290 Taru
 
 
-**Country of origin** : ![](../assets/images/flags/csat.png) CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : 
 
@@ -1685,7 +1685,7 @@ Pictures are **not to scale**.
 ### NH90 Caïman
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : 
 
@@ -1707,7 +1707,7 @@ Pictures are **not to scale**.
 ### OH-58D Kiowa
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1730,7 +1730,7 @@ Pictures are **not to scale**.
 ### RAH-66 Comanche / AH-99 Blackfoot
 
 
-**Country of origin** :  ![](../assets/images/flags/us.png) USA
+**Country of origin** :  <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1751,7 +1751,7 @@ Pictures are **not to scale**.
 ### SA-330 Puma
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
 
 **Side** : 
 
@@ -1774,7 +1774,7 @@ Pictures are **not to scale**.
 ### A-29 - Super Tucano
 
 
-**Country of origin** : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
 
 **Side** : 
 
@@ -1795,7 +1795,7 @@ Pictures are **not to scale**.
 ### UH-1H Huey
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1816,7 +1816,7 @@ Pictures are **not to scale**.
 ### UH-1Y Venom
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1837,7 +1837,7 @@ Pictures are **not to scale**.
 ### UH-60 Black Hawk
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1860,7 +1860,7 @@ Pictures are **not to scale**.
 ### UH-80 Ghost Hawk
 
 
-**Country of origin** :  ![](../assets/images/flags/us.png) USA
+**Country of origin** :  <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1902,7 +1902,7 @@ Pictures are **not to scale**.
 ### AR-2 Darter / Tayran
 
 
-**Country of origin** : ![](../assets/images/flags/unk.png) Unknown
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/unk.png"> Unknown
 
 **Side** : 
 
@@ -1924,7 +1924,7 @@ Pictures are **not to scale**.
 ### AL-6 Pelican / Jinaah
 
 
-**Country of origin** : ![](../assets/images/flags/unk.png) Unknown
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/unk.png"> Unknown
 
 **Side** : 
 
@@ -1947,7 +1947,7 @@ Pictures are **not to scale**.
 ### KH-3A Fenghuang
 
 
-**Country of origin** : ![](../assets/images/flags/cn.png) China
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cn.png"> China
 
 **Side** : 
 
@@ -1968,7 +1968,7 @@ Pictures are **not to scale**.
 ### MQ-4A Greyhawk
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -1990,7 +1990,7 @@ Pictures are **not to scale**.
 ### MQ-9 Reaper
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -2011,7 +2011,7 @@ Pictures are **not to scale**.
 ### MQ-12 Falcon
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -2033,7 +2033,7 @@ Pictures are **not to scale**.
 ### Pchela-1T / SHMEL-1 / YAK-061
 
 
-**Country of origin** : ![](../assets/images/flags/cis.png) CIS
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cis.png"> CIS
 
 **Side** : 
 
@@ -2055,7 +2055,7 @@ Pictures are **not to scale**.
 ### Pegasus II
 
 
-**Country of origin** : Greece
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gr.png"> Greece
 
 **Side** : 
 
@@ -2078,7 +2078,7 @@ Pictures are **not to scale**.
 ### UCAV Sentinel
 
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : 
 
@@ -2099,7 +2099,7 @@ Pictures are **not to scale**.
 ## 7. Glossary
 
 
-| **Faction**s : |                                           |
+| Factions : |                                           |
 | ---------- | ----------------------------------------- |
 | AA         | Ardistan Army                             |
 | AAF        | Altis Armed Forces                        |
