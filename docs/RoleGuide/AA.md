@@ -50,8 +50,6 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
-
-
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
   <p class="image-caption">UH-1Y Venom</p>
@@ -59,8 +57,9 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-  <p class="image-caption">CH-146 Griffon</p> <br>
+  <p class="image-caption">CH-146 Griffon</p> 
 </div>
+<br>
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
@@ -71,10 +70,6 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
   <p class="image-caption">MiG-29</p> 
 </div>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ##  2. Camouflages and markings
@@ -96,9 +91,9 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/mi-8-ana.jpg" width="100%" />
-  <p class="image-caption">Mi-8 - ANA</p> <br>
+  <p class="image-caption">Mi-8 - ANA</p> 
 </div>
-
+<br>
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
   <p class="image-caption">L-39 - ADA</p>
@@ -106,9 +101,9 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/nh90-haf.jpg" width="100%" />
-  <p class="image-caption">NH90 - HAF</p> <br>
+  <p class="image-caption">NH90 - HAF</p> 
 </div>
-
+<br>
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
   <p class="image-caption">JAS 39 - AAF</p>
@@ -118,7 +113,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
   <img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg" width="100%" />
   <p class="image-caption">Mi-24 - CDF</p> 
 </div>
-
+<br>
 
 ## Camouflages hard to distinguish :
 
