@@ -356,7 +356,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
-**Side** : ![](../assets/images/AA/nato.png) BLUFOR
+**Side** : <img src="/mkdocs/assets/images/AA/nato.png"/> BLUFOR
 
 **Faction** : NATO, US Army
 
