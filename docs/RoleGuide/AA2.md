@@ -96,10 +96,10 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 Su-25 :
 
-|||||
-|:-:|:-:|:-:|:-:|
+||||
+|:-:|:-:|:-:|
 |<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>RU|<img src="/mkdocs/assets/images/AA/su-25-IA.jpg"> <br>IA|<img src="/mkdocs/assets/images/AA/su25-4x.jpg"> <br>RU - ChDSZ - chDKZ - chDZZ|
-|<img src="/mkdocs/assets/images/AA/su-25-KDF.jpg"> <br>KDF|<img src="/mkdocs/assets/images/AA/su-25-aa.jpg"> <br>AA|<img src="/mkdocs/assets/images/AA/su-25-SuAF.jpg"> <br>suAF||
+|<img src="/mkdocs/assets/images/AA/su-25-KDF.jpg"> <br>KDF|<img src="/mkdocs/assets/images/AA/su-25-aa.jpg"> <br>AA|<img src="/mkdocs/assets/images/AA/su-25-SuAF.jpg"> <br>suAF|
 
 
 
