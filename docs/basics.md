@@ -41,7 +41,7 @@ With it's position in the platoon element, it can directly coordinate with the p
 
 ## Infantry Squad
 A squad is the primary asset of a platoon leader. These teams are capable of effectively deal with objectives on their own. A full team consists of 6 soldiers, all with their own role.
-Not all squads are setup with the same roles and can also be changed depending on attendance and mission requirements. all teams are made up from at least: 1 squad leader, 1 combat lifesaver (CLS) and one rifleman varient.
+Not all squads are setup with the same roles and can also be changed depending on attendance and mission requirements. all teams are made up from at least: 1 squad leader, 1 combat lifesaver (CLS) and one rifleman variant.
 the rest of the team is filled up with specialized roles like Heavy Anti-tank or automatic rifleman. 
 
 ## buddy system
