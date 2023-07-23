@@ -42,12 +42,12 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
   .image-caption {
     position: absolute;
-    bottom: 5px;
-    left: 5px; /* Adjust this value to change the horizontal position */
+    bottom: 3px;
+    left: 5px;
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: 11px;
   }
 
   .image-row::after {
@@ -70,39 +70,19 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 </div>
 
 
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
+    <p class="image-caption">F/A-181 Black Wasp II</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/MiG-29.jpg"  width="100%" />
+    <p class="image-caption">MiG-29</p> 
+  </div>
+</div>
+
 ##  2. Camouflages and markings
-
-aircraft usually have a **camouflage finish** with the upper and side surfaces painted in a **disruptive pattern of two or more shades.** This breaks up their form when viewed from above, and aids **concealment when on the ground or flying low.** The undersurfaces are **painted in a light color to blend with the sky** when viewed from below.
-The **overall gray color** of most fighter-interceptor aircraft is a camouflage scheme. Other aircraft may be painted a two-tone gray. 
-
-Light aircraft and helicopters
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
-  <p class="image-caption">UH-1Y Venom</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-  <p class="image-caption">CH-146 Griffon</p> 
-</div><br>
-
-
-
-
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="50%" />
-  <p class="image-caption">F/A-181 Black Wasp II</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="50%" />
-  <p class="image-caption">MiG-29</p> 
-</div><br>
-
-
-
 
 ### Camouflages :
 
