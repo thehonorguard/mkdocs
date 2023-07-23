@@ -129,11 +129,6 @@ Camouflage will vary between **theaters of operation and/or Faction.**
   </div>
 </div>
 
-With this updated code, the images and captions will be displayed correctly with each pair in its own <div class="image-container"> container, and each row of image-caption pairs enclosed within a <div class="image-row"> container. The clear: both property in the .ima
-
-ge-row::after class ensures that each row starts on a new line.
-
-
 ## Camouflages hard to distinguish :
 
 A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
