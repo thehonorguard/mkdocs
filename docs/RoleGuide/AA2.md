@@ -328,7 +328,7 @@ Pictures are not to scale.
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : HAF
 
@@ -349,7 +349,7 @@ DLC/mod : HAFM
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUFOR
 
 Faction : NATO, US Army
 
@@ -372,7 +372,7 @@ DLC/mod : Vanilla, CUP, RHS USAF
 
 Country of origin : ![](../assets/images/flags/br.png) Brazil
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUFOR
 
 Faction : HIDF
 
@@ -394,7 +394,7 @@ DLC/mod : RHS GREF
 
 Country of origin : ![](../assets/images/flags/eu.png) Europe
 
-Side : 
+Side : ![](../assets/images/aa/civ.png) CIV
 
 Faction : Civilian
 
@@ -417,7 +417,7 @@ DLC/mod : CUP
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP, ![](../assets/images/aa/civ.png) CIV
 
 Faction : ION, MDF, HIDF, Civilian
 
@@ -439,7 +439,7 @@ DLC/mod : 3CB Factions
 
 Country of origin : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/pl.png) Poland
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP, ![](../assets/images/aa/civ.png) CIV
 
 Faction : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                               Civilian
 
@@ -461,7 +461,7 @@ DLC/mod : CUP, RHS GREF
 
 Country of origin : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/gb.png) UK
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : USMC, BAF, AAF
 
@@ -483,7 +483,7 @@ DLC/mod : CUP
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/civ.png) CIV
 
 Faction : Civilian
 
@@ -506,7 +506,7 @@ DLC/mod : CUP
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS
 
@@ -526,7 +526,7 @@ DLC/mod : CUP, RHS USAF, HAFM
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP, ![](../assets/images/aa/civ.png) CIV
 
 Faction : ION, LFR, UN, Civilian
 
@@ -549,7 +549,7 @@ DLC/mod : CUP, 3CB Factions
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP, ![](../assets/images/aa/civ.png) CIV
 
 Faction : AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, UN, Syndikat, Civilian
 
@@ -570,7 +570,7 @@ DLC/mod : APEX DLC
 
 Country of origin : ![](../assets/images/flags/es.png) Spain, ![](../assets/images/flags/in.png) Indonesia
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR
 
 Faction : FRA
 
@@ -593,7 +593,7 @@ DLC/mod : AMF
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP, ![](../assets/images/aa/civ.png) CIV
 
 Faction : US Army, KRG, TNA, HIDF
 
@@ -617,7 +617,7 @@ DLC/mod : CUP, 3CB Factions
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/civ.png) CIV
 
 Faction : Civilian
 
@@ -641,7 +641,7 @@ DLC/mod : CUP, 3CB Factions
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : HAF
 
@@ -662,7 +662,7 @@ DLC/mod : HAFM
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : HAF
 
@@ -685,7 +685,7 @@ DLC/mod : HAFM
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR
 
 Faction : NATO
 
@@ -707,7 +707,7 @@ DLC/mod : Jets DLC
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : USAF
 
@@ -730,7 +730,7 @@ DLC/mod : RHS USAF
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : US Army, USMC, BAF, IDF
 
@@ -752,7 +752,7 @@ DLC/mod : CUP
 
 Country of origin : ![](../assets/images/flags/se.png) Sweden
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : HIL, AAF, LDF, RACS
 
@@ -775,7 +775,7 @@ DLC/mod : Vanilla
 
 Country of origin : ![](../assets/images/flags/cz.png) Czechoslovakia
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, TA
 
@@ -796,7 +796,7 @@ DLC/mod : CUP, RHS GREF
 
 Country of origin : ![](../assets/images/flags/fr.png) France
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : MDF, HIDF
 
@@ -819,7 +819,7 @@ DLC/mod : 3CB Factions
 
 Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : GAF, KDF, LDF, TNA, USSR, CDF, AA
 
@@ -840,7 +840,7 @@ DLC/mod : 3CB Factions
 
 Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, RU, SAF
 
@@ -862,7 +862,7 @@ DLC/mod : RHS AFRF, RHS SAF
 
 Country of origin : ![](../assets/images/flags/fr.png) France
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : FRA, HAF
 
@@ -884,7 +884,7 @@ DLC/mod : AMF, HAFM
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR
 
 Faction : USMC
 
@@ -907,7 +907,7 @@ DLC/mod : CUP
 
 Country of origin : ![](../assets/images/flags/fr.png) France
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR
 
 Faction : FRA
 
@@ -929,7 +929,7 @@ DLC/mod : AMF
 
 Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : ADA, AA, ChDSZ, GAF, KDF, LDF, TNA, CDF, CAF, CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, SAA
 
@@ -950,7 +950,7 @@ DLC/mod : CUP, RHS AFRF, RHS GREF
 
 Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : CDF, CSAT, RU, SLA, AAF
 
@@ -972,7 +972,7 @@ DLC/mod : CUP
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR, ![](../assets/images/aa/opfor.png) OPFOR, ![](../assets/images/aa/indep.png) INDEP
 
 Faction : AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, LDF, RACS
 
@@ -994,7 +994,7 @@ DLC/mod : CUP, 3CB Factions
 
 Country of origin : ![](../assets/images/flags/ru.png) Russia
 
-Side : 
+Side : ![](../assets/images/aa/opfor.png) OPFOR
 
 Faction : RU
 
@@ -1016,7 +1016,7 @@ DLC/mod : RHS AFRF
 
 Country of origin : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
 
-Side : 
+Side : ![](../assets/images/aa/opfor.png) OPFOR
 
 Faction : CSAT
 
@@ -1039,7 +1039,7 @@ DLC/mod : Jets DLC
 
 Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
-Side : 
+Side : ![](../assets/images/aa/opfor.png) OPFOR
 
 Faction : RU, USSR
 
@@ -1061,7 +1061,7 @@ DLC/mod : RHS AFRF
 
 Country of origin : ![](../assets/images/flags/us.png) USA
 
-Side : 
+Side : ![](../assets/images/aa/nato.png) BLUEFOR
 
 Faction : NATO
 
@@ -1084,7 +1084,7 @@ DLC/mod : Apex DLC
 
 Country of origin : ![](../assets/images/flags/csat.png) CSAT
 
-Side : 
+Side : ![](../assets/images/aa/opfor.png) OPFOR
 
 Faction : CSAT
 
@@ -1106,7 +1106,7 @@ DLC/mod : Apex DLC
 
 Country of origin : ![](../assets/images/flags/csat.png) CSAT
 
-Side : 
+Side : ![](../assets/images/aa/opfor.png) OPFOR
 
 Faction : CSAT, SAA
 
