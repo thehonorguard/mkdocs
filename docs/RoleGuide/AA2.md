@@ -325,7 +325,7 @@ Pictures are **not to scale**.
 ### A-7H Corsair II
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="150px" />
+  <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="250px" />
 </div>
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
