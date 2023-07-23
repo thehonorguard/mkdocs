@@ -65,8 +65,8 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 | | |
 |:-:|:-:|
-|<img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg"> <br><p class="image-caption">UH-1Y Venom</p>|<img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg"><br><p class="image-caption">CH-146 Griffon</p>|
-|<img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg"><br><p class="image-caption">F/A-181 Black Wasp II</p>|<img src="/mkdocs/assets/images/AA/MiG-29.jpg"><br><p class="image-caption">MiG-29w</p>|
+|<img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg"><br>UH-1Y Venom|<img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg"><br>CH-146 Griffon|
+|<img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg"><br>F/A-181 Black Wasp II|<img src="/mkdocs/assets/images/AA/MiG-29.jpg"><br>MiG-29|
 
 
 ##  2. Camouflages and markings
@@ -98,8 +98,8 @@ Su-25 :
 
 ||||
 |:-:|:-:|:-:|
-|<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>RU|<img src="/mkdocs/assets/images/AA/su-25-IA.jpg"> <br>IA|<img src="/mkdocs/assets/images/AA/su25-4x.jpg"> <br>RU - ChDSZ - chDKZ - chDZZ|
-|<img src="/mkdocs/assets/images/AA/su-25-KDF.jpg"> <br>KDF|<img src="/mkdocs/assets/images/AA/su-25-aa.jpg"> <br>AA|<img src="/mkdocs/assets/images/AA/su-25-SuAF.jpg"> <br>suAF|
+|<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>RU|<img src="/mkdocs/assets/images/AA/su-25-IA.jpg"> <br>IA|<img src="/mkdocs/assets/images/AA/su25-4x.jpg"> <br>RU - ChDSZ<br>ChDKZ - ChDZZ|
+|<img src="/mkdocs/assets/images/AA/su-25-KDF.jpg"> <br>KDF|<img src="/mkdocs/assets/images/AA/su-25-aa.jpg"> <br>AA|<img src="/mkdocs/assets/images/AA/su-25-SuAF.jpg"> <br>SuAF|
 
 
 
@@ -441,7 +441,7 @@ Country of origin : USSR, Poland
 
 Side : 
 
-Faction : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                                 …………….. Civilian
+Faction : FIA, ADA, AA, ChDSZ, TNA, CDF, USSR,                               Civilian
 
 Crew : 2
 
@@ -508,7 +508,7 @@ Country of origin : USA
 
 Side : 
 
-Faction : AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, …………….. BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS
+Faction : AAF, ANA, ADA, US Army, LDF, MDF, TNA, UN, BAF, HAF, IDF, USMC, USAF, IRIA, SuAF, RACS
 
 Crew : 2
 
@@ -551,7 +551,7 @@ Country of origin : USA
 
 Side : 
 
-Faction : AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, ……………...UN, Syndikat, Civilian
+Faction : AAF, ADA, AA, FIA, ION, LDF, LFR, MDF, NAPA, UN, Syndikat, Civilian
 
 Crew : 2
 
@@ -603,8 +603,10 @@ Role : Transport, Cargo, Light attack
 
 Armament : Usually none, Bombs
 
-Variant : Douglas DC-3 (civilian version), AC-47 (gunship)
-………………..Lisunov Li-2 (USSR version)
+Variant : 
+- Douglas DC-3 (civilian version), 
+- AC-47 (gunship)
+- Lisunov Li-2 (USSR version)
 
 DLC/mod : CUP, 3CB Factions
 
@@ -625,8 +627,9 @@ Role : Transport, Cargo
 
 Armament : None
 
-Variant : Douglas C-47 (military version), AC-47 (gunship)
-………………..Lisunov Li-2 (USSR version)
+Variant : 
+- Douglas C-47 (military version), AC-47 (gunship)
+- Lisunov Li-2 (USSR version)
 
 DLC/mod : CUP, 3CB Factions
 
@@ -774,7 +777,7 @@ Country of origin : Czechoslovakia
 
 Side : 
 
-Faction : AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, ………………TA
+Faction : AAF, ANA, ADA, KRG, LDF, TNA, ACR, CDF, SAA, TA
 
 Crew : 1,   L-39ZA : 2
 
@@ -791,7 +794,7 @@ DLC/mod : CUP, RHS GREF
 ### MD-454 Mystère
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -839,7 +842,7 @@ Country of origin : USSR
 
 Side : 
 
-Faction : ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, ………………RU, SAF
+Faction : ADA, AA, GAF, KDF, LDF, CDF, AAF, USSR, TNA, RU, SAF
 
 Crew : 1
 
@@ -857,7 +860,7 @@ DLC/mod : RHS AFRF, RHS SAF
 ### Mirage 2000
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -902,7 +905,7 @@ DLC/mod : CUP
 ### Rafale C
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -928,7 +931,7 @@ Country of origin : USSR
 
 Side : 
 
-Faction : ADA, AA, ChDSZ, GAF, KDF, LDF, TNA, CDF, CAF, ………………CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, ………………SAA
+Faction : ADA, AA, ChDSZ, GAF, KDF, LDF, TNA, CDF, CAF, CSAT, AAF, USSR, IA, KPA, RU, SLA, SuAF, TA, SAA
 
 Crew : 1
 
@@ -971,7 +974,7 @@ Country of origin : USA
 
 Side : 
 
-Faction : AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, ………………LDF, RACS
+Faction : AAF, Us Army, FIA, ION, KRG, MDF, TNA, UN, HIL, LDF, RACS
 
 Crew : 2
 
@@ -1118,7 +1121,7 @@ Variant : None
 DLC/mod : Vanilla
 
 
-##  5. Helicopter
+##  5. Helicopters
 
 
     This chapter shows a non-exhaustive list of Helicopters.
@@ -1138,7 +1141,7 @@ Pictures are not to scale.
 
 
 
-AH-1Z Viper
+### AH-1Z Viper
 
 
 Country of origin : USA
@@ -1159,7 +1162,7 @@ DLC/mod : CUP, RHS USAF
 
 
 
-AH-6M Little Bird / AH-9 Pawnee
+### AH-6M Little Bird / AH-9 Pawnee
 
 
 Country of origin : USA
@@ -1174,8 +1177,9 @@ Role : Light attack
 
 Armament : Missiles, Rockets, Gun pods, Machine guns
 
-Variant : MH-6M / MH-9 (transport version)
-…………….….MD 500 / M-900 (vanilla version)
+Variant : 
+- MH-6M / MH-9 (transport version)
+- MD 500 / M-900 (vanilla version)
 
 DLC/mod : Vanilla, CUP, RHS USAF
 
@@ -1183,7 +1187,7 @@ DLC/mod : Vanilla, CUP, RHS USAF
 
 
 
-AH-64 / AH1 Apache
+### AH-64 / AH1 Apache
 
 
 Country of origin : USA
@@ -1204,10 +1208,10 @@ DLC/mod : CUP, RHS USAF, HAFM
 
 
 
-AS532 Cougar
+### AS532 Cougar
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -1227,10 +1231,10 @@ DLC/mod : AMF
 
 
 
-AS565 Panther
+### AS565 Panther
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -1248,7 +1252,7 @@ DLC/mod : AMF
 
 
 
-AW159 Wildcat / WY-55 Hellcat
+### AW159 Wildcat / WY-55 Hellcat
 
 
 Country of origin : Brazil
@@ -1270,7 +1274,7 @@ DLC/mod : Vanilla, CUP
 
 
 
-Bell 412
+### Bell 412
 
 
 Country of origin : USA
@@ -1291,7 +1295,7 @@ DLC/mod : CUP, 3CB Factions
 
 
 
-CH-47 / HC-4 Chinook
+### CH-47 / HC-4 Chinook
 
 
 Country of origin : USA
@@ -1314,7 +1318,7 @@ DLC/mod : CUP, RHS USAF, HAFM
 
 
 
-CH-47I Chinook / CH-67 Huron
+### CH-47I Chinook / CH-67 Huron
 
 
 Country of origin : USA
@@ -1336,7 +1340,7 @@ DLC/mod : Helicopters DLC
 
 
 
-CH-53E Super Stallion
+### CH-53E Super Stallion
 
 
 Country of origin : USA
@@ -1359,7 +1363,7 @@ DLC/mod : CUP, RHS USAF
 
 
 
-CH-146 Griffon
+### CH-146 Griffon
 
 
 Country of origin : USA, Canada
@@ -1379,10 +1383,10 @@ Variant : Bell 412 (utility version)
 DLC/mod : CUP, 3CB Factions
 
 
-EC665 Tiger
+### EC665 Tiger
 
 
-Country of origin : France, Germany
+Country of origin : 🇫🇷, Germany
 
 Side : 
 
@@ -1402,10 +1406,10 @@ DLC/mod : AMF, R3F
 
 
 
-H225M Caracal
+### H225M Caracal
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -1423,7 +1427,7 @@ DLC/mod : AMF
 
 
 
-Ka-50 Black Shark
+### Ka-50 Black Shark
 
 
 Country of origin : USSR
@@ -1446,7 +1450,7 @@ DLC/mod : CUP
 
 
 
-Ka-52 Alligator
+### Ka-52 Alligator
 
 
 Country of origin : Russia
@@ -1468,7 +1472,7 @@ DLC/mod : CUP, RHS AFRF
 
 
 
-Ka-60 Kasatka
+### Ka-60 Kasatka
 
 
 Country of origin : Russia
@@ -1490,7 +1494,7 @@ DLC/mod : Vanilla, CUP, RHS AFRF
 
 
 
-Merlin HC3 / EH101 /  CH-49 Mohawk
+### Merlin HC3 / EH101 /  CH-49 Mohawk
 
 
 Country of origin : Italy
@@ -1512,7 +1516,7 @@ DLC/mod : Vanilla, CUP, RHS USAF
 
 
 
-MH-47E / HC-6 Chinook
+### MH-47E / HC-6 Chinook
 
 
 Country of origin : USA
@@ -1535,7 +1539,7 @@ DLC/mod : CUP
 
 
 
-Mi-6A Hook
+### Mi-6A Hook
 
 
 Country of origin : USSR
@@ -1556,14 +1560,14 @@ DLC/mod : CUP
 
 
 
-Mi-8 Hip
+### Mi-8 Hip
 
 
 Country of origin : USSR
 
 Side : 
 
-Faction : ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, …………..…UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, …………..…CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, ………………SuAF, ChDZZ, UPDF, Civilian
+Faction : ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, SuAF, ChDZZ, UPDF, Civilian
 
 Crew : 2,   4 with Gunners
 
@@ -1571,19 +1575,20 @@ Role : Transport, Cargo, Light attack
 
 Armament : None, Rockets, Machine guns
 
-Variant : HT-40 / HT48 (Serbian version)
-…………..……Mi-17 (export version)
+Variant : 
+- HT-40 / HT48 (Serbian version)
+- Mi-17 (export version)
 
 DLC/mod : CUP, RHS AFRF, RHS GRF
 
-Mi-24 / Mi-35 Hind
+### Mi-24 / Mi-35 Hind
 
 
 Country of origin : USSR, South Africa (Mi-24G) 
 
 Side : 
 
-Faction : ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, ………………CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, ………………Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
+Faction : ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, ………………CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
 
 Crew : 2
 
@@ -1591,12 +1596,14 @@ Role : Light transport, Attack helicopter
 
 Armament : Cannon, Bombs, Missiles, Rockets
 
-Variant : P (fix 20mm cannon), D / V (12.7mm turret), 
-………………G / Mk.III / Mk.IV (20mm turret),
-………………. Mi-35 (export version)
+Variant : 
+- P (fix 20mm cannon), 
+- D / V (12.7mm turret), 
+- G / Mk.III / Mk.IV (20mm turret),
+- Mi-35 (export version)
 
 DLC/mod : CUP, RHS AFRF, RHS GREF
-Mi-28N Havok
+### Mi-28N Havok
 
 
 Country of origin : Russia
@@ -1619,7 +1626,7 @@ DLC/mod : RHS AFRF
 
 
 
-Mi-48 Kajman
+### Mi-48 Kajman
 
 
 Country of origin : Russia, CSAT
@@ -1641,7 +1648,7 @@ DLC/mod : Vanilla
 
 
 
-Mi-290 Taru
+### Mi-290 Taru
 
 
 Country of origin :  CSAT
@@ -1664,10 +1671,10 @@ DLC/mod : Helicopters DLC
 
 
 
-NH90 Caïman
+### NH90 Caïman
 
 
-Country of origin : France
+Country of origin : 🇫🇷
 
 Side : 
 
@@ -1686,7 +1693,7 @@ DLC/mod : AMF, HAFM
 
 
 
-OH-58D Kiowa
+### OH-58D Kiowa
 
 
 Country of origin : USA
@@ -1709,7 +1716,7 @@ DLC/mod : HAFM
 
 
 
-RAH-66 Comanche / AH-99 Blackfoot
+### RAH-66 Comanche / AH-99 Blackfoot
 
 
 Country of origin :  USA
@@ -1730,10 +1737,10 @@ DLC/mod : Vanilla
 
 
 
-SA-330 Puma
+### SA-330 Puma
 
 
-Country of origin : France, UK
+Country of origin : 🇫🇷, UK
 
 Side : 
 
@@ -1753,10 +1760,10 @@ DLC/mod : CUP
 
 
 
-A-29 - Super Tucano
+### A-29 - Super Tucano
 
 
-Country of origin : France, UK
+Country of origin : 🇫🇷, UK
 
 Side : 
 
@@ -1774,14 +1781,14 @@ DLC/mod : AMF
 
 
 
-UH-1H Huey
+### UH-1H Huey
 
 
 Country of origin : USA
 
 Side : 
 
-Faction : FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, ………………TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, ………………IDAP
+Faction : FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, IDAP
 
 Crew : 2,   4 with door gunners
 
@@ -1795,7 +1802,7 @@ DLC/mod : CUP, RHS GREF, 3CB Factions
 
 
 
-UH-1Y Venom
+### UH-1Y Venom
 
 
 Country of origin : USA
@@ -1816,7 +1823,7 @@ DLC/mod : CUP, RHS USAF
 
 
 
-UH-60 Black Hawk
+### UH-60 Black Hawk
 
 
 Country of origin : USA
@@ -1839,7 +1846,7 @@ DLC/mod : CUP, RHS USAF
 
 
 
-UH-80 Ghost Hawk
+### UH-80 Ghost Hawk
 
 
 Country of origin :  USA
@@ -1859,8 +1866,7 @@ Variant : None
 DLC/mod : Vanilla
 
 
-
-   6. UAV
+## 6. UAV
 
 
     This chapter shows a non-exhaustive list of Unmanned Aerial Vehicles.
@@ -1882,7 +1888,7 @@ Pictures are not to scale.
 
  
 
-AR-2 Darter / Tayran
+### AR-2 Darter / Tayran
 
 
 Country of origin : Unknown
@@ -1904,7 +1910,7 @@ DLC/mod : Vanilla
 
 
 
-AL-6 Pelican / Jinaah
+### AL-6 Pelican / Jinaah
 
 
 Country of origin : Unknown
@@ -1927,7 +1933,7 @@ DLC/mod : Laws of War DLC
 
 
 
-KH-3A Fenghuang
+### KH-3A Fenghuang
 
 
 Country of origin : China
@@ -1948,7 +1954,7 @@ DLC/mod : Apex DLC
 
 
 
-MQ-4A Greyhawk
+### MQ-4A Greyhawk
 
 
 Country of origin : USA
@@ -1970,7 +1976,7 @@ DLC/mod : Vanilla
 
 
 
-MQ-9 Reaper
+### MQ-9 Reaper
 
 
 Country of origin : USA
@@ -1991,7 +1997,7 @@ DLC/mod : CUP, AMF, 3CB BAF, USAF Mod
 
 
 
-MQ-12 Falcon
+### MQ-12 Falcon
 
 
 Country of origin : USA
@@ -2013,7 +2019,7 @@ DLC/mod : Apex DLC
 
 
 
-Pchela-1T / SHMEL-1 / YAK-061
+### Pchela-1T / SHMEL-1 / YAK-061
 
 
 Country of origin : CIS
@@ -2035,7 +2041,7 @@ DLC/mod : CUP, RHS AFRF
 
 
 
-Pegasus II
+### Pegasus II
 
 
 Country of origin : Greece
@@ -2058,7 +2064,7 @@ DLC/mod : HAFM
 
 
 
-UCAV Sentinel
+### UCAV Sentinel
 
 
 Country of origin : USA
@@ -2078,156 +2084,83 @@ Variant : None
 DLC/mod : Jets DLC
 
 
-  7. Glossary
+
+## 7. Glossary
 
 
-Factions :
-
-AA
-AAF
-ACR
-ADA
-AfghA
-ANA
-APD
-BAF
-CAF
-CDF
-ChDKZ
-ChDSZ
-ChDZZ
-CIA
-CIS
-CMRS
-CPD
-CSAT
-CTRG
-FIA
-FIN
-FRA
-GAF
-GER
-HAF
-HIDF
-HIL
-IA
-IDAP
-Ardistan Army
-Altis Armed Forces
-Army of the Czech Rep.
-African Desert Army
-Afghanistan Army
-Afghanistan National Army
-Altis Police Department
-British Armed Forces
-Chadian Armed Forces
-Chernarus Defence Forces
-Chernarussian Movement of the Red Star
-Chernarussian Movement of the Blue Star
-Chernarussian Movement of the Green Star
-Central Intelligence Agency
-Commonwealth of Independent States
-Chernarussian Movement of the Red Star
-Chernarus Police Department
-Canton Protocol Strategic Alliance Treaty
-Combat Technology Research Group
-Freedom and Independence Army
-Finland Army
-French Army
-Grozovia Armed Forces
-German Army
-Hellenic Armed Forces
-Horizon Islands Defence Forces
-Horizon Islands Legion
-Iraqi Army (Hussein Regime)
-International Development & Aid Project
-IDF
-ION
-IRIA
-KDF
-KeDF
-KPA
-KRG
-LDF
-LFR
-MDF
-MGF
-NA
-NAPA
-NATO
-RACS
-RU
-SAA
-SAF
-SuAF
-SLA
-SSPDF
-TA
-TNA
-UN
-UPDF
-USAF
-US Army
-USMC
-USSR
-Israeli Defence Forces
-ION Services
-Islamic Republic of Iran Army
-Kolgujev Defence Forces
-Kenyan Defense Forces
-Korean People’s Army
-Karzeghistan Royal Guard
-Livonian Defence Forces
-Livonian Forest Rangers
-Malden Defence Forces
-Malian Government Forces
-Nigerian Army
-National Party
-North Atlantic Treaty Organization
-Royal Army Corps of Sahrani
-Russian Army
-Syrian Arab Army
-Serbian Armed Forces
-Sudanese Armed Forces
-Sahrani Liberation Army
-South Sudan People’s Defence Forces
-Takistan Army
-Takistan National Army
-United Nations
-Uganda People’s Defence Force
-United States Air Force
-United States Army
-United States Marine Corps
-Union of Soviet Socialist Republics
+| Factions : |                                           |
+| ---------- | ----------------------------------------- |
+| AA         | Ardistan Army                             |
+| AAF        | Altis Armed Forces                        |
+| ACR        | Army of the Czech Rep.                    |
+| ADA        | African Desert Army                       |
+| AfghA      | Afghanistan Army                          |
+| ANA        | Afghanistan National Army                 |
+| APD        | Altis Police Department                   |
+| BAF        | British Armed Forces                      |
+| CAF        | Chadian Armed Forces                      |
+| CDF        | Chernarus Defence Forces                  |
+| ChDKZ      | Chernarussian Movement of the Red Star    |
+| ChDSZ      | Chernarussian Movement of the Blue Star   |
+| ChDZZ      | Chernarussian Movement of the Green Star  |
+| CIA        | Central Intelligence Agency               |
+| CIS        | Commonwealth of Independent States        |
+| CMRS       | Chernarussian Movement of the Red Star    |
+| CPD        | Chernarus Police Department               |
+| CSAT       | Canton Protocol Strategic Alliance Treaty |
+| CTRG       | Combat Technology Research Group          |
+| FIA        | Freedom and Independence Army             |
+| FIN        | Finland Army                              |
+| FRA        | French Army                               |
+| GAF        | Grozovia Armed Forces                     |
+| GER        | German Army                               |
+| HAF        | Hellenic Armed Forces                     |
+| HIDF       | Horizon Islands Defence Forces            |
+| HIL        | Horizon Islands Legion                    |
+| IA         | Iraqi Army (Hussein Regime)               |
+| IDAP       | International Development & Aid Project   |
+| IDF        | Israeli Defence Forces                    |
+| ION        | ION Services                              |
+| IRIA       | Islamic Republic of Iran Army             |
+| KDF        | Kolgujev Defence Forces                   |
+| KeDF       | Kenyan Defense Forces                     |
+| KPA        | Korean People’s Army                      |
+| KRG        | Karzeghistan Royal Guard                  |
+| LDF        | Livonian Defence Forces                   |
+| LFR        | Livonian Forest Rangers                   |
+| MDF        | Malden Defence Forces                     |
+| MGF        | Malian Government Forces                  |
+| NA         | Nigerian Army                             |
+| NAPA       | National Party                            |
+| NATO       | North Atlantic Treaty Organization        |
+| RACS       | Royal Army Corps of Sahrani               |
+| RU         | Russian Army                              |
+| SAA        | Syrian Arab Army                          |
+| SAF        | Serbian Armed Forces                      |
+| SuAF       | Sudanese Armed Forces                     |
+| SLA        | Sahrani Liberation Army                   |
+| SSPDF      | South Sudan People’s Defence Forces       |
+| TA         | Takistan Army                             |
+| TNA        | Takistan National Army                    |
+| UN         | United Nations                            |
+| UPDF       | Uganda People’s Defence Force             |
+| USAF       | United States Air Force                   |
+| US Army    | United States Army                        |
+| USMC       | United States Marine Corps                |
+| USSR       | Union of Soviet Socialist Republics       |
 
 
 
-Mods:
-
-3CB
-AFRF
-AMF
-BAF
-CFP
-CUP
-3 Commando Brigade
-(RHS) Armed Forces of the Russian Federation
-Arma Mod France
-(3CB) British Armed Forces 
-Community Faction Project
-Community Upgrade Project
-GREF
-HAFM
-RHS
-SAF
-USAF
-
-
-
-(RHS) Green Forces
-Hellenic Armed Forces Mod
-Red Hammer Studio
-(RHS) Serbian Armed Forces
-(RHS) United States Armed Forces
-
-
+| Mods: |                                              |
+| ----- | -------------------------------------------- |
+| 3CB   | 3 Commando Brigade                           |
+| AFRF  | (RHS) Armed Forces of the Russian Federation |
+| AMF   | Arma Mod 🇫🇷                              |
+| BAF   | (3CB) British Armed Forces                   |
+| CFP   | Community Faction Project                    |
+| CUP   | Community Upgrade Project                    |
+| GREF  | (RHS) Green Forces                           |
+| HAFM  | Hellenic Armed Forces Mod                    |
+| RHS   | Red Hammer Studio                            |
+| SAF   | (RHS) Serbian Armed Forces                   |
+| USAF  | (RHS) United States Armed Forces             |
