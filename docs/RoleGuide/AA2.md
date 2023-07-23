@@ -1,8 +1,8 @@
 <style>
   .image-container {
     position: relative;
-    width: 45%;
-    float: left;
+    width: 40%;
+    float: center;
   }
 
   .image-caption {
@@ -119,7 +119,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 <br>
 <br>
 <br>
-<br>
+
 
 ## Camouflages hard to distinguish :
 
