@@ -27,7 +27,7 @@ TFO Anti-Air Guide (VAR)
 
 ## Foreword :
 
-This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse     Arma III missions.
+This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse Arma III missions.
 
 This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, HAFM**
 
@@ -69,8 +69,9 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
-  <p class="image-caption">MiG-29</p> <br>
+  <p class="image-caption">MiG-29</p> 
 </div>
+<br>
 
 ##  2. Camouflages and markings
 
@@ -111,8 +112,10 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 <div class="image-container">
   <img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg" width="100%" />
-  <p class="image-caption">Mi-24 - CDF</p> <br>
+  <p class="image-caption">Mi-24 - CDF</p> 
 </div>
+<br>
+<br>
 
 ## Camouflages hard to distinguish :
 
