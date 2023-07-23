@@ -4,7 +4,8 @@
     width: 40%;
     float: left;
   }  
-  .image-container1 {
+/*  
+.image-container1 {
     position: relative;
     width: 40%;
     float: left;
@@ -13,7 +14,8 @@
     position: relative;
     width: 40%;
     float: center;
-  }
+  } 
+*/
 
   .image-caption {
     position: absolute;
@@ -61,36 +63,34 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
 
-<div>
-<div class="image-container1">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
-  <p class="image-caption">UH-1Y Venom</p>
-</div>
-
-<div class="image-container2">
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-  <p class="image-caption">CH-146 Griffon</p> <br>
-</div>
-
-<div class="image-container1">
-  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
-  <p class="image-caption">F/A-181 Black Wasp II</p>
-</div>
-
-<div class="image-container2">
-  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
-  <p class="image-caption">MiG-29</p> 
-</div>
-</div>
-<br>
-<br>
-
 | | |
 |:-:|:-:|
 |<img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg"> <br>UH-1Y Venom|<img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg"><br>CH-146 Griffon|
 |<img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg"><br>F/A-181 Black Wasp II|<img src="/mkdocs/assets/images/AA/MiG-29.jpg"><br>MiG-29|
+
 <br>
 
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
+  <p class="image-caption">UH-1Y Venom</p>
+</div>
+
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
+  <p class="image-caption">CH-146 Griffon</p> <br>
+</div>
+
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
+  <p class="image-caption">F/A-181 Black Wasp II</p>
+</div>
+
+<div class="image-container">
+  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
+  <p class="image-caption">MiG-29</p> 
+</div>
+
+.
 ##  2. Camouflages and markings
 
 
@@ -103,39 +103,39 @@ Light aircraft and helicopters will also be camouflage painted in **most cases**
 
 Camouflage will vary between **theaters of operation and/or Faction.**
 
-<div>
-<div class="image-container1">
+<div class="image-container">
   <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
   <p class="image-caption">Su-25 - RU</p>
 </div>
 
-<div class="image-container2">
+<div class="image-container">
   <img src="/mkdocs/assets/images/AA/mi-8-ana.jpg" width="100%" />
   <p class="image-caption">Mi-8 - ANA</p> <br>
 </div>
 
-<div class="image-container1">
+<div class="image-container">
   <img src="/mkdocs/assets/images/AA/l-39-ada.jpg" width="100%" />
   <p class="image-caption">L-39 - ADA</p>
 </div>
 
-<div class="image-container2">
+<div class="image-container">
   <img src="/mkdocs/assets/images/AA/nh90-haf.jpg" width="100%" />
   <p class="image-caption">NH90 - HAF</p> <br>
 </div>
 
-<div class="image-container1">
+<div class="image-container">
   <img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg" width="100%" />
   <p class="image-caption">JAS 39 - AAF</p>
 </div>
 
-<div class="image-container2">
+<div class="image-container">
   <img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg" width="100%" />
   <p class="image-caption">Mi-24 - CDF</p> 
 </div>
-</div>
-<br>
 
+<br>
+<div></div>
+<br>
 
 ## Camouflages hard to distinguish :
 
