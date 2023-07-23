@@ -323,9 +323,9 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="225px" />
 </div>
 
-**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
+**Country of origin** : USA
 
-**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> INDEP
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png">  <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> 
 
 **Faction** : HAF
 
@@ -348,9 +348,9 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a-10-thunderbolt.jpg" width="225px" />
 </div>
 
-**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
+**Country of origin** : USA
 
-**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> 
 
 **Faction** : NATO, US Army
 
@@ -388,6 +388,7 @@ Pictures are **not to scale**.
 **Variant** : None
 
 **DLC/mod** : RHS GREF
+
 <br>
 <br>
 
@@ -412,6 +413,7 @@ Pictures are **not to scale**.
 **Variant** : None
 
 **DLC/mod** : CUP
+
 <br>
 <br>
 
