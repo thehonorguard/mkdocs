@@ -325,7 +325,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : USA
 
-**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png">  <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> 
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png">  <img style="vertical-align:middle; opacity:0.5;" src="/mkdocs/assets/images/AA/opfor.png"> <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png">  <img style="vertical-align:middle; opacity:0.5;" src="/mkdocs/assets/images/AA/civ.png"> 
 
 **Faction** : HAF
 
