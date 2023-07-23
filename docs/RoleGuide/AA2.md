@@ -85,7 +85,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 ||||
 |:-:|:-:|:-:|
 |<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>Su-25 - RU|<img src="/mkdocs/assets/images/AA/mi-8-ana.jpg"> <br>Mi-8 - ANA|<img src="/mkdocs/assets/images/AA/l-39-ada.jpg"> <br>L-39 - ADA|
-|<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"> <br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg"> <br>Mi-24 - CDF|
+|<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"> <br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/mi-24-cdf.jpg"> <br>Mi-24 - CDF|
 
 
 ## Camouflages hard to distinguish :
@@ -96,40 +96,12 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 Su-25 :
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
-  <p class="image-caption">RU</p> <br>
-</div>
+|||||
+|:-:|:-:|:-:|:-:|
+|<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>RU|<img src="/mkdocs/assets/images/AA/su-25-ia.jpg"> <br>IA|<img src="/mkdocs/assets/images/AA/su-25-4x.jpg"> <br>RU - ChDSZ - chDKZ - chDZZ|<img src="/mkdocs/assets/images/AA/su-25-aa.jpg"> <br>AA|
+|<img src="/mkdocs/assets/images/AA/su-25-kdf.jpg"> <br>KDF|<img src="/mkdocs/assets/images/AA/su-25-ia.jpg"><br>IA|<img src="/mkdocs/assets/images/AA/su-25-suAF.jpg"> <br>suAF||
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-ia.jpg" width="100%" />
-  <p class="image-caption">IA</p> <br>
-</div>
 
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
-  <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ </p> <br>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-aa.jpg" width="100%" />
-  <p class="image-caption">AA</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-kdf.jpg" width="100%" />
-  <p class="image-caption">KDF</p> <br>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-ia.jpg" width="100%" />
-  <p class="image-caption">IA</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/su-25-suAF.jpg" width="100%" />
-  <p class="image-caption">SuAF</p><br>
-</div>
 
 Mi-8 :
 
