@@ -90,7 +90,11 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   <p class="image-caption">MiG-29</p> 
 </div>
 
-.
+<br>
+<div> </div>
+<br>
+
+
 ##  2. Camouflages and markings
 
 
@@ -134,7 +138,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 </div>
 
 <br>
-<div></div>
+<div> </div>
 <br>
 
 ## Camouflages hard to distinguish :
