@@ -274,6 +274,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
@@ -300,7 +302,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-
+<br>
 
 ### A-29 Super Tucano
 
