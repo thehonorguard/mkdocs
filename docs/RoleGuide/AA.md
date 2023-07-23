@@ -51,22 +51,22 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
+  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="50%" />
   <p class="image-caption">UH-1Y Venom</p>
 </div>
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
+  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="50%" />
   <p class="image-caption">CH-146 Griffon</p> 
 </div><br>
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
+  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="50%" />
   <p class="image-caption">F/A-181 Black Wasp II</p>
 </div>
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
+  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="50%" />
   <p class="image-caption">MiG-29</p> 
 </div><br>
 
