@@ -1,21 +1,4 @@
-<style>
-  .image-container {
-    position: relative;
-    width: 45%;
-    float: left;
-  }
 
-  .image-caption {
-    position: absolute;
-    bottom: 5px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(0, 0, 0, 0.7);
-    color: #fff;
-    padding: 5px 10px;
-    font-size: 12px;
-  }
-</style>
 
 
 
@@ -50,17 +33,60 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
+<style>
+  .image-container {
+    position: relative;
+    width: 45%;
+    float: left;
+  }
+
+  .image-caption {
+    position: absolute;
+    bottom: 5px;
+    left: 5px; /* Adjust this value to change the horizontal position */
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+
+  .image-row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
+
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
+    <p class="image-caption">UH-1Y Venom</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
+    <p class="image-caption">CH-146 Griffon</p>
+  </div>
+</div>
+
+
+##  2. Camouflages and markings
+
+aircraft usually have a **camouflage finish** with the upper and side surfaces painted in a **disruptive pattern of two or more shades.** This breaks up their form when viewed from above, and aids **concealment when on the ground or flying low.** The undersurfaces are **painted in a light color to blend with the sky** when viewed from below.
+The **overall gray color** of most fighter-interceptor aircraft is a camouflage scheme. Other aircraft may be painted a two-tone gray. 
+
+Light aircraft and helicopters
+
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="50%" />
+  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
   <p class="image-caption">UH-1Y Venom</p>
 </div>
 
 <div class="image-container">
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="50%" />
+  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
   <p class="image-caption">CH-146 Griffon</p> 
 </div><br>
 
-##  2. Camouflages and markings
 
 
 
