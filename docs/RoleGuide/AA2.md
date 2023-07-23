@@ -1,7 +1,6 @@
 <style>
   .image-container {
     position: relative;
-    width: 40%;
     float: left;
   }  
 /*  
