@@ -326,7 +326,7 @@ Pictures are not to scale.
 ### A-7H Corsair II
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -347,7 +347,7 @@ DLC/mod : HAFM
 ### A-10 Thunderbolt II / A-164 Wipeout
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -370,7 +370,7 @@ DLC/mod : Vanilla, CUP, RHS USAF
 ### A-29 Super Tucano
 
 
-Country of origin : Brazil
+Country of origin : ![](../assets/images/flags/br.png) Brazil
 
 Side : 
 
@@ -392,7 +392,7 @@ DLC/mod : RHS GREF
 ### A330 Airbus
 
 
-Country of origin : Europe
+Country of origin : ![](../assets/images/flags/eu.png) Europe
 
 Side : 
 
@@ -415,7 +415,7 @@ DLC/mod : CUP
 ### Aero Commander 500
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -437,7 +437,7 @@ DLC/mod : 3CB Factions
 ### AN-2 Antonov
 
 
-Country of origin : USSR, Poland
+Country of origin : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/pl.png) Poland
 
 Side : 
 
@@ -459,7 +459,7 @@ DLC/mod : CUP, RHS GREF
 ### AV-8B Harrier II
 
 
-Country of origin : USA, UK
+Country of origin : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/gb.png) UK
 
 Side : 
 
@@ -481,7 +481,7 @@ DLC/mod : CUP
 ### Boeing 737
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -504,7 +504,7 @@ DLC/mod : CUP
 ### C-130J Super Hercules
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -524,7 +524,7 @@ DLC/mod : CUP, RHS USAF, HAFM
 ### Cessna 172 Skyhawk
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -547,7 +547,7 @@ DLC/mod : CUP, 3CB Factions
 ### Cessna 400 / Cessna TTx / Caesar BTT 
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -568,7 +568,7 @@ DLC/mod : APEX DLC
 ### CASA CN-235
 
 
-Country of origin : Spain, Indonesia
+Country of origin : ![](../assets/images/flags/es.png) Spain, ![](../assets/images/flags/in.png) Indonesia
 
 Side : 
 
@@ -591,7 +591,7 @@ DLC/mod : AMF
 ### Douglas C-47 Skytrain 
  
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -615,7 +615,7 @@ DLC/mod : CUP, 3CB Factions
 ### Douglas DC-3
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -639,7 +639,7 @@ DLC/mod : CUP, 3CB Factions
 ### F-4 PHANTOM II
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -660,7 +660,7 @@ DLC/mod : HAFM
 ### F-16 FIGHTING FALCON
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -683,7 +683,7 @@ DLC/mod : HAFM
 ### F/A-181 Black Wasp II
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -705,7 +705,7 @@ DLC/mod : Jets DLC
 ### F-22 Raptor
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -728,7 +728,7 @@ DLC/mod : RHS USAF
 ### F-35 Joint Strike Fighter
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -750,7 +750,7 @@ DLC/mod : CUP
 ### JAS-39 Gripen / A-149 Gryphon
 
 
-Country of origin : Sweden
+Country of origin : ![](../assets/images/flags/se.png) Sweden
 
 Side : 
 
@@ -773,7 +773,7 @@ DLC/mod : Vanilla
 ### L-39 Albatros / L-159 ALCA / A-143 Buzzard
 
 
-Country of origin : Czechoslovakia
+Country of origin : ![](../assets/images/flags/cz.png) Czechoslovakia
 
 Side : 
 
@@ -794,7 +794,7 @@ DLC/mod : CUP, RHS GREF
 ### MD-454 Mystère
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -817,7 +817,7 @@ DLC/mod : 3CB Factions
 ### MiG-21 FISHBED
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -838,7 +838,7 @@ DLC/mod : 3CB Factions
 ### MiG-29 Fulcrum
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -860,7 +860,7 @@ DLC/mod : RHS AFRF, RHS SAF
 ### Mirage 2000
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -882,7 +882,7 @@ DLC/mod : AMF, HAFM
 ### MV-22 Osprey
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -905,7 +905,7 @@ DLC/mod : CUP
 ### Rafale C
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -927,7 +927,7 @@ DLC/mod : AMF
 ### Su-25 Frogfoot
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -948,7 +948,7 @@ DLC/mod : CUP, RHS AFRF, RHS GREF
 ### Su-34 Fullback
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -970,7 +970,7 @@ DLC/mod : CUP
 ### T-41 Mescalero
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -992,7 +992,7 @@ DLC/mod : CUP, 3CB Factions
 ### T-50 (Su-57) Felon
 
 
-Country of origin : Russia
+Country of origin : ![](../assets/images/flags/ru.png) Russia
 
 Side : 
 
@@ -1014,7 +1014,7 @@ DLC/mod : RHS AFRF
 ### To-201 Shikra
 
 
-Country of origin : Russia, CSAT
+Country of origin : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
 
 Side : 
 
@@ -1037,7 +1037,7 @@ DLC/mod : Jets DLC
 ### Tu–95 BEAR
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -1059,7 +1059,7 @@ DLC/mod : RHS AFRF
 ### V-44X Blackfish
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1082,7 +1082,7 @@ DLC/mod : Apex DLC
 ### Y-32 Wi’an
 
 
-Country of origin : CSAT
+Country of origin : ![](../assets/images/flags/csat.png) CSAT
 
 Side : 
 
@@ -1104,7 +1104,7 @@ DLC/mod : Apex DLC
 ### Yak-130 / To-199 Neophron
 
 
-Country of origin : CSAT
+Country of origin : ![](../assets/images/flags/csat.png) CSAT
 
 Side : 
 
@@ -1144,7 +1144,7 @@ Pictures are not to scale.
 ### AH-1Z Viper
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1165,7 +1165,7 @@ DLC/mod : CUP, RHS USAF
 ### AH-6M Little Bird / AH-9 Pawnee
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1190,7 +1190,7 @@ DLC/mod : Vanilla, CUP, RHS USAF
 ### AH-64 / AH1 Apache
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1211,7 +1211,7 @@ DLC/mod : CUP, RHS USAF, HAFM
 ### AS532 Cougar
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -1234,7 +1234,7 @@ DLC/mod : AMF
 ### AS565 Panther
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -1255,7 +1255,7 @@ DLC/mod : AMF
 ### AW159 Wildcat / WY-55 Hellcat
 
 
-Country of origin : Brazil
+Country of origin : ![](../assets/images/flags/br.png) Brazil
 
 Side : 
 
@@ -1265,7 +1265,7 @@ Crew : 2
 
 Role : Light attack, Light transport
 
-Armament : None, Missiles, Rockets, Gun pods, Machine ……………………guns
+Armament : None, Missiles, Rockets, Gun pods, Machine guns
 
 Variant : None
 
@@ -1277,7 +1277,7 @@ DLC/mod : Vanilla, CUP
 ### Bell 412
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1298,7 +1298,7 @@ DLC/mod : CUP, 3CB Factions
 ### CH-47 / HC-4 Chinook
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1321,7 +1321,7 @@ DLC/mod : CUP, RHS USAF, HAFM
 ### CH-47I Chinook / CH-67 Huron
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1343,7 +1343,7 @@ DLC/mod : Helicopters DLC
 ### CH-53E Super Stallion
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1366,11 +1366,11 @@ DLC/mod : CUP, RHS USAF
 ### CH-146 Griffon
 
 
-Country of origin : USA, Canada
+Country of origin : ![](../assets/images/flags/us.png) USA, ![](../assets/images/flags/ca.png) Canada
 
 Side : 
 
-Faction : AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, ………………FIA
+Faction : AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, FIA
 
 Crew : 2,    3 with commander,    5 with gunners
 
@@ -1386,7 +1386,7 @@ DLC/mod : CUP, 3CB Factions
 ### EC665 Tiger
 
 
-Country of origin : 🇫🇷, Germany
+Country of origin : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/de.png) Germany
 
 Side : 
 
@@ -1409,7 +1409,7 @@ DLC/mod : AMF, R3F
 ### H225M Caracal
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -1430,7 +1430,7 @@ DLC/mod : AMF
 ### Ka-50 Black Shark
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -1453,7 +1453,7 @@ DLC/mod : CUP
 ### Ka-52 Alligator
 
 
-Country of origin : Russia
+Country of origin : ![](../assets/images/flags/ru.png) Russia
 
 Side : 
 
@@ -1475,7 +1475,7 @@ DLC/mod : CUP, RHS AFRF
 ### Ka-60 Kasatka
 
 
-Country of origin : Russia
+Country of origin : ![](../assets/images/flags/ru.png) Russia
 
 Side : 
 
@@ -1485,7 +1485,7 @@ Crew : 2,   3 with gunner
 
 Role : Transport, Light attack
 
-Armament : None, Missiles, Rockets, Gun pods, Machine ……………………guns
+Armament : None, Missiles, Rockets, Gun pods, Machine guns
 
 Variant : Harbin ZB9 (Chinese version)
 
@@ -1497,7 +1497,7 @@ DLC/mod : Vanilla, CUP, RHS AFRF
 ### Merlin HC3 / EH101 /  CH-49 Mohawk
 
 
-Country of origin : Italy
+Country of origin : ![](../assets/images/flags/it.png) Italy
 
 Side : 
 
@@ -1519,7 +1519,7 @@ DLC/mod : Vanilla, CUP, RHS USAF
 ### MH-47E / HC-6 Chinook
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1542,7 +1542,7 @@ DLC/mod : CUP
 ### Mi-6A Hook
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -1563,7 +1563,7 @@ DLC/mod : CUP
 ### Mi-8 Hip
 
 
-Country of origin : USSR
+Country of origin : ![](../assets/images/flags/ussr.png) USSR
 
 Side : 
 
@@ -1584,11 +1584,11 @@ DLC/mod : CUP, RHS AFRF, RHS GRF
 ### Mi-24 / Mi-35 Hind
 
 
-Country of origin : USSR, South Africa (Mi-24G) 
+Country of origin : ![](../assets/images/flags/ussr.png) USSR, ![](../assets/images/flags/za.png) South Africa (Mi-24G) 
 
 Side : 
 
-Faction : ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, ………………CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
+Faction : ANA, ADA, AA, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, IA, NA, UPDF, CSAT, AAF, USSR, RU, KPA, Wagner, SLA, SuAF, TA, SSPDF, ACR, MGF, ION
 
 Crew : 2
 
@@ -1606,7 +1606,7 @@ DLC/mod : CUP, RHS AFRF, RHS GREF
 ### Mi-28N Havok
 
 
-Country of origin : Russia
+Country of origin : ![](../assets/images/flags/ru.png) Russia
 
 Side : 
 
@@ -1629,7 +1629,7 @@ DLC/mod : RHS AFRF
 ### Mi-48 Kajman
 
 
-Country of origin : Russia, CSAT
+Country of origin : ![](../assets/images/flags/ru.png) Russia, ![](../assets/images/flags/csat.png) CSAT
 
 Side : 
 
@@ -1651,7 +1651,7 @@ DLC/mod : Vanilla
 ### Mi-290 Taru
 
 
-Country of origin :  CSAT
+Country of origin : ![](../assets/images/flags/csat.png) CSAT
 
 Side : 
 
@@ -1674,7 +1674,7 @@ DLC/mod : Helicopters DLC
 ### NH90 Caïman
 
 
-Country of origin : 🇫🇷
+Country of origin : ![](../assets/images/flags/fr.png) France
 
 Side : 
 
@@ -1696,7 +1696,7 @@ DLC/mod : AMF, HAFM
 ### OH-58D Kiowa
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1719,7 +1719,7 @@ DLC/mod : HAFM
 ### RAH-66 Comanche / AH-99 Blackfoot
 
 
-Country of origin :  USA
+Country of origin :  ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1740,7 +1740,7 @@ DLC/mod : Vanilla
 ### SA-330 Puma
 
 
-Country of origin : 🇫🇷, UK
+Country of origin : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
 
 Side : 
 
@@ -1763,7 +1763,7 @@ DLC/mod : CUP
 ### A-29 - Super Tucano
 
 
-Country of origin : 🇫🇷, UK
+Country of origin : ![](../assets/images/flags/fr.png) France, ![](../assets/images/flags/gb.png) UK
 
 Side : 
 
@@ -1784,7 +1784,7 @@ DLC/mod : AMF
 ### UH-1H Huey
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1805,7 +1805,7 @@ DLC/mod : CUP, RHS GREF, 3CB Factions
 ### UH-1Y Venom
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1826,7 +1826,7 @@ DLC/mod : CUP, RHS USAF
 ### UH-60 Black Hawk
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1849,7 +1849,7 @@ DLC/mod : CUP, RHS USAF
 ### UH-80 Ghost Hawk
 
 
-Country of origin :  USA
+Country of origin :  ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1891,7 +1891,7 @@ Pictures are not to scale.
 ### AR-2 Darter / Tayran
 
 
-Country of origin : Unknown
+Country of origin : ![](../assets/images/flags/unk.png) Unknown
 
 Side : 
 
@@ -1913,7 +1913,7 @@ DLC/mod : Vanilla
 ### AL-6 Pelican / Jinaah
 
 
-Country of origin : Unknown
+Country of origin : ![](../assets/images/flags/unk.png) Unknown
 
 Side : 
 
@@ -1936,7 +1936,7 @@ DLC/mod : Laws of War DLC
 ### KH-3A Fenghuang
 
 
-Country of origin : China
+Country of origin : ![](../assets/images/flags/cn.png) China
 
 Side : 
 
@@ -1944,7 +1944,7 @@ Faction : CSAT
 
 Crew : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire …………support
+Role : Observation, Laser targeting, Air-to-ground fire support
 
 Armament : Missiles, Laser Designator
 
@@ -1957,7 +1957,7 @@ DLC/mod : Apex DLC
 ### MQ-4A Greyhawk
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1965,7 +1965,7 @@ Faction : NATO, CSAT, AAF
 
 Crew : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire …..…….support
+Role : Observation, Laser targeting, Air-to-ground fire support
 
 Armament : Bombs, Missiles, Laser Designator
 
@@ -1979,7 +1979,7 @@ DLC/mod : Vanilla
 ### MQ-9 Reaper
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -1987,7 +1987,7 @@ Faction : US Army, IDF, FRA
 
 Crew : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire ..…….…support
+Role : Observation, Laser targeting, Air-to-ground fire support
 
 Armament : Bombs, Missiles, Laser Designator
 
@@ -2000,7 +2000,7 @@ DLC/mod : CUP, AMF, 3CB BAF, USAF Mod
 ### MQ-12 Falcon
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -2008,7 +2008,7 @@ Faction : NATO
 
 Crew : 0
 
-Role : Observation, Laser targeting, Air-to-ground fire           …………support
+Role : Observation, Laser targeting, Air-to-ground fire support
 
 Armament : Missiles, Rockets, Laser Designator
 
@@ -2022,7 +2022,7 @@ DLC/mod : Apex DLC
 ### Pchela-1T / SHMEL-1 / YAK-061
 
 
-Country of origin : CIS
+Country of origin : ![](../assets/images/flags/cis.png) CIS
 
 Side : 
 
@@ -2067,7 +2067,7 @@ DLC/mod : HAFM
 ### UCAV Sentinel
 
 
-Country of origin : USA
+Country of origin : ![](../assets/images/flags/us.png) USA
 
 Side : 
 
@@ -2075,7 +2075,7 @@ Faction : NATO
 
 Crew : 0
 
-Role : Observation, Laser targeting, Close air support, … …….……SEAD
+Role : Observation, Laser targeting, Close air support, SEAD
 
 Armament : Bombs, Missiles, Laser Designator
 
@@ -2155,7 +2155,7 @@ DLC/mod : Jets DLC
 | ----- | -------------------------------------------- |
 | 3CB   | 3 Commando Brigade                           |
 | AFRF  | (RHS) Armed Forces of the Russian Federation |
-| AMF   | Arma Mod 🇫🇷                              |
+| AMF   | Arma Mod France                              |
 | BAF   | (3CB) British Armed Forces                   |
 | CFP   | Community Faction Project                    |
 | CUP   | Community Upgrade Project                    |
