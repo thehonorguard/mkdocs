@@ -1,4 +1,9 @@
 <style>
+  .image-container {
+    position: relative;
+    width: 40%;
+    float: left;
+  }  
   .image-container1 {
     position: relative;
     width: 40%;
@@ -7,7 +12,7 @@
     .image-container2 {
     position: relative;
     width: 40%;
-    float: right;
+    float: center;
   }
 
   .image-caption {
@@ -56,7 +61,7 @@ When a **friendly** aircraft is recognized and identified as another **friendly*
 The human factor is a big part of aircraft confusion, it can include : lack of knowledge, lack of/or no communication, panic, trigger happiness…
 
 
-
+<div>
 <div class="image-container1">
   <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
   <p class="image-caption">UH-1Y Venom</p>
@@ -76,6 +81,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
   <p class="image-caption">MiG-29</p> 
 </div>
+</div>
 <br>
 
 
@@ -91,6 +97,7 @@ Light aircraft and helicopters will also be camouflage painted in **most cases**
 
 Camouflage will vary between **theaters of operation and/or Faction.**
 
+<div>
 <div class="image-container1">
   <img src="/mkdocs/assets/images/AA/su-25-ru.jpg" width="100%" />
   <p class="image-caption">Su-25 - RU</p>
@@ -119,6 +126,7 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg" width="100%" />
   <p class="image-caption">Mi-24 - CDF</p> 
+</div>
 </div>
 <br>
 
