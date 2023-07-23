@@ -323,7 +323,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="225px" />
 </div>
 
-**Country of origin** : ![](../assets/images/flags/us.png) USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> INDEP
 
@@ -350,7 +350,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
-<div> <span style="font-weight:bold">Side</span> : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> <span style="">BLUFOR</span></div>
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR
 
 **Faction** : NATO, US Army
 
