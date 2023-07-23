@@ -68,32 +68,6 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 |<img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg"> <br>UH-1Y Venom|<img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg"><br>CH-146 Griffon|
 |<img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg"><br>F/A-181 Black Wasp II|<img src="/mkdocs/assets/images/AA/MiG-29.jpg"><br>MiG-29|
 
-<br>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="100%" />
-  <p class="image-caption">UH-1Y Venom</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon.jpg" width="100%" />
-  <p class="image-caption">CH-146 Griffon</p> <br>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/FA-181-Black-Wasp-II.jpg" width="100%" />
-  <p class="image-caption">F/A-181 Black Wasp II</p>
-</div>
-
-<div class="image-container">
-  <img src="/mkdocs/assets/images/AA/MiG-29.jpg" width="100%" />
-  <p class="image-caption">MiG-29</p> 
-</div>
-
-<br>
-<div> </div>
-<br>
-
 
 ##  2. Camouflages and markings
 
@@ -138,7 +112,12 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 </div>
 
 <br>
-<div> </div>
+
+||||
+|:-:|:-:|:-:|
+|<img src="/mkdocs/assets/images/AA/su-25-ru.jpg"> <br>Su-25 - RU|<img src="//mkdocs/assets/images/AA/mi-8-ana.jpg"><br>Mi-8 - ANA|<img src="/mkdocs/assets/images/AA/l-39-ada.jpg"> <br>L-39 - ADA|
+|<img src="/mkdocs/assets/images/AA/nh90-haf.jpg"><br>NH90 - HAF|<img src="/mkdocs/assets/images/AA/jas-39-aaf.jpg"><br>JAS 39 - AAF|<img src="/mkdocs/assets/images/AA/Mi-24-CDF.jpg"> <br>Mi-24 - CDF|
+
 <br>
 
 ## Camouflages hard to distinguish :
