@@ -325,7 +325,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
-**Side** : <img src="/mkdocs/assets/images/AA/nato.png" class="center"/> BLUFOR, <img src="/mkdocs/assets/images/AA/indep.png" class="center"/> INDEP
+**Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> BLUFOR, <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png"> INDEP
 
 **Faction** : HAF
 
@@ -350,7 +350,7 @@ Pictures are **not to scale**.
 
 **Country of origin** : ![](../assets/images/flags/us.png) USA
 
-**Side** : <img src="/mkdocs/assets/images/AA/nato.png" class="center"/> BLUFOR
+<div> <span style="font-weight:bold">Side</span> : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png"> <span style="">BLUFOR</span></div>
 
 **Faction** : NATO, US Army
 
