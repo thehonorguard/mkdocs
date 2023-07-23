@@ -304,13 +304,13 @@ Titan MPRL
 3500 m
 
 
-##  4. Aircraft
+##  4. Aircrafts
 
 
     This chapter shows a non-exhaustive list of Aircrafts.
 
 
-Aircrafts will perform a variety of missions: CAS, ground attack, transport, cargo, gunship and air superiority. 
+Aircrafts will perform a variety of missions: **CAS, ground attack, transport, cargo, gunship** and **air superiority**. 
 
 One aircraft was selected from each group to be represented in this manual, as some have different variants available.
 
@@ -371,6 +371,7 @@ Pictures are **not to scale**.
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
 <br>
+<br>
 
 ### A-29 Super Tucano
 
@@ -393,6 +394,8 @@ Pictures are **not to scale**.
 **Variant** : None
 
 **DLC/mod** : RHS GREF
+<br>
+<br>
 
 ### A330 Airbus
 
@@ -415,10 +418,8 @@ Pictures are **not to scale**.
 **Variant** : None
 
 **DLC/mod** : CUP
-
-
-
-
+<br>
+<br>
 
 ### Aero Commander 500
 
@@ -442,8 +443,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : 3CB **Faction**s
 
-
-
+<br>
+<br>
 
 ### AN-2 Antonov
 
