@@ -170,7 +170,7 @@ Su-25 :
 
 <div class="image-row">
   <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/su-25-ia.jpg" width="100%" />
+    <img src="/mkdocs/assets/images/AA/su-25-iria.jpg" width="100%" />
     <p class="image-caption">IA</p>
   </div>
 
