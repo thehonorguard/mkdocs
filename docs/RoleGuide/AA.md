@@ -174,7 +174,7 @@ Su-25 :
   </div>
 
   <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/su-25-suAF.jpg" width="100%" />
+    <img src="/mkdocs/assets/images/AA/su-25-suaf.jpg" width="100%" />
     <p class="image-caption">SuAF</p>
   </div>
 </div>
