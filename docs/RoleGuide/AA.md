@@ -35,6 +35,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 <style>
   .image-container {
+    box-sizing: border-box;
     position: relative;
     width: 45%;
     float: left;
