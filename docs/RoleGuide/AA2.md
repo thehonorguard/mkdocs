@@ -1,5 +1,5 @@
 <style>
-  .image-container {
+  .side-image-cont {
     position: relative;
     float: left;
     margin-right: 11px;
@@ -252,7 +252,7 @@ Pictures are **not to scale**.
 
 ### A-7H Corsair II
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="275px" />
 </div>
 
@@ -279,7 +279,7 @@ Pictures are **not to scale**.
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/a-10-thunderbolt.jpg" width="275px" />
 </div>
 
@@ -306,7 +306,7 @@ Pictures are **not to scale**.
 
 ### A-29 Super Tucano
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/a-29-super-tucano-2.jpg" width="275px" />
 </div>
 
@@ -333,7 +333,7 @@ Pictures are **not to scale**.
 
 ### A330 Airbus
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/a330-airbus.jpg" width="275px" />
 </div>
 
@@ -360,7 +360,7 @@ Pictures are **not to scale**.
 
 ### Aero Commander 500
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/aero-commander-500.jpg" width="275px" />
 </div>
 
@@ -387,7 +387,7 @@ Pictures are **not to scale**.
 
 ### AN-2 Antonov
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/an-2-antonov.jpg" width="275px" />
 </div>
 
@@ -414,7 +414,7 @@ Pictures are **not to scale**.
 
 ### AV-8B Harrier II
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/av-8b-harrier-ii.jpg" width="275px" />
 </div>
 
@@ -441,7 +441,7 @@ Pictures are **not to scale**.
 
 ### Boeing 737
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/boeing-737.jpg" width="275px" />
 </div>
 
@@ -468,7 +468,7 @@ Pictures are **not to scale**.
 
 ### C-130J Super Hercules
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/c130j.jpg" width="275px" />
 </div>
 
@@ -495,7 +495,7 @@ Pictures are **not to scale**.
 
 ### Cessna 172 Skyhawk
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/cessna-172-skyhawk.jpg" width="275px" />
 </div>
 
@@ -522,7 +522,7 @@ Pictures are **not to scale**.
 
 ### Cessna 400 / Cessna TTx / Caesar BTT 
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/cessna-400.jpg" width="275px" />
 </div>
 
@@ -549,7 +549,7 @@ Pictures are **not to scale**.
 
 ### CASA CN-235
 
-<div class="image-container">
+<div class="side-image-cont">
   <img src="/mkdocs/assets/images/AA/casa-cn-235.jpg" width="275px" />
 </div>
 
