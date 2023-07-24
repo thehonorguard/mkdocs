@@ -256,7 +256,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/A-7H-Corsair-II.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -283,7 +283,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a-10-thunderbolt.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -310,7 +310,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a-29-super-tucano-2.jpg" width="275px" />
 </div>
 
-**Country of origin** : Brazil
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/br.png"> Brazil
 
 **Side** : <img style="vertical-align:middle" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -337,7 +337,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/a330-airbus.jpg" width="275px" />
 </div>
 
-**Place of origin** : Europe
+**Place of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/eu.png"> Europe
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -364,7 +364,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/aero-commander-500.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -391,7 +391,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/an-2-antonov.jpg" width="275px" />
 </div>
 
-**Country of origin** : USSR, Poland
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/pl.png"> Poland
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -418,7 +418,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/av-8b-harrier-ii.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA, UK
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity: 0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -445,7 +445,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/boeing-737.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -472,7 +472,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/c130j.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -499,7 +499,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/cessna-172-skyhawk.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -526,7 +526,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/cessna-400.jpg" width="275px" />
 </div>
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -553,7 +553,7 @@ Pictures are **not to scale**.
   <img src="/mkdocs/assets/images/AA/casa-cn-235.jpg" width="275px" />
 </div>
 
-**Country of origin** : Spain, Indonesia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/es.png"> Spain, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/in.png"> Indonesia
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -577,7 +577,7 @@ Pictures are **not to scale**.
 ### Douglas C-47 Skytrain 
  
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -604,7 +604,7 @@ Pictures are **not to scale**.
 ### Douglas DC-3
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -630,7 +630,7 @@ Pictures are **not to scale**.
 ### F-4 PHANTOM II
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -652,7 +652,7 @@ Pictures are **not to scale**.
 ### F-16 FIGHTING FALCON
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -674,7 +674,7 @@ Pictures are **not to scale**.
 ### F/A-181 Black Wasp II
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -696,7 +696,7 @@ Pictures are **not to scale**.
 ### F-22 Raptor
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -718,7 +718,7 @@ Pictures are **not to scale**.
 ### F-35 Joint Strike Fighter
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -740,7 +740,7 @@ Pictures are **not to scale**.
 ### JAS-39 Gripen / A-149 Gryphon
 
 
-**Country of origin** : Sweden
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/se.png"> Sweden
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -762,7 +762,7 @@ Pictures are **not to scale**.
 ### L-39 Albatros / L-159 ALCA / A-143 Buzzard
 
 
-**Country of origin** : Czechoslovakia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cz.png"> Czechoslovakia
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -784,7 +784,7 @@ Pictures are **not to scale**.
 ### MD-454 Mystère
 
 
-**Country of origin** : France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -806,7 +806,7 @@ Pictures are **not to scale**.
 ### MiG-21 FISHBED
 
 
-**Country of origin** : USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -828,7 +828,7 @@ Pictures are **not to scale**.
 ### MiG-29 Fulcrum
 
 
-**Country of origin** : USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -850,7 +850,7 @@ Pictures are **not to scale**.
 ### Mirage 2000
 
 
-**Country of origin** : France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -872,7 +872,7 @@ Pictures are **not to scale**.
 ### MV-22 Osprey
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -894,7 +894,7 @@ Pictures are **not to scale**.
 ### Rafale C
 
 
-**Country of origin** : France
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -916,7 +916,7 @@ Pictures are **not to scale**.
 ### Su-25 Frogfoot
 
 
-**Country of origin** : USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -938,7 +938,7 @@ Pictures are **not to scale**.
 ### Su-34 Fullback
 
 
-**Country of origin** : USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -960,7 +960,7 @@ Pictures are **not to scale**.
 ### T-41 Mescalero
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -982,7 +982,7 @@ Pictures are **not to scale**.
 ### T-50 (Su-57) Felon
 
 
-**Country of origin** : Russia
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -1004,7 +1004,7 @@ Pictures are **not to scale**.
 ### To-201 Shikra
 
 
-**Country of origin** : Russia, CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -1026,7 +1026,7 @@ Pictures are **not to scale**.
 ### Tu–95 BEAR
 
 
-**Country of origin** : USSR
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -1048,7 +1048,7 @@ Pictures are **not to scale**.
 ### V-44X Blackfish
 
 
-**Country of origin** : USA
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
 **Side** : <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -1070,7 +1070,7 @@ Pictures are **not to scale**.
 ### Y-32 Wi’an
 
 
-**Country of origin** : CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
@@ -1092,7 +1092,7 @@ Pictures are **not to scale**.
 ### Yak-130 / To-199 Neophron
 
 
-**Country of origin** : CSAT
+**Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
 **Side** : <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/nato.png" alt="BLUFOR">  <img style="vertical-align:middle; opacity:1;" src="/mkdocs/assets/images/AA/opfor.png" alt="OPFOR"> <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/indep.png" alt="INDEP">  <img style="vertical-align:middle; opacity:0.2;" src="/mkdocs/assets/images/AA/civ.png" alt="CIV"> 
 
