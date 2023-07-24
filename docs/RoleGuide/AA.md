@@ -140,12 +140,12 @@ Su-25 :
 <div class="image-row">
   <div class="image-container">
     <img src="/mkdocs/assets/images/AA/su-25-ru-2.jpg" width="100%" />
-    <p class="image-caption">RU</p> <br>
+    <p class="image-caption">RU</p>
   </div>
 
   <div class="image-container">
     <img src="/mkdocs/assets/images/AA/su-25-ia2.jpg" width="100%" />
-    <p class="image-caption">IA</p> <br>
+    <p class="image-caption">IA</p>
   </div>
 </div>
 
@@ -164,7 +164,7 @@ Su-25 :
 
   <div class="image-container">
     <img src="/mkdocs/assets/images/AA/su-25-kdf.jpg" width="100%" />
-    <p class="image-caption">KDF</p> <br>
+    <p class="image-caption">KDF</p>
   </div>
 </div>
 
@@ -176,7 +176,7 @@ Su-25 :
 
   <div class="image-container">
     <img src="/mkdocs/assets/images/AA/su-25-suAF.jpg" width="100%" />
-    <p class="image-caption">SuAF</p> <br>
+    <p class="image-caption">SuAF</p>
   </div>
 </div>
 
