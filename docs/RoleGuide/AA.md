@@ -144,17 +144,26 @@ Su-25 :
   </div>
 
   <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/su-25-ia2.jpg" width="100%" />
+    <img src="/mkdocs/assets/images/AA/su-25-ia.jpg" width="100%" />
     <p class="image-caption">IA</p>
   </div>
-</div>
 
-<div class="image-row">
+</div>
   <div class="image-container">
     <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
-    <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p> <br>
+    <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
   </div>
-</div>
+
+
+
+
+
+//<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
+    <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
+  </div>
+//</div>
 
 <div class="image-row">
   <div class="image-container">
