@@ -152,7 +152,7 @@ Su-25 :
 
 <div class="image-row">
   <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
+    <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="200%" />
     <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
   </div>
 </div>
