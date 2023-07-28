@@ -2,7 +2,8 @@
 
 
 
-TFO Anti-Air Guide (VAR)
+<p class="center-text">TFO Anti-Air Guide (VAR)</p>
+
 
 <div class="image-container-logo">
   <img src="/mkdocs/assets/images/AA/logo.png" width="100%" />
@@ -56,6 +57,12 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
     margin-left: auto;
     margin-right: auto;
     width: 35%;
+  }
+
+  .center-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3.5em;
   }
 
   .image-caption {
