@@ -143,13 +143,13 @@ Camouflage will vary between **theaters of operation and/or Faction.**
   </div>
 </div>
 
-## Camouflages hard to distinguish :
+### Camouflages hard to distinguish :
 
 A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
 
 Here are a few examples of different factions using similar, if not, same camo.
 
-Su-25 :
+#### Su-25 :
 
 <div class="image-row">
   <div class="image-container">
@@ -162,13 +162,6 @@ Su-25 :
     <p class="image-caption">IA</p>
   </div>
 </div>  
-
-<!--<div class="image-row">
-  <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="200%" />
-    <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
-  </div>
-</div>-->
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
@@ -200,12 +193,50 @@ Su-25 :
 </div>
 
 
-Mi-8 :
+#### Mi-8 :
+to do
 
-## to do
-Mi-24 :
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/mi-8-4x.jpg" width="100%" />
+  <p class="image-caption">GAF - ChDSZ - chDKZ - chDZZ</p>
+</div>
 
-## to do
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-8-acr.jpg" width="100%" />
+    <p class="image-caption">ACR</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-8-ru.jpg" width="100%" />
+    <p class="image-caption">RU</p>
+  </div>
+</div>
+
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/mi-8-4x-2.jpg" width="100%" />
+  <p class="image-caption">TNA - ANA - NA - IA</p>
+</div>
+
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-8-ana2.jpg" width="100%" />
+    <p class="image-caption">ANA</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-8-ada.jpg" width="100%" />
+    <p class="image-caption">ADA</p>
+  </div>
+</div>
+
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/mi-8-4x-23.jpg" width="100%" />
+  <p class="image-caption">USSR - KDF - SLA - SAF</p>
+</div>
+
+#### Mi-24 :
+to do
 
 ### Markings :
 
