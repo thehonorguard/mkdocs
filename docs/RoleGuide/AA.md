@@ -4,8 +4,9 @@
 
 TFO Anti-Air Guide (VAR)
 
-![logo](../assets/images/AA/logo.png)
-
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/logo" width="100%" />
+  </div>
 
 
 ## Foreword 
@@ -45,6 +46,12 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
     box-sizing: border-box;
     position: relative;
     width: 98%;
+    float: center;
+  }    
+  .image-container-logo {
+    box-sizing: border-box;
+    position: relative;
+    width: 55%;
     float: center;
   }
 
