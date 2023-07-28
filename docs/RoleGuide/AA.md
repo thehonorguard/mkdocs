@@ -968,6 +968,9 @@ Pictures are **not to scale**.
 
 ### MV-22 Osprey
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mv-22-osprey.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -992,6 +995,9 @@ Pictures are **not to scale**.
 
 ### Rafale C
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/rafale-c.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -1016,6 +1022,9 @@ Pictures are **not to scale**.
 
 ### Su-25 Frogfoot
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/su-25-frogfoot.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -1040,6 +1049,9 @@ Pictures are **not to scale**.
 
 ### Su-34 Fullback
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/su-34-fullback.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -1064,6 +1076,9 @@ Pictures are **not to scale**.
 
 ### T-41 Mescalero
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/t-41-mescalero.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1088,6 +1103,9 @@ Pictures are **not to scale**.
 
 ### T-50 (Su-57) Felon
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/t-50-felon.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
@@ -1112,6 +1130,9 @@ Pictures are **not to scale**.
 
 ### To-201 Shikra
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/to-201-shikra.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
@@ -1136,6 +1157,9 @@ Pictures are **not to scale**.
 
 ### Tu–95 BEAR
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/tu-95-bear.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -1160,6 +1184,9 @@ Pictures are **not to scale**.
 
 ### V-44X Blackfish
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/v-44x-blackfish.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1184,6 +1211,9 @@ Pictures are **not to scale**.
 
 ### Y-32 Wi’an
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/y-32-wian.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
@@ -1208,6 +1238,9 @@ Pictures are **not to scale**.
 
 ### Yak-130 / To-199 Neophron
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/yak-130-neophron.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
@@ -1252,6 +1285,9 @@ Pictures are **not to scale**.
 
 ### AH-1Z Viper
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ah-1z-viper.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1269,10 +1305,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS USAF
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### AH-6M Little Bird / AH-9 Pawnee
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ah-6m-little-bird.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1292,12 +1334,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### AH-64 / AH1 Apache
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ah-64-apache.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1315,10 +1361,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS USAF, HAFM
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### AS532 Cougar
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/as532-cougar.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -1336,12 +1388,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### AS565 Panther
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/as565-panther.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -1359,10 +1415,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### AW159 Wildcat / WY-55 Hellcat
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/aw-159-wildcat.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/br.png"> Brazil
 
@@ -1380,11 +1442,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla, CUP
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Bell 412
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/bell-412.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1402,10 +1469,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, 3CB Factions
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### CH-47 / HC-4 Chinook
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ch-47-chinook.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1423,12 +1496,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS USAF, HAFM
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### CH-47I Chinook / CH-67 Huron
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ch-47l-chinook.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1446,11 +1523,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Helicopters DLC
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### CH-53E Super Stallion
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ch-53e-super-stallion.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1468,12 +1550,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS USAF
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### CH-146 Griffon
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ch-146-griffon2.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ca.png"> Canada
 
@@ -1491,9 +1577,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, 3CB Factions
 
+<br>
+<br>
+<br>
+<br>
 
 ### EC665 Tiger
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ec665-tiger-2.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/de.png"> Germany
 
@@ -1511,12 +1604,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF, R3F
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### H225M Caracal
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/h225m-caracal2.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -1534,10 +1631,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### Ka-50 Black Shark
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ka-50-black-shark.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -1555,12 +1658,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Ka-52 Alligator
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ka-52-alligator.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
@@ -1578,11 +1685,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS AFRF
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Ka-60 Kasatka
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ka-60-kasatka.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
@@ -1600,11 +1712,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla, CUP, RHS AFRF
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Merlin HC3 / EH101 /  CH-49 Mohawk
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/merlin-hc3.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/it.png"> Italy
 
@@ -1622,11 +1739,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### MH-47E / HC-6 Chinook
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mh-47-chinook.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1644,12 +1766,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Mi-6A Hook
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mi-6a-hook.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -1667,10 +1793,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### Mi-8 Hip
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mi-8-hip.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -1690,8 +1822,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS AFRF, RHS GRF
 
+<br>
+<br>
+<br>
+<br>
+
 ### Mi-24 / Mi-35 Hind
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mi-24-hind.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/za.png"> South Africa (Mi-24G) 
 
@@ -1712,8 +1852,17 @@ Pictures are **not to scale**.
 - Mi-35 (export version)
 
 **DLC/mod** : CUP, RHS AFRF, RHS GREF
+
+<br>
+<br>
+<br>
+<br>
+
 ### Mi-28N Havok
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mi-28n-havoc.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
 
@@ -1731,12 +1880,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : RHS AFRF
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Mi-48 Kajman
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/sa-48-kajman.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
@@ -1754,11 +1907,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Mi-290 Taru
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mi-290-taru.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
 
@@ -1776,12 +1934,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Helicopters DLC
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### NH90 Caïman
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/nh90-caiman.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -1799,11 +1961,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF, HAFM
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### OH-58D Kiowa
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/oh-58d-kiowa.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1821,12 +1988,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : HAFM
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### RAH-66 Comanche / AH-99 Blackfoot
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/rah-66-comanche.jpg" width="275px" />
+</div>
 
 **Country of origin** :  <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1844,10 +2015,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### SA-330 Puma
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/sa-330-puma.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
 
@@ -1865,12 +2042,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### SA-340 Gazelle
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/sa-340-gazelle.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gb.png"> UK
 
@@ -1888,10 +2069,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### UH-1H Huey
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/uh-1h-huey.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1909,10 +2096,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS GREF, 3CB Factions
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### UH-1Y Venom
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1930,10 +2123,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS USAF
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### UH-60 Black Hawk
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/uh-60-black-hawk.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1951,12 +2150,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS USAF
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### UH-80 Ghost Hawk
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/uh-80-ghost-hawk.jpg" width="275px" />
+</div>
 
 **Country of origin** :  <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -1974,6 +2177,10 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla
 
+<br>
+<br>
+<br>
+<br>
 
 ## 6. UAV
 
@@ -1999,6 +2206,9 @@ Pictures are **not to scale**.
 
 ### AR-2 Darter / Tayran
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ar-2-darter.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/unk.png"> Unknown
 
@@ -2016,11 +2226,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### AL-6 Pelican / Jinaah
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/al-6-pelican.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/unk.png"> Unknown
 
@@ -2038,12 +2253,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Laws of War DLC
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### KH-3A Fenghuang
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/kh-3a-fenghuang.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cn.png"> China
 
@@ -2061,10 +2280,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Apex DLC
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### MQ-4A Greyhawk
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mq-4a-greyhawk.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -2082,11 +2307,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### MQ-9 Reaper
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mq-9-reaper.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -2104,10 +2334,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, AMF, 3CB BAF, USAF Mod
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### MQ-12 Falcon
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mq-12-falcon.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -2125,11 +2361,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Apex DLC
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Pchela-1T / SHMEL-1 / YAK-061
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/pchela-1t.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cis.png"> CIS
 
@@ -2147,11 +2388,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP, RHS AFRF
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Pegasus II
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/pegasus-ii.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/gr.png"> Greece
 
@@ -2169,12 +2415,16 @@ Pictures are **not to scale**.
 
 **DLC/mod** : HAFM
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### UCAV Sentinel
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/ucav-sentinel.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -2192,7 +2442,10 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Jets DLC
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 7. Glossary
 
