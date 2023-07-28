@@ -635,10 +635,7 @@ Pictures are **not to scale**.
 
 **Armament** : Usually none, Bombs
 
-**Variant** : 
-- Douglas DC-3 *(civilian version)*, 
-- AC-47 *(gunship)*
-- Lisunov Li-2 *(USSR version)*
+**Variant** : Douglas DC-3 *(civilian version)*, AC-47 *(gunship)*, Lisunov Li-2 *(USSR version)*
 
 **DLC/mod** : CUP, 3CB Factions
 
@@ -1335,9 +1332,7 @@ Pictures are **not to scale**.
 
 **Armament** : Missiles, Rockets, Gun pods, Machine guns
 
-**Variant** : 
-- MH-6M / MH-9 *(transport version)*,
-- MD 500 / M-900 *(vanilla version)*
+**Variant** : MH-6M / MH-9 *(transport version)*, MD 500 / M-900 *(vanilla version)*
 
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
@@ -1466,7 +1461,7 @@ Pictures are **not to scale**.
 
 **Faction** : APD, ION, LFR, Civilian, IDAP
 
-**Crew** : 2,    3 with commander
+**Crew** : 2, 3 with commander
 
 **Role** : Transport, Medevac, Rescue, VIP
 
@@ -1520,7 +1515,7 @@ Pictures are **not to scale**.
 
 **Faction** : NATO
 
-**Crew** : 2,   4 with gunners
+**Crew** : 2, 4 with gunners
 
 **Role** : Transport, Cargo
 
@@ -1547,7 +1542,7 @@ Pictures are **not to scale**.
 
 **Faction** : US Army, GER, IDF, USMC
 
-**Crew** : 2,   GAU-21 : 3
+**Crew** : 2, GAU-21 : 3
 
 **Role** : Transport, Cargo
 
@@ -1574,7 +1569,7 @@ Pictures are **not to scale**.
 
 **Faction** : AAF, ION, KRG, MDF, TNA, UN, CDF, HIDF, HIL, FIA
 
-**Crew** : 2,    3 with commander,    5 with gunners
+**Crew** : 2, 3 with commander, 5 with gunners
 
 **Role** : Light attack, Transport, Medevac
 
@@ -1709,7 +1704,7 @@ Pictures are **not to scale**.
 
 **Faction** : CSAT, RU, AAF, ION, KeDF 
 
-**Crew** : 2,   3 with gunner
+**Crew** : 2, 3 with gunner
 
 **Role** : Transport, Light attack
 
@@ -1736,7 +1731,7 @@ Pictures are **not to scale**.
 
 **Faction** : BAF, ION, AAF, Civilian, IDAP
 
-**Crew** : 2,   3 with ramp gun,   4 with rescue crew
+**Crew** : 2, 3 with ramp gun, 4 with rescue crew
 
 **Role** : Transport, Medevac, VIP, Rescue
 
@@ -1817,15 +1812,13 @@ Pictures are **not to scale**.
 
 **Faction** : ANA, ADA, AA, ChDZS, CPD, GAF, KDF, LDF, TNA, UN, AfghA, CDF, CAF, NA, CIA, AAF, ChDKZ, USSR, CMRS, IA, IRIA, KPA, Wagner, Russia, SLA, SAF, SuAF, ChDZZ, UPDF, Civilian
 
-**Crew** : 2,   4 with Gunners
+**Crew** : 2, 4 with Gunners
 
 **Role** : Transport, Cargo, Light attack
 
 **Armament** : None, Rockets, Machine guns
 
-**Variant** : 
-- HT-40 / HT48 *(Serbian version)*,
-- Mi-17 *(export version)*
+**Variant** : HT-40 / HT48 *(Serbian version)*, Mi-17 *(export version)*
 
 **DLC/mod** : CUP, RHS AFRF, RHS GRF
 
@@ -1852,11 +1845,7 @@ Pictures are **not to scale**.
 
 **Armament** : Cannon, Bombs, Missiles, Rockets
 
-**Variant** : 
-- P *(fix 20mm cannon)*, 
-- D / V *(12.7mm turret)*, 
-- G / Mk.III / Mk.IV *(20mm turret)*,
-- Mi-35 *(export version)*
+**Variant** : P *(fix 20mm cannon)*, D / V *(12.7mm turret)*, G / Mk.III / Mk.IV *(20mm turret)*, Mi-35 *(export version)*
 
 **DLC/mod** : CUP, RHS AFRF, RHS GREF
 
@@ -1958,7 +1947,7 @@ Pictures are **not to scale**.
 
 **Faction** : FRA, HAF, FIN
 
-**Crew** : 2,   4 with gunners
+**Crew** : 2, 4 with gunners
 
 **Role** : Transport, Cargo
 
@@ -2093,7 +2082,7 @@ Pictures are **not to scale**.
 
 **Faction** : FIA, AAF, ANA, ADA, US Army, ION, KRG, MDF, TNA, UN, GER, HIDF, CIA, SLA, TA, CFD, RACS, IDAP
 
-**Crew** : 2,   4 with door gunners
+**Crew** : 2, 4 with door gunners
 
 **Role** : Transport, Light attack, Medevac
 
@@ -2120,7 +2109,7 @@ Pictures are **not to scale**.
 
 **Faction** : USMC
 
-**Crew** : 2,   4 with door gunners
+**Crew** : 2, 4 with door gunners
 
 **Role** : Transport, Light attack, Medevac
 
@@ -2147,7 +2136,7 @@ Pictures are **not to scale**.
 
 **Faction** : AAF, ANA, US Army, AfghA, IDF, RACS
 
-**Crew** : 2,   4 with gunners
+**Crew** : 2, 4 with gunners
 
 **Role** : Transport, Medevac
 
