@@ -5,9 +5,11 @@
 TFO Anti-Air Guide (VAR)
 
   <div class="image-container-logo">
-    <img src="/mkdocs/assets/images/AA/logo" width="100%" />
+    <img src="/mkdocs/assets/images/AA/logo.png" width="100%" />
   </div>
-
+  
+<br>
+<br>
 
 ## Foreword 
 
