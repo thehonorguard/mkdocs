@@ -4,9 +4,9 @@
 
 TFO Anti-Air Guide (VAR)
 
-  <div class="image-container-logo">
-    <img src="/mkdocs/assets/images/AA/logo.png" width="100%" />
-  </div>
+<div class="image-container-logo">
+  <img src="/mkdocs/assets/images/AA/logo.png" width="100%" />
+</div>
   
 <br>
 <br>
@@ -54,7 +54,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   .image-container-logo {
     box-sizing: border-box;
     position: relative;
-    width: 55%;
+    width: 25%;
     float: center;
   }
 
