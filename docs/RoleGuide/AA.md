@@ -8,13 +8,13 @@ TFO Anti-Air Guide (VAR)
 
 
 
-## Foreword :
+## Foreword 
 
 This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse Arma III missions.
 
 This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, HAFM**
 
-Source : https://irp.fas.org/doddir/army/fm3-01-80.pdf
+Source : <a href="https://irp.fas.org/doddir/army/fm3-01-80.pdf">IRP FAS DODDIR</a>
 
 This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.
 
@@ -37,14 +37,14 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   .image-container {
     box-sizing: border-box;
     position: relative;
-    width: 45%;
+    width: 49%;
     float: left;
   }
 
     .image-container2 {
     box-sizing: border-box;
     position: relative;
-    width: 90%;
+    width: 98%;
     float: center;
   }
 
@@ -98,7 +98,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
 ##  2. Camouflages and markings
 
-### Camouflages :
+### Camouflages
 
 Combat aircraft usually have a **camouflage finish** with the upper and side surfaces painted in a **disruptive pattern of two or more shades.** This breaks up their form when viewed from above, and aids **concealment when on the ground or flying low.** The undersurfaces are **painted in a light color to blend with the sky** when viewed from below.
 The **overall gray color** of most fighter-interceptor aircraft is a camouflage scheme. Other aircraft may be painted a two-tone gray. 
@@ -143,13 +143,13 @@ Camouflage will vary between **theaters of operation and/or Faction.**
   </div>
 </div>
 
-### Camouflages hard to distinguish :
+### Camouflages hard to distinguish
 
 A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
 
 Here are a few examples of different factions using similar, if not, same camo.
 
-#### Su-25 :
+#### Su-25
 
 <div class="image-row">
   <div class="image-container">
@@ -193,8 +193,7 @@ Here are a few examples of different factions using similar, if not, same camo.
 </div>
 
 
-#### Mi-8 :
-to do
+#### Mi-8
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/mi-8-4x.jpg" width="100%" />
@@ -231,14 +230,59 @@ to do
 </div>
 
 <div class="image-container2">
-  <img src="/mkdocs/assets/images/AA/mi-8-4x-23.jpg" width="100%" />
+  <img src="/mkdocs/assets/images/AA/mi-8-4x-3.jpg" width="100%" />
   <p class="image-caption">USSR - KDF - SLA - SAF</p>
 </div>
 
-#### Mi-24 :
-to do
+#### Mi-24
 
-### Markings :
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-cdf-2.jpg" width="100%" />
+    <p class="image-caption">CDF</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-acr.jpg" width="100%" />
+    <p class="image-caption">ACR</p>
+  </div>
+</div>
+
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/mi-24-4x.jpg" width="100%" />
+  <p class="image-caption">TA - IA - NA - ANA</p>
+</div>
+
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-cr.jpg" width="100%" />
+    <p class="image-caption">RU</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-gaf.jpg" width="100%" />
+    <p class="image-caption">GAF</p>
+  </div>
+</div>
+
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/mi-24-4x-2.jpg" width="100%" />
+  <p class="image-caption">Wagner - RU - KDF - AA</p>
+</div>
+
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-siaf.jpg" width="100%" />
+    <p class="image-caption">SuAF</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/mi-24-ia.jpg" width="100%" />
+    <p class="image-caption">IA</p>
+  </div>
+</div>
+
+### Markings
 
 Painted markings and annotations can also be found on aircraft and helicopters, primarily for identification, making the visual recognition easier. Aircraft markings can includes :
 
