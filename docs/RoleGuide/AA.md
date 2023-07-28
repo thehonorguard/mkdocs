@@ -10,7 +10,7 @@ TFO Anti-Air Guide (VAR)
 
 ## Foreword 
 
-This guide aims to assist the Anti-Air role in aircraft recognition and identification. It provides information on current operational aircraft which may be observed in diverse Arma III missions.
+This guide aims to assist the Anti-Air role in **aircraft recognition and identification**. It provides information on current operational aircraft which may be observed in diverse **Arma III missions**.
 
 This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, HAFM**
 
@@ -23,9 +23,9 @@ This does not replace actual Anti-Air training and doesn’t grant the clearance
 
 Confusing one aircraft with another is a serious problem that must be dealt with **Visual Aircraft Recognition** training. The following are the four types of confusion that can occur, of which the first two are the most dangerous :
 
-When a **friendly** aircraft is recognized and identified as **hostile**. On a mission, this mistake could cause a friendly fire.
+When a **friendly** aircraft is recognized and identified as **hostile**. On a mission, this **mistake could cause a <u>friendly fire</u>**.
 
-When a **hostile** aircraft is recognized and identified as **friendly**. During hostilities, this action might **allow a hostile aircraft entry into the defended area.**
+When a **hostile** aircraft is recognized and identified as **friendly**. During hostilities, this action might **allow a hostile aircraft <u>entry into the defended area</u>**.
 
 When a **hostile** aircraft is recognized and identified as another hostile aircraft. Actions taken against hostile aircraft in combat are the same, so generally there is no impact. However, this situation could have an impact if **friendly factions were flying some aircraft types that are normally considered hostile.**
 
@@ -145,9 +145,9 @@ Camouflage will vary between **theaters of operation and/or Faction.**
 
 ### Camouflages hard to distinguish
 
-A small number of vehicles are used by a lot of different factions, especially aircrafts coming from USSR/Russia where the export of those was very important. This will increase the difficulty in the identification of the faction when both friendlies AND hostiles are using the same aircrafts with similar camouflages. 
+A small number of vehicles are used by a lot of **different factions**, especially aircrafts coming from **USSR/Russia** where the export of those was very important. This will **increase the difficulty** in the identification of the faction when both **friendlies** AND **hostiles** are using the same aircrafts with **similar camouflages**. 
 
-Here are a few examples of different factions using similar, if not, same camo.
+Here are a few examples of different **factions** using **similar**, if not, **same camo**.
 
 #### Su-25
 
@@ -336,15 +336,15 @@ When **multiple Factions** use the same type of aircraft *(ex. MI-8: Russia, Che
 ##  3. MANPADS
 
 
-As infantry, you will be carrying MANPADS (Man-Portable Air-Defense Systems) on the field.
-Depending on the model, the minimum and maximum engagement range will differ (see table below), but the locking system remains the same and usually is done automatically when aiming at a target.
+As infantry, you will be carrying **MANPADS** *(Man-Portable Air-Defense Systems)* on the field.
+Depending on the model, the minimum and maximum **engagement range will differ** *(see table below)*, but the **locking system remains the same** and usually is **done automatically** when **aiming at a target**.
 
-It is important to identify your target and his specifications before any engagement, and to communicate with your squad leader, as targets like medevacs are not allowed to be engaged for example, which could result in a war crime.
+It is **important to identify your target and his specifications before any engagement**, and to **<u>communicate</u> with your squad leader**, as targets like **<u>medevacs</u> are not allowed to be engaged** for example, which could result in a **war crime**.
 
-It is your responsibility to obtain information from the Zeus about what aircraft friendly and hostile forces are using in the mission / campaign.
+It is <u>**your responsibility**</u> to **obtain information from the Zeus** about **what aircraft friendly and hostile forces are using** in the mission / campaign.
 
 
-Here a non-exhaustive list of MANPADS available in Arma III : 
+Here a **non-exhaustive** list of MANPADS available in Arma III : 
 
 
 
