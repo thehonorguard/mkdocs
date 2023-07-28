@@ -62,7 +62,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   .center-text {
     text-align: center;
     text-transform: uppercase;
-    font-size: 3.5em;
+    font-size: 3em;
   }
 
   .image-caption {
