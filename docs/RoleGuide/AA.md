@@ -2446,79 +2446,46 @@ Pictures are **not to scale**.
 ## 7. Glossary
 
 
-| Factions : |                                           |
-| ---------- | ----------------------------------------- |
-| AA         | Ardistan Army                             |
-| AAF        | Altis Armed Forces                        |
-| ACR        | Army of the Czech Rep.                    |
-| ADA        | African Desert Army                       |
-| AfghA      | Afghanistan Army                          |
-| ANA        | Afghanistan National Army                 |
-| APD        | Altis Police Department                   |
-| BAF        | British Armed Forces                      |
-| CAF        | Chadian Armed Forces                      |
-| CDF        | Chernarus Defence Forces                  |
-| ChDKZ      | Chernarussian Movement of the Red Star    |
-| ChDSZ      | Chernarussian Movement of the Blue Star   |
-| ChDZZ      | Chernarussian Movement of the Green Star  |
-| CIA        | Central Intelligence Agency               |
-| CIS        | Commonwealth of Independent States        |
-| CMRS       | Chernarussian Movement of the Red Star    |
-| CPD        | Chernarus Police Department               |
-| CSAT       | Canton Protocol Strategic Alliance Treaty |
-| CTRG       | Combat Technology Research Group          |
-| FIA        | Freedom and Independence Army             |
-| FIN        | Finland Army                              |
-| FRA        | French Army                               |
-| GAF        | Grozovia Armed Forces                     |
-| GER        | German Army                               |
-| HAF        | Hellenic Armed Forces                     |
-| HIDF       | Horizon Islands Defence Forces            |
-| HIL        | Horizon Islands Legion                    |
-| IA         | Iraqi Army (Hussein Regime)               |
-| IDAP       | International Development & Aid Project   |
-| IDF        | Israeli Defence Forces                    |
-| ION        | ION Services                              |
-| IRIA       | Islamic Republic of Iran Army             |
-| KDF        | Kolgujev Defence Forces                   |
-| KeDF       | Kenyan Defense Forces                     |
-| KPA        | Korean People’s Army                      |
-| KRG        | Karzeghistan Royal Guard                  |
-| LDF        | Livonian Defence Forces                   |
-| LFR        | Livonian Forest Rangers                   |
-| MDF        | Malden Defence Forces                     |
-| MGF        | Malian Government Forces                  |
-| NA         | Nigerian Army                             |
-| NAPA       | National Party                            |
-| NATO       | North Atlantic Treaty Organization        |
-| RACS       | Royal Army Corps of Sahrani               |
-| RU         | Russian Army                              |
-| SAA        | Syrian Arab Army                          |
-| SAF        | Serbian Armed Forces                      |
-| SuAF       | Sudanese Armed Forces                     |
-| SLA        | Sahrani Liberation Army                   |
-| SSPDF      | South Sudan People’s Defence Forces       |
-| TA         | Takistan Army                             |
-| TNA        | Takistan National Army                    |
-| UN         | United Nations                            |
-| UPDF       | Uganda People’s Defence Force             |
-| USAF       | United States Air Force                   |
-| US Army    | United States Army                        |
-| USMC       | United States Marine Corps                |
-| USSR       | Union of Soviet Socialist Republics       |
+| Factions :|                                           |             |                                     |
+|           |                                           |             |                                     |
+| -----     | ----------------------------------------- | -------     | ----------------------------------- |
+| **AA**    | Ardistan Army                             | **IDF**     | Israeli Defence Forces              |
+| **AAF**   | Altis Armed Forces                        | **ION**     | ION Services                        |
+| **ACR**   | Army of the Czech Rep.                    | **IRIA**    | Islamic Republic of Iran Army       |
+| **AD**    | African Desert Army                       | **KDF**     | Kolgujev Defence Forces             |
+| **AfghA** | Afghanistan Army                          | **KeDF**    | Kenyan Defense Forces               |
+| **ANA**   | Afghanistan National Army                 | **KPA**     | Korean People’s Army                |
+| **APD**   | Altis Police Department                   | **KRG**     | Karzeghistan Royal Guard            |
+| **BAF**   | British Armed Forces                      | **LDF**     | Livonian Defence Forces             |
+| **CAF**   | Chadian Armed Forces                      | **LFR**     | Livonian Forest Rangers             |
+| **CDF**   | Chernarus Defence Forces                  | **MDF**     | Malden Defence Forces               |
+| **ChDKZ** | Chernarussian Movement of the Red Star    | **MGF**     | Malian Government Forces            |
+| **ChDSZ** | Chernarussian Movement of the Blue Star   | **NA**      | Nigerian Army                       |
+| **ChDZZ** | Chernarussian Movement of the Green Star  | **NAPA**    | National Party                      |
+| **CIA**   | Central Intelligence Agency               | **NATO**    | North Atlantic Treaty Organization  |
+| **CIS**   | Commonwealth of Independent States        | **RACS**    | Royal Army Corps of Sahrani         |
+| **CMRS**  | Chernarussian Movement of the Red Star    | **RU**      | Russian Army                        |
+| **CPD**   | Chernarus Police Department               | **SAA**     | Syrian Arab Army                    |
+| **CSAT**  | Canton Protocol Strategic Alliance Treaty | **SAF**     | Serbian Armed Forces                |
+| **CTRG**  | Combat Technology Research Group          | **SuAF**    | Sudanese Armed Forces               |
+| **FIA**   | Freedom and Independence Army             | **SLA**     | Sahrani Liberation Army             |
+| **FIN**   | Finland Army                              | **SSPDF**   | South Sudan People’s Defence Forces |
+| **FRA**   | French Army                               | **TA**      | Takistan Army                       |
+| **GAF**   | Grozovia Armed Forces                     | **TNA**     | Takistan National Army              |
+| **GER**   | German Army                               | **UN**      | United Nations                      |
+| **HAF**   | Hellenic Armed Forces                     | **UPDF**    | Uganda People’s Defence Force       |
+| **HIDF**  | Horizon Islands Defence Forces            | **USAF**    | United States Air Force             |
+| **HIL**   | Horizon Islands Legion                    | **US Army** | United States Army                  |
+| **IA**    | Iraqi Army (Hussein Regime)               | **USMC**    | United States Marine Corps          |
+| **IDAP**  | International Development & Aid Project   | **USSR**    | Union of Soviet Socialist Republics |
 
 
 
-| Mods: |                                              |
-| ----- | -------------------------------------------- |
-| 3CB   | 3 Commando Brigade                           |
-| AFRF  | (RHS) Armed Forces of the Russian Federation |
-| AMF   | Arma Mod France                              |
-| BAF   | (3CB) British Armed Forces                   |
-| CFP   | Community Faction Project                    |
-| CUP   | Community Upgrade Project                    |
-| GREF  | (RHS) Green Forces                           |
-| HAFM  | Hellenic Armed Forces Mod                    |
-| RHS   | Red Hammer Studio                            |
-| SAF   | (RHS) Serbian Armed Forces                   |
-| USAF  | (RHS) United States Armed Forces             |
+| Mods:     |                                              |          |                                  |
+| -----     | -------------------------------------------- | ----     | -------------------------------- |
+| **3CB**   | 3 Commando Brigade                           | **GREF** | (RHS) Green Forces               |
+| **AFRF**  | (RHS) Armed Forces of the Russian Federation | **HAFM** | Hellenic Armed Forces Mod        |
+| **AMF**   | Arma Mod France                              | **RHS**  | Red Hammer Studio                |
+| **BAF**   | (3CB) British Armed Forces                   | **SAF**  | (RHS) Serbian Armed Forces       |
+| **CFP**   | Community Faction Project                    | **USAF** | (RHS) United States Armed Forces |
+| **CUP**   | Community Upgrade Project                    |          |                                  |
