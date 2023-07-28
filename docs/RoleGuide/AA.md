@@ -2447,7 +2447,6 @@ Pictures are **not to scale**.
 
 
 | Factions :|                                           |             |                                     |
-|           |                                           |             |                                     |
 | -----     | ----------------------------------------- | -------     | ----------------------------------- |
 | **AA**    | Ardistan Army                             | **IDF**     | Israeli Defence Forces              |
 | **AAF**   | Altis Armed Forces                        | **ION**     | ION Services                        |
