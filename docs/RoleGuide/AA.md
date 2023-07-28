@@ -255,7 +255,7 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 <div class="image-row">
   <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/mi-24-cr.jpg" width="100%" />
+    <img src="/mkdocs/assets/images/AA/mi-24-ru.jpg" width="100%" />
     <p class="image-caption">RU</p>
   </div>
 
@@ -272,7 +272,7 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 <div class="image-row">
   <div class="image-container">
-    <img src="/mkdocs/assets/images/AA/mi-24-siaf.jpg" width="100%" />
+    <img src="/mkdocs/assets/images/AA/mi-24-suaf.jpg" width="100%" />
     <p class="image-caption">SuAF</p>
   </div>
 
@@ -284,21 +284,54 @@ Here are a few examples of different factions using similar, if not, same camo.
 
 ### Markings
 
-Painted markings and annotations can also be found on aircraft and helicopters, primarily for identification, making the visual recognition easier. Aircraft markings can includes :
+Painted markings and annotations can also be found on aircraft and helicopters, primarily for identification, making the visual recognition easier. Aircraft markings can include :
 
-Military aircraft insignia, applied to military aircraft to identify the nation or branch of military service.
-Aircraft registration, unique alphanumeric string that identifies every aircraft.
-Logo, emblem used by a company or organization.
-Invasion stripes, alternating black and white bands painted on the fuselages and wings (WWII).
-Art, decorative painting or design on the fuselage of an aircraft.
-Tail code, help to identify the unit and base assignment.
+- **Military aircraft insignia**, applied to military aircraft to identify the nation or branch of military service.
+- **Aircraft registration**, unique alphanumeric string that identifies every aircraft.
+- **Logo**, emblem used by a company or organization.
+- **Invasion stripes**, alternating black and white bands painted on the fuselages and wings (WWII).
+- **Art**, decorative painting or design on the fuselage of an aircraft.
+- **Tail code**, help to identify the unit and base assignment.
 
-This List of air forces provides the markings used by each military organization.
+This <a href="https://en.wikipedia.org/wiki/List_of_air_forces">List of air forces</a> provides the markings used by each military organization.
 
-When multiple Factions use the same type of aircraft (ex. MI-8: Russia, Chernarus, ANA, Takistan…), the markings (if not the camo) may be the only way to discern between friendly and enemy (see examples here).
+When **multiple Factions** use the same type of aircraft *(ex. MI-8: Russia, Chernarus, ANA, Takistan…)*, the markings *(if not the camo)* may be the **only way to discern between friendly and enemy** *<a href="#camouflages-hard-to-distinguish">(see examples here)</a>*.
 
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/Livonianroundel.jpg" width="100%" />
+    <p class="image-caption">Livonian roundel</p>
+  </div>
 
-## to do
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/f-22-tail-code.jpg" width="100%" />
+    <p class="image-caption">F-22 tail code</p>
+  </div>
+</div>
+
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/raf-fuselage-art.jpg" width="100%" />
+    <p class="image-caption">RAF fuselage art</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/idap-logo.jpg" width="100%" />
+    <p class="image-caption">IDAP logo</p>
+  </div>
+</div>
+
+<div class="image-row">
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/dc-3reg.jpg" width="100%" />
+    <p class="image-caption">DC-3 registration</p>
+  </div>
+
+  <div class="image-container">
+    <img src="/mkdocs/assets/images/AA/takistan-insignia.jpg" width="100%" />
+    <p class="image-caption">Takistan insignia</p>
+  </div>
+</div>
 
 ##  3. MANPADS
 
