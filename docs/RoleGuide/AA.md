@@ -52,10 +52,10 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
   }    
 
   .image-container-logo {
-    box-sizing: border-box;
-    position: relative;
-    width: 25%;
-    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
   }
 
   .image-caption {
