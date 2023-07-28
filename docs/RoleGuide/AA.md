@@ -41,6 +41,13 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
     float: left;
   }
 
+    .image-container2 {
+    box-sizing: border-box;
+    position: relative;
+    width: 45%;
+    float: center;
+  }
+
   .image-caption {
     position: absolute;
     bottom: 3px;
@@ -163,7 +170,7 @@ Su-25 :
   </div>
 </div>
 
-<div class="image-container">
+<div class="image-container2">
   <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
   <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
 </div>
