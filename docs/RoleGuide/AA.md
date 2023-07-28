@@ -224,7 +224,7 @@ When multiple Factions use the same type of aircraft (ex. MI-8: Russia, Chernaru
 As infantry, you will be carrying MANPADS (Man-Portable Air-Defense Systems) on the field.
 Depending on the model, the minimum and maximum engagement range will differ (see table below), but the locking system remains the same and usually is done automatically when aiming at a target.
 
-It is important to identify your target and his specifications before any engagement, and to communicate with your squad leader, as targets like medevacs are not allowed to be engaged for exemple, which could result in a war crime.
+It is important to identify your target and his specifications before any engagement, and to communicate with your squad leader, as targets like medevacs are not allowed to be engaged for example, which could result in a war crime.
 
 It is your responsibility to obtain information from the Zeus about what aircraft friendly and hostile forces are using in the mission / campaign.
 
@@ -292,6 +292,10 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
@@ -315,6 +319,10 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla, CUP, RHS USAF
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -346,6 +354,10 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### A330 Airbus
 
@@ -373,6 +385,10 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### Aero Commander 500
 
@@ -396,6 +412,10 @@ Pictures are **not to scale**.
 
 **DLC/mod** : 3CB Factions
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -592,6 +612,9 @@ Pictures are **not to scale**.
 
 ### Douglas C-47 Skytrain 
  
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/douglas-c-47-skytrain.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -619,6 +642,9 @@ Pictures are **not to scale**.
 
 ### Douglas DC-3
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/douglas-dc-3.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -645,6 +671,9 @@ Pictures are **not to scale**.
 
 ### F-4 PHANTOM II
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/f-4-phantom-ii.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -664,9 +693,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### F-16 FIGHTING FALCON
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/f-16-fighting-falcon.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -686,9 +720,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### F/A-181 Black Wasp II
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/fa-181-black-wasp-ii-2.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -708,9 +747,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### F-22 Raptor
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/f-22-raptor.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -730,9 +774,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### F-35 Joint Strike Fighter
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/f-35-joint-strike-fighter.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
 
@@ -752,9 +801,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### JAS-39 Gripen / A-149 Gryphon
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/jas-39-gripen.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/se.png"> Sweden
 
@@ -774,9 +828,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### L-39 Albatros / L-159 ALCA / A-143 Buzzard
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/l-39-albatros.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/cz.png"> Czechoslovakia
 
@@ -796,9 +855,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### MD-454 Mystère
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/md-454-mystere.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -818,9 +882,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### MiG-21 FISHBED
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mig-21-fishbed.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -840,9 +909,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### MiG-29 Fulcrum
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mig-29-fulcrum.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ussr.png"> USSR
 
@@ -862,9 +936,14 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### Mirage 2000
 
+<div class="side-image-cont">
+  <img src="/mkdocs/assets/images/AA/mirage-2000.jpg" width="275px" />
+</div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/fr.png"> France
 
@@ -882,6 +961,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF, HAFM
 
+<br>
+<br>
 <br>
 <br>
 
@@ -906,6 +987,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### Rafale C
 
@@ -926,6 +1009,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : AMF
 
+<br>
+<br>
 <br>
 <br>
 
@@ -950,6 +1035,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### Su-34 Fullback
 
@@ -970,6 +1057,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : CUP
 
+<br>
+<br>
 <br>
 <br>
 
@@ -994,6 +1083,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### T-50 (Su-57) Felon
 
@@ -1014,6 +1105,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : RHS AFRF
 
+<br>
+<br>
 <br>
 <br>
 
@@ -1038,6 +1131,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### Tu–95 BEAR
 
@@ -1058,6 +1153,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : RHS AFRF
 
+<br>
+<br>
 <br>
 <br>
 
@@ -1082,6 +1179,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### Y-32 Wi’an
 
@@ -1104,6 +1203,8 @@ Pictures are **not to scale**.
 
 <br>
 <br>
+<br>
+<br>
 
 ### Yak-130 / To-199 Neophron
 
@@ -1124,6 +1225,8 @@ Pictures are **not to scale**.
 
 **DLC/mod** : Vanilla
 
+<br>
+<br>
 <br>
 <br>
 
