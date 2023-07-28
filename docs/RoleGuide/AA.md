@@ -16,7 +16,7 @@ This guide is based on the following mods : **CFP, CUP, RHS, AMF, 3CB Factions, 
 
 Source : <a href="https://irp.fas.org/doddir/army/fm3-01-80.pdf">IRP FAS DODDIR</a>
 
-This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.
+**<u>This does not replace actual Anti-Air training and doesn’t grant the clearance for the role during missions.</u>**
 
 ## 1. Aircraft confusion
 
