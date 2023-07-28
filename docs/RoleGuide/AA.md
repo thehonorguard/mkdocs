@@ -1558,7 +1558,7 @@ Pictures are **not to scale**.
 ### CH-146 Griffon
 
 <div class="side-image-cont">
-  <img src="/mkdocs/assets/images/AA/ch-146-griffon2.jpg" width="275px" />
+  <img src="/mkdocs/assets/images/AA/ch-146-griffon-2.jpg" width="275px" />
 </div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ca.png"> Canada
@@ -1861,7 +1861,7 @@ Pictures are **not to scale**.
 ### Mi-28N Havok
 
 <div class="side-image-cont">
-  <img src="/mkdocs/assets/images/AA/mi-28n-havoc.jpg" width="275px" />
+  <img src="/mkdocs/assets/images/AA/mi-28n-havok.jpg" width="275px" />
 </div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia
@@ -1888,7 +1888,7 @@ Pictures are **not to scale**.
 ### Mi-48 Kajman
 
 <div class="side-image-cont">
-  <img src="/mkdocs/assets/images/AA/sa-48-kajman.jpg" width="275px" />
+  <img src="/mkdocs/assets/images/AA/mi-48-kajman.jpg" width="275px" />
 </div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/ru.png"> Russia, <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/csat.png"> CSAT
@@ -2104,7 +2104,7 @@ Pictures are **not to scale**.
 ### UH-1Y Venom
 
 <div class="side-image-cont">
-  <img src="/mkdocs/assets/images/AA/uh-1y-venom.jpg" width="275px" />
+  <img src="/mkdocs/assets/images/AA/uh-1y-venom-2.jpg" width="275px" />
 </div>
 
 **Country of origin** : <img style="vertical-align:middle" src="/mkdocs/assets/images/flags/us.png"> USA
