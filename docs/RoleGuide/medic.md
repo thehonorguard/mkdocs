@@ -92,7 +92,7 @@ Start monitoring vitals using **AED X-series** and use “*check rhythm*” feat
 
 ## Bandages
 
-| WOUNDS & EFFECTS | Details                                                                                                         | Causes                                                                              | Effects                                                                                            |
+| Wounds | Details                                                                                                         | Causes                                                                              | Effects                                                                                            |
 | ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain. - Extremely slow bleeding.                                                |
 | Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain. - Extremely fast bleeding.\*                                               |
