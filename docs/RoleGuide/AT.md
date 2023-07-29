@@ -123,7 +123,7 @@ The takeaway from this physics lesson is that you fight armored vehicles with fo
 
 (Note that this explains the workings of a HEAT rocket with a single warhead. Different missile types, such as ones with multiple warheads, or squash charges, exist.)  
 
-#### Understanding Vehicle Parts  
+### Understanding Vehicle Parts  
 
 Now that we know that rockets penetrate armor to disable internal components, we must know what components to aim for in order to deal damage to a tank. Any odd shot will do nothing but add additional ventilation to the tank - critical strikes are paramount to successful counter-armor.  
 
@@ -146,7 +146,7 @@ Whichever of these to aim for will depend on the situation of the engagement and
 
 Wherever these weak spots are positioned and how well they are armored are also dependent on the vehicle itself. One tank may position it's fuel tank in the front to protect crew members, while the other will conceal it in the back behind reactive armor.  
 
-#### Understanding Vehicle Damage  
+### Understanding Vehicle Damage  
 
 It is crucial to understand that ArmA 3 assigns each individual part of an armored vehicle (as listed in the chapter above) an individual armor value. While these basically represent their health (where 0 equals destroyed), they are armor in the literal sense that they they need to be penetrated by a suitable weapon in order to be reduced.  
 
@@ -163,7 +163,7 @@ Individual armor parts can carry special properties with them:
 
 Each tank configures and places these Armor parts differently, making these Values and Properties hard to guess, especially within modded ArmA 3 content. However, just acknowledging that such properties is important, as it adds an important factor in choosing which part of the tank to target.  
 
-#### Understanding Armor Types  
+### Understanding Armor Types  
 
 Tanks, in real life as well as in ArmA, utilize various armor technologies to protect themselves against threats. You might need to disable a layer of armor using a specific rocket type before being able to attack a critical spot. Provided below is a short overview of the different types you'll encounter within the realm of ArmA 3:  
 
@@ -182,7 +182,7 @@ Tanks, in real life as well as in ArmA, utilize various armor technologies to pr
 
 These armor types can be used in parallel to offer a higher grade of defense to the vehicle & crew. Identifying, avoiding and/or destroying these armor parts is crucial to effectively attack armored vehicles.  
 
-#### Understanding targeting  
+### Understanding targeting  
 
 With that all of the way, we can finally use all of these variables to calculate the equation this chapter is covering: Where do I target a tank to deal the most damage, and, thus, destroy it?  
 
@@ -190,7 +190,7 @@ For this chapter, we will look at a few situational examples, highlight the visi
 
 All of the examples mentioned here will use the _"MAAWS MK4 Mod 1"_ as the Anti-Tank Weapon of choice, and, unless stated otherwise, the _"MAAWS HEAT 75 Round"_ as the ammunition.  
 
-##### Example #1 
+#### Example #1 
 
 You have to engage an _M2A4 Slammer_, Urban Purpose Variant, at an angle of 45 Degrees at the range of 100 Meters. There is nothing obstructing your view and the tank has not discovered you yet.  
 
@@ -231,7 +231,7 @@ This strike has successfully penetrated and completely disabled the Gun of the v
 
 The next course of action would be to fire another rocket at any of the other mentioned weakpoints (or the same again), until a catastrophic kill or a crew dismount occurs.  
 
-##### Example #2  
+#### Example #2  
 
 .You have to engage an _AMV-7 Slammer_, at an angle of ~270 Degrees at the range of 320 Meters. The IFV has not discovered you yet, but it's entire front is obstructed by foliage. Yo do have an height advantage, as you are engaging the armored vehicle from a nearby hill.  
 
@@ -268,7 +268,7 @@ With that, we adjust the aim of our rocket launcher for range, clear our backbla
 
 The damage of the rocket, surprisingly, caused a catastrophic kill. This is because the AMV-7 Marshall design places it's fuel tank in the rear of the vehicle, sandwiching the passenger compartment between two fuel tanks placed near the sides of the vehicle. Our Rocket penetrated those fuel tanks from above, and the consequent damage to the vehicle's main health pool caused a critical kill.  
 
-### The Rundown  
+## The Rundown  
 
 *   The penetration of the rocket deals damage, not the explosion.  
     
