@@ -187,13 +187,11 @@ The treatment in case of a chemical intoxication is **atropine** only (administe
 
 | Item name                       | Description                                                                                                                                                   |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| M7A3 Riot CS gas grenade        | Upon explosion, it causes strong pain and temporary blindness to victims without gas masks. 
-If enabled, it will cause AI skill drop.                          |
+| M7A3 Riot CS gas grenade        | Upon explosion, it causes strong pain and temporary blindness to victims without gas masks. <br> If enabled, it will cause AI skill drop.                          |
 | 82 mm Mustard gas mortar shell  | Upon explosion, mustard gas is deployed within the radius of 10-15 meters.                                                                                    |
 | Tripwire Gas (mustard gas mine) | Equivalent to APERS Tripwire mine that deploys gas instead of exploding.                                                                                      |
 | Hydra GAS 19x                   | Equivalent to Hydra rockets that deploys mustard gas instead of exploding.                                                                                    |
-| M43 BZ LGB Cluster bomb         | Equivalent to GBU-12 bomb, a laser guided bomb that deploys mustard gas instead of exploding. 
-The bomb is compatible with all vanilla and most RHS aircrafts. |
+| M43 BZ LGB Cluster bomb         | Equivalent to GBU-12 bomb, a laser guided bomb that deploys mustard gas instead of exploding. <br> The bomb is compatible with all vanilla and most RHS aircrafts. |
 
 ## Auto injectors
 
