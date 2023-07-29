@@ -42,5 +42,7 @@ It’s very important for the AR to be safe as they are a key element of a squad
 | 7.62 HMG                      | This is a heavier variant of the 5.56 LMG. This 7.62x51 variant doesn’t allow for 30rnd mags to be loaded. It also needs an ammobearer to carry ammo for the AR. 7.62 Boxes usually have 120-150rnds                                            |
 | Bipod                         | Make sure your gun has a bipod as it allows you to set-up your gun properly so you can suppress more efficient.                                                                                                                                 |
 | Scope with 1-4x magnification | The AR is allowed to have a 4x scope because they must be able to know where targets are more precisely so they can suppress better.                                                                                                            |
+
+
 *Image explaing how efectivley supress an enemy*
 In Order to Supress any Enemy Combatants you could encounter instead of just shooting the cover they are hiding behind, traverse from left to right or right to left slighty above the Cover in short Bursts.
