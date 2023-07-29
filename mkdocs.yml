@@ -44,8 +44,7 @@ nav:
   - Role Guide:
     - Platoon leader: RoleGuide/pltleader.md
     - Squad leader: RoleGuide/sql.md
-    - Medic: RoleGuide/medic.md
-    - CLS: RoleGuide/cls.md
+    - Medic + CLS: RoleGuide/medic.md
     - Rifleman + LAT: RoleGuide/rifleman.md
     - Anti Air: RoleGuide/AA.md
     - Auto Rifleman: RoleGuide/AR.md
