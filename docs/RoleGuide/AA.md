@@ -297,11 +297,6 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/mi-24-4x.jpg" width="100%" />
-  <p class="image-caption">TA - IA - NA - ANA</p>
-</div>
-
-<div class="image-container2">
-  <img src="/mkdocs/assets/images/AA/mi-24-4x.jpg" width="100%" />
 
   <div class="image-caption2" style="left: 12.5%;">TA</div>
   <div class="image-caption2" style="left: 37.5%;">IA</div>
@@ -323,7 +318,11 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/mi-24-4x-2.jpg" width="100%" />
-  <p class="image-caption">Wagner - RU - KDF - AA</p>
+
+  <div class="image-caption2" style="left: 12.5%;">Wagner</div>
+  <div class="image-caption2" style="left: 37.5%;">RU</div>
+  <div class="image-caption2" style="left: 60%;">KDF</div>
+  <div class="image-caption2" style="left: 83%;">AA</div>
 </div>
 
 <div class="image-row">
