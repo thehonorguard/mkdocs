@@ -1,7 +1,21 @@
-Task Force Omega Anti-Tank Training Guide  
+<style>
+    .image-container-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+</style>
+
+<p class="center-text">Task Force Omega Anti-Tank Training Guide</p>
 
 
-![Logo of the Task Force Omega Anti-Tank Division.](../assets/images/AT/logoat.png)
+<div class="image-container-logo">
+  <img src="/mkdocs/assets/images/AT/logoat.png" width="100%" />
+</div>
+
+<br>
+<br>
 
 Introduction  
 
@@ -144,7 +158,7 @@ Tanks, in real life as well as in ArmA, utilize various armor technologies to pr
     
 *   **Smokescreens** are manually deployed by the vehicle commander by engaging a system that launches multiple smoke grenades either in front or around the armored vehicle. While they provide no ballistic protection, in ArmA 3, they disable the lock-on capabilities for fire-and-forget systems (even infrared ones), which requires direct line of sight. Smokescreens are temporary and disappear shortly after initial deployment.  
     
-*   **Camo Nets** are nets covered with leaves in the color of the surrounding area, used to hide the vehicle by blending in. They do not provide any ballistic protection whatsoever, but can provide visual cover for Reactive Armor, mitigating a fatal first strike due to misjudgement.  
+*   **Camo Nets** are nets covered with leaves in the color of the surrounding area, used to hide the vehicle by blending in. They do not provide any ballistic protection whatsoever, but can provide visual cover for Reactive Armor, mitigating a fatal first strike due to misjudgment.  
     
 
 These armor types can be used in parallel to offer a higher grade of defense to the vehicle & crew. Identifying, avoiding and/or destroying these armor parts is crucial to effectively attack armored vehicles.  
@@ -161,13 +175,13 @@ All of the examples mentioned here will use the _"MAAWS MK4 Mod 1"_ as the Anti-
 
 You have to engage an _M2A4 Slammer_, Urban Purpose Variant, at an angle of 45 Degrees at the range of 100 Meters. There is nothing obstructing your view and the tank has not discovered you yet.  
 
-![ M2A1 Slammer (Urban Purpose Variant) facing 45°.]()  
+![ M2A1 Slammer (Urban Purpose Variant) facing 45°.](../assets/images/AT/1.png)  
 
 *(Fig. 4: M2A4 Slammer (Urban Purpose) facing 45 Degrees left from camera.)*
 
 Let's analyze the weakpoints we will be able to hit & penetrate from this perspective, as well as the armor that we should avoid.  
 
-![ M2A1 Slammer (Urban Purpose Variant) facing 45°, reactive armor and weakpoints marked.]()  
+![ M2A1 Slammer (Urban Purpose Variant) facing 45°, reactive armor and weakpoints marked.](../assets/images/AT/2.png)  
 
 *(Fig. 5: M2A4 Slammer. Reactive Armor is marked in orange, the turret in green, the Commander's Remote-Operated Machinegun in Blue and the Threads in Cyan.)*  
 
@@ -190,6 +204,8 @@ With the target analysis out of the way, we aim our rocket launcher, aim for the
 
 The damage did not cause an catastrophic kill. However, that does not have to mean the blast was without damage - let's check the dashboard for the M2A4's status after the initial strike.
 
+![M2A4 Slammer's Status Dashboard after Engagement.](../assets/images/AT/3.png)]
+
 *(Fig. 7: M2A4 Slammer's Status Dashboard after Engagement.)*  
 
 This strike has successfully penetrated and completely disabled the Gun of the vehicle as well as it's turret, making it unable to fire or turn it's main turret. In a combat situation, only the vehicle's HMG would now be a threat, whose commander is most likely still overwhelmed by the attack.  
@@ -200,19 +216,19 @@ The next course of action would be to fire another rocket at any of the other me
 
 .You have to engage an _AMV-7 Slammer_, at an angle of ~270 Degrees at the range of 320 Meters. The IFV has not discovered you yet, but it's entire front is obstructed by foliage. Yo do have an height advantage, as you are engaging the armored vehicle from a nearby hill.  
 
-![An Anti-Tank soldier facing an AMV-7 Marshall hiding in a bush 230 Meters away from him.]()  
+![An Anti-Tank soldier facing an AMV-7 Marshall hiding in a bush 230 Meters away from him.](../assets/images/AT/4.png)  
 
 *(Fig. 8: An AMV-7 at a range of 320 meters, hiding between bushes.)*  
 
 Let's, again, analyze the weakpoints we will be able to hit & penetrate from this perspective, as well as the armor that we should avoid.  
 
-![An AMV-7 Marshall. Slat Cages are marked in orange, the commander viewport and camera in blue and the exposed wheels in violet.]()  
+![An AMV-7 Marshall. Slat Cages are marked in orange, the commander viewport and camera in blue and the exposed wheels in violet.](../assets/images/AT/5.png)  
 
 *(Fig. 9: An AMV-7 Marshall. Slat Cages are marked in orange, the commander's hatch and camera in blue and the exposed wheels in violet.)*  
 
 This AMV-7  has decided to hide behind a bush, making it unable for us to analyze any weakpoints at the front of the vehicle from this angle. The back of the vehicle is heavily armored with slat cages, which need to be penetrated with a single rocket first before exposing the composite armor below. The same goes for the turret, which as it's sides and back covered by slat armor. The vehicle is fitted with composite armor, however, it is probably much weaker than that of a main battle tank.  
 
-The only weakpoints recognizeable with the bare eye are the wheels and the commander's hatch. Both have a limited unarmored surface exposed to us, as they are positioned closely to Slat cages nearby.  
+The only weakpoints recognizable with the bare eye are the wheels and the commander's hatch. Both have a limited unarmored surface exposed to us, as they are positioned closely to Slat cages nearby.  
 
 Even less so than the first example scenario, a catastrophic kill on the first shot seems unlikely. Therefore, we must again decide what part to aim for on a basis of risk and reward:  
 
@@ -227,7 +243,7 @@ While none of these options seem truly optional, **the only section our rocket i
 
 With that, we adjust the aim of our rocket launcher for range, clear our backblast, and fire:  
 
-![An AMV-7 Marshall being engaged & critically hit at a range of 230 Meters.](/docs/assets/images/AT/5.gif)  
+![An AMV-7 Marshall being engaged & critically hit at a range of 230 Meters.](../assets/images/AT/5.gif)  
 
 *(Animated Fig. 10: AMV-7 Marshall engaged at it's rear hull at a range of 230 meters. Notice the catastrophic kill.)*  
 
