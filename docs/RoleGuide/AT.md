@@ -15,7 +15,7 @@
 
 </style>
 
-<p class="center-text">Task Force Omega Anti-Tank Training Guide</p>
+<p class="center-text">TFO Anti-Tank Training Guide</p>
 
 
 <div class="image-container-logo">
@@ -25,26 +25,22 @@
 <br>
 <br>
 
-# Introduction  
-
----------------
+## Introduction  
 
 This guide is aimed at providing theoretical training for Anti-Tank duties you may or may not need to fulfill during your time at Task Force Omega. It does not substitute an practical training - rather, this is complementary material to an in-game Basic AT Training (BATT). It is also designed to be required reading for those opting in as dedicated Anti-Tank soldiers, as opposed to those only taking basic Anti-Tank lessons.  
 
-## Structure  
+### Structure  
 
 This guide is separated into few Chapters. Each contains several sub-headings. The last sub-heading of each Chapter will be _"The Rundown"_, giving a very quick explanation of the key takeaways from each chapter in bullet points.  
 
-# Meet: The Chad Anti-Tank  
-
-
-## Your Role  
+## Meet: The Chad Anti-Tank  
+### Your Role  
 
 As an Anti-Tank Soldier, you are part of a squad, which means you will be under the command of your direct leader - this will be your Squadlead. Your dedicated role is to respond to armored threats that pose a danger to the success of the mission.  
 
 If multiple Anti-Tank Soldiers are operating within the same Squad, you may also be tasked with providing Rocket and/or Missile Ammunition to your fellow ATs.  
 
-## Your Equipment  
+### Your Equipment  
 
 Mostly, Anti-Tank duties are fulfilled trough infantry means - that is, a rocket launcher or missile launcher directly operated by you. However, stationary or motorized Anti-Tank solutions will also fall under your responsibility, if the mission calls for the use of such equipment.  
 
@@ -75,7 +71,7 @@ Besides that, you will get the same operational equipment as your Squadmates: Ra
 | Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
 
-## Idle Priority  
+### Idle Priority  
 
 Unless an armored target is within view, your priority will mostly be to survive. To elaborate: You are part of a squad and will therefore take orders of your Squadleader, like any other member of your squad - but there are certain limitations putting you in a riskier position than that of your squadmates.  
 
@@ -83,13 +79,13 @@ Your range of engagement will most likely be outmatched by the person you're try
 
 Essentially, priority is to stay in cover and use your gun as means of suppression rather than frontline combat. If there is an easy infantry target you can take out without taking a risk yourself, go for it - but mostly, you wanna stay behind.  
 
-## Tank Priority  
+### Tank Priority  
 
 Once an armored enemy vehicle is spotted, it will be your time to shine. Above all, your priority will be to remove the target as a threat to the squad and/or the operation: If you disable the tank's gun and it can no longer fire it's weapon, it's threat is erased. Similarly, you can destroy the tank tracks or the engine to get it stuck in a position where it can no longer engage your team.  
 
 Target the right spots (see section down below) to destroy the parts that the enemy vehicle crew relies on the most to tear your squad apart. If you can destroy the tank with one Rocket, go ahead - but if you are unsure, it's best to target individual parts and disable them.  
 
-## The Rundown  
+### The Rundown  
 
 *   As an Anti-Tank-Soldier, your role is to destroy enemy Armor.  
     
@@ -100,11 +96,8 @@ Target the right spots (see section down below) to destroy the parts that the en
 *   Disable whatever tank parts worry you most about in the current engagement.  
     
 
-# On Destroying Tanks  
-
-----------------------
-
-## Understanding Explosion Physics  
+## On Destroying Tanks  
+### Understanding Explosion Physics  
 
 To understand how to effectively disable tanks, we must understand how exactly a rocket deals damage to a tank. It's not just the explosion that deals damage to the tank - if that were the case, we could just use a big enough grenade, right?  
 
@@ -114,13 +107,11 @@ To understand how to effectively disable tanks, we must understand how exactly a
 
 An uncontained explosion disperses it's force in all directions. This is unfavorable - we want all the force we can possibly get to direct onto the tank. To achieve this, the explosives inside of the Rocket/Missile form a shape similar to an inverted cone. This is called the "Munroe effect".
 
-
 ![](../assets/images/AT/2.gif)  
 
 *(Animated Fig. 2: Ignited shaped TNT in an Iron Shell. Note that despite using less explosives than in Fig. 1, it pierces more armor due to a focused blast.)*
 
 To finish the equation, a final element is added to the shaped charge: A thin copper lining forming along the charge. Upon detonation of the explosive, the copper proceeds to melt due to intense heat. The force proceeds to push the molten copper into the middle of the rocket, forcing it into a metal spear. Nowhere left to go but forward, the molten metal lance pushes forward at supersonic speed, effectively piercing the armor.
-
 
 ![](../assets/images/AT/3.gif)  
 
@@ -199,7 +190,7 @@ For this chapter, we will look at a few situational examples, highlight the visi
 
 All of the examples mentioned here will use the _"MAAWS MK4 Mod 1"_ as the Anti-Tank Weapon of choice, and, unless stated otherwise, the _"MAAWS HEAT 75 Round"_ as the ammunition.  
 
-#### **Example #1**  
+#### Example #1 
 
 You have to engage an _M2A4 Slammer_, Urban Purpose Variant, at an angle of 45 Degrees at the range of 100 Meters. There is nothing obstructing your view and the tank has not discovered you yet.  
 
@@ -240,7 +231,7 @@ This strike has successfully penetrated and completely disabled the Gun of the v
 
 The next course of action would be to fire another rocket at any of the other mentioned weakpoints (or the same again), until a catastrophic kill or a crew dismount occurs.  
 
-#### **Example #2**  
+#### Example #2  
 
 .You have to engage an _AMV-7 Slammer_, at an angle of ~270 Degrees at the range of 320 Meters. The IFV has not discovered you yet, but it's entire front is obstructed by foliage. Yo do have an height advantage, as you are engaging the armored vehicle from a nearby hill.  
 
@@ -277,7 +268,7 @@ With that, we adjust the aim of our rocket launcher for range, clear our backbla
 
 The damage of the rocket, surprisingly, caused a catastrophic kill. This is because the AMV-7 Marshall design places it's fuel tank in the rear of the vehicle, sandwiching the passenger compartment between two fuel tanks placed near the sides of the vehicle. Our Rocket penetrated those fuel tanks from above, and the consequent damage to the vehicle's main health pool caused a critical kill.  
 
-### The Rundown  
+## The Rundown  
 
 *   The penetration of the rocket deals damage, not the explosion.  
     
