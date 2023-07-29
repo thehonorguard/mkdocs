@@ -300,6 +300,15 @@ Here are a few examples of different **factions** using **similar**, if not, **s
   <p class="image-caption">TA - IA - NA - ANA</p>
 </div>
 
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/mi-24-4x.jpg" width="100%" />
+
+  <div class="image-caption2" style="left: 12.5%;">TA</div>
+  <div class="image-caption2" style="left: 37.5%;">IA</div>
+  <div class="image-caption2" style="left: 60%;">NA</div>
+  <div class="image-caption2" style="left: 83%;">ANA</div>
+</div>
+
 <div class="image-row">
   <div class="image-container">
     <img src="/mkdocs/assets/images/AA/mi-24-ru.jpg" width="100%" />
