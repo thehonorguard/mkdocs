@@ -36,6 +36,9 @@ It’s very important for the AR to be safe as they are a key element of a squad
 |                     | Entrenchment tool    |                     |
 
 
+![](../assets/images/AR/AR1.png)
+
+
 | **Gear**                      | **Explanation**                                                                                                                                                                                                                                 |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 5.56 LMG                      | This is the normal weapon for an AR. It’s usually lighter than it’s 7.62 counterpart, these guns also usually allow for reloading 30rnd mags for when the AR is out of ammo. 5.56 Boxes usually have 200 rounds and weigh less than 7.62 boxes. |
@@ -56,4 +59,4 @@ In order to engage any Thread coming from the sky with a Machine Gun you'll need
 Once you have done that start leading in front of your target in the direction its heading and wait for your squadleader command to engage.
 Upon receiving said command you stop leading and just hold down the Trigger letting the Target fly into your Hail of Lead. This is one of the only options Infantry has against Air Targets and should be done in unison with the rest of the Team to maximize Damage to your intended Target.
 
-*maybe a picture to it?*
+![](../assets/images/ar.png)

@@ -1,5 +1,7 @@
 For Platoon Leader, see <a href="/mkdocs/RoleGuide/pltleader/">here</a>
 
+![](../assets/images/sql.png)
+
 ## Loadout
 
 |Category             | Contents             |                     |
