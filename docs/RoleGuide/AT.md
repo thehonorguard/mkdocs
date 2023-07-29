@@ -1,7 +1,7 @@
 Task Force Omega Anti-Tank Training Guide  
 
 
-![Logo of the Task Force Omega Anti-Tank Division.]()
+![Logo of the Task Force Omega Anti-Tank Division.](/docs/assets/images/AT/logoat.png)
 
 Introduction  
 
@@ -66,7 +66,21 @@ On Destroying Tanks
 
 To understand how to effectively disable tanks, we must understand how exactly a rocket deals damage to a tank. It's not just the explosion that deals damage to the tank - if that were the case, we could just use a big enough grenade, right?  
 
-![Physics simulation of a broad, unfocused blast impacting metal, leaving it almost unharmed.]()  
+![Physics simulation of a broad, unfocused blast impacting metal, leaving it almost unharmed.](/docs/assets/images/AT/1.gif)  
+
+(Animated Fig. 1: Ignited TNT in an Iron Shell, resembling a primitive rocket impact. Note how the force wears out the armor equally.)
+
+An uncontained explosion disperses it's force in all directions. This is unfavorable - we want all the force we can possibly get to direct onto the tank. To achieve this, the explosives inside of the Rocket/Missile form a shape similar to an inverted cone. This is called the "Munroe effect".
+
+
+![](/docs/assets/images/AT/2.gif)  
+
+(Animated Fig. 2: Ignited shaped TNT in an Iron Shell. Note that despite using less explosives than in Fig. 1, it pierces more armor due to a focused blast.)
+
+To finish the equation, a final element is added to the shaped charge: A thin copper lining forming along the charge. Upon detonation of the explosive, the copper proceeds to melt due to intense heat. The force proceeds to push the molten copper into the middle of the rocket, forcing it into a metal spear. Nowhere left to go but forward, the molten metal lance pushes forward at supersonic speed, effectively piercing the armor.
+
+
+![](/docs/assets/images/AT/3.gif)  
 
 (Animated Fig. 3: Ignited shaped TNT with added metal lining in Iron Shell. Note that the charge now manages to pierces trough both layers of armor.)  
 
@@ -170,7 +184,11 @@ Since a catastrophic kill within the first shot is highly unlikely, we now need 
 
 With the target analysis out of the way, we aim our rocket launcher, aim for the tank gun manlet, clear our backblast, and fire.  
 
-![A tank being engaged at it's gun manlet at a range of 100 meters.]()  
+![A tank being engaged at it's gun manlet at a range of 100 meters.](/docs/assets/images/AT/4.gif)
+
+(Animated Fig. 6: M2A4 Slammer engaged at it's gun manlet at a range of 100 meters.)
+
+The damage did not cause an catastrophic kill. However, that does not have to mean the blast was without damage - let's check the dashboard for the M2A4's status after the initial strike.
 
 (Fig. 7: M2A4 Slammer's Status Dashboard after Engagement.)  
 
@@ -209,7 +227,7 @@ While none of these options seem truly optional, **the only section our rocket i
 
 With that, we adjust the aim of our rocket launcher for range, clear our backblast, and fire:  
 
-![An AMV-7 Marshall being engaged & critically hit at a range of 230 Meters.]()  
+![An AMV-7 Marshall being engaged & critically hit at a range of 230 Meters.](/docs/assets/images/AT/5.gif)  
 
 (Animated Fig. 10: AMV-7 Marshall engaged at it's rear hull at a range of 230 meters. Notice the catastrophic kill.)  
 
