@@ -1,4 +1,4 @@
-## Loadout
+
 
 This Guide will show you the Basics to obtaining the Grenadier Role with Task Force Omega, this Guide can in no way replace physical Training and just reading this alone doens't grant you the Role.
 
@@ -12,7 +12,7 @@ As a Grenadier it's your responseabiltity to engage Large clusters of Enemy Comb
 -*types of ammo*
 
 
-
+## Loadout
 |Category             | Contents             |                     |
 |---------------------|----------------------|---------------------|
 | Primary weapon      | 5.56 AR w/ GL        |                     |
