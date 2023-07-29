@@ -180,6 +180,19 @@ Here are a few examples of different **factions** using **similar**, if not, **s
   </div>
 </div>  
 
+
+
+
+<div class="image-container2">
+  <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
+
+  <div class="image-caption" style="left: 12.5%;">RU</div>
+  <div class="image-caption" style="left: 37.5%;">ChDSZ</div>
+  <div class="image-caption" style="left: 62.5%;">chDKZ</div>
+  <div class="image-caption" style="left: 87.5%;">chDZZ</div>
+</div>
+
+
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
   <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
