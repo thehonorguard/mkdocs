@@ -15,7 +15,7 @@
 
 </style>
 
-<p class="center-text">TFO Anti-Tank Training Guide</p>
+<p class="center-text">TFO Anti-Tank Guide</p>
 
 
 <div class="image-container-logo">
