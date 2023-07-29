@@ -75,6 +75,17 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
     font-size: 11px;
   }
 
+    .image-caption2 {
+    position: absolute;
+    bottom: 6px;
+    left: 5px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 3px 5px;
+    font-size: 11px;
+  }
+
+
   .image-row::after {
     content: "";
     display: table;
@@ -186,10 +197,10 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
 
-  <div class="image-caption" style="left: 12.5%;">RU</div>
-  <div class="image-caption" style="left: 37.5%;">ChDSZ</div>
-  <div class="image-caption" style="left: 62.5%;">chDKZ</div>
-  <div class="image-caption" style="left: 87.5%;">chDZZ</div>
+  <div class="image-caption2" style="left: 12.5%;">RU</div>
+  <div class="image-caption2" style="left: 37.5%;">ChDSZ</div>
+  <div class="image-caption2" style="left: 62.5%;">chDKZ</div>
+  <div class="image-caption2" style="left: 87.5%;">chDZZ</div>
 </div>
 
 
