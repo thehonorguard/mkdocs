@@ -1,10 +1,18 @@
 <style>
+
     .image-container-logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
   }
+
+    .center-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+  }
+
 </style>
 
 <p class="center-text">Task Force Omega Anti-Tank Training Guide</p>
@@ -17,27 +25,26 @@
 <br>
 <br>
 
-Introduction  
+# Introduction  
 
 ---------------
 
 This guide is aimed at providing theoretical training for Anti-Tank duties you may or may not need to fulfill during your time at Task Force Omega. It does not substitute an practical training - rather, this is complementary material to an in-game Basic AT Training (BATT). It is also designed to be required reading for those opting in as dedicated Anti-Tank soldiers, as opposed to those only taking basic Anti-Tank lessons.  
 
-### Structure  
+## Structure  
 
 This guide is separated into few Chapters. Each contains several sub-headings. The last sub-heading of each Chapter will be _"The Rundown"_, giving a very quick explanation of the key takeaways from each chapter in bullet points.  
 
-Meet: The Chad Anti-Tank  
+# Meet: The Chad Anti-Tank  
 
----------------------------
 
-### Your Role  
+## Your Role  
 
 As an Anti-Tank Soldier, you are part of a squad, which means you will be under the command of your direct leader - this will be your Squadlead. Your dedicated role is to respond to armored threats that pose a danger to the success of the mission.  
 
 If multiple Anti-Tank Soldiers are operating within the same Squad, you may also be tasked with providing Rocket and/or Missile Ammunition to your fellow ATs.  
 
-### Your Equipment  
+## Your Equipment  
 
 Mostly, Anti-Tank duties are fulfilled trough infantry means - that is, a rocket launcher or missile launcher directly operated by you. However, stationary or motorized Anti-Tank solutions will also fall under your responsibility, if the mission calls for the use of such equipment.  
 
@@ -47,7 +54,28 @@ All of this is to compensate for the incredible weight that your dedicated AT eq
 
 Besides that, you will get the same operational equipment as your Squadmates: Radio, Bandages, Painkillers, Medicine, Night Vision, Smoke Grenades, so on. Your Rockets will go in a big, bulky backpack.  
 
-### Idle Priority  
+|Category             | Contents             |                     |
+|---------------------|----------------------|---------------------|
+| Primary weapon      | SMG/Carbine          |                     |
+| Primary ammo        | SMG mag x 8          |                     |
+| Optic magnification | 1x-2x                |                     |
+| Launcher            | Advanced AT Launcher |                     |
+|                     |                      |                     |
+|Throwables/explosives| **Day only**         | **Night Only**      |
+|                     | 2x Frag              | 2x Frag             |
+|                     | 3 white throwable    | 2-4x Blue Chemlight |
+|                     |                      |                     |
+| Medical             | 15x Packing          |                     |
+|                     | 4x Tourniquets       |                     |
+|                     | 1x Painkillers       |                     |
+|                     | 1x Guedel tube       |                     |
+|                     |                      |                     |
+| Radio               | AN-343               |                     |
+|                     |                      |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
+|                     | Earplugs             |                     |
+
+## Idle Priority  
 
 Unless an armored target is within view, your priority will mostly be to survive. To elaborate: You are part of a squad and will therefore take orders of your Squadleader, like any other member of your squad - but there are certain limitations putting you in a riskier position than that of your squadmates.  
 
@@ -55,13 +83,13 @@ Your range of engagement will most likely be outmatched by the person you're try
 
 Essentially, priority is to stay in cover and use your gun as means of suppression rather than frontline combat. If there is an easy infantry target you can take out without taking a risk yourself, go for it - but mostly, you wanna stay behind.  
 
-### Tank Priority  
+## Tank Priority  
 
 Once an armored enemy vehicle is spotted, it will be your time to shine. Above all, your priority will be to remove the target as a threat to the squad and/or the operation: If you disable the tank's gun and it can no longer fire it's weapon, it's threat is erased. Similarly, you can destroy the tank tracks or the engine to get it stuck in a position where it can no longer engage your team.  
 
 Target the right spots (see section down below) to destroy the parts that the enemy vehicle crew relies on the most to tear your squad apart. If you can destroy the tank with one Rocket, go ahead - but if you are unsure, it's best to target individual parts and disable them.  
 
-### The Rundown  
+## The Rundown  
 
 *   As an Anti-Tank-Soldier, your role is to destroy enemy Armor.  
     
@@ -72,11 +100,11 @@ Target the right spots (see section down below) to destroy the parts that the en
 *   Disable whatever tank parts worry you most about in the current engagement.  
     
 
-On Destroying Tanks  
+# On Destroying Tanks  
 
 ----------------------
 
-### Understanding Explosion Physics  
+## Understanding Explosion Physics  
 
 To understand how to effectively disable tanks, we must understand how exactly a rocket deals damage to a tank. It's not just the explosion that deals damage to the tank - if that were the case, we could just use a big enough grenade, right?  
 
@@ -261,25 +289,3 @@ The damage of the rocket, surprisingly, caused a catastrophic kill. This is beca
     
 *   All of these factors play a huge role in how you will engage a vehicle shall the need arrive.
 
-## Loadout
-
-|Category             | Contents             |                     |
-|---------------------|----------------------|---------------------|
-| Primary weapon      | SMG/Carbine          |                     |
-| Primary ammo        | SMG mag x 8          |                     |
-| Optic magnification | 1x-2x                |                     |
-| Launcher            | Advanced AT Launcher |                     |
-|                     |                      |                     |
-|Throwables/explosives| **Day only**         | **Night Only**      |
-|                     | 2x Frag              | 2x Frag             |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
-|                     |                      |                     |
-| Medical             | 15x Packing          |                     |
-|                     | 4x Tourniquets       |                     |
-|                     | 1x Painkillers       |                     |
-|                     | 1x Guedel tube       |                     |
-|                     |                      |                     |
-| Radio               | AN-343               |                     |
-|                     |                      |                     |
-| Misc                | 2 Cable ties         | IR strobe           |
-|                     | Earplugs             |                     |
