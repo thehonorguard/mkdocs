@@ -77,7 +77,7 @@ The human factor is a big part of aircraft confusion, it can include : lack of k
 
     .image-caption2 {
     position: absolute;
-    bottom: 6px;
+    bottom: 10px;
     left: 5px;
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
@@ -199,8 +199,8 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 
   <div class="image-caption2" style="left: 12.5%;">RU</div>
   <div class="image-caption2" style="left: 37.5%;">ChDSZ</div>
-  <div class="image-caption2" style="left: 62.5%;">chDKZ</div>
-  <div class="image-caption2" style="left: 87.5%;">chDZZ</div>
+  <div class="image-caption2" style="left: 60%;">chDKZ</div>
+  <div class="image-caption2" style="left: 83%;">chDZZ</div>
 </div>
 
 
