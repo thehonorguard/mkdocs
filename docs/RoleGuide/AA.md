@@ -462,10 +462,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
@@ -493,10 +490,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### A-29 Super Tucano
 
@@ -524,10 +518,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### A330 Airbus
 
@@ -555,10 +546,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Aero Commander 500
 
@@ -586,10 +574,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### AN-2 Antonov
 

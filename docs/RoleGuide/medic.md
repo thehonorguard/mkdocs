@@ -59,26 +59,36 @@ The first order of business is to get them out of there. Try dragging them to co
 Equipment:
 In this chapter we are going to discuss the actual medical process. First we are going to discuss all the equipment you have available and after that we are going to discuss a few scenarios.
 
-## CPR
+## CPR and AED-X-series (LifePak)
 
 Let's start with the Wikipedia description for CPR:
 
 “Cardiopulmonary resuscitation (CPR) is an emergency procedure that combines chest compressions often with artificial ventilation in an effort to manually preserve intact brain function until further measures are taken to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest.”
 
-CPR creates an Artificial circulation in the patient in case there is a cardiac arrest.  So basically CPR is creating blood flow when the Patient's heart is unable to. It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.
+CPR creates an Artificial circulation in the patient in case there is a cardiac arrest. So basically CPR is creating blood flow when the Patient's heart is unable to. It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.
 
 CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
 
+Due to our server settings, the best way to do CPR is to push epinephrine (adrenaline), then do CPR 3 times, then check again for pulse.
+Epinephrine is administrable by CLS or medics only, and you shouldn't more than 3 consecutively.
+
+Also, CPR is used when the AED LifePak is not recommended (asystole). 
+In case of Polymorphous ventricular tachycardia (PVT) or Ventricular Fibrillation (VF or Vfib), the use of the AED in mandatory
+
+
+How to determine *Cardiac Arrest*
+Start monitoring vitals using **AED X-series** and use “*check rhythm*” feature (available both in AED and AED X-series), or attach a **Pulse Oximeter** to a limb <u>**WITHOUT**</u> a tourniquet:
+
+- “Shock advised” (**VFib/PVT**) - administer shock. Using epinephrine/amiodarone/lidocaine (always followed by a shock) in the order mentioned is advised after the first shock fails. Repeat starting from epinephrine if lidocaine fails.
+
+- “No shock advised” (**Asystole**) - do not administer shock. Use epinephrine and 3 intervals of CPR instead. Timer till death slows down by 50% during CPR. Repeat the sequence until HR is restored.
+
+<u>**Check rhythm between steps**</u>. If you cannot determine the cardiac arrest type, treat it as **asystole**.
+
+
 ![](../assets/images/1_1.png)
 
-### Tourniquets:
-Wound treatments should usually be executed in this order:  head > torso > limbs.
-In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. 
-A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying  tourniquets to the limbs and bandages to the head or torso and IV with saline can be applied.  
-Although the pressure provided  by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any saline from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. While these magic blood-stoppers are great, they also are considered painful after 2 minutes.
-
-Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquets or you might find yourself empty handed!
 
 ## Bandages
 
@@ -126,7 +136,7 @@ For two of them, an IV of Lorazepam (if the patient is conscious), and then Etom
     - Open reduction (uses 1 bone plate)
 
 
-- Comminuted  fracture:
+- Comminuted fracture:
     - Inspect fracture
     - Incision (uses 1 scalpel)
     - Expose (with the retractor)
@@ -136,8 +146,9 @@ For two of them, an IV of Lorazepam (if the patient is conscious), and then Etom
 
 - Simple fracture:
     - Inspect fracture
-    - Push Morphine
-    - Perform closed reduction
+    - Push Lidocaine/ Morphine (pain suppression)
+    - Perform Closed Reduction
+
 
 When treatment is finished, a Flumazenil IV is required to remove the sedation. (Except for the simple fracture)
 You can then reorient the patient to wake him up.
@@ -146,6 +157,43 @@ Keep in mind that compound and comminuted fractures are treatable by the medic o
 
 Splints: An instant fix to fractures. (Used in case of emergency by the SQL. Not recommended, unless there is no medic on the team)
 
+## Tourniquets:
+Wound treatments should usually be executed in this order:  head > torso > limbs.
+In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. 
+A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying tourniquets to the limbs, bandages to the head and/or torso, an IV with saline/plasma can be applied.  
+
+Although the pressure provided by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any IV from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. While these magic blood-stoppers are great, they also are considered painful after 2 minutes.
+
+*Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquets or you might find yourself empty handed!*
+
+## Chemical Warfare
+An array of chemical warfare measures has been added to the mod. For contaminated area detection, chemical detector can be used (Contact DLC item). The device will play a sound upon entering the danger zone even if not actively used. The sound can be muted in the ACE menu. In order to use the device, you must have it equipped in the “watch” slot in your inventory. You can view the threat level by pressing “O” (double “O” allows the device to stay/ disappear from the screen). Threat level is measured in the scale of 0.0 - 1.0, 1.0 meaning the highest danger zone.
+
+Protection against chemical threats is provided by gas masks. Time spent without a mask until negative effects is a matter of settings. Gas masks need gas mask filters to work properly. You can check filter durability via ACE menu action. The gas mask filter can be changed through the same menu if you have the item in your inventory. Please note that the durability is measured in green stripes, each representing 10% of durability left (the more green, the better). Gas masks will lose durability while used in a contaminated area. Gas masks durability can be adjusted in addon settings.
+
+Gas mask can be put on an unconscious person’s head by ACE action performed on the head. If any facewear is present, it will be stored in patient’s/ your inventory or dropped on the ground if there is no space in the inventory.
+
+### Intoxication
+
+| Intoxication symptoms                                                                                  | Treatment |
+| ------------------------------------------------------------------------------------------------------ | --------- |
+| Intoxication is visible in the medical menu (intoxicated lung image + information on the injury list). | Atropine  |
+| The symptoms are:                                                                                      |
+|                                                                                                        |
+| Blurry, shaking screen                                                                                 |
+| Coughing sound                                                                                         |
+| Sp02 drop with rapidity increasing over time                                                           |
+|                                                                                                        |
+
+### Items 
+
+| Item name                       | Description                                                                                                                                                   |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| M7A3 Riot CS gas grenade        | Upon explosion, it causes strong pain and temporary blindness to victims without gas masks. If enabled, it will cause AI skill drop.                          |
+| 82 mm Mustard gas mortar shell  | Upon explosion, mustard gas is deployed within the radius of 10-15 meters.                                                                                    |
+| Tripwire Gas (mustard gas mine) | Equivalent to APERS Tripwire mine that deploys gas instead of exploding.                                                                                      |
+| Hydra GAS 19x                   | Equivalent to Hydra rockets that deploys mustard gas instead of exploding.                                                                                    |
+| M43 BZ LGB Cluster bomb         | Equivalent to GBU-12 bomb, a laser guided bomb that deploys mustard gas instead of exploding. The bomb is compatible with all vanilla and most RHS aircrafts. |
 
 ## Auto injectors
 
