@@ -4,12 +4,14 @@ This Guide will show you the Basics to obtaining the Grenadier Role with Task Fo
 
 
 ## Task
-As a Grenadier it's your responseabiltity to engage Large clusters of Enemy Combatatans, Soldiers behind coverand unarmoured to lightly armoured vehicles at short to medium distances to the request of your Squadleader or in case off imminent Danger to your life or the lifes of your fellow Soldiers playing along you.
-...
+Usually armed with a standard Rifle with a Underbarrel Grenade Launcher he is one of the many Fire Support Roles available in TFO. He is used for Indirect Fire for Combatants in Cover, larger Groups of People and Unarmoured as well as lightly armoured Vehicles at short to medium Ranges utilizing his Underbarrel Launcher.
+A good Grenadier is effective up to 400 meters, a Teammate or Squadleader with a Laser Rangefinder can increase the effectiveness even more.
 
 -*explaining the ladder sight*
 
--*types of ammo*
+## Ammo types
+As a Grenadier you usually have access to three different Types of Grenades
+...
 
 
 ## Loadout
