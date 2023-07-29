@@ -7,7 +7,7 @@ An AR must set up in a location where they can deploy their bipod so they can fi
 An AR is meant for suppressing a large quantity of enemies at the same time. This means that an AR isn’t supposed to pick off enemies one-by-one.
 
 ## Positioning as an autorifleman
-An AR should be positioned near their squad or in an Overwatch position so he can provide covering fire and suppressive fire. The AR also needs a place with cover that they can use for mounting their gun. They should also use higher ground to their advantage when providing support to their squad. 
+An AR! should be positioned near their squad or in an Overwatch position so he can provide covering fire and suppressive fire. The AR also needs a place with cover that they can use for mounting their gun. They should also use higher ground to their advantage when providing support to their squad. 
 The AR needs vision of enemies, buildings with enemies or they have to know where shots are coming from so they can suppress those enemies. The AR can be left behind so they can support their squad from mid-range.
 It’s very important for the AR to be safe as they are a key element of a squad. This means that an AR shouldn’t be out in the open too often and shouldn’t be clearing buildings. 
 
