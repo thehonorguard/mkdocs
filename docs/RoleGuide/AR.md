@@ -56,4 +56,4 @@ In order to engage any Thread coming from the sky with a Machine Gun you'll need
 Once you have done that start leading in front of your target in the direction its heading and wait for your squadleader command to engage.
 Upon receiving said command you stop leading and just hold down the Trigger letting the Target fly into your Hail of Lead. This is one of the only options Infantry has against Air Targets and should be done in unison with the rest of the Team to maximize Damage to your intended Target.
 
-*maybe a picture to it?*
+![](../assets/images/ar.png)

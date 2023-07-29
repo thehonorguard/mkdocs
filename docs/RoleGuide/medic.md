@@ -87,7 +87,7 @@ Start monitoring vitals using **AED X-series** and use “*check rhythm*” feat
 <u>**Check rhythm between steps**</u>. If you cannot determine the cardiac arrest type, treat it as **asystole**.
 
 
-![](../assets/images/1_1.png)
+![](../assets/images/cls.png)
 
 
 ## Bandages
