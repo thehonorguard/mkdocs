@@ -191,9 +191,6 @@ Here are a few examples of different **factions** using **similar**, if not, **s
   </div>
 </div>  
 
-
-
-
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
 
@@ -203,11 +200,6 @@ Here are a few examples of different **factions** using **similar**, if not, **s
   <div class="image-caption2" style="left: 83%;">chDZZ</div>
 </div>
 
-
-<div class="image-container2">
-  <img src="/mkdocs/assets/images/AA/su-25-4x.jpg" width="100%" />
-  <p class="image-caption">RU - ChDSZ - chDKZ - chDZZ</p>
-</div>
 
 <div class="image-row">
   <div class="image-container">
@@ -238,7 +230,11 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/mi-8-4x.jpg" width="100%" />
-  <p class="image-caption">GAF - ChDSZ - chDKZ - chDZZ</p>
+
+  <div class="image-caption2" style="left: 12.5%;">GAF</div>
+  <div class="image-caption2" style="left: 37.5%;">ChDSZ</div>
+  <div class="image-caption2" style="left: 60%;">chDKZ</div>
+  <div class="image-caption2" style="left: 83%;">chDZZ</div>
 </div>
 
 <div class="image-row">
@@ -255,7 +251,11 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/mi-8-4x-2.jpg" width="100%" />
-  <p class="image-caption">TNA - ANA - NA - IA</p>
+
+  <div class="image-caption2" style="left: 12.5%;">TNA</div>
+  <div class="image-caption2" style="left: 37.5%;">ANA</div>
+  <div class="image-caption2" style="left: 60%;">NA</div>
+  <div class="image-caption2" style="left: 83%;">IA</div>
 </div>
 
 <div class="image-row">
@@ -272,8 +272,14 @@ Here are a few examples of different **factions** using **similar**, if not, **s
 
 <div class="image-container2">
   <img src="/mkdocs/assets/images/AA/mi-8-4x-3.jpg" width="100%" />
-  <p class="image-caption">USSR - KDF - SLA - SAF</p>
+
+  <div class="image-caption2" style="left: 12.5%;">USSR</div>
+  <div class="image-caption2" style="left: 37.5%;">KDF</div>
+  <div class="image-caption2" style="left: 60%;">SLA</div>
+  <div class="image-caption2" style="left: 83%;">SAF</div>
 </div>
+
+
 
 #### Mi-24
 
