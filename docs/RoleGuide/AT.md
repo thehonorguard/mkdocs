@@ -1,13 +1,21 @@
 <style>
+
     .image-container-logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
   }
+
+    .center-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+  }
+
 </style>
 
-<p class="center-text">Task Force Omega Anti-Tank Training Guide</p>
+<p class="center-text">TFO Anti-Tank Training Guide</p>
 
 
 <div class="image-container-logo">
@@ -17,9 +25,7 @@
 <br>
 <br>
 
-Introduction  
-
----------------
+## Introduction  
 
 This guide is aimed at providing theoretical training for Anti-Tank duties you may or may not need to fulfill during your time at Task Force Omega. It does not substitute an practical training - rather, this is complementary material to an in-game Basic AT Training (BATT). It is also designed to be required reading for those opting in as dedicated Anti-Tank soldiers, as opposed to those only taking basic Anti-Tank lessons.  
 
@@ -27,10 +33,7 @@ This guide is aimed at providing theoretical training for Anti-Tank duties you m
 
 This guide is separated into few Chapters. Each contains several sub-headings. The last sub-heading of each Chapter will be _"The Rundown"_, giving a very quick explanation of the key takeaways from each chapter in bullet points.  
 
-Meet: The Chad Anti-Tank  
-
----------------------------
-
+## Meet: The Chad Anti-Tank  
 ### Your Role  
 
 As an Anti-Tank Soldier, you are part of a squad, which means you will be under the command of your direct leader - this will be your Squadlead. Your dedicated role is to respond to armored threats that pose a danger to the success of the mission.  
@@ -46,6 +49,27 @@ Rocket Launchers as well as Missiles are heavy and space-consuming. This is refl
 All of this is to compensate for the incredible weight that your dedicated AT equipment takes up. Lightweight guns, smaller magazines and lighter Armor will allow you to still fit in all equipment while being able to run at the same pace and stamina as your lighter teammates.  
 
 Besides that, you will get the same operational equipment as your Squadmates: Radio, Bandages, Painkillers, Medicine, Night Vision, Smoke Grenades, so on. Your Rockets will go in a big, bulky backpack.  
+
+|Category             | Contents             |                     |
+|---------------------|----------------------|---------------------|
+| Primary weapon      | SMG/Carbine          |                     |
+| Primary ammo        | SMG mag x 8          |                     |
+| Optic magnification | 1x-2x                |                     |
+| Launcher            | Advanced AT Launcher |                     |
+|                     |                      |                     |
+|Throwables/explosives| **Day only**         | **Night Only**      |
+|                     | 2x Frag              | 2x Frag             |
+|                     | 3 white throwable    | 2-4x Blue Chemlight |
+|                     |                      |                     |
+| Medical             | 15x Packing          |                     |
+|                     | 4x Tourniquets       |                     |
+|                     | 1x Painkillers       |                     |
+|                     | 1x Guedel tube       |                     |
+|                     |                      |                     |
+| Radio               | AN-343               |                     |
+|                     |                      |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
+|                     | Earplugs             |                     |
 
 ### Idle Priority  
 
@@ -72,10 +96,7 @@ Target the right spots (see section down below) to destroy the parts that the en
 *   Disable whatever tank parts worry you most about in the current engagement.  
     
 
-On Destroying Tanks  
-
-----------------------
-
+## On Destroying Tanks  
 ### Understanding Explosion Physics  
 
 To understand how to effectively disable tanks, we must understand how exactly a rocket deals damage to a tank. It's not just the explosion that deals damage to the tank - if that were the case, we could just use a big enough grenade, right?  
@@ -86,13 +107,11 @@ To understand how to effectively disable tanks, we must understand how exactly a
 
 An uncontained explosion disperses it's force in all directions. This is unfavorable - we want all the force we can possibly get to direct onto the tank. To achieve this, the explosives inside of the Rocket/Missile form a shape similar to an inverted cone. This is called the "Munroe effect".
 
-
 ![](../assets/images/AT/2.gif)  
 
 *(Animated Fig. 2: Ignited shaped TNT in an Iron Shell. Note that despite using less explosives than in Fig. 1, it pierces more armor due to a focused blast.)*
 
 To finish the equation, a final element is added to the shaped charge: A thin copper lining forming along the charge. Upon detonation of the explosive, the copper proceeds to melt due to intense heat. The force proceeds to push the molten copper into the middle of the rocket, forcing it into a metal spear. Nowhere left to go but forward, the molten metal lance pushes forward at supersonic speed, effectively piercing the armor.
-
 
 ![](../assets/images/AT/3.gif)  
 
@@ -171,7 +190,7 @@ For this chapter, we will look at a few situational examples, highlight the visi
 
 All of the examples mentioned here will use the _"MAAWS MK4 Mod 1"_ as the Anti-Tank Weapon of choice, and, unless stated otherwise, the _"MAAWS HEAT 75 Round"_ as the ammunition.  
 
-#### **Example #1**  
+#### Example #1 
 
 You have to engage an _M2A4 Slammer_, Urban Purpose Variant, at an angle of 45 Degrees at the range of 100 Meters. There is nothing obstructing your view and the tank has not discovered you yet.  
 
@@ -212,7 +231,7 @@ This strike has successfully penetrated and completely disabled the Gun of the v
 
 The next course of action would be to fire another rocket at any of the other mentioned weakpoints (or the same again), until a catastrophic kill or a crew dismount occurs.  
 
-#### **Example #2**  
+#### Example #2  
 
 .You have to engage an _AMV-7 Slammer_, at an angle of ~270 Degrees at the range of 320 Meters. The IFV has not discovered you yet, but it's entire front is obstructed by foliage. Yo do have an height advantage, as you are engaging the armored vehicle from a nearby hill.  
 
@@ -249,7 +268,7 @@ With that, we adjust the aim of our rocket launcher for range, clear our backbla
 
 The damage of the rocket, surprisingly, caused a catastrophic kill. This is because the AMV-7 Marshall design places it's fuel tank in the rear of the vehicle, sandwiching the passenger compartment between two fuel tanks placed near the sides of the vehicle. Our Rocket penetrated those fuel tanks from above, and the consequent damage to the vehicle's main health pool caused a critical kill.  
 
-### The Rundown  
+## The Rundown  
 
 *   The penetration of the rocket deals damage, not the explosion.  
     
@@ -261,25 +280,3 @@ The damage of the rocket, surprisingly, caused a catastrophic kill. This is beca
     
 *   All of these factors play a huge role in how you will engage a vehicle shall the need arrive.
 
-## Loadout
-
-|Category             | Contents             |                     |
-|---------------------|----------------------|---------------------|
-| Primary weapon      | SMG/Carbine          |                     |
-| Primary ammo        | SMG mag x 8          |                     |
-| Optic magnification | 1x-2x                |                     |
-| Launcher            | Advanced AT Launcher |                     |
-|                     |                      |                     |
-|Throwables/explosives| **Day only**         | **Night Only**      |
-|                     | 2x Frag              | 2x Frag             |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
-|                     |                      |                     |
-| Medical             | 15x Packing          |                     |
-|                     | 4x Tourniquets       |                     |
-|                     | 1x Painkillers       |                     |
-|                     | 1x Guedel tube       |                     |
-|                     |                      |                     |
-| Radio               | AN-343               |                     |
-|                     |                      |                     |
-| Misc                | 2 Cable ties         | IR strobe           |
-|                     | Earplugs             |                     |
