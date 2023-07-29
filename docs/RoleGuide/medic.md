@@ -12,7 +12,7 @@ You cannot help anyone if you're shot yourself; this means that you might also n
 Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. if there is no hard cover available  nearby you can also use  currency for smoke grenades & bushes. If all above is not possible, contact your squad leader/team leader.
 In order to remain in a safe position you are also going to need covering fire.  I've seen countless scenarios where someone is shot and everyone rushes over to become a medic. Your job as a medic is to send them away as fast as possible and let them cover your position.
 
-![](../assets/images/2_1.png)
+![](../assets/images/medsafety.png)
 
 ## Medics within TFO
 
