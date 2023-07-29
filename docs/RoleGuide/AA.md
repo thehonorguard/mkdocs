@@ -232,7 +232,7 @@ Here are a few examples of different **factions** using **similar**, if not, **s
   <img src="/mkdocs/assets/images/AA/mi-8-4x.jpg" width="100%" />
 
   <div class="image-caption2" style="left: 12.5%;">GAF</div>
-  <div class="image-caption2" style="left: 37%;">ChDSZ</div>
+  <div class="image-caption2" style="left: 34%;">ChDSZ</div>
   <div class="image-caption2" style="left: 57%;">chDKZ</div>
   <div class="image-caption2" style="left: 83%;">chDZZ</div>
 </div>
