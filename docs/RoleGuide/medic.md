@@ -175,25 +175,25 @@ Gas mask can be put on an unconscious person’s head by ACE action performed on
 
 ### Intoxication
 
-| Intoxication symptoms                                                                                  | Treatment |
-| ------------------------------------------------------------------------------------------------------ | --------- |
-| Intoxication is visible in the medical menu (intoxicated lung image + information on the injury list). | Atropine  |
-| The symptoms are:                                                                                      |
-|                                                                                                        |
-| Blurry, shaking screen                                                                                 |
-| Coughing sound                                                                                         |
-| Sp02 drop with rapidity increasing over time                                                           |
-|                                                                                                        |
+Intoxication is visible in the medical menu (intoxicated lung image + information on the injury list). 
 
+The symptoms are:                                                                                                        
+- Blurry, shaking screen                                                                                 
+- Coughing sound                                                                                         
+- Sp02 drop with rapidity increasing over time                                                           
+
+The treatment in case of a chemical intoxication is **atropine** only (administered by the medics)
 ### Items 
 
 | Item name                       | Description                                                                                                                                                   |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| M7A3 Riot CS gas grenade        | Upon explosion, it causes strong pain and temporary blindness to victims without gas masks. If enabled, it will cause AI skill drop.                          |
+| M7A3 Riot CS gas grenade        | Upon explosion, it causes strong pain and temporary blindness to victims without gas masks. 
+If enabled, it will cause AI skill drop.                          |
 | 82 mm Mustard gas mortar shell  | Upon explosion, mustard gas is deployed within the radius of 10-15 meters.                                                                                    |
 | Tripwire Gas (mustard gas mine) | Equivalent to APERS Tripwire mine that deploys gas instead of exploding.                                                                                      |
 | Hydra GAS 19x                   | Equivalent to Hydra rockets that deploys mustard gas instead of exploding.                                                                                    |
-| M43 BZ LGB Cluster bomb         | Equivalent to GBU-12 bomb, a laser guided bomb that deploys mustard gas instead of exploding. The bomb is compatible with all vanilla and most RHS aircrafts. |
+| M43 BZ LGB Cluster bomb         | Equivalent to GBU-12 bomb, a laser guided bomb that deploys mustard gas instead of exploding. 
+The bomb is compatible with all vanilla and most RHS aircrafts. |
 
 ## Auto injectors
 
