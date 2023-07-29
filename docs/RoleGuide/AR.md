@@ -45,4 +45,15 @@ It’s very important for the AR to be safe as they are a key element of a squad
 
 
 *Image explaing how efectivley supress an enemy*
+
 In Order to Supress any Enemy Combatants you could encounter instead of just shooting the cover they are hiding behind, traverse from left to right or right to left slighty above the Cover in short Bursts.
+
+
+
+## Engaging Air Targets
+This should only be done on your Squadleaders permission because in can consume a lot of ammo very fast.
+In order to engage any Thread coming from the sky with a Machine Gun you'll need to roughly estimate the targets Airspeed in order to lead properly.
+Once you have done that start leading in front of your target in the direction its heading and wait for your squadleader command to engage.
+Upon receiving said command you stop leading and just hold down the Trigger letting the Target fly into your Hail of Lead. This is one of the only options Infantry has against Air Targets and should be done in unison with the rest of the Team to maximize Damage to your intended Target.
+
+*maybe a picture to it?*
