@@ -4,7 +4,7 @@ This Guide will show you the Basics to obtaining the Grenadier Role with Task Fo
 
 
 ## Task
-As a Grenadier it's your responseabiltity to engage Large clusters of Enemy Combatatans, Soldiers behind coverand unarmoured to lightly armoured vehicles at the request of your Squadleader or in case off imminent Danger to your life or the lifes of your fellow Soldiers playing along you.
+As a Grenadier it's your responseabiltity to engage Large clusters of Enemy Combatatans, Soldiers behind coverand unarmoured to lightly armoured vehicles at short to medium distances to the request of your Squadleader or in case off imminent Danger to your life or the lifes of your fellow Soldiers playing along you.
 ...
 
 -*explaining the ladder sight*
