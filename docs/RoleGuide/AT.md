@@ -1,7 +1,7 @@
 Task Force Omega Anti-Tank Training Guide  
 
 
-![Logo of the Task Force Omega Anti-Tank Division.](/docs/assets/images/AT/logoat.png)
+![Logo of the Task Force Omega Anti-Tank Division.](../assets/images/AT/logoat.png)
 
 Introduction  
 
@@ -37,13 +37,13 @@ Besides that, you will get the same operational equipment as your Squadmates: Ra
 
 Unless an armored target is within view, your priority will mostly be to survive. To elaborate: You are part of a squad and will therefore take orders of your Squadleader, like any other member of your squad - but there are certain limitations putting you in a riskier position than that of your squadmates.  
 
-Your range of engagement will most likely be outmatched by the person you're trying to shoot. Your Armor will be lighter and your stamina will be depleted faster than you can scream "get to cover". To make matters even worse, enemies will see you as a priority target and most likely target you foremost, similar to Medics and Autorfilemen. And once you're out, your team will be all open for an all-you-can-eat-120mm-buffet.  
+Your range of engagement will most likely be outmatched by the person you're trying to shoot. Your Armor will be lighter and your stamina will be depleted faster than you can scream "get to cover". To make matters even worse, enemies will see you as a priority target and most likely target you foremost, similar to Medics and Autoriflemen. And once you're out, your team will be all open for an all-you-can-eat-120mm-buffet.  
 
-Essentially, priority is to stay in cover and use your gun as means of supression rather than frontline combat. If there is an easy infantry target you can take out without taking a risk yourself, go for it - but mostly, you wanna stay behind.  
+Essentially, priority is to stay in cover and use your gun as means of suppression rather than frontline combat. If there is an easy infantry target you can take out without taking a risk yourself, go for it - but mostly, you wanna stay behind.  
 
 ### Tank Priority  
 
-Once an armored enemy vehicle is spotted, it will be your time to shine. Above all, your priority will be to remove the target as a threat to the squad and/or the operation: If you disable the tank's gun and it can no longer fire it's weapon, it's threat is erased. Similarily, you can destroy the tank tracks or the engine to get it stuck in a position where it can no longer engage your team.  
+Once an armored enemy vehicle is spotted, it will be your time to shine. Above all, your priority will be to remove the target as a threat to the squad and/or the operation: If you disable the tank's gun and it can no longer fire it's weapon, it's threat is erased. Similarly, you can destroy the tank tracks or the engine to get it stuck in a position where it can no longer engage your team.  
 
 Target the right spots (see section down below) to destroy the parts that the enemy vehicle crew relies on the most to tear your squad apart. If you can destroy the tank with one Rocket, go ahead - but if you are unsure, it's best to target individual parts and disable them.  
 
@@ -66,23 +66,23 @@ On Destroying Tanks
 
 To understand how to effectively disable tanks, we must understand how exactly a rocket deals damage to a tank. It's not just the explosion that deals damage to the tank - if that were the case, we could just use a big enough grenade, right?  
 
-![Physics simulation of a broad, unfocused blast impacting metal, leaving it almost unharmed.](/docs/assets/images/AT/1.gif)  
+![Physics simulation of a broad, unfocused blast impacting metal, leaving it almost unharmed.](../assets/images/AT/1.gif)  
 
-(Animated Fig. 1: Ignited TNT in an Iron Shell, resembling a primitive rocket impact. Note how the force wears out the armor equally.)
+*(Animated Fig. 1: Ignited TNT in an Iron Shell, resembling a primitive rocket impact. Note how the force wears out the armor equally.)*
 
 An uncontained explosion disperses it's force in all directions. This is unfavorable - we want all the force we can possibly get to direct onto the tank. To achieve this, the explosives inside of the Rocket/Missile form a shape similar to an inverted cone. This is called the "Munroe effect".
 
 
-![](/docs/assets/images/AT/2.gif)  
+![](../assets/images/AT/2.gif)  
 
-(Animated Fig. 2: Ignited shaped TNT in an Iron Shell. Note that despite using less explosives than in Fig. 1, it pierces more armor due to a focused blast.)
+*(Animated Fig. 2: Ignited shaped TNT in an Iron Shell. Note that despite using less explosives than in Fig. 1, it pierces more armor due to a focused blast.)*
 
 To finish the equation, a final element is added to the shaped charge: A thin copper lining forming along the charge. Upon detonation of the explosive, the copper proceeds to melt due to intense heat. The force proceeds to push the molten copper into the middle of the rocket, forcing it into a metal spear. Nowhere left to go but forward, the molten metal lance pushes forward at supersonic speed, effectively piercing the armor.
 
 
-![](/docs/assets/images/AT/3.gif)  
+![](../assets/images/AT/3.gif)  
 
-(Animated Fig. 3: Ignited shaped TNT with added metal lining in Iron Shell. Note that the charge now manages to pierces trough both layers of armor.)  
+*(Animated Fig. 3: Ignited shaped TNT with added metal lining in Iron Shell. Note that the charge now manages to pierces trough both layers of armor.)*
 
 The copper punches trough the armor and attacks whatever lies beneath the surface. With the armor out of the way, the remaining force of the explosion makes it way into the armored vehicle as well.  
 
@@ -144,7 +144,7 @@ Tanks, in real life as well as in ArmA, utilize various armor technologies to pr
     
 *   **Smokescreens** are manually deployed by the vehicle commander by engaging a system that launches multiple smoke grenades either in front or around the armored vehicle. While they provide no ballistic protection, in ArmA 3, they disable the lock-on capabilities for fire-and-forget systems (even infrared ones), which requires direct line of sight. Smokescreens are temporary and disappear shortly after initial deployment.  
     
-*   **Camo Nets** are nets covered with leaves in the color of the surrounding area, used to hide the vehicle by blending in. They do not provide any ballistic protection whatsoever, but can provide visual cover for Reactive Armor, mitigating a fatal first strike due to missjudgement.  
+*   **Camo Nets** are nets covered with leaves in the color of the surrounding area, used to hide the vehicle by blending in. They do not provide any ballistic protection whatsoever, but can provide visual cover for Reactive Armor, mitigating a fatal first strike due to misjudgement.  
     
 
 These armor types can be used in parallel to offer a higher grade of defense to the vehicle & crew. Identifying, avoiding and/or destroying these armor parts is crucial to effectively attack armored vehicles.  
@@ -163,15 +163,15 @@ You have to engage an _M2A4 Slammer_, Urban Purpose Variant, at an angle of 45 D
 
 ![ M2A1 Slammer (Urban Purpose Variant) facing 45°.]()  
 
-(Fig. 4: M2A4 Slammer (Urban Purpose) facing 45 Degrees left from camera.)  
+*(Fig. 4: M2A4 Slammer (Urban Purpose) facing 45 Degrees left from camera.)*
 
 Let's analyze the weakpoints we will be able to hit & penetrate from this perspective, as well as the armor that we should avoid.  
 
 ![ M2A1 Slammer (Urban Purpose Variant) facing 45°, reactive armor and weakpoints marked.]()  
 
-(Fig. 5: M2A4 Slammer. Reactive Armor is marked in orange, the turret in green, the Commander's Remote-Operated Machinegun in Blue and the Threads in Cyan.)  
+*(Fig. 5: M2A4 Slammer. Reactive Armor is marked in orange, the turret in green, the Commander's Remote-Operated Machinegun in Blue and the Threads in Cyan.)*  
 
-As for armor, the tank is encased entirely in composite armor. Additionally, the tank has a portion of it's front, side and threads covered up with reactive armor. Weakpoints recognizeable with the bare eye from this angle are the gun, turret, HMG and threads.  
+As for armor, the tank is encased entirely in composite armor. Additionally, the tank has a portion of it's front, side and threads covered up with reactive armor. Weakpoints recognizable with the bare eye from this angle are the gun, turret, HMG and threads.  
 
 Since a catastrophic kill within the first shot is highly unlikely, we now need to balance risk and potential damage to decide what weakpoint to aim for:  
 
@@ -184,13 +184,13 @@ Since a catastrophic kill within the first shot is highly unlikely, we now need 
 
 With the target analysis out of the way, we aim our rocket launcher, aim for the tank gun manlet, clear our backblast, and fire.  
 
-![A tank being engaged at it's gun manlet at a range of 100 meters.](/docs/assets/images/AT/4.gif)
+![A tank being engaged at it's gun manlet at a range of 100 meters.](../assets/images/AT/4.gif)
 
-(Animated Fig. 6: M2A4 Slammer engaged at it's gun manlet at a range of 100 meters.)
+*(Animated Fig. 6: M2A4 Slammer engaged at it's gun manlet at a range of 100 meters.)*
 
 The damage did not cause an catastrophic kill. However, that does not have to mean the blast was without damage - let's check the dashboard for the M2A4's status after the initial strike.
 
-(Fig. 7: M2A4 Slammer's Status Dashboard after Engagement.)  
+*(Fig. 7: M2A4 Slammer's Status Dashboard after Engagement.)*  
 
 This strike has successfully penetrated and completely disabled the Gun of the vehicle as well as it's turret, making it unable to fire or turn it's main turret. In a combat situation, only the vehicle's HMG would now be a threat, whose commander is most likely still overwhelmed by the attack.  
 
@@ -202,13 +202,13 @@ The next course of action would be to fire another rocket at any of the other me
 
 ![An Anti-Tank soldier facing an AMV-7 Marshall hiding in a bush 230 Meters away from him.]()  
 
-(Fig. 8: An AMV-7 at a range of 320 meters, hiding between bushes.)  
+*(Fig. 8: An AMV-7 at a range of 320 meters, hiding between bushes.)*  
 
 Let's, again, analyze the weakpoints we will be able to hit & penetrate from this perspective, as well as the armor that we should avoid.  
 
 ![An AMV-7 Marshall. Slat Cages are marked in orange, the commander viewport and camera in blue and the exposed wheels in violet.]()  
 
-(Fig. 9: An AMV-7 Marshall. Slat Cages are marked in orange, the commander's hatch and camera in blue and the exposed wheels in violet.)  
+*(Fig. 9: An AMV-7 Marshall. Slat Cages are marked in orange, the commander's hatch and camera in blue and the exposed wheels in violet.)*  
 
 This AMV-7  has decided to hide behind a bush, making it unable for us to analyze any weakpoints at the front of the vehicle from this angle. The back of the vehicle is heavily armored with slat cages, which need to be penetrated with a single rocket first before exposing the composite armor below. The same goes for the turret, which as it's sides and back covered by slat armor. The vehicle is fitted with composite armor, however, it is probably much weaker than that of a main battle tank.  
 
@@ -229,7 +229,7 @@ With that, we adjust the aim of our rocket launcher for range, clear our backbla
 
 ![An AMV-7 Marshall being engaged & critically hit at a range of 230 Meters.](/docs/assets/images/AT/5.gif)  
 
-(Animated Fig. 10: AMV-7 Marshall engaged at it's rear hull at a range of 230 meters. Notice the catastrophic kill.)  
+*(Animated Fig. 10: AMV-7 Marshall engaged at it's rear hull at a range of 230 meters. Notice the catastrophic kill.)*  
 
 The damage of the rocket, surprisingly, caused a catastrophic kill. This is because the AMV-7 Marshall design places it's fuel tank in the rear of the vehicle, sandwiching the passenger compartment between two fuel tanks placed near the sides of the vehicle. Our Rocket penetrated those fuel tanks from above, and the consequent damage to the vehicle's main health pool caused a critical kill.  
 
