@@ -94,34 +94,39 @@ Start monitoring vitals using **AED X-series** and use “*check rhythm*” feat
 
 | Wounds | Details                                                                                                         | Causes                                                                              | Effects                                                                                            |
 | ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain. - Extremely slow bleeding.                                                |
-| Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain. - Extremely fast bleeding.\*                                               |
-| Contusions       | AKA bruises. Result of trauma that injures an internal structure without breaking the skin.                     | Bullets, backblast, punches, vehicle crashes, falling.                              | \- Light pain. - No bleeding.                                                                      |
-| Crush Wounds     | Occur when a heavy object falls onto a person, splitting the skin and shattering/tearing underlying structures. | Falling, vehicle crashes, punches.                                                  | \- Light pain.\*\*<br>\- Extremely slow bleeding.\*                                                |
-| Cut Wounds       | Slicing wounds made with a sharp instrument, leaving even edges.                                                | Vehicle crashes, grenades, explosions, artillery shells, backblast, stabs.          | \- Light pain.\*\*<br>\- Bleeding.\*                                                               |
-| Lacerations      | Wounds with ragged edges, produced by a large force against the body by an internal or external source.         | Vehicle crashes, punches.                                                           | \- Light pain.\*\* - Slow to medium bleeding.\*                                                    |
-| Velocity Wounds  | Caused by an object entering the body at a high speed.                                                          | Bullets, shrapnel, grenades, explosions, artillery shells.                          | \- Extremely high pain.- Medium bleeding.\*                                                        |
-| Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.\*\*- Slow bleeding.\*                                                               |
-| Fractures        | Fracture of fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \-increased weapon sway (when arms) -inability to jog or run (when legs) -might cause more wounds. |
+| Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain. <br>\- Extremely slow bleeding.                                                |
+| Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain. <br>\- Extremely fast bleeding.                                              |
+| Contusions       | AKA bruises. Result of trauma that injures an internal structure without breaking the skin.                     | Bullets, backblast, punches, vehicle crashes, falling.                              | \- Light pain. <br>\- No bleeding.                                                                      |
+| Crush Wounds     | Occur when a heavy object falls onto a person, splitting the skin and shattering/tearing underlying structures. | Falling, vehicle crashes, punches.                                                  | \- Light pain.<br>\- Extremely slow bleeding.                                                |
+| Cut Wounds       | Slicing wounds made with a sharp instrument, leaving even edges.                                                | Vehicle crashes, grenades, explosions, artillery shells, backblast, stabs.          | \- Light pain.<br>\- Bleeding.                                                              |
+| Lacerations      | Wounds with ragged edges, produced by a large force against the body by an internal or external source.         | Vehicle crashes, punches.                                                           | \- Light pain.<br>\- Slow to medium bleeding.                                                    |
+| Velocity Wounds  | Caused by an object entering the body at a high speed.                                                          | Bullets, shrapnel, grenades, explosions, artillery shells.                          | \- Extremely high pain.<br>\- Medium bleeding.                                                       |
+| Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.<br>\- Slow bleeding.\*                                                               |
+| Fractures        | Fracture or fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \- Increased weapon sway (when arms) <br>\- Inability to jog or run (when legs) <br>\- Might cause more wounds. |
 
 
-To treat these injuries, you have four types of bandages, tourniquets and a splint at your disposal:
+To treat these injuries, you have four types of bandages, tourniquets at your disposal:
 
-Basic: A medium-effect, medium-sealing bandage with medium delay for your every-day needs. It's the averagest of averages. Use on lower priorities.
-Packing: Identical effect to basics, high chance to reopen, but excellent delay until a wound bothers you again. Basically an in-combat ‘fix now, medic later’ solution. A rifleman's best friend.
-Elastic: Highest effect, worst chance to reopen, lowest delay. These are great to get through an emergency, but otherwise inefficient.
-QuikClot: Lowest effect, lowest chance to reopen, medium delay. Its low effect means it’s great for small wounds, but needs substantial volume for large wounds; then used in calm situations with a large supply
-Tourniquet: Stops bleeding by cutting off blood flow to the limb. Becomes painful after 2 minutes. Blocks injections and vitals. Not applicable to head or torso.
+**Basic**: A medium-effect, medium-sealing bandage with medium delay for your every-day needs. It's the averagest of averages. Use on lower priorities.
+
+**Packing**: Identical effect to basics, high chance to reopen, but excellent delay until a wound bothers you again. Basically an in-combat ‘fix now, medic later’ solution. A rifleman's best friend.
+
+**Elastic**: Highest effect, worst chance to reopen, lowest delay. These are great to get through an emergency, but otherwise inefficient.
+
+**QuikClot**: Lowest effect, lowest chance to reopen, medium delay. Its low effect means it’s great for small wounds, but needs substantial volume for large wounds; then used in calm situations with a large supply
+
+**Tourniquets**: Stops bleeding by cutting off blood flow to the limb. Becomes painful after 2 minutes. Blocks injections and vitals. Not applicable to head or torso.
 
 
-Choosing bandages
-In an ideal situation you will apply the type bandages with the highest effectiveness per wound.
-But in a combat situation, time is of the essence, and that might need you to “slap” a bandage on there as fast as you can. Which particular bandage that should be is very debatable. Elastic bandages are quick and very effective, but they tend to reopen fast, this however is no problem for a medic, since you have the option to stitch wounds up before they reopen.
+**Choosing bandages**
+
+In an ideal situation you will apply the type of bandages with the highest effectiveness per wound.
+But in a combat situation, time is of the essence, and that might need you to “slap” a bandage on there as fast as you can. Which particular bandage that should be is very debatable. Elastic bandages are quick and very effective, but they tend to reopen fast. This however is no problem for a medic, since you have the option to stitch wounds up before they reopen.
 
 
 ## Fractures
 
-Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal. So are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, apply a splint to their fractured limb.
+Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal and therefor are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, call for the medic to assess and treat the fracture.
 
 Advanced fractures makes it a bit harder for medics and CLS to treat on the field.
 
@@ -246,7 +251,7 @@ If possible, ask squad members to assign a triage card to the wounded.
 
 ### Infantry
 
-For all non-medical personnel we recommended to take the following medical supplies with you:
+For all non-medical personnel we recommend to take the following medical supplies with you:
 
 |                |
 | -------------- |
@@ -328,7 +333,7 @@ For all non-medical personnel we recommended to take the following medical suppl
 |                       | 2x 1000ml saline    |                     |
 |                       | 8x 16g IV           |                     |
 |                       | 4x Guedel tubes     |                     |
-|                       | 2x pulse oximeter   |                     |
+|                       | 2x Pulse oximeter   |                     |
 |                       |                     |                     |
 | Radio                 | 2x AN-343           |                     |
 |                       |                     |                     |
