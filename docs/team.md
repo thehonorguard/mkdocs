@@ -54,6 +54,10 @@ hide:
 | Banana        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Danny         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Hemuli        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| Pancor        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | VectorTX      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| D. Kenyon     | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Nordotor      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Winters       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Coderus       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Mates         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 
