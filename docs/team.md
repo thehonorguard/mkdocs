@@ -20,6 +20,7 @@ hide:
 | Pankie      | SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | LOA |
 | Rakija      | CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
 | Chayros     | CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
+| Sherlock    | CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
 
 
 <br>
@@ -33,7 +34,6 @@ hide:
 | Polka         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Arkin         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Divide        | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
-| Sherlock      | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Speed         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Dive          | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | KaptnLOKI     | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
