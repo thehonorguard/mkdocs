@@ -103,6 +103,7 @@ Includes Instructions to Initiate, Shift and Lift Fire.
 Includes the presence and susequent action of friendly soldiers to the front of the position, as well as the iniiation and sequence of engagements, priotity targets and the shifting/displacing of fire in case of counterattacks.
 3. Signals to initiate fire
 Fire commands must be clear, are to be repeated by the Gunner or Autorifleman and have to contain the following elements:
+
 -Who to Engage
 -Direction of Fire
 -Description of the Target to be Engaged
