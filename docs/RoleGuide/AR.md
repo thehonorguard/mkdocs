@@ -105,10 +105,15 @@ Includes the presence and susequent action of friendly soldiers to the front of 
 Fire commands must be clear, are to be repeated by the Gunner or Autorifleman and have to contain the following elements:
 
 -Who to Engage
+
 -Direction of Fire
+
 -Description of the Target to be Engaged
+
 -Range
+
 -Method of Fire
+
 -Command to Open Fire
 
 
