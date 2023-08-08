@@ -224,49 +224,50 @@ The treatment in case of a chemical intoxication is **atropine** only (administe
 
 ### Morphine
 
-Time to max effect: 30 seconds
-Drastically lowers pain
-Reduces heart rate
-Low HR: between -10 and -20
-Normal HR: between -10 and -30
-High HR: between -10 and -35
-Dilates blood vessels, which drops blood pressure
-If your patient is critical, do not inject morphine before stabilizing them
-4 injections to overdose (but will knock-out any healthy soldier with 3 injections)
-Lingers 30 minutes
-Does not affect the wake-up chance of an unconscious patient.
+Time to max effect: 30 seconds<br>
+Drastically lowers pain<br>
+Reduces heart rate<br>
+Low HR: between -10 and -20<br>
+Normal HR: between -10 and -30<br>
+High HR: between -10 and -35<br>
+Dilates blood vessels, which drops blood pressure<br>
+If your patient is critical, do not inject morphine before stabilizing them<br>
+4 injections to overdose (but will knock-out any healthy soldier with 3 injections)<br>
+Lingers 30 minutes<br>
+Does not affect the wake-up chance of an unconscious patient.<br>
 
 ### Epinephrine
 
-Time to max effect: 10 seconds
-Increases heart rate
-Low HR: between 10 and 20
-Normal HR: between 10 and 50
-High HR: between 10 and 40
-10 injections to overdose
-Lingers 2 minutes
-Does affect the wake-up chance of an unconscious patient.
+Time to max effect: 10 seconds<br>
+Increases heart rate<br>
+Low HR: between 10 and 20<br>
+Normal HR: between 10 and 50<br>
+High HR: between 10 and 40<br>
+10 injections to overdose<br>
+Lingers 2 minutes<br>
+Does affect the wake-up chance of an unconscious patient.<br>
 
 ### Adenosine
 
-Time to max effect: 15 seconds
-Decreases heart rate
-Low HR: between -7 and -10
-Normal HR: between -15 and -30
-High HR: between -15 and -35
-6 injections to overdose
-Lingers 2 minutes
-Don't bother with these. In real life they are used to stabilize a heart rate, but there is no such system in ace medical. They can counter epi overdose. But since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
+Time to max effect: 15 seconds<br>
+Decreases heart rate<br>
+Low HR: between -7 and -10<br>
+Normal HR: between -15 and -30<br>
+High HR: between -15 and -35<br>
+6 injections to overdose<br>
+Lingers 2 minutes<br>
+
+Don't bother with these. In real life they are used to stabilize a heart rate, but there is no such system in ace medical. <br>They can counter epi overdose, but since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
 
 ## Triage
 
-In order to be effective as a medic you should start to assess these priorities as good and as fast as you can.
-For example: a heart rate is not going to do any good if the patient has already bled out on the floor. 
+In order to be effective as a medic you should start to assess these priorities as good and as fast as you can.<br>
+For example: a heart rate is not going to do any good if the patient has already bled out on the floor. <br>
 It also matters greatly whenever you are alone or with a buddy.
 
 
-Evaluation of the location, is it safe to treat multiple wounded?
-Stabilize or ask team member to stabilized the most critical cases while treating the minor cases first
+Evaluation of the location, is it safe to treat multiple wounded?<br>
+Stabilize or ask team member to stabilized the most critical cases while treating the minor cases first<br>
 If possible, ask squad members to assign a triage card to the wounded.
 
 ## Gear
