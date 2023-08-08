@@ -1,25 +1,34 @@
 # Medic
 
-This guide is written primarily for new medics,  but should have enough info for even experienced medics so learn something. I understand  many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
+This guide is written primarily for new medics, but should have enough info for even experienced medics to learn something. I understand many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
 
-Before we start talking about the medical information I would like to start covering some basic ground rules.
 
 ## Safety
 
 Before providing any medical assistance one should always care about the safety for yourself first.
-This is one of the first and most important rule for any first responder in any field.
+
+**This is one of the first and most important rule for any first responder in any field.**
+
 You cannot help anyone if you're shot yourself; this means that you might also need to deal with the threat first, and provide medical assistance later.
-Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. if there is no hard cover available  nearby you can also use  currency for smoke grenades & bushes. If all above is not possible, contact your squad leader/team leader.
-In order to remain in a safe position you are also going to need covering fire.  I've seen countless scenarios where someone is shot and everyone rushes over to become a medic. Your job as a medic is to send them away as fast as possible and let them cover your position.
+Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. 
+Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. If there is no hard cover available nearby you can also use smokes grenades & bushes. 
+
+*If all above is not possible, contact your squad leader/team leader.*
+
+In order to remain in a safe position you are also going to need covering fire. Ask your battle mates for general support and cover.
+I've seen countless scenarios where someone is shot and everyone rushes over to become a medic. Your job as a medic is to send them away as fast as possible and let them cover your position.
 
 ![](../assets/images/medsafety.png)
 
 ## Medics within TFO
 
-As discussed above the role we call medic is a hybrid of a first responder and a paramedic. because of this there isn't a clear defined position within the squad like this within any army.
+As discussed above the role we call medic is a hybrid of a first responder and a paramedic. Because of this, there isn't a clear defined position within the squad like this within any army.
 Therefore we can have our own interpretation of how this role can be used effectively.
-Casualty collection point
-Normally there would be different classes of medical personnel with different roles.
+As the unit continues to grow, some changes can occur to the CoC, and the medic role itself (new responsibilities, or even adding a new medic to the roster)
+
+As of now, casualty collection point (CCP) is rarely used. We are looking forward to use this type of gameplay more in the future, where a clear medical team and chain of command is established.
+
+Normally there would be different classes of medical personnel with different roles, bur for now, we stick with a platoon medic, and 1 to 3 combat life savers.
 
 ### Combat lifesaver (CLS)
 
@@ -33,31 +42,43 @@ One of the roles of the CLS, is to support the medic is asked to, and return to 
 
 ### Medic
 
-This officer is part of the command structure and operates behind the Frontline at a casualty collection point. His primary job will be patching up soldiers  back to full health so they are ready to be redeployed.
+This officer is part of the command structure and operates mostly behind the frontline. His primary job will be patching up soldiers back to full health so they are ready to be redeployed.
 
 Due to the smaller size of Task Force Omega, we have chosen to let he medic be a part of the battle instead of having him behind the combat lines with a casualties collection point.
 But as we are growing this might be coming in to play more.
 
-It's recommended for all squad leaders to set up a casualty collection point before any attack. This would be  a location close to the frontline but away from any immediate danger. If squad size allows it it is recommended to have at least one soldier here to cover the position. Any heavy casualties are to be brought here as fast as possible.
+It's recommended for all squad leaders to set up a casualty collection point before any attack. This would be  a location close to the frontline but away from any immediate danger. If squad size allows it, it is recommended to have at least one soldier here to cover the position. Any heavy casualties are to be brought here as fast as possible.
 
-ideally the medic would stick close to the squad leader and would only leave his side when ordered to.
-Evaluation phase
- Alright, so the first bullets start flying and one of your fellow squad members got shot.
-The first priority should be to call out who got shot and where to your squad leader. Sometimes squad leaders are in a much better position to rescue wounded soldiers than a medic.
+Ideally the medic would stick close to the platoon leader and would only leave his side when ordered to.
+
+#### Evaluation phase
+
+Alright, so the first bullets start flying and one of your fellow squad members got shot.
+
+The first priority should be to call out who got shot and where to your squad leader. 
+Sometimes squad leaders are in a much better position to rescue wounded soldiers than a medic.
 Right after this the evaluation phase starts: is the soldier simply wounded or unconscious as well?
 
-Wounded
- right after your figured out that the soldier is wounded another evaluation is in order:
- Is the wounded soldier able to move to a safer spot himself?  This can be obstructed by for example heavy fire or being crippled by the wound.  The answer to this question can easily be discovered by asking the wounded soldier.
+- Wounded
 
-Unconscious
- Right after your figured out that the soldier is unconscious, another evaluation is in order:
-Is the wounded soldier in an unsafe spot? 
-The first order of business is to get them out of there. Try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. The process of getting someone on your shoulders takes way too long Under Fire, Carrying can be a good idea when you need to move an unconscious soldier from a position where you already have cover. A combination of both techniques can be applied as well, for example: Drag a wounded soldier from an unsafe position to cover followed up by picking them up and carrying them to a medic-post.
+Right after your figured out that the soldier is wounded another evaluation is in order:
+*Is the wounded soldier able to move to a safer spot himself?*  
+This can be obstructed by for example heavy fire or being crippled by the wound.  
+
+The answer to this question can easily be discovered by asking the wounded soldier if possible.
+
+- Unconscious
+
+Right after your figured out that the soldier is unconscious, another evaluation is in order:
+*Is the wounded soldier in an unsafe spot? *
+The first order of business is to get them out of there. 
+Try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. 
+The process of getting someone on your shoulders takes way too long under fire but carrying can be a good idea when you need to move an unconscious soldier from a position where you already have cover. 
+A combination of both techniques can be applied as well, for example: Drag a wounded soldier from an unsafe position to cover followed up by picking them up and carrying them to a medic-post.
 
 
-Equipment:
-In this chapter we are going to discuss the actual medical process. First we are going to discuss all the equipment you have available and after that we are going to discuss a few scenarios.
+- Equipment:
+In the following chapter we are going to discuss the actual medical processes. First we are going to discuss all the equipment you have available and after that we are going to discuss a few scenarios.
 
 ## CPR and AED-X-series (LifePak)
 
