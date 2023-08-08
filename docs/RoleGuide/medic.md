@@ -70,15 +70,22 @@ The answer to this question can easily be discovered by asking the wounded soldi
 - Unconscious
 
 Right after your figured out that the soldier is unconscious, another evaluation is in order:
-*Is the wounded soldier in an unsafe spot? *
+
+*Is the wounded soldier in an unsafe spot?*
+
 The first order of business is to get them out of there. 
+
 Try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. 
+
 The process of getting someone on your shoulders takes way too long under fire but carrying can be a good idea when you need to move an unconscious soldier from a position where you already have cover. 
+
 A combination of both techniques can be applied as well, for example: Drag a wounded soldier from an unsafe position to cover followed up by picking them up and carrying them to a medic-post.
 
 
 - Equipment:
-In the following chapter we are going to discuss the actual medical processes. First we are going to discuss all the equipment you have available and after that we are going to discuss a few scenarios.
+
+In the following chapter we are going to discuss the actual medical processes. 
+First we are going to discuss all the equipment you have available and after that we are going to discuss a few scenarios.
 
 ## CPR and AED-X-series (LifePak)
 
@@ -86,9 +93,12 @@ Let's start with the Wikipedia description for CPR:
 
 “Cardiopulmonary resuscitation (CPR) is an emergency procedure that combines chest compressions often with artificial ventilation in an effort to manually preserve intact brain function until further measures are taken to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest.”
 
-CPR creates an Artificial circulation in the patient in case there is a cardiac arrest. So basically CPR is creating blood flow when the Patient's heart is unable to. It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.
+CPR creates an Artificial circulation in the patient in case there is a cardiac arrest. So basically CPR is creating blood flow when the Patient's heart is unable to. 
+It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. 
+**Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.**
 
-CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
+CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. 
+To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
 
 Due to our server settings, the best way to do CPR is to push epinephrine (adrenaline), then do CPR 3 times, then check again for pulse.
