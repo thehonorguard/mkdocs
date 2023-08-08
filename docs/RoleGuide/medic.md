@@ -55,30 +55,21 @@ Ideally the medic would stick close to the platoon leader and would only leave h
 
 Alright, so the first bullets start flying and one of your fellow squad members got shot.
 
-The first priority should be to call out who got shot and where to your squad leader. 
-Sometimes squad leaders are in a much better position to rescue wounded soldiers than a medic.
-Right after this the evaluation phase starts: is the soldier simply wounded or unconscious as well?
+The first priority should be to call out who got shot and where to your squad leader.<br>Sometimes squad leaders are in a much better position to rescue wounded soldiers than a medic.<br>Right after this the evaluation phase starts: is the soldier simply wounded or unconscious as well?
 
 - Wounded
 
-Right after your figured out that the soldier is wounded another evaluation is in order:
-*Is the wounded soldier able to move to a safer spot himself?*  
-This can be obstructed by for example heavy fire or being crippled by the wound.  
+Right after your figured out that the soldier is wounded another evaluation is in order:<br>*Is the wounded soldier able to move to a safer spot himself?*<br>This can be obstructed by for example heavy fire or being crippled by the wound.  
 
 The answer to this question can easily be discovered by asking the wounded soldier if possible.
 
 - Unconscious
 
-Right after your figured out that the soldier is unconscious, another evaluation is in order:
-
-*Is the wounded soldier in an unsafe spot?*
-
+Right after your figured out that the soldier is unconscious, another evaluation is in order:<br>
+*Is the wounded soldier in an unsafe spot?*<br>
 The first order of business is to get them out of there. 
 
-Try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea. 
-
-The process of getting someone on your shoulders takes way too long under fire but carrying can be a good idea when you need to move an unconscious soldier from a position where you already have cover. 
-
+Try dragging them to cover, or let someone close to the unconscious soldier do that for you. Picking someone up and carrying them over to a safe spot is usually a bad idea.<br>The process of getting someone on your shoulders takes way too long under fire but carrying can be a good idea when you need to move an unconscious soldier from a position where you already have cover.<br>
 A combination of both techniques can be applied as well, for example: Drag a wounded soldier from an unsafe position to cover followed up by picking them up and carrying them to a medic-post.
 
 
