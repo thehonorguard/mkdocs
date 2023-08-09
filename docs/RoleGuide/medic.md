@@ -28,7 +28,7 @@ As the unit continues to grow, some changes can occur to the CoC, and the medic 
 
 As of now, casualty collection point (CCP) is rarely used. We are looking forward to use this type of gameplay more in the future, where a clear medical team and chain of command is established.
 
-Normally there would be different classes of medical personnel with different roles, bur for now, we stick with a platoon medic, and 1 to 3 combat life savers.
+Normally there would be different classes of medical personnel with different roles, but for now, we stick with a platoon medic, and 1 to 3 combat life savers.
 
 ### Combat life saver (CLS)
 
@@ -47,7 +47,7 @@ This officer is part of the command structure and operates mostly behind the fro
 Due to the smaller size of Task Force Omega, we have chosen to let he medic be a part of the battle instead of having him behind the combat lines with a casualties collection point.
 But as we are growing this might be coming in to play more.
 
-It's recommended for all squad leaders to set up a casualty collection point before any attack. This would be  a location close to the frontline but away from any immediate danger. If squad size allows it, it is recommended to have at least one soldier here to cover the position. Any heavy casualties are to be brought here as fast as possible.
+It's recommended for all squad leaders to set up a casualty collection point before any attack. This would be a location close to the frontline but away from any immediate danger. If squad size allows it, it is recommended to have at least one soldier here to cover the position. Any heavy casualties are to be brought here as fast as possible.
 
 Ideally the medic would stick close to the platoon leader and would only leave his side when ordered to.
 
@@ -84,20 +84,19 @@ Let's start with the Wikipedia description for CPR:
 
 “Cardiopulmonary resuscitation (CPR) is an emergency procedure that combines chest compressions often with artificial ventilation in an effort to manually preserve intact brain function until further measures are taken to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest.”
 
-CPR creates an Artificial circulation in the patient in case there is a cardiac arrest. So basically CPR is creating blood flow when the Patient's heart is unable to. 
-It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. 
+CPR creates an Artificial circulation (and heart rate at around 30/40 BPM) in the patient in case there is a cardiac arrest. So basically CPR is creating blood flow when the Patient's heart is unable to. 
+It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions.<br> 
 **Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.**
 
-CPR by itself is not going to wake up an unconscious patient; a stable blood pressure, heart rate (between 50 and 180) and SpO2 (blood oxygen, should be above 90) is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. 
-To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
+CPR by itself is not going to wake up an unconscious patient; a stable blood pressure, heart rate (between 60 and 180) and SpO2 (blood oxygen, should be above 90) is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you free to perform other medical assistance (stabilize the wounds and restore blood pressure for example). <br>CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.<br>
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
 
-Due to our server settings, the best way to do CPR is to push epinephrine (adrenaline), then do CPR 3 times, then check again for pulse.
+Due to our server settings, the best way to do CPR is to push epinephrine (adrenaline), then do CPR 3 times, then check again for pulse.<br>
 Epinephrine is administrable by CLS or medics only, and you shouldn't more than 3 consecutively (reset every two minutes, in case you need to administer more).
 
 
-How to determine *Cardiac Arrest*
-Start monitoring vitals using **AED X-series** and use “*check rhythm*” feature (available both in AED and AED X-series), or attach a **Pulse Oximeter** to a limb <u>**WITHOUT**</u> a tourniquet:
+How to determine *Cardiac Arrest*<br>
+Start monitoring vitals using **AED X-series** and use “*check rhythm*” feature (available both in AED and AED X-series) (or attach a **Pulse Oximeter** to a limb <u>**WITHOUT**</u> a tourniquet):
 
 - “Shock advised” (**VFib/PVT**) - administer shock. Use epinephrine and administer a shock (remember to clear out of the medical menu if you're not the one who is shocking).
 
@@ -130,7 +129,7 @@ But in a combat situation, time is of the essence, and that might need you to �
 
 ## Fractures
 
-Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal and therefor are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, call for the medic to assess and treat the fracture.
+Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal and therefore are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, call for the medic to assess and treat the fracture.
 
 Advanced fractures makes it a bit harder for medics and CLS to treat on the field.
 
@@ -191,7 +190,7 @@ The symptoms are:
 - Coughing sound                                                                                         
 - Sp02 drop with rapidity increasing over time                                                           
 
-The treatment in case of a chemical intoxication is **atropine** only (administered by the medics)
+The treatment in case of a chemical intoxication is **atropine** only (administered by the medics).
 ### Items 
 
 | Item name                       | Description                                                                                                                                                   |
@@ -206,37 +205,37 @@ The treatment in case of a chemical intoxication is **atropine** only (administe
 
 ### Morphine
 
-Time to max effect: 30 seconds<br>
-Drastically lowers pain<br>
-Reduces heart rate<br>
-Low HR: between -10 and -20<br>
-Normal HR: between -10 and -30<br>
-High HR: between -10 and -35<br>
+**Time to max effect**: 30 seconds<br>
+Drastically **lowers** pain<br>
+**Reduces** heart rate<br>
+**Low HR**: between -10 and -20<br>
+**Normal HR**: between -10 and -30<br>
+**High HR**: between -10 and -35<br>
 Dilates blood vessels, which drops blood pressure<br>
 If your patient is critical, do not inject morphine before stabilizing them<br>
-4 injections to overdose (but will knock-out any healthy soldier with 3 injections)<br>
+**4** injections to overdose *(but will knock-out any healthy soldier with 3 injections)*<br>
 Lingers 30 minutes<br>
-Does not affect the wake-up chance of an unconscious patient.<br>
+Does **not** affect the wake-up chance of an unconscious patient.<br>
 
 ### Epinephrine
 
-Time to max effect: 10 seconds<br>
-Increases heart rate<br>
-Low HR: between 10 and 20<br>
-Normal HR: between 10 and 50<br>
-High HR: between 10 and 40<br>
-10 injections to overdose<br>
+**Time to max effect**: 10 seconds<br>
+**Increases** heart rate<br>
+**Low HR**: between 10 and 20<br>
+**Normal HR**: between 10 and 50<br>
+**High HR**: between 10 and 40<br>
+**10** injections to overdose<br>
 Lingers 2 minutes<br>
-Does affect the wake-up chance of an unconscious patient.<br>
+**Does** affect the wake-up chance of an unconscious patient.<br>
 
 ### Adenosine
 
-Time to max effect: 15 seconds<br>
-Decreases heart rate<br>
-Low HR: between -7 and -10<br>
-Normal HR: between -15 and -30<br>
-High HR: between -15 and -35<br>
-6 injections to overdose<br>
+**Time to max effect**: 15 seconds<br>
+**Decreases** heart rate<br>
+**Low HR**: between -7 and -10<br>
+**Normal HR**: between -15 and -30<br>
+**High HR**: between -15 and -35<br>
+**6** injections to overdose<br>
 Lingers 2 minutes<br>
 
 Don't bother with these. In real life they are used to stabilize a heart rate, but there is no such system in ace medical. <br>They can counter epi overdose, but since you will only overdose after 10 injections, it's really not worth it. If you really want, you should carry a maximum of 1.
@@ -258,11 +257,13 @@ If possible, ask squad members to assign a triage card to the wounded.
 
 For all non-medical personnel we recommend to take the following medical supplies with you:
 
-|                |
+| Supplies       |
 | -------------- |
 | 4x Tourniquets |
 | 1x Painkillers |
 | 15x Packing    |
+
+Additional supplies can be provided by a resupply or by the CLS/medic.
 
 
 ### Medic
