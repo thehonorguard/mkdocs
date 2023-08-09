@@ -1,22 +1,22 @@
 # Medic
 
-This guide is written primarily for new medics, but should have enough info for even experienced medics to learn something. We understand many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
+This guide is written primarily for new medics, but should have enough info for even experienced medics to learn something. I understand many of this will not be carried out when the first bullets start flying, but try to keep any of it in the back of your head.
 
 
 ## Safety
 
-Before providing any medical assistance, one should always care about the safety for yourself first.
+Before providing any medical assistance one should always care about the safety for yourself first.
 
 **This is one of the first and most important rule for any first responder in any field.**
 
 You cannot help anyone if you're shot yourself; this means that you might also need to deal with the threat first, and provide medical assistance later.
 Medical assistance should only be provided in a relatively safe spot; this means getting some hard cover between yourself and your enemy. 
-Think of your environment like walls, hills and rocks but there is also cover that you can create: think of vehicles and trenches. If there is no hard cover available nearby you can also use smokes grenades & bushes for concealment. 
+Think of your environment like walls, hills and rocks but there is  also cover that you can create: think of vehicles and trenches. If there is no hard cover available nearby you can also use smokes grenades & bushes. 
 
 *If all above is not possible, contact your squad leader/team leader.*
 
 In order to remain in a safe position you are also going to need covering fire. Ask your battle mates for general support and cover.
-We've seen countless scenarios where someone is shot and everyone rushes over to become a medic. Your job as a medic is to send them away as fast as possible and let them cover your position.
+I've seen countless scenarios where someone is shot and everyone rushes over to become a medic. Your job as a medic is to send them away as fast as possible and let them cover your position.
 
 ![](../assets/images/medsafety.png)
 
@@ -30,9 +30,9 @@ As of now, casualty collection point (CCP) is rarely used. We are looking forwar
 
 Normally there would be different classes of medical personnel with different roles, bur for now, we stick with a platoon medic, and 1 to 3 combat life savers.
 
-### Combat life saver (CLS)
+### Combat lifesaver (CLS)
 
-This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier. His job is to stabilize the soldier as fast as possible, and make sure they are either good to go or are stable enough to be medevac'd.<br>
+This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier.  His job is to stabilize the soldier as fast as possible,and  make sure they are either good to go or are stable enough to be medevac'd.<br>
  
 A CLS is primarily a rifleman, but with more advanced medical training than everyone else. Meaning, he can be a first responder on the battlefield, to try to save and stabilize colleagues, until the medic arrives on scene.
 
@@ -88,25 +88,43 @@ CPR creates an Artificial circulation in the patient in case there is a cardiac 
 It's also important noting that checking for a hard rate while CPR is going is always going to result in at least a low heart rate due to chest compressions. 
 **Checking for a heart rate on a limb with tourniquets is useless and will result in no pulse.**
 
-CPR by itself is not going to wake up an unconscious patient; a stable blood pressure, heart rate (between 50 and 180) and SpO2 (blood oxygen, should be above 90) is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. 
+CPR by itself is not going to wake up an unconscious patient; a stable blood pressure is. Anyone can perform CPR and therefore as a medic you should assign someone else to do it. This will leave you to perform other medical assistance. 
 To stabilize the wounds and restore blood pressure. CPR is only effective to restart the heart rate, after a patient has a heart rate (no matter how low) performing CPR is useless.
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
 
 Due to our server settings, the best way to do CPR is to push epinephrine (adrenaline), then do CPR 3 times, then check again for pulse.
-Epinephrine is administrable by CLS or medics only, and you shouldn't more than 3 consecutively (reset every two minutes, in case you need to administer more).
+Epinephrine is administrable by CLS or medics only, and you shouldn't more than 3 consecutively.
+
+Also, CPR is used when the AED LifePak is not recommended (asystole). 
+In case of Polymorphous ventricular tachycardia (PVT) or Ventricular Fibrillation (VF or Vfib), the use of the AED in mandatory
 
 
 How to determine *Cardiac Arrest*
 Start monitoring vitals using **AED X-series** and use “*check rhythm*” feature (available both in AED and AED X-series), or attach a **Pulse Oximeter** to a limb <u>**WITHOUT**</u> a tourniquet:
 
-- “Shock advised” (**VFib/PVT**) - administer shock. Use epinephrine and administer a shock (remember to clear out of the medical menu if you're not the one who is shocking).
+- “Shock advised” (**VFib/PVT**) - administer shock. Using epinephrine/amiodarone/lidocaine (always followed by a shock) in the order mentioned is advised after the first shock fails. Repeat starting from epinephrine if lidocaine fails.
 
-- “No shock advised” (**Asystole**) - do not administer shock. Use epinephrine and 3 intervals of CPR instead. 
+- “No shock advised” (**Asystole**) - do not administer shock. Use epinephrine and 3 intervals of CPR instead. Timer till death slows down by 50% during CPR. Repeat the sequence until HR is restored.
 
 <u>**Check rhythm between steps**</u>. If you cannot determine the cardiac arrest type, treat it as **asystole**.
 
 
 ![](../assets/images/cls.png)
+
+
+## Bandages
+
+| Wounds | Details                                                                                                         | Causes                                                                              | Effects                                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Abrasions        | When skin is rubbed away by friction against a rough surface.                                                   | Falling, rope-burns, vehicle crashes.                                               | \- Extremely light pain. <br>\- Extremely slow bleeding.                                                |
+| Avulsions        | Occur when an entire structure or part of a body is forcibly detached.                                          | Explosions, vehicle crashes, grenades, artillery shells, bullets, backblast, bites. | \- Extremely high pain. <br>\- Extremely fast bleeding.                                              |
+| Contusions       | AKA bruises. Result of trauma that injures an internal structure without breaking the skin.                     | Bullets, backblast, punches, vehicle crashes, falling.                              | \- Light pain. <br>\- No bleeding.                                                                      |
+| Crush Wounds     | Occur when a heavy object falls onto a person, splitting the skin and shattering/tearing underlying structures. | Falling, vehicle crashes, punches.                                                  | \- Light pain.<br>\- Extremely slow bleeding.                                                |
+| Cut Wounds       | Slicing wounds made with a sharp instrument, leaving even edges.                                                | Vehicle crashes, grenades, explosions, artillery shells, backblast, stabs.          | \- Light pain.<br>\- Bleeding.                                                              |
+| Lacerations      | Wounds with ragged edges, produced by a large force against the body by an internal or external source.         | Vehicle crashes, punches.                                                           | \- Light pain.<br>\- Slow to medium bleeding.                                                    |
+| Velocity Wounds  | Caused by an object entering the body at a high speed.                                                          | Bullets, shrapnel, grenades, explosions, artillery shells.                          | \- Extremely high pain.<br>\- Medium bleeding.                                                       |
+| Puncture Wounds  | Deep, narrow wounds produced by sharp objects.                                                                  | Stabs, grenades.                                                                    | \- Light pain.<br>\- Slow bleeding.\*                                                               |
+| Fractures        | Fracture or fissure in a bone. Dislocation of bone fragments might cause additional wounds/bleeding.            | Any high impact trauma.                                                             | \- Increased weapon sway <br>\- Inability to jog or run <br>\- Might cause more wounds. |
 
 
 To treat these injuries, you have four types of bandages, tourniquets at your disposal:
@@ -155,7 +173,7 @@ For two of them, an IV of Lorazepam (if the patient is conscious), and then Etom
 
 - Simple fracture:
     - Inspect fracture
-    - Push Morphine (pain suppression)
+    - Push Lidocaine/ Morphine (pain suppression)
     - Perform Closed Reduction
 
 
@@ -166,21 +184,21 @@ Keep in mind that compound and comminuted fractures are treatable by the medic o
 
 Splints: An instant fix to fractures. (Used in case of emergency by the SQL. Not recommended, unless there is no medic on the team)
 
-## Tourniquets
+## Tourniquets:
 Wound treatments should usually be executed in this order:  head > torso > limbs.
-In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. <br>
-A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. <br>After applying tourniquets to the limbs, bandages to the head and/or torso, an IV with saline/plasma can be applied.  
+In case of heavy wounds on a limb a priority could be to apply a tourniquet on this limb. 
+A tourniquet will fully stop any bleeding on the applied limb until removed. This will give you time to stabilize other body parts. After applying tourniquets to the limbs, bandages to the head and/or torso, an IV with saline/plasma can be applied.  
 
-Although the pressure provided by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any IV from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. <br>While these magic blood-stoppers are great, they also are considered painful after 2 minutes.
+Although the pressure provided by a tourniquet is great for stopping blood flowing out of the body, that same pressure will also block any IV from flowing in, therefore an IV (or a pulse check) should only be placed and/or done on a limb without a tourniquet. While these magic blood-stoppers are great, they also are considered painful after 2 minutes.
 
 *Tip: whoever removes the tourniquets gets to keep it. So reclaim your tourniquets or you might find yourself empty handed!*
 
 ## Chemical Warfare
-An array of chemical warfare measures has been added to the mod. For contaminated area detection, chemical detector can be used (Contact DLC item). <br>The device will play a sound upon entering the danger zone even if not actively used. The sound can be muted in the ACE menu. In order to use the device, you must have it equipped in the “watch” slot in your inventory. <br>You can view the threat level by pressing “O” (double “O” allows the device to stay/ disappear from the screen). Threat level is measured in the scale of 0.0 - 1.0, 1.0 meaning the highest danger zone.
+An array of chemical warfare measures has been added to the mod. For contaminated area detection, chemical detector can be used (Contact DLC item). The device will play a sound upon entering the danger zone even if not actively used. The sound can be muted in the ACE menu. In order to use the device, you must have it equipped in the “watch” slot in your inventory. You can view the threat level by pressing “O” (double “O” allows the device to stay/ disappear from the screen). Threat level is measured in the scale of 0.0 - 1.0, 1.0 meaning the highest danger zone.
 
-Protection against chemical threats is provided by gas masks. Time spent without a mask until negative effects is a matter of settings. Gas masks need gas mask filters to work properly. You can check filter durability via ACE menu action. <br>The gas mask filter can be changed through the same menu if you have the item in your inventory. Please note that the durability is measured in green stripes, each representing 10% of durability left (the more green, the better). <br>Gas masks will lose durability while used in a contaminated area.
+Protection against chemical threats is provided by gas masks. Time spent without a mask until negative effects is a matter of settings. Gas masks need gas mask filters to work properly. You can check filter durability via ACE menu action. The gas mask filter can be changed through the same menu if you have the item in your inventory. Please note that the durability is measured in green stripes, each representing 10% of durability left (the more green, the better). Gas masks will lose durability while used in a contaminated area. Gas masks durability can be adjusted in addon settings.
 
-Gas mask can be put on an unconscious person’s head by ACE action performed on the head. <br>If any facewear is present, it will be stored in patient’s/ your inventory or dropped on the ground if there is no space in the inventory.
+Gas mask can be put on an unconscious person’s head by ACE action performed on the head. If any facewear is present, it will be stored in patient’s/ your inventory or dropped on the ground if there is no space in the inventory.
 
 ### Intoxication
 
