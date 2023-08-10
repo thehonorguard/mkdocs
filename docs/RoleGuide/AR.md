@@ -46,7 +46,7 @@ Dead Space defines an area where the waist of a soldier falls below the Gunners 
 
 ## Techniques of Fire
 
-### Direct Fire:
+### Direct Fire
 Gunners and automatic riflemen use the direct-lay technique by aligning the sights of the weapon on the target. This is the easiest and quickest means of delivering fire.
 ### Assault Fire
 Automatic riflemen use assault fire when in close combat. Assault fire involves firing without the aid of sights using the hip, shoulder, and underarm positions. The underarm position is best when rapid movement is required. 
@@ -100,7 +100,7 @@ Gunners and leaders must consider the complexity of laying on the target, the gu
 
 
 ## Rates of Fire
-Usually Automatic Rifleman fire in one of three ROF(Rates of Fire) each of which is usefull in different kinds of Situations from long Range Engagement to Close Quarters Combat in an Urban Environment.
+Usually Automatic Rifleman fire in one of three ROF(Rates of Fire) each of which is useful in different kinds of Situations from long Range Engagement to Close Quarters Combat in an Urban Environment.
 
 ### Rapid Rate
 - Around 200 rounds per minute
@@ -159,6 +159,6 @@ This should only be done on your squadleader permission because it can consume a
 In order to engage any threat coming from the sky with a machine gun, you'll need to roughly estimate the targets airspeed in order to lead properly.<br>
 Once you have done that, start leading in front of your target in the direction it's heading and wait for your squadleader command to engage.
 
-Upon receiving said command, you stop leading and just hold down the trigger, letting the target fly into your hail of lead. <br>This is one of the only options infantry has against air rargets and should be done in unison with the rest of the ream to maximize damage to your intended target.
+Upon receiving said command, you stop leading and just hold down the trigger, letting the target fly into your hail of lead. <br>This is one of the only options infantry has against air targets and should be done in unison with the rest of the ream to maximize damage to your intended target.
 
 ![](../assets/images/ar.png)
