@@ -38,7 +38,7 @@ A CLS is primarily a rifleman, but with more advanced medical training than ever
 
 Even with this training, the Combat Life Saver is not able to perform advanced medical procedures.
 
-One of the roles of the CLS, is to support the medic is asked to, and return to combat as quickly as possible.
+One of the roles of the CLS, is to support the medic when asked to, and return to combat as quickly as possible.
 
 ### Medic
 
@@ -55,7 +55,7 @@ Ideally the medic would stick close to the platoon leader and would only leave h
 
 Alright, so the first bullets start flying and one of your fellow squad members got shot.
 
-The first priority should be to call out who got shot and where to your squad leader.<br>Sometimes squad leaders are in a much better position to rescue wounded soldiers than a medic.<br>Right after this the evaluation phase starts: is the soldier simply wounded or unconscious as well?
+The first priority should be to call out who got shot and what their location is to your squad leader.<br>Sometimes squad leaders are in a much better position to organize a rescue for a wounded soldier than a medic.<br>Right after this the evaluation phase starts: is the soldier simply wounded or unconscious as well?
 
 - Wounded
 
