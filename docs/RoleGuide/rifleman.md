@@ -35,7 +35,7 @@ LAT aren't allowed to shoot unless told otherwise by the squadleader, at the exc
 Switching launchers/tubes or resupplying by looting enemies if subject to SQL appreciation and discretion. Always ask BEFORE.
 
 ## CLS
-Another variant of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. although still a rifleman at it's core, it does have it's own section <a href="/mkdocs/RoleGuide/medic/#combat-lifesaver-cls">here</a>.
+Another variant of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. although still a rifleman at it's core, it does have it's own section <a href="/mkdocs/RoleGuide/medic/#combat-life-saver-cls">here</a>.
 
 
 # Common loadout

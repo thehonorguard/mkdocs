@@ -16,7 +16,6 @@ Beyond their tactical acumen, the platoon leader also serves as a mentor and rol
 
 In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, leading their soldiers with unwavering dedication, strategic prowess, and exceptional leadership skills. They exemplify the qualities of a true military leader, inspiring their troops to overcome challenges and emerge victorious in the face of adversity.
 
-***thank you CHATGPT for this lovely placeholder***
 
 ![](../assets/images/plt.png)
 
