@@ -52,6 +52,8 @@ nav:
     - Marksmen: RoleGuide/marksmen.md
     - Engineer: RoleGuide/eod.md
     - Grenadier: RoleGuide/grenadier.md
+  - Support Roles:
+    - Air-Support: SupportRoles/Air-Support.md
   - Credits: credits.md
   
     
