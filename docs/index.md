@@ -9,7 +9,7 @@ Welcome to the official TFO documentation page.
 The goal of this guide is to have all information & documentation in one central and easy to navigate place.
 At this moment this website is still a WIP.
 
-If you encounter any bug, typo, or have an idea/suggestion, contact us on <a href="https://discord.gg/c49hsvupWA">Discord</a> by opening a ticket on #support-tickets (attn. to Ember or HonorGuard), or by sending a DM (will be relayed to admin and mod team)<br><br>
+If you encounter any bug, typo, or have an idea/suggestion, contact us on <a href="https://discord.gg/c49hsvupWA">Discord</a> by opening a ticket on #support-tickets (attn. to Ember or HonorGuard), or by sending a DM (will be relayed to admin and mod team)<br>
 
 ## Quick word
 
@@ -32,7 +32,7 @@ All new players are required to complete our Basic Combat Training, which introd
 ## Links and socials
 
 - [Discord](https://discord.gg/c49hsvupWA)
-- [TFO website](https://taskforceomega.eu/how-to-join/)
+- [TFO website](https://taskforceomega.eu/)
 - [YouTube](https://www.youtube.com/@taskforceomega)
 - [Twitch](https://twitch.tv/@task_force_omega)
 - [Patreon](https://www.patreon.com/TFomega)
