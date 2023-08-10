@@ -61,5 +61,5 @@ hide:
 | Coderus       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Mates         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Steiner       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| Bricks         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Brick         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 
