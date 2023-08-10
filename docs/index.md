@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Welcome to TFO Docs 
 
 Welcome to the official TFO documentation page.
