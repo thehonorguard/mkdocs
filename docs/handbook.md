@@ -1,8 +1,8 @@
 # Task Force Omega player's handbook
 
-> *This is a document designed to accompany the Task Force Omega Mission Series. 
+> **This is a document designed to accompany the Task Force Omega Mission Series.** 
 > 
-> In it, you will find a quick reference for some of the most basic information you will need in order to function effectively on the TFO Server.
+> *In it, you will find a quick reference for some of the most basic information you will need in order to function effectively on the TFO Server.*
 
 ## General attitude and approach
 
