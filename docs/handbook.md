@@ -1,10 +1,10 @@
-Task Force Omega player's handbook
+# Task Force Omega player's handbook
 
 > *This is a document designed to accompany the Task Force Omega Mission Series. 
 > 
 > In it, you will find a quick reference for some of the most basic information you will need in order to function effectively on the TFO Server.
 
-# General attitude and approach
+## General attitude and approach
 
 You are part of a bigger picture and a member of a team. In Task Force Omega, we encourage people to keep teamplay in mind.
 
@@ -15,11 +15,11 @@ So, do not take it upon yourself to implement your own ideas without the say so 
 
 **You need to think and prepare before you act.**
 
-# Basic DO's and DON'Ts
+## Basic DO's and DON'Ts
 
 It really is an abridged version of Task Force Omega rules, available <a href="/mkdocs/rulebook/">here</a>.
 
-## DO
+### DO
 
 - Respect fellow players, no matter the circumstance
 - Stay close to your group, unless told otherwise
@@ -28,7 +28,7 @@ It really is an abridged version of Task Force Omega rules, available <a href="/
 - Focus, think, and prepare before you act
 
 
-## DON'T
+### DON'T
 
 - Initiate contact without the say so of the squad leader (apply ROE)
 - Scavenge bodies for equipment unless asked to do so
@@ -36,11 +36,11 @@ It really is an abridged version of Task Force Omega rules, available <a href="/
 - Spam markers on the map
 - Respond to a teamkill, by teamkilling
 
-# SOP (Standard Operating Procedures)
+## SOP (Standard Operating Procedures)
 
 Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresher is always welcome.
 
-## Standardized squad roster in operations
+### Standardized squad roster in operations
 
 <table>
   <tr>
@@ -116,11 +116,13 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
 
 (Add supports)
 
-## Buddy teams
+### Buddy teams
 
-## Formations
+TBD
+### Formations
 
-# ROE
+TBD
+## ROE
 
 This is as much a mindset as it is a rule of engagement.
 
@@ -142,7 +144,7 @@ In other words, if the ROE is red, you should be doing everything in your power 
     </tr>
 </table>
 
-# Glossary
+## Glossary
 
 | *Abbreviation*   | *Meaning*                        |
 | ------------     | -------------------------------- |
