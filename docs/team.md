@@ -62,4 +62,5 @@ hide:
 | Mates         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Steiner       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Brick         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Electric      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 
