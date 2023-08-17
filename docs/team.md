@@ -35,10 +35,10 @@ hide:
 | Arkin         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Divide        | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Speed         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
+| Chaddy        | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
+| Kyle Pepper   | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Dive          | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | KaptnLOKI     | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
-| Chaddy        | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
-| Kyle Pepper   | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | Sam           | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | Monster       | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Inactive |
 | Tomo          | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Inactive |
