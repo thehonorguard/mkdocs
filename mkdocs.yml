@@ -39,7 +39,6 @@ nav:
   - Intro: index.md
   - Basics: basics.md
   - TFO's Rulebook: rulebook.md
-  - TFO's missions Handbook: handbook.md
   - Our team: team.md
   - Ranks: ranks.md
   - Role Guide:
@@ -53,13 +52,12 @@ nav:
     - Marksmen: RoleGuide/marksmen.md
     - Engineer: RoleGuide/eod.md
     - Grenadier: RoleGuide/grenadier.md
-  - Support Roles:
-    - Air-Support: SupportRoles/Air-Support.md
-    - Fire-Support: SupportRoles/Fire-Support.md
-    - Recon-Team: SupportRoles/Recon-Team.md
-    - Sniper-Team: SupportRoles/Sniper-Team.md
-    - Tank-Support: SupportRoles/Tank-Support.md
-
+  - Support Guides:
+    - Air Support: SupportRoles/Air-Support.md
+    - Fire Support: SupportRoles/Fire-Support.md
+    - Tank Support: SupportRoles/Tank-Support.md
+    - Recon Team: SupportRoles/Recon-Team.md
+    - Sniper Team: SupportRoles/Sniper-Team.md
   - Credits: credits.md
   
     
