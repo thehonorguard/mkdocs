@@ -79,9 +79,9 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
     <td colspan="1">Radio: <i>CH4</i> (343)</td>
   </tr>
   <tr>
-    <td>Squadleader*</td>
-    <td>Squadleader*</td>
-    <td>Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/icon-leader.png"/>Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/icon-leader.png"/>Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/icon-leader.png"/>Squadleader*</td>
   </tr>  
   <tr>
     <td>Combat Life Saver</td>
