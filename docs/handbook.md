@@ -237,11 +237,11 @@ All radio messages between group leaders use a very simple communications protoc
 
 When broadcasting over radios, ALWAYS state your callsign then the recipient callsign ("Alpha to XRay")
 
-When the recipient party acknowledged your transmission, you can broadcast your message, keeping it as concise as possible.
-
+When the recipient party acknowledged your transmission, you can broadcast your message, keeping it as concise as possible.<br>
 Command comms typically goes on in Command chat, which unless you are the group leader, you won’t hear.
 
-If your squad leader goes down and you are next in line for command, it is your responsibility to contact command and let them know your current situation. However you will not be able to do this on command net because you will not be the group leader
+If your squad leader goes down and you are next in line for command, it is your responsibility to contact command and let them know your current situation (keep in mind your yellow smokes too).<br>
+However you will not be able to do this on command net because you will not be the group leader
 
 The easiest way to transmit this information is to tell your medic ground, who can relay the priority to command.<br>
 Do NOT be afraid of "*breaking*" comms when an emergency is going on.
@@ -260,4 +260,13 @@ Once you have settled into the firefight, then you can give a more detailed repo
 
 ### Enemy sighted report
 
+You would use an enemy sighted report to update command on enemies that you have seen but are not in contact with.<br>
+You would need to give detailed info and already have marked the enemy position on the map. (Do not spam markers, use text as much as possible, with time and directions if able)
+
 ### Situation report (SITREP)
+
+This is used to quickly get information on something specific. Let's say for example, the Mission commander wants to know how much AT each squad has or the general ammo situation in squads, to know if a resupply is needed.<br>
+This then requires the squad leader to get the information out of his squad. 
+
+Another SITREP used is the medical report. This ensure a way for the platoon medic to know exactly the conditions of the squads, and if an emergency is going on.<br>
+A platoon medic will ask all the combat life savers for a **MEDREP** (MEDical REPort), then the CLS will do a roll call on their squads.
