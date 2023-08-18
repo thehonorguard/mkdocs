@@ -1,4 +1,10 @@
-# TFO Command Structure
+# Task Force Omega player's handbook and basics
+
+> **This is a document designed to accompany the Task Force Omega Mission Series.** 
+> 
+> *In it, you will find a quick reference for some of the most basic information you will need in order to function effectively on the TFO Server.*
+
+## TFO Command Structure
 
 In order to understand how TFO functions during missions, one must understand it's command structure.
 We are going to start from the top and work our way down.
@@ -9,7 +15,9 @@ TFO members all have military ranks, based on the U.S. Army. These ranks serve o
 
 Since we don't have a static unit roster, it's very much possible that someone with a lower rank is still in command. Only in the absence or downed leaders, the member of the highest rank comes in command. When a rank is refenced in this guide, we are talking about rank within the Chain of command, and not the TFO rank.
 
-## Mission-maker 
+Current roster is available <a href="/mkdocs/team/">here</a>, and a summary of the ranks is available <a href="/mkdocs/ranks/">here</a>
+
+### Mission-maker 
 
 This is usually one or two persons who prepared and created the mission, and are ultimate responsible for a good experience/performance of the mission. 
 
@@ -37,7 +45,7 @@ The Platoon medic (or just "medic" for short) is the highest ranking medical per
 With it's position in the platoon element, it can directly coordinate with the platoon leader. 
 
 ### JTAC/FO
- To prevent any high explosive ordinance from landing in the wrong place, all air or fire support teams require a JTAC/FO. The JTAC/FO is responsible for relaying and converting platoon leader's orders like "blow up that house" to something precise and effective to the support team. Often the JTAC/FO is allowed to suggest targets or call in ordinance at their own discretion, as long as the PLT is timely noted.
+To prevent any high explosive ordinance from landing in the wrong place, all air or fire support teams require a JTAC/FO. The JTAC/FO is responsible for relaying and converting platoon leader's orders like "blow up that house" to something precise and effective to the support team. Often the JTAC/FO is allowed to suggest targets or call in ordinance at their own discretion, as long as the PLT is timely noted.
 
 ## Infantry Squad
 A squad is the primary asset of a platoon leader. These teams are capable of effectively deal with objectives on their own. A full team consists of 6 soldiers, all with their own role.
@@ -51,13 +59,6 @@ To organize a squad, we utilize a system called the "Buddy System". This systems
 ## Support teams
 
 All available support teams ultimately fall under a platoon leader's command, however support teams are allowed to make decisions at their own discretion like relocating or engaging high priority targets. It is also possible for HQ to call the support team away for different tasking. 
-
-
-# Task Force Omega player's handbook
-
-> **This is a document designed to accompany the Task Force Omega Mission Series.** 
-> 
-> *In it, you will find a quick reference for some of the most basic information you will need in order to function effectively on the TFO Server.*
 
 ## General attitude and approach
 
