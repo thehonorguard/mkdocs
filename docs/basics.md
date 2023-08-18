@@ -54,15 +54,13 @@ Current roster is available <a href="/mkdocs/team/">here</a>, and a summary of t
     <td>Radio: <i>CH1</i> (343) / (152)</td>
   </tr>
   <tr>
-    <td>Zeus</td>
+    <td rowspan="3"><img src="/mkdocs/assets/images/radar/zeus wh.png" width="16px"/> Zeus</td>
     <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> PLT leader</td>
   </tr>  
   <tr>
-    <td>Co-zeus</td>
     <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> PLT medic</td>
   </tr>
   <tr>
-    <td>
     <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> JTAC/FO</td>
   </tr>
 </table>
