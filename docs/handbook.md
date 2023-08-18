@@ -44,24 +44,24 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
 
 <table>
   <tr>
-    <td colspan="1" style="text-align:center"><b>HQ</td>
-    <td colspan="1" style="text-align:center"><b>XRAY</td>
+    <td style="text-align:center"><b>HQ</td>
+    <td style="text-align:center"><b>XRAY</td>
   </tr>
   <tr>
-    <td colspan="1">Radio: <i>CH1</i> (152)</td>
-    <td colspan="1">Radio: <i>CH1</i> (343) / (152)</td>
+    <td>Radio: <i>CH1</i> (152)</td>
+    <td>Radio: <i>CH1</i> (343) / (152)</td>
   </tr>
   <tr>
     <td>Zeus</td>
-    <td>PLT leader</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> PLT leader</td>
   </tr>  
   <tr>
     <td>Co-zeus</td>
-    <td>PLT medic</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> PLT medic</td>
   </tr>
   <tr>
     <td>
-    <td>JTAC/FO</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> JTAC/FO</td>
   </tr>
 </table>
 
