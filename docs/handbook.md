@@ -79,14 +79,14 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
     <td>Radio: <i>CH4</i> (343)</td>
   </tr>
   <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="50%"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="50%"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="50%"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="17px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="17px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="17px"/> Squadleader*</td>
   </tr>  
   <tr>
-    <td style="vertical-align:center"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="50%"/> Combat Life Saver</td>
-    <td style="vertical-align:center"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="50%"/> Combat Life Saver</td>
-    <td style="vertical-align:center"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="50%"/> Combat Life Saver</td>
+    <td style="vertical-align:middle"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="17px"/> Combat Life Saver</td>
+    <td style="vertical-align:middle"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="17px"/> Combat Life Saver</td>
+    <td style="vertical-align:middle"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="17px"/> Combat Life Saver</td>
   </tr>
   <tr>
     <td>Rifleman (Light AT)</td>
