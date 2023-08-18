@@ -245,9 +245,18 @@ If your squad leader goes down and you are next in line for command, it is your 
 
 The easiest way to transmit this information is to tell your medic ground, who can relay the priority to command.<br>
 Do NOT be afraid of "*breaking*" comms when an emergency is going on.
-Please do keep in mind to announce "**BREAK, BREAK, EMERGENCY**" before broadcasting the emergency on any radio channel.
+Please do keep in mind to announce "<font color="orange">**BREAK, BREAK, EMERGENCY**</font>" before broadcasting the emergency on any radio channel.
 
 ### Contact report
+
+A contact report is given the moment you get into contact, it is done without delay on command net or emergency net, if you are temporarily in charge. 
+
+> <font color="yellow">*It takes priority over any other message and does not wait for the command net current comms to stop.*</font>
+
+This then informs command that your squad has just entered into a firefight and may need assistance shortly, so he can start preparing a support plan for you.<br>
+It also aids in situational awareness, if you were to go down a moment later, and had not issued a contact report, he would not know you were having problems.
+
+Once you have settled into the firefight, then you can give a more detailed report on your current situation.
 
 ### Enemy sighted report
 
