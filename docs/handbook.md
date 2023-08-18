@@ -208,15 +208,15 @@ Once you have the ability to listen to what they need to tell you though, do not
 
 ### Default keybinds
 
-| **Action**          | | **Keybind**                |
-| :------------------ |-| -------------------------: |
-| _Volume control_    | | Tab                        |
-| _Default Radio key_ | | Capslock                   |
-| _Radio Left Ear_    | | Ctrl + Shift + Left Arrow  |
-| _Radio Right Ear_   | | Ctrl + Shift + Right Arrow |
-| _Radio Center_      | | Ctrl + Shift + Up Arrow    |
-| _Toggle Headset_    | | Ctrl + Shift + Down Arrow  |
-| _Cycle Radio_       | | Ctrl + Alt + Shift         |
-| _Open Radio_        | | Ctrl + Alt + Capslock      | 
+| **Action**          | **Keybind**                |
+| :------------------ | -------------------------: |
+| _Volume control_    | Tab                        |
+| _Default Radio key_ | Capslock                   |
+| _Radio Left Ear_    | Ctrl + Shift + Left Arrow  |
+| _Radio Right Ear_   | Ctrl + Shift + Right Arrow |
+| _Radio Center_      | Ctrl + Shift + Up Arrow    |
+| _Toggle Headset_    | Ctrl + Shift + Down Arrow  |
+| _Cycle Radio_       | Ctrl + Alt + Shift         |
+| _Open Radio_        | Ctrl + Alt + Capslock      | 
 
 > <font color="orange">**It is HIGHLY recommended that you change these to your liking by going to Settings > Controls > Configure Addons > ACRE2**</font>
