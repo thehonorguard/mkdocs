@@ -30,7 +30,7 @@ It really is an abridged version of Task Force Omega rules, available <a href="/
 
 ### DON'T
 
-- Initiate contact without the say so of the squad leader (apply ROE)
+- Initiate contact without the say so of the squad leader (apply <a href="/mkdocs/handbook/#roe">ROE</a>)
 - Scavenge bodies for equipment unless asked to do so
 - Take enemy weapons without permission
 - Spam markers on the map
@@ -64,7 +64,9 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
     <td>JTAC/FO</td>
   </tr>
 </table>
-</br>
+
+> *Please do keep in mind that squad composition can change, depending on the mission.*
+
 <table>
   <tr>
     <td colspan="1" style="text-align:center"><b>ALPHA</td>
@@ -178,7 +180,7 @@ In other words, if the ROE is red, you should be doing everything in your power 
 
 In order to achieve the best tactical experience in Arma3, Task Force Omega uses ACRE2 as the main radio communication tool during the events.
 
-*As it is installed by Steam, the add-on will be added to Teamspeak plugins library automatically.*
+*As it is installed by Steam, the add-on will be added to TeamSpeak plugins library automatically.*
 
 (all below is WIP)
 ### Brevity and clean communications
@@ -206,15 +208,15 @@ Once you have the ability to listen to what they need to tell you though, do not
 
 ### Default keybinds
 
-| **Action**          | **Keybind**                |
-| :------------------ | ---------------------:     |
-| _Volume control_    | Tab                        |
-| _Default Radio key_ | Capslock                   |
-| _Radio Left Ear_    | Ctrl + Shift + Left Arrow  |
-| _Radio Right Ear_   | Ctrl + Shift + Right Arrow |
-| _Radio Center_      | Ctrl + Shift + Up Arrow    |
-| _Toggle Headset_    | Ctrl + Shift + Down Arrow  |
-| _Cycle Radio_       | Ctrl + Alt + Shift         |
-| _Open Radio_        | Ctrl + Alt + Capslock      | 
+| **Action**          | | **Keybind**                |
+| :------------------ |-| -------------------------: |
+| _Volume control_    | | Tab                        |
+| _Default Radio key_ | | Capslock                   |
+| _Radio Left Ear_    | | Ctrl + Shift + Left Arrow  |
+| _Radio Right Ear_   | | Ctrl + Shift + Right Arrow |
+| _Radio Center_      | | Ctrl + Shift + Up Arrow    |
+| _Toggle Headset_    | | Ctrl + Shift + Down Arrow  |
+| _Cycle Radio_       | | Ctrl + Alt + Shift         |
+| _Open Radio_        | | Ctrl + Alt + Capslock      | 
 
-<font color="orange">**It is HIGHLY recommend that you change these to your liking by going to Settings > Controls > Configure Addons > ACRE2**</font>
+> <font color="orange">**It is HIGHLY recommended that you change these to your liking by going to Settings > Controls > Configure Addons > ACRE2**</font>
