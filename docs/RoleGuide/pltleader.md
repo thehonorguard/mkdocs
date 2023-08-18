@@ -31,14 +31,14 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 | Secondary ammo      | Pistol mag x 2       |                     |
 | Launcher            | Single-use Launcher  |                     |
 |                     |                      |                     |
-|throwables/explosives| **Day only**         | **Night Only**      |
+|Throwables/explosives| ***Day only***       | ***Night Only***    |
 |                     | 1-2x Frag            | 1-2x Frag           |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
+|                     | 3x white smokes      | 2-4x green Chemlight|
+|                     | 2x green smokes      |                     |
+|                     | 1x blue smoke        |                     |
 | GL                  | **Day only**         | **Night Only**      |
-|                     | 2 blue throwable     | 1x Green flare 40mm |
-|                     | 1 green throwable    | 1x Red flare 40mm   |
-|                     | 10x 40mm HE          |                     |
-|                     | 2x red smoke 40mm    |                     |
+|                     | 10x 40mm HE          | 1x 40mm Green flare |
+|                     | 2x 40mm red smokes   | 1x 40mm Red flare   |
 |                     |                      |                     |
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
@@ -54,12 +54,3 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | Map tools            |                     |
 
 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>

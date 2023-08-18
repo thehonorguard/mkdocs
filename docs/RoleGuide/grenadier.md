@@ -23,17 +23,18 @@ As a Grenadier you usually have access to three different Types of Grenades
 | Secondary weapon    | Pistol               |                     |
 | Secondary ammo      | Pistol mag x 2       |                     |
 |                     |                      |                     |
-|Throwables/explosives| **Day only**         | **Night Only**      |
-|                     | 2x Frag              | 2x Frag             |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
-|                     | 40x 40mm HE(DP)      | 2-4x Blue Chemlight |
+|Throwables/explosives| ***Day only***       | ***Night Only***    |
+|                     | 2x-4x Frag           | 2x Frag             |
+|                     | 3x white smokes      | 2-4x green Chemlight|
+|                     | 30x 40mm HE(DP)      | 5x white flares     |
+|                     | 5x 40mm white smokes |                     |
 |                     |                      |                     |
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
 |                     | 1x Painkillers       |                     |
-|                     | 1x Guedel tube       |                     |
 |                     |                      |                     |
 | Radio               | AN-343               |                     |
 |                     |                      |                     |
 | Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
+|                     | Entrenchment tool    |                     |

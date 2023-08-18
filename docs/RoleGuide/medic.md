@@ -276,8 +276,8 @@ Additional supplies can be provided by a resupply or by the CLS/medic.
 | Optic magnification   | 1x-2x               |                     |
 |                       |                     |                     |
 | Throwables/explosives | *Day only*          | *Night Only*        |
-|                       | 3x White throwable  | 2-4x Blue Chemlight |
-|                       | 2x Yellow throwable | Yellow hand flare   |
+|                       | 3x white smokes     | 2-4x green Chemlight|
+|                       | 2x yellow smokes    | Yellow hand flare   |
 |                       |                     |                     |
 | Medical               | 40x Elastic         |                     |
 |                       | 15x Packing         |                     |
@@ -306,7 +306,7 @@ Additional supplies can be provided by a resupply or by the CLS/medic.
 |                       | 5x Scalpels         |                     |
 |                       | 10x Etomidate       |                     |
 |                       | 5x Lorazepam        |                     |
-|                       | 5x 250ml Saline     |                     |
+|                       | 3x 250ml Saline     |                     |
 |                       | 5x Flumazenil       |                     |
 |                       |                     |                     |
 | Radio                 | 2x AN-343           |                     |
@@ -327,8 +327,8 @@ Additional supplies can be provided by a resupply or by the CLS/medic.
 | Secondary ammo        | Pistol mag x 2      |                     |
 |                       |                     |                     |
 | Throwables/explosives | *Day only*          | *Night Only*        |
-|                       | 3x White throwable  | 2-4x Blue Chemlight |
-|                       | 2x Yellow throwable | Yellow hand flare   |
+|                       | 3x white smokes     | 2-4x green Chemlight|
+|                       | 2x yellow smokes    | Yellow hand flare   |
 |                       |                     |                     |
 | Medical               | 40x Packing         |                     |
 |                       | 4x Tourniquets      |                     |
@@ -340,6 +340,7 @@ Additional supplies can be provided by a resupply or by the CLS/medic.
 |                       | 8x 16g IV           |                     |
 |                       | 4x Guedel tubes     |                     |
 |                       | 2x Pulse oximeter   |                     |
+|                       | 1x 250ml saline     |                     |
 |                       |                     |                     |
 | Radio                 | 2x AN-343           |                     |
 |                       |                     |                     |
