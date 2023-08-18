@@ -99,9 +99,9 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
     <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
   </tr>  
   <tr>
-    <td>Marksman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Marksman</td>
     <td><img src="/mkdocs/assets/images/radar/iconManEngineer_ca - Copie.png" width="16px"/> Engineer/EOD</td>
-    <td>Anti air</td>  
+    <td><img src="/mkdocs/assets/images/radar/iconManAT_ca - Copie - Copie.png" width="16px"/> Anti air</td>  
   </tr>
   <tr>
     <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
