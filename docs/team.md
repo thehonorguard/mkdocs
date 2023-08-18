@@ -54,7 +54,6 @@ hide:
 | Kevvin        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Banana        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Danny         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| VectorTX      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | D. Kenyon     | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Nordotor      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Winters       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
