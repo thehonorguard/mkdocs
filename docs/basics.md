@@ -11,9 +11,10 @@ We are going to start from the top and work our way down.
 
 ### Ranks
 
-TFO members all have military ranks, based on the U.S. Army. These ranks serve only as designations for the combat skills, and a little bit of commitment and attendance. 
+TFO members all have military ranks, based on the U.S. Army.<br>
+These ranks serve only as designations for the combat skills, and a little bit of commitment and attendance. 
 
-Since we don't have a static unit roster, it's very much possible that someone with a lower rank is still in command. Only in the absence or downed leaders, the member of the highest rank comes in command. When a rank is refenced in this guide, we are talking about rank within the Chain of command, and not the TFO rank.
+Since we don't have a static unit roster, it's very much possible that someone with a lower rank is still in command. Only in the absence or downed leaders, the member of the highest rank comes in command. When a rank is referenced in this guide, we are talking about rank within the Chain of command, and not the TFO rank.
 
 Current roster is available <a href="/mkdocs/team/">here</a>, and a summary of the ranks is available <a href="/mkdocs/ranks/">here</a>
 
@@ -24,13 +25,15 @@ This is usually one or two persons who prepared and created the mission, and are
 #### Briefing
 
 All missions start with a briefing done by the mission-maker for either the Platoon and/or Squad-leaders or for everyone.<br>
-During such briefings, the mission-maker is expected to give information about the objective(s), assign assets, and give other mission critical information. (insert hyperlink to briefing information). After the briefing, platoon- and squad leader have an opportunity to ask any questions (unless stated otherwise).
+During such briefings, the mission-maker is expected to give information about the objective(s), assign assets, and give other mission critical information. (insert hyperlink to briefing information). 
+
+After the briefing, platoon and squad leaders have an opportunity to ask any questions (unless stated otherwise).
 
 ![Platoon structure](pltdiagram.jpg)
 
-### HQ
+### HQ (Mission maker)
 
-After briefing, the mission-maker remains on base and will act as the highest level of the chain of command.<br>
+After briefing, the mission maker remains on base and will act as the highest level of the chain of command.<br>
 HQ assigns objectives, provides (non human) support elements, handles all technical issues and also directs the enemy AI if necessary.
 
 ### Platoon element
@@ -67,7 +70,7 @@ The rest of the team is filled up with specialized roles like Heavy Anti-tank or
 #### Buddy system
 
 To organize a squad, we utilize a system called the "Buddy System". This systems divides the squad up in 3 teams of 2 soldiers. These teams/buddies look out for each other during combat and keep each other alive.<br>
->If your buddy would go down, you  would and should be the first to realize this, and call it out immediately to the CLS of your team.
+>If your buddy would go down, you would and should be the first to realize this, and call it out immediately to the CLS of your team.
 
 ### Support teams
 
@@ -99,7 +102,7 @@ It really is an abridged version of Task Force Omega rules, available <a href="/
 
 ### DON'T
 
-- Initiate contact without the say so of the squad leader (apply <a href="/mkdocs/handbook/#roe">ROE</a>)
+- Initiate contact without the say so of the squad leader (apply <a href="/mkdocs/basics/#roe">ROE</a>)
 - Scavenge bodies for equipment unless asked to do so
 - Take enemy weapons without permission
 - Spam markers on the map
