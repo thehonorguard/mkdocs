@@ -47,16 +47,15 @@ Another variant of the rifleman is the CLS. It's primary function is to make a w
 | Optic magnification | 1x-2x                |                     |
 | Secondary weapon    | Pistol               |                     |
 | Secondary ammo      | Pistol mag x 2       |                     |
-| Launcher *(LAT only)*| Single-use Launcher  |                     |
+| Launcher *(LAT only)*| Single-use Launcher |                     |
 |                     |                      |                     |
 |Throwables/explosives| ***Day only***       | ***Night Only***    |
 |                     | 2x Frag              | 2x Frag             |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
+|                     | 3x white smokes      | 2-4x green Chemlight|
 |                     |                      |                     |
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
 |                     | 1x Painkillers       |                     |
-|                     | 1x Guedel tube       |                     |
 |                     |                      |                     |
 | Radio               | AN-343               |                     |
 |                     |                      |                     |

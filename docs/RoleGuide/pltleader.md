@@ -36,7 +36,7 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | 3x white smokes      | 2-4x green Chemlight|
 |                     | 2x green smokes      |                     |
 |                     | 1x blue smoke        |                     |
-| GL                  | **Day only**         | **Night Only**      |
+| GL                  | ***Day only***       | ***Night Only***    |
 |                     | 10x 40mm HE          | 1x 40mm Green flare |
 |                     | 2x 40mm red smokes   | 1x 40mm Red flare   |
 |                     |                      |                     |
