@@ -69,24 +69,24 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
 
 <table>
   <tr>
-    <td colspan="1" style="text-align:center"><b>ALPHA</td>
-    <td colspan="1" style="text-align:center"><b>BRAVO</td>
-    <td colspan="1" style="text-align:center"><b>CHARLIE</td>
+    <td style="text-align:center"><b>ALPHA</td>
+    <td style="text-align:center"><b>BRAVO</td>
+    <td style="text-align:center"><b>CHARLIE</td>
   </tr>
   <tr>
-    <td colspan="1">Radio: <i>CH2</i> (343)</td>
-    <td colspan="1">Radio: <i>CH3</i> (343)</td>
-    <td colspan="1">Radio: <i>CH4</i> (343)</td>
+    <td>Radio: <i>CH2</i> (343)</td>
+    <td>Radio: <i>CH3</i> (343)</td>
+    <td>Radio: <i>CH4</i> (343)</td>
   </tr>
   <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="50%"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="50%"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="50%"/> Squadleader*</td>
   </tr>  
   <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="32px" height="32px"/> Combat Life Saver</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="32px"/> Combat Life Saver</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" height="32px"/> Combat Life Saver</td>
+    <td style="vertical-align:center"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="50%"/> Combat Life Saver</td>
+    <td style="vertical-align:center"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="50%"/> Combat Life Saver</td>
+    <td style="vertical-align:center"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="50%"/> Combat Life Saver</td>
   </tr>
   <tr>
     <td>Rifleman (Light AT)</td>
