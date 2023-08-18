@@ -11,6 +11,28 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
 In order to understand how TFO functions during missions, one must understand it's command structure.<br>
 We are going to start from the top and work our way down.
 
+### ROE
+
+This is as much a mindset as it is a rule of engagement.
+
+In other words, if the ROE is red, you should be doing everything in your power to remain covert and unseen.
+
+
+<table>
+    <tr>
+        <td><font color="green">ROE / Weapons Green</font>
+        <td><i>Free to fire on enemy sighted</i>
+    </tr>
+    <tr>
+        <td><font color="orange">ROE / Weapons Orange</i>
+        <td><i>Return fire on contact <b>only</i><br>
+    </tr>
+    <tr>
+        <td><font color="red">ROE / Weapons Red</i><br>
+        <td><i>Hold fire (unless death is unquestionably imminent)</i>
+    </tr>
+</table>
+
 ### Ranks
 
 TFO members all have military ranks, based on the U.S. Army.<br>
@@ -94,33 +116,6 @@ Current roster is available <a href="/mkdocs/team/">here</a>, and a summary of t
   <tr>
     <td colspan="3" style="text-align:center"><i><b>Each squad has a 3-men reserve system, in case a slot is already taken</i></td>
   </tr>
-</table>
-
-(Add supports)
-
-### Formations
-
-TBD
-## ROE
-
-This is as much a mindset as it is a rule of engagement.
-
-In other words, if the ROE is red, you should be doing everything in your power to remain covert and unseen.
-
-
-<table>
-    <tr>
-        <td><font color="green">ROE / Weapons Green</font>
-        <td><i>Free to fire on enemy sighted</i>
-    </tr>
-    <tr>
-        <td><font color="orange">ROE / Weapons Orange</i>
-        <td><i>Return fire on contact <b>only</i><br>
-    </tr>
-    <tr>
-        <td><font color="red">ROE / Weapons Red</i><br>
-        <td><i>Hold fire (unless death is unquestionably imminent)</i>
-    </tr>
 </table>
 
 ### Mission-maker 
