@@ -79,34 +79,34 @@ Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresh
     <td>Radio: <i>CH4</i> (343)</td>
   </tr>
   <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="17px"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="17px"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="17px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
   </tr>  
   <tr>
-    <td style="vertical-align:middle"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="17px"/> Combat Life Saver</td>
-    <td style="vertical-align:middle"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="17px"/> Combat Life Saver</td>
-    <td style="vertical-align:middle"><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="17px"/> Combat Life Saver</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
   </tr>
   <tr>
-    <td>Rifleman (Light AT)</td>
-    <td>Rifleman (Light AT)</td>
-    <td>Rifleman (Light AT)</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
   </tr>
   <tr>
-    <td>Grenadier</td>
-    <td>Rifleman</td>
-    <td>Grenadier</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
   </tr>  
   <tr>
     <td>Marksman</td>
-    <td>Engineer/EOD</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManEngineer_ca - Copie.png" width="16px"/> Engineer/EOD</td>
     <td>Anti air</td>  
   </tr>
   <tr>
-    <td>Auto rifleman</td>
-    <td>Anti tank</td>
-    <td>Auto rifleman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManAT_ca - Copie.png" width="16px"/> Anti tank</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
   </tr>
   <tr>
     <td colspan="3" style="text-align:center"><i>*Squadleaders are required to have a long range radio (152), tuned to CH1</i></td>
