@@ -220,3 +220,35 @@ Once you have the ability to listen to what they need to tell you though, do not
 | _Open Radio_        | Ctrl + Alt + Capslock      | 
 
 > <font color="orange">**It is HIGHLY recommended that you change these to your liking by going to Settings > Controls > Configure Addons > ACRE2**</font>
+
+## Communications procedures
+
+You may be called upon to use the command net or emergency net at some point.<br>
+When doing so you need to know the following communications protocols
+
+1.	Generic radio message
+2.	Contact report
+3.	Enemy sighted report
+4.	Situation report (SITREP)
+
+### Generic radio message
+
+All radio messages between group leaders use a very simple communications protocol.
+
+When broadcasting over radios, ALWAYS state your callsign then the recipient callsign ("Alpha to XRay")
+
+When the recipient party acknowledged your transmission, you can broadcast your message, keeping it as concise as possible.
+
+Command comms typically goes on in Command chat, which unless you are the group leader, you won’t hear.
+
+If your squad leader goes down and you are next in line for command, it is your responsibility to contact command and let them know your current situation. However you will not be able to do this on command net because you will not be the group leader
+
+The easiest way to transmit this information is to tell your medic ground, who can relay the priority to command.<br>
+Do NOT be afraid of "*breaking*" comms when an emergency is going on.
+Please do keep in mind to announce "**BREAK, BREAK, EMERGENCY**" before broadcasting the emergency on any radio channel.
+
+### Contact report
+
+### Enemy sighted report
+
+### Situation report (SITREP)
