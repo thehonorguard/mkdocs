@@ -4,7 +4,9 @@
 > 
 > *In it, you will find a quick reference for some of the most basic information you will need in order to function effectively on the TFO Server.*
 
-## TFO Command Structure
+## SOP (Standard Operating Procedures) and command structure
+
+Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresher is always welcome.
 
 In order to understand how TFO functions during missions, one must understand it's command structure.<br>
 We are going to start from the top and work our way down.
@@ -17,6 +19,109 @@ These ranks serve only as designations for the combat skills, and a little bit o
 Since we don't have a static unit roster, it's very much possible that someone with a lower rank is still in command. Only in the absence or downed leaders, the member of the highest rank comes in command. When a rank is referenced in this guide, we are talking about rank within the Chain of command, and not the TFO rank.
 
 Current roster is available <a href="/mkdocs/team/">here</a>, and a summary of the ranks is available <a href="/mkdocs/ranks/">here</a>
+
+### Standardized squad roster in operations
+
+<table>
+  <tr>
+    <td style="text-align:center"><b>HQ</td>
+    <td style="text-align:center"><b>XRAY</td>
+  </tr>
+  <tr>
+    <td>Radio: <i>CH1</i> (152)</td>
+    <td>Radio: <i>CH1</i> (343) / (152)</td>
+  </tr>
+  <tr>
+    <td>Zeus</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> PLT leader</td>
+  </tr>  
+  <tr>
+    <td>Co-zeus</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> PLT medic</td>
+  </tr>
+  <tr>
+    <td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> JTAC/FO</td>
+  </tr>
+</table>
+
+> *Please do keep in mind that squad composition can change, depending on the mission.*
+
+<table>
+  <tr>
+    <td style="text-align:center"><b>ALPHA</td>
+    <td style="text-align:center"><b>BRAVO</td>
+    <td style="text-align:center"><b>CHARLIE</td>
+  </tr>
+  <tr>
+    <td>Radio: <i>CH2</i> (343)</td>
+    <td>Radio: <i>CH3</i> (343)</td>
+    <td>Radio: <i>CH4</i> (343)</td>
+  </tr>
+  <tr>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
+  </tr>  
+  <tr>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
+  </tr>
+  <tr>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
+  </tr>
+  <tr>
+    <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
+  </tr>  
+  <tr>
+    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Marksman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManEngineer_ca - Copie.png" width="16px"/> Engineer/EOD</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManAT_ca - Copie - Copie.png" width="16px"/> Anti air</td>  
+  </tr>
+  <tr>
+    <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManAT_ca - Copie.png" width="16px"/> Anti tank</td>
+    <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center"><i>*Squadleaders are required to have a long range radio (152), tuned to CH1</i></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center"><i><b>Each squad has a 3-men reserve system, in case a slot is already taken</i></td>
+  </tr>
+</table>
+
+(Add supports)
+
+### Formations
+
+TBD
+## ROE
+
+This is as much a mindset as it is a rule of engagement.
+
+In other words, if the ROE is red, you should be doing everything in your power to remain covert and unseen.
+
+
+<table>
+    <tr>
+        <td><font color="green">ROE / Weapons Green</font>
+        <td><i>Free to fire on enemy sighted</i>
+    </tr>
+    <tr>
+        <td><font color="orange">ROE / Weapons Orange</i>
+        <td><i>Return fire on contact <b>only</i><br>
+    </tr>
+    <tr>
+        <td><font color="red">ROE / Weapons Red</i><br>
+        <td><i>Hold fire (unless death is unquestionably imminent)</i>
+    </tr>
+</table>
 
 ### Mission-maker 
 
@@ -107,116 +212,6 @@ It really is an abridged version of Task Force Omega rules, available <a href="/
 - Take enemy weapons without permission
 - Spam markers on the map
 - Respond to a teamkill, by teamkilling
-
-## SOP (Standard Operating Procedures)
-
-Although SOP is covered during your **B**asic **C**ombat **T**raining, a refresher is always welcome.
-
-### Standardized squad roster in operations
-
-<table>
-  <tr>
-    <td style="text-align:center"><b>HQ</td>
-    <td style="text-align:center"><b>XRAY</td>
-  </tr>
-  <tr>
-    <td>Radio: <i>CH1</i> (152)</td>
-    <td>Radio: <i>CH1</i> (343) / (152)</td>
-  </tr>
-  <tr>
-    <td>Zeus</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> PLT leader</td>
-  </tr>  
-  <tr>
-    <td>Co-zeus</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> PLT medic</td>
-  </tr>
-  <tr>
-    <td>
-    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> JTAC/FO</td>
-  </tr>
-</table>
-
-> *Please do keep in mind that squad composition can change, depending on the mission.*
-
-<table>
-  <tr>
-    <td style="text-align:center"><b>ALPHA</td>
-    <td style="text-align:center"><b>BRAVO</td>
-    <td style="text-align:center"><b>CHARLIE</td>
-  </tr>
-  <tr>
-    <td>Radio: <i>CH2</i> (343)</td>
-    <td>Radio: <i>CH3</i> (343)</td>
-    <td>Radio: <i>CH4</i> (343)</td>
-  </tr>
-  <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManLeader_ca - Copie.png" width="16px"/> Squadleader*</td>
-  </tr>  
-  <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManMedic_ca - Copie.png" width="16px"/> Combat Life Saver</td>
-  </tr>
-  <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
-    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
-    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman (Light AT)</td>
-  </tr>
-  <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
-    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Rifleman</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManExplosive_ca - Copie.png" width="16px"/> Grenadier</td>
-  </tr>  
-  <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconMan_ca - Copie.png" width="16px"/> Marksman</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManEngineer_ca - Copie.png" width="16px"/> Engineer/EOD</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManAT_ca - Copie - Copie.png" width="16px"/> Anti air</td>  
-  </tr>
-  <tr>
-    <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManAT_ca - Copie.png" width="16px"/> Anti tank</td>
-    <td><img src="/mkdocs/assets/images/radar/iconManMG_ca - Copie.png" width="16px"/> Auto rifleman</td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align:center"><i>*Squadleaders are required to have a long range radio (152), tuned to CH1</i></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align:center"><i><b>Each squad has a 3-men reserve system, in case a slot is already taken</i></td>
-  </tr>
-</table>
-
-(Add supports)
-
-### Buddy teams
-
-TBD
-### Formations
-
-TBD
-## ROE
-
-This is as much a mindset as it is a rule of engagement.
-
-In other words, if the ROE is red, you should be doing everything in your power to remain covert and unseen.
-
-
-<table>
-    <tr>
-        <td><font color="green">ROE / Weapons Green</font>
-        <td><i>Free to fire on enemy sighted</i>
-    </tr>
-    <tr>
-        <td><font color="orange">ROE / Weapons Orange</i>
-        <td><i>Return fire on contact <b>only</i><br>
-    </tr>
-    <tr>
-        <td><font color="red">ROE / Weapons Red</i><br>
-        <td><i>Hold fire (unless death is unquestionably imminent)</i>
-    </tr>
-</table>
 
 ## Glossary
 
