@@ -1,7 +1,7 @@
 ## Contributions
 
 Pages:<br>
-      - [Intro](../index/) - *Henry Gibbs*<br>
+      - [Intro](../) - *Henry Gibbs*<br>
       - [Basics](../basics/) - *Henry Gibbs*<br>
       - [TFO's Rulebook](../rulebook/) - *Henry Gibbs, Animate, Dacie, scorboutiko, Scorpion, Bones*<br>
       - [Our team](../team/) - <br>
