@@ -41,10 +41,11 @@ nav:
   - TFO's Rulebook: rulebook.md
   - Our team: team.md
   - Ranks: ranks.md
-  - Role Guide:
-    - Platoon leader: RoleGuide/pltleader.md
-    - Squad leader: RoleGuide/sql.md
+  - Role Guides:
+    - Platoon leader: RoleGuide/pltleader.md    
     - Medic + CLS: RoleGuide/medic.md
+    - JTAC/FO : RoleGuide/jtac.md
+    - Squad leader: RoleGuide/sql.md
     - Rifleman + LAT: RoleGuide/rifleman.md
     - Anti Air: RoleGuide/AA.md
     - Auto Rifleman: RoleGuide/AR.md
