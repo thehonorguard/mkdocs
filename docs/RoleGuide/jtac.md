@@ -15,7 +15,7 @@
 |                     | 2x green smokes      |                     |
 |                     |                      |                     |
 | GL                  | ***Day only***       | ***Night Only***    |
-|                     | 10x 40mm red smokes  | 1x 40mm green flares|
+|                     | 10x 40mm red smokes  | 1x 40mm green flare |
 |                     |                      | 5x 40mm red flares  |
 |                     |                      |                     |
 | Medical             | 15x Packing          |                     |
