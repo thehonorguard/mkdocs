@@ -1,16 +1,16 @@
 ## Contributions
 
-![Anti Air Role Guide](../RoleGuide/AA.md) - scorboutiko
+[Anti Air Role Guide](../RoleGuide/AA.md) - scorboutiko
 
-![Anti Tank Role Guide](../RoleGuide/AT.md) - Aaron
+[Anti Tank Role Guide](../RoleGuide/AT.md) - Aaron
 
-![Auto Riflemen Role Guide](../RoleGuide/AR.md) - Sherlock
+[Auto Riflemen Role Guide](../RoleGuide/AR.md) - Sherlock
 
-![Platoon leader](../RoleGuide/pltleader.md) - Henry Gibbs
+[Platoon leader](../RoleGuide/pltleader.md) - Henry Gibbs
 
-![Squad leader](../RoleGuide/sql.md) - Henry Gibbs
+[Squad leader](../RoleGuide/sql.md) - Henry Gibbs
 
-![Medic & CLS](../RoleGuide/medic.md) - Henry Gibbs
+[Medic & CLS](../RoleGuide/medic.md) - Henry Gibbs
 
 
 - ![Intro: index.md]() - Henry Gibbs
