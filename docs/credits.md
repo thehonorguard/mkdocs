@@ -7,24 +7,24 @@
 - [Ranks](../ranks/) - 
   
     Role Guides:<br>
-      - [Platoon leader](../RoleGuide/pltleader/) - Henry Gibbs
-      - [Medic + CLS](../RoleGuide/medic/) - Henry Gibbs
-      - [JTAC/FO](../RoleGuide/jtac/) - Henry Gibbs
-      - [Squad leader](../RoleGuide/sql/) - Henry Gibbs
-      - [Rifleman + LAT](../RoleGuide/rifleman/) - Henry Gibbs
-      - [Anti Air](../RoleGuide/AA/) - scorboutiko
-      - [Auto Rifleman](../RoleGuide/AR/) - Sherlock
-      - [Anti Tank](../RoleGuide/AT/) - Aaron
-      - [Marksmen](../RoleGuide/marksmen/) - Henry Gibbs
-      - [Engineer](../RoleGuide/eod/) - Henry Gibbs
+      - [Platoon leader](../RoleGuide/pltleader/) - Henry Gibbs<br>
+      - [Medic + CLS](../RoleGuide/medic/) - Henry Gibbs<br>
+      - [JTAC/FO](../RoleGuide/jtac/) - Henry Gibbs<br>
+      - [Squad leader](../RoleGuide/sql/) - Henry Gibbs<br>
+      - [Rifleman + LAT](../RoleGuide/rifleman/) - Henry Gibbs<br>
+      - [Anti Air](../RoleGuide/AA/) - scorboutiko<br>
+      - [Auto Rifleman](../RoleGuide/AR/) - Sherlock<br>
+      - [Anti Tank](../RoleGuide/AT/) - Aaron<br>
+      - [Marksmen](../RoleGuide/marksmen/) - Henry Gibbs<br>
+      - [Engineer](../RoleGuide/eod/) - Henry Gibbs<br>
       - [Grenadier](../RoleGuide/grenadier/) - Sherlock
   
     Support Guides:<br>
-      - [Air Support](../SupportRoles/Air-Support/) - 
-      - [Fire Support](../SupportRoles/Fire-Support/) - 
-      - [Tank Support](../SupportRoles/Tank-Support/) - Sherlock
-      - [Recon Team](../SupportRoles/Recon-Team/) - 
-      - [Sniper Team](../SupportRoles/Sniper-Team/) - 
+      - [Air Support](../SupportRoles/Air-Support/) - <br>
+      - [Fire Support](../SupportRoles/Fire-Support/) - <br>
+      - [Tank Support](../SupportRoles/Tank-Support/) - Sherlock<br>
+      - [Recon Team](../SupportRoles/Recon-Team/) - <br>
+      - [Sniper Team](../SupportRoles/Sniper-Team/) - <br>
 
 Additional screenshots : *scorboutiko, Sherlock, Chayros, Divide*
 
