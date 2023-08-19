@@ -5,7 +5,7 @@
 - [TFO's Rulebook: rulebook.md](../rulebook/) - Henry Gibbs, Animate, Dacie, scorboutiko, Scorpion, Bones
 - [Our team: team.md](../team/) - 
 - [Ranks: ranks.md](../ranks/) - 
-    - Role Guides:
+    Role Guides:<br>
       - [Platoon leader: RoleGuide/pltleader.md](../RoleGuide/pltleader/) - Henry Gibbs
       - [Medic + CLS: RoleGuide/medic.md](../RoleGuide/medic/) - Henry Gibbs
       - [JTAC/FO: RoleGuide/jtac.md](../RoleGuide/jtac/) - Henry Gibbs
@@ -17,7 +17,7 @@
       - [Marksmen: RoleGuide/marksmen.md](../RoleGuide/marksmen/) - Henry Gibbs
       - [Engineer: RoleGuide/eod.md](../RoleGuide/eod/) - Henry Gibbs
       - [Grenadier: RoleGuide/grenadier.md](../RoleGuide/grenadier/) - Sherlock
-    - Support Guides:
+    Support Guides:<br>
       - [Air Support: SupportRoles/Air-Support.md](../SupportRoles/Air-Support/) - 
       - [Fire Support: SupportRoles/Fire-Support.md](../SupportRoles/Fire-Support/) - 
       - [Tank Support: SupportRoles/Tank-Support.md](../SupportRoles/Tank-Support/) - Sherlock
