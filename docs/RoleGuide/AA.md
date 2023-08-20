@@ -2613,6 +2613,8 @@ Pictures are **not to scale**.
 | Misc                | 2 Cable ties         | IR strobe           |
 |                     | Earplugs             |                     |
 |                     | Entrenchment tool    |                     |
+
+
 ## 8. Glossary
 
 
