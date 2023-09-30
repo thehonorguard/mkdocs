@@ -117,7 +117,7 @@ Respect other players 100% of the time. Never put another member down based on p
 
 ### 3.3 Role Assignment
 
-Everyone is assigned a main role in the squad roster. You are only allowed to differentiate from this with permission from an officer. Once the mission has started, stick to your role. Each role is designed for each situation. Disobeying orders (e.g., running off alone with a squad member unannounced) is forbidden. Follow the rules of your squad leader or commander. If you have questions, feel free to ask.
+Everyone is assigned a main role in the squad roster. You are only allowed to differentiate from this with permission from an officer. Once the mission has started, stick to your role unless told otherwise. Each role is designed for each situation. Disobeying orders (e.g., running off alone with a squad member unannounced) is forbidden. Follow the rules of your squad leader or commander. If you have questions, feel free to ask.
 
 #### 3.3.1 Unallowed roles
 

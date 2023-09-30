@@ -35,7 +35,7 @@ LAT aren't allowed to shoot unless told otherwise by the squadleader, at the exc
 Switching launchers/tubes or resupplying by looting enemies if subject to SQL appreciation and discretion. Always ask BEFORE.
 
 ## CLS
-Another variant of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. although still a rifleman at it's core, it does have it's own section <a href="/mkdocs/RoleGuide/medic/#combat-lifesaver-cls">here</a>.
+Another variant of the rifleman is the CLS. It's primary function is to make a wounded soldier stable until the medic arrives. although still a rifleman at it's core, it does have it's own section <a href="/mkdocs/RoleGuide/medic/#combat-life-saver-cls">here</a>.
 
 
 # Common loadout
@@ -47,16 +47,15 @@ Another variant of the rifleman is the CLS. It's primary function is to make a w
 | Optic magnification | 1x-2x                |                     |
 | Secondary weapon    | Pistol               |                     |
 | Secondary ammo      | Pistol mag x 2       |                     |
-| Launcher *(LAT only)*| Single-use Launcher  |                     |
+| Launcher *(LAT only)*| Single-use Launcher |                     |
 |                     |                      |                     |
 |Throwables/explosives| ***Day only***       | ***Night Only***    |
 |                     | 2x Frag              | 2x Frag             |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
+|                     | 3x white smokes      | 2-4x green Chemlight|
 |                     |                      |                     |
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
 |                     | 1x Painkillers       |                     |
-|                     | 1x Guedel tube       |                     |
 |                     |                      |                     |
 | Radio               | AN-343               |                     |
 |                     |                      |                     |

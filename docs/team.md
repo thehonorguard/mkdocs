@@ -20,6 +20,7 @@ hide:
 | Pankie      | SGT  | ![](assets/images/Ranks/small/SGTBlack.png) | LOA |
 | Rakija      | CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
 | Chayros     | CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
+| Sherlock    | CPL  | ![](assets/images/Ranks/small/CPLBlack.png) | Active   |
 
 
 <br>
@@ -33,15 +34,15 @@ hide:
 | Polka         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Arkin         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Divide        | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
-| Sherlock      | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Speed         | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
+| Chaddy        | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
+| Kyle Pepper   | SPC  | ![](assets/images/Ranks/small/SPC1Black.png) | Active   |
 | Dive          | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | KaptnLOKI     | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
-| Chaddy        | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
-| Kyle Pepper   | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | Sam           | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | Monster       | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Inactive |
 | Tomo          | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Inactive |
+| Hemuli        | PFC  | ![](assets/images/Ranks/small/PFCBlack.png) | Active   |
 | Emir          | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Fleur         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Eazy          | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Inactive |
@@ -53,7 +54,12 @@ hide:
 | Kevvin        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Banana        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 | Danny         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| Hemuli        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| Pancor        | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
-| VectorTX      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| D. Kenyon     | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Nordotor      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Winters       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Coderus       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Mates         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Steiner       | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Brick         | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
+| Electric      | PVT  | ![](assets/images/Ranks/small/PVTBlack.png) | Active   |
 

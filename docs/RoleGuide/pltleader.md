@@ -16,7 +16,9 @@ Beyond their tactical acumen, the platoon leader also serves as a mentor and rol
 
 In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, leading their soldiers with unwavering dedication, strategic prowess, and exceptional leadership skills. They exemplify the qualities of a true military leader, inspiring their troops to overcome challenges and emerge victorious in the face of adversity.
 
-***thank you CHATGPT for this lovely placeholder***
+
+![](../assets/images/plt.png)
+
 
 ## Loadout
 
@@ -29,14 +31,14 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 | Secondary ammo      | Pistol mag x 2       |                     |
 | Launcher            | Single-use Launcher  |                     |
 |                     |                      |                     |
-|throwables/explosives| **Day only**         | **Night Only**      |
+|Throwables/explosives| ***Day only***       | ***Night Only***    |
 |                     | 1-2x Frag            | 1-2x Frag           |
-|                     | 3 white throwable    | 2-4x Blue Chemlight |
-| GL                  | **Day only**         | **Night Only**      |
-|                     | 2 blue throwable     | 1x Green flare 40mm |
-|                     | 1 green throwable    | 1x Red flare 40mm   |
-|                     | 10x 40mm HE          |                     |
-|                     | 2x red smoke 40mm    |                     |
+|                     | 3x white smokes      | 2-4x green Chemlight|
+|                     | 2x green smokes      |                     |
+|                     | 1x blue smoke        |                     |
+| GL                  | ***Day only***       | ***Night Only***    |
+|                     | 10x 40mm HE          | 1x 40mm Green flare |
+|                     | 2x 40mm red smokes   | 1x 40mm Red flare   |
 |                     |                      |                     |
 | Medical             | 15x Packing          |                     |
 |                     | 4x Tourniquets       |                     |
@@ -52,12 +54,3 @@ In the realm of Arma 3 mil-sim units, the platoon leader is a formidable force, 
 |                     | Map tools            |                     |
 
 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>

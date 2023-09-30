@@ -462,10 +462,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### A-10 Thunderbolt II / A-164 Wipeout
 
@@ -493,10 +490,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### A-29 Super Tucano
 
@@ -524,10 +518,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### A330 Airbus
 
@@ -555,10 +546,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Aero Commander 500
 
@@ -586,10 +574,7 @@ Pictures are **not to scale**.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### AN-2 Antonov
 
@@ -2606,7 +2591,31 @@ Pictures are **not to scale**.
 <br>
 <br>
 
-## 7. Glossary
+## 7. Loadout
+
+|Category             | Contents             |                     |
+|---------------------|----------------------|---------------------|
+| Primary weapon      | SMG/Carbine          |                     |
+| Primary ammo        | SMG mag x 8          |                     |
+| Optic magnification | 1x-2x                |                     |
+| Launcher            | MANPAD               |                     |
+|                     |                      |                     |
+|Throwables/explosives| ***Day only***       | ***Night Only***    |
+|                     | 2x Frag              | 2x Frag             |
+|                     | 3x white smokes      | 2-4x green Chemlight|
+|                     |                      |                     |
+| Medical             | 15x Packing          |                     |
+|                     | 4x Tourniquets       |                     |
+|                     | 1x Painkillers       |                     |
+|                     |                      |                     |
+| Radio               | AN-343               |                     |
+|                     |                      |                     |
+| Misc                | 2 Cable ties         | IR strobe           |
+|                     | Earplugs             |                     |
+|                     | Entrenchment tool    |                     |
+
+
+## 8. Glossary
 
 
 | Factions :|                                           |             |                                     |
